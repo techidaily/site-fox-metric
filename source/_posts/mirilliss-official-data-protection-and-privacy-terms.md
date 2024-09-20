@@ -1,7 +1,7 @@
 ---
 title: Mirillis's Official Data Protection and Privacy Terms
-date: 2024-09-19 18:40:28
-updated: 2024-09-20 10:40:14
+date: 2024-09-17T17:30:52.328Z
+updated: 2024-09-19T20:16:53.416Z
 tags:
   - product
 categories:
@@ -58,9 +58,23 @@ Your e-mail address (collected during product purchase or forum registration pro
 
 We take all possible measures to protect our customers and website users information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Questions
 
 If you have any questions regarding Privacy Policy please feel free to [contact us.](https://tools.techidaily.com/mirillis/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### General
 
@@ -71,8 +85,6 @@ This Privacy Policy may be changed from time to time, please check our privacy p
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
