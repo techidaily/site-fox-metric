@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide"
-date: 2024-09-25T02:57:41.230Z
-updated: 2024-09-30T03:20:42.859Z
+date: 2024-09-30T21:29:46.722Z
+updated: 2024-10-05T18:52:10.467Z
 tags:
   - user-guide
 categories:
@@ -104,25 +104,19 @@ The field name. This value cannot be changed.
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Options
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use specific value
@@ -130,10 +124,16 @@ This field has [Advanced Installer PseudoFormatted Type](https://tools.techidail
 Checking this option will enable the above **Value** field allowing you to edit it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use default value (generated at build)
@@ -141,10 +141,10 @@ Checking this option will enable the above **Value** field allowing you to edit 
 This option restores the default field value which is generated at build time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not use this field
@@ -184,21 +184,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-editors-workshop-enhancing-your-youtube-video-visibility-for-2024/"><u>[New] Editor's Workshop Enhancing Your Youtube Video Visibility for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-immediate-flagging-of-insta-de-following-events/"><u>[New] In 2024, Immediate Flagging of Insta De-Following Events</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-rated-webcam-recorder-applications-demystified-for-2024/"><u>[New] Top-Rated WebCam Recorder Applications Demystified for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-best-multiplayer-game-chat-options/"><u>[Updated] 2024 Approved Best Multiplayer Game Chat Options</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-5-ios-podcast-apps-selection/"><u>[Updated] Leading 5 iOS Podcast Apps Selection</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-our-complimentary-design-templates-packed-with-essential-features-for-effortless-flipping-projects-visit-flipbuildercom/"><u>Download Our Complimentary Design Templates Packed with Essential Features for Effortless Flipping Projects - Visit FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-tips-and-techniques-to-upload-share-and-send-email-invites-for-your-flash-flipbooks-using-flipbuilder-online-platform/"><u>Easy Tips & Techniques to Upload, Share, and Send Email Invites for Your Flash FlipBooks Using FlipBuilder Online Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-prompt-crafting-a-browser-extension-for-chatgpt-users/"><u>Effortless Prompt Crafting: A Browser Extension for ChatGPT Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-chosen-photos-a-guide-to-boosting-brightness-with-flipbuilder/"><u>Enhance Your Chosen Photos: A Guide to Boosting Brightness with FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-reading-experience-with-zoom-features-on-flipbooks-at-flipbuildercom/"><u>Enhance Your Reading Experience with Zoom Features on Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancing-visibility-of-flipbooks-tips-for-a-crystal-clear-view-on-flipbuilder/"><u>Enhancing Visibility of Flipbooks - Tips for a Crystal-Clear View on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/expert-guide-to-mastering-flip-image-techniques-with-flip-builder/"><u>Expert Guide to Mastering Flip Image Techniques with Flip Builder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-started-with-zero-cost-professional-attire-pages-template-collection-for-digital-creatives-on-flipbuilder/"><u>Get Started with Zero Cost: Professional Attire Pages Template Collection for Digital Creatives on FlipBuilder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203393456-how-to-get-your-windows-pertinent-audio-services-up-and-running-again/"><u>How to Get Your Windows Pertinent Audio Services up and Running Again</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/solve-your-dvd-playback-issues-troubleshooting-dvds-that-wont-start-in-windows/"><u>Solve Your DVD Playback Issues: Troubleshooting DVDs That Won't Start in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-edgeplus-2023-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Edge+ (2023) Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-standout-settings-guide-for-online-events/"><u>[New] Standout Settings Guide for Online Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-picking-prime-stream-services/"><u>[New] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-7-dslr-recommendations-for-dynamic-video-content/"><u>[Updated] Optimal 7 DSLR Recommendations For Dynamic Video Content</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-key-parameters-of-component-assembly-a-comprehensive-guide/"><u>1. Key Parameters of Component Assembly: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-deciphering-the-variance-between-metaverse-and-multi-meva-environments/"><u>2024 Approved Deciphering the Variance Between Metaverse and Multi-Meva Environments</u></a></li>
+<li><a href="https://android-frp.techidaily.com/advanced-gemini-vs-chatgpt-plus-which-delivers-superior-performance/"><u>Advanced Gemini Vs. ChatGPT Plus – Which Delivers Superior Performance?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-flawless-videos-every-time-using-winxvideos-artificial-intelligence-stabilizer/"><u>Experience Flawless Videos Every Time Using Winxvideo's Artificial Intelligence Stabilizer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-global-footprint-simplified/"><u>GPT-4's Global Footprint, Simplified</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/recognizing-inauthentic-facebook-friends-a-step-by-step-guide/"><u>Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/secure-code-practices-integrating-compliance-checks-into-fintech-applications/"><u>Secure Code Practices: Integrating Compliance Checks Into Fintech Applications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
 </ul></div>
 

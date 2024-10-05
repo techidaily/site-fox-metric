@@ -1,7 +1,7 @@
 ---
 title: "Effortless Car Imports: Simplifying Your Vehicle Acquisition Process"
-date: 2024-09-25T01:31:39.506Z
-updated: 2024-09-29T19:10:37.154Z
+date: 2024-10-02T18:07:15.588Z
+updated: 2024-10-05T16:54:30.343Z
 tags:
   - user-guide
 categories:
@@ -71,19 +71,19 @@ Advanced Installer has the ability to import XML and INI files. Besides the usua
 ![Tools Dialog](https://cdn.advancedinstaller.com/img/dialog/auto-import.png "Tools Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extensions Equivalence
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### XML
@@ -91,10 +91,10 @@ Advanced Installer has the ability to import XML and INI files. Besides the usua
 In this edit box, you can enter all the extensions that you wish for Advanced Installer to associate with XML files.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### INI
@@ -104,10 +104,10 @@ In this edit box, you can enter all the extensions that you wish for Advanced In
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can delete an extension from the lists, even from the predefined ones. All extensions must be defined with spaces between them and not containing the **dot** before the actual extension, as you can see in the dialog on the right which contains the default XML and INI extensions defined by us.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -143,24 +143,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-easy-ipad-video-recording-methods/"><u>[Updated] In 2024, Mastering Easy iPad Video Recording Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leverage-audience-engagement-through-strategic-posting/"><u>[Updated] Leverage Audience Engagement Through Strategic Posting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-steps-for-modifying-your-social-network-cover-pictorial/"><u>[Updated] Steps for Modifying Your Social Network Cover Pictorial</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>2024 Approved Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfecting-ps3-recorded-content-expert-insights/"><u>2024 Approved Perfecting PS3 Recorded Content Expert Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlock-the-potential-of-your-fb-cover-image-with-these-top-11-websites/"><u>2024 Approved Unlock the Potential of Your FB Cover Image with These Top 11 Websites</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-innovative-bootstrap-based-jquery-calendar-a-dual-view-on-time-management/"><u>Creative Tim's Innovative Bootstrap-Based jQuery Calendar: A Dual View on Time Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-premier-react-framework-with-professional-material-dashboard-2-pro-templates/"><u>Creative Tim's Premier React Framework with Professional Material Dashboard 2 PRO Templates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-professional-material-dashboard-with-angular-and-bootstrap-4-for-superior-admin-panel-experience/"><u>Creative Tim's Professional Material Dashboard with Angular & Bootstrap 4 for Superior Admin Panel Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/dynamic-spinning-card-design-tutorial-with-advanced-css-styles-and-animations/"><u>Dynamic Spinning Card Design Tutorial with Advanced CSS Styles & Animations</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-projects-with-the-professional-vue-black-pro-dashboard-the-ultimate-vuejs-bootstrap-message-how-do-you-find-a-polynomial-that-is-divisible-by-x8/"><u>Enhance Your Projects with the Professional Vue Black Pro Dashboard - The Ultimate Vuejs Bootstrap [Message]: How Do You Find a Polynomial that Is Divisible by X + 1 and Yields a Remainder of 3 when Divided by (X - 4)?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-world-of-ui-with-creative-tim-access-your-collection-of-over-37-design-systems-and-resources/"><u>Exploring the World of UI with Creative Tim: Access Your Collection of Over 37 Design Systems & Resources</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-pre-built-argument-dashboard-for-web-development-using-reactjs-and-nodejs-compatible-with-bootstrap-framework/"><u>Free Pre-Built Argument Dashboard for Web Development Using ReactJS and Node.js, Compatible with Bootstrap Framework</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-pre-built-corporate-dashboard-template-with-bootstrap-5-download-from-creative-tim/"><u>Free, Pre-Built Corporate Dashboard Template with Bootstrap 5 - Download From Creative Tim</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-narrative-structure/"><u>In 2024, Fundamental Narrative Structure</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/innovative-larval-framework-for-business-applications-the-unison-of-creative-tim-and-updivision/"><u>Innovative Larval Framework for Business Applications: The Unison of Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-choices-of-affordable-cameras-with-full-hd/"><u>Prime Choices of Affordable Cameras with Full HD</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-analysis-inside-the-world-of-tomve-hardware-hub/"><u>Tech Analysis: Inside the World of Tom've Hardware Hub</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-text-tilt-treasures/"><u>Top Text Tilt Treasures</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-alchemy-of-animation-in-snapchat-videos-for-2024/"><u>[New] The Alchemy of Animation in Snapchat Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-seamless-creation-accessing-elite-afx-templates-for-free/"><u>2024 Approved Seamless Creation Accessing Elite AFX Templates for Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-the-power-of-free-ai-top-sora-competitors-you-shouldnt-ignore/"><u>Experience the Power of Free AI: Top Sora Competitors You Shouldn't Ignore</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-razer-peripherals-in-windows/"><u>Installing Razer Peripherals in Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/refine-your-query-mastering-the-pre-search-setup-screen/"><u>Refine Your Query: Mastering the Pre-Search Setup Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-window-display-with-simple-tweaks/"><u>Rejuvenate Window Display with Simple Tweaks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-audio-interchange-file-format-aif-files-into-mp3/"><u>Step-by-Step Guide: Transforming Audio Interchange File Format (AIF) Files Into MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-digital-voice-memo-apps-for-effortless-recording-and-sharing/"><u>Top-Rated Digital Voice Memo Apps for Effortless Recording & Sharing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the UWP Bootstrap Interface: Navigating Through Its Tabs"
-date: 2024-09-24T10:38:44.682Z
-updated: 2024-09-30T06:32:27.627Z
+date: 2024-09-30T22:22:23.405Z
+updated: 2024-10-05T22:07:46.692Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Table of Contents
 Use this tab to automatically launch your application's AppX package or MSI setup package depending on the target machine OS. This way when your users run the EXE bundle on _Windows 10 Anniversary Update_ / _Windows Server 2016_ / _Windows Nano Server 2016_ or above, the AppX will be installed, otherwise the MSI will be installed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bundle with EXE/MSI
@@ -99,26 +99,32 @@ Enable this option to bundle the AppX with one of your EXE or MSI builds from th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There has to be at least an EXE/MSI build added to the builds list before enabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)To be bundled with an MSI, the MSIX package should be configured as a [Sparse Package](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Build
@@ -158,19 +164,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capture-chronicles-reviewing-the-best-screencasters/"><u>[New] 2024 Approved Capture Chronicles Reviewing the Best Screencasters</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-five-best-racing-games-on-the-market-today/"><u>[New] 2024 Approved The Five Best Racing Games on the Market Today</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-gopro-karma-performance-for-2024/"><u>[New] The Ultimate Guide to GoPro Karma Performance for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-10-secrets-from-pros-for-stellar-youtubers-music-videos/"><u>[Updated] 2024 Approved Top 10 Secrets From Pros for Stellar Youtubers' Music Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-your-gamepad-from-failing/"><u>Effortless Solutions to Stop Your Gamepad From Failing</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/never-lose-a-beat-again-step-by-step-strategies-for-archiving-spotify-songs-permanently/"><u>Never Lose a Beat Again: Step-by-Step Strategies for Archiving Spotify Songs Permanently</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/save-online-movies-and-tv-shows-as-mp4movavi-files-guides-for-mac-and-pc/"><u>Save Online Movies & TV Shows as MP4/MOV/AVI Files: Guides for Mac & PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/seamless-music-video-mp3-converter-and-downloader-for-instant-audio-format-transformation/"><u>Seamless Music Video MP3 Converter & Downloader for Instant Audio Format Transformation!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-3d-lut-application-in-photoshop-mastery/"><u>Step-by-Step 3D LUT Application in Photoshop Mastery</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-to-converting-and-downloading-tv-shows-from-any-source-into-high-quality-movies-mp4-mov-for-both-mac-and-windows-users/"><u>Step-by-Step Guide to Converting and Downloading TV Shows From Any Source Into High-Quality Movies (MP4, MOV) for Both Mac & Windows Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-how-to-download-music-from-xiami-in-multiple-formats-including-mp3-aac-wav-and-flac/"><u>Step-by-Step Tutorial: How to Download Music From Xiami in Multiple Formats Including MP3, AAC, WAV & FLAC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/watch-award-winning-film-classics-for-free-converted-movies-in-multiple-formats-for-macos-and-windows-users/"><u>Watch Award-Winning Film Classics for Free: Converted Movies in Multiple Formats for MacOS & Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-broadcast-brilliance-with-cost-effective-templates/"><u>[New] 2024 Approved Broadcast Brilliance with Cost-Effective Templates</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-gaming-adventure-list-ghost-of-tsushimas-allies/"><u>[New] 2024 Approved Ultimate Gaming Adventure List – Ghost of Tsushima's Allies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-zippyzoom-tortoisepic-timestretch/"><u>[Updated] In 2024, ZippyZoom TortoisePic TimeStretch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-asus-rog-phone-8-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Asus ROG Phone 8 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-se-2022-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone SE (2022) Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/refine-your-query-mastering-the-pre-search-setup-screen/"><u>Refine Your Query: Mastering the Pre-Search Setup Screen</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-audio-interchange-file-format-aif-files-into-mp3/"><u>Step-by-Step Guide: Transforming Audio Interchange File Format (AIF) Files Into MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/which-is-better-for-streamers-obs-studio-or-fraps-for-2024/"><u>Which Is Better for Streamers, OBS Studio or Fraps for 2024</u></a></li>
 </ul></div>
 

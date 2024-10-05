@@ -1,7 +1,7 @@
 ---
 title: "Quick Action Shortcuts: Mastering Efficient ICommand Tricks"
-date: 2024-09-26T06:05:24.645Z
-updated: 2024-09-30T05:25:50.202Z
+date: 2024-09-29T21:58:56.499Z
+updated: 2024-10-05T16:12:54.455Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,16 @@ Table of Contents
 Using this interface you can edit the command shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +132,10 @@ Using this interface you can edit the command shortcut.
 ICommandShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -169,20 +175,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-beginner-friendly-steps-to-record-your-mac-display/"><u>[Updated] Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-to-download-movie-cast-releases/"><u>[Updated] Free-to-Download Movie Cast Releases</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-high-quality-team-coco-movies-downloaded-get-episodes-in-multiple-formats-mp4-wmv-avi/"><u>1. High-Quality Team Coco Movies Downloaded: Get Episodes in Multiple Formats (MP4, WMV, AVI)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-innovating-for-success-metaverse-sales-strategies/"><u>2024 Approved Innovating for Success Metaverse Sales Strategies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/access-private-yourlust-archive-securely-download-hd-sex-videos-as-mp4movavi/"><u>Access Private YourLust Archive - Securely Download HD Sex Videos as MP4/MOV/AVI</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-audible-library-to-mp3-format-on-mac-or-windows-complete-tutorial/"><u>Convert Your Audible Library to MP3 Format on Mac or Windows – Complete Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-shows-from-pandora-stream-live-or-record-as-mp3-on-pcmac/"><u>Convert Your Favorite Shows From Pandora - Stream Live or Record as MP3 on PC/Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-songs-from-google-play-store-directly-onto-your-pc/"><u>Download Songs From Google Play Store Directly Onto Your PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-videostreams-from-ustream-efficiently-top-tools-and-tutorials-for-mac-and-windows-users/"><u>Download Videostreams From Ustream Efficiently: Top Tools & Tutorials for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-downloading-and-converting-zattoo-videos-into-multiple-formats-like-mp4-avi-and-mov-for-offline-viewing/"><u>Easy Guide: Downloading & Converting Zattoo Videos Into Multiple Formats Like MP4, AVI, and MOV for Offline Viewing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-network-interface-management-tools-for-immediate-purchase/"><u>Expert Network Interface Management Tools for Immediate Purchase</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-raw-footage-to-youtube-a-step-by-step-process-unveiled-for-2024/"><u>From Raw Footage to YouTube A Step-by-Step Process Unveiled for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi Note 13 5G Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-fixes-for-stuck-instagram-videos/"><u>Mastering Fixes for Stuck Instagram Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimized-drivers-for-intels-irisplus-graphics-on-your-new-windows-11-pc/"><u>Optimized Drivers for Intel's Iris+ Graphics on Your New Windows 11 PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>[Updated] 2024 Approved Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[Updated] 2024 Approved Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-clean-up-steams-networking-caches/"><u>Easy Steps to Clean Up Steam's Networking Caches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-phone-without-pin-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Phone without PIN</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brief-blueprints-iphone-content-for-desktop/"><u>In 2024, Brief Blueprints IPhone Content for Desktop</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/safe-mp3-extraction-three-methods-for-youtube-audio-conversion-for-2024/"><u>Safe MP3 Extraction Three Methods for YouTube Audio Conversion for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-fastsupport-scam-prevention-and-removal-strategies/"><u>Understanding the FastSupport Scam: Prevention & Removal Strategies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>Updated In 2024, Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m34-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M34 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

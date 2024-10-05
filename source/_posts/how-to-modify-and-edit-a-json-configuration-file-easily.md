@@ -1,7 +1,7 @@
 ---
 title: How to Modify and Edit a JSON Configuration File Easily
-date: 2024-09-24T04:15:13.683Z
-updated: 2024-09-30T10:46:37.218Z
+date: 2024-10-03T17:10:01.138Z
+updated: 2024-10-05T22:40:31.164Z
 tags:
   - user-guide
 categories:
@@ -93,16 +93,16 @@ This dialog enables you to make configurations to a JSON File. You can create an
 
 ![JSON Dialog](https://cdn.advancedinstaller.com/img/dialog/json-file.png "JSON Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Manage JSON file install parameters
 
  Select the JSON file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Manage general JSON file settings
 
@@ -113,15 +113,22 @@ Select the JSON file in the left tree and you will be able to edit general file 
 Use the “New” context menu option or press theInsert key while an existing JSON element (an Object, Array, Null, Boolean, Number or String) is selected in the tree in order to create a child element. The newly created element has a[Property Settings](https://tools.techidaily.com/advancedinstaller/products/) tab.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming a JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing a JSON element (an Object, Array, Null, Boolean, Number or String)
 
@@ -130,17 +137,16 @@ Use the “Delete” context menu option or press theDelete key while a tree ite
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -185,21 +191,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-last-minute-to-first-impression-how-to-rewind-video-on-instagram/"><u>[New] In 2024, From Last Minute to First Impression How to Rewind Video on Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-how-to-live-stream-over-the-network-with-vlc-media-player-for-2024/"><u>[Updated] How to Live Stream Over the Network with VLC Media Player for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725286355475-ai-winxvideo/"><u>AIベースの動画撮影で手ぶれ問題解消 - Winxvideo解説</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-video-downloading-how-to-transform-and-transfer-vimeo-content-onto-dvds-for-offline-viewing/"><u>DIY Video Downloading: How to Transform and Transfer Vimeo Content Onto DVDs for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-hd-adult-content-from-reality-kings-in-mp4-format-using-reality-kings-downloader/"><u>Download HD Adult Content From Reality Kings in MP4 Format Using Reality Kings Downloader</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-downloads-with-openload-access-a-world-of-video-content-including-series-and-movies/"><u>Free Downloads with OPENLOAD: Access a World of Video Content Including Series and Movies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia G310 Phones with/without a PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-convert-your-school-of-podcasting-episodes-into-high-quality-audio-formats-like-mp3-and-wav/"><u>How to Convert Your School of Podcasting Episodes Into High-Quality Audio Formats Like MP3 and WAV</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-note-30-vip-racing-edition-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Note 30 VIP Racing Edition Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-transfer-and-download-la-1ere-tv-show-videos-in-hd-as-mp4-or-avi-files-for-offline-viewing/"><u>How to Transfer and Download La 1Ère TV Show Videos in HD as MP4 or AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-console-to-community-livestream-your-xbox/"><u>In 2024, From Console to Community Livestream Your Xbox</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/koreas-top-episodes-and-films-free-download-app-for-mp4-avi-mov-files-korea-drama-downloader/"><u>Korea's Top Episodes and Films: Free Download App for MP4, AVI, MOV Files - Korea Drama Downloader</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y27s-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y27s Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/electing-the-right-gear-a-filmmakers-checklist-for-2024/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-size-matters-crafting-engaging-video-titles/"><u>[New] Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-cryptocurrency-trading-success-using-chatgpt-top-5-methods/"><u>Boost Cryptocurrency Trading Success Using ChatGPT - Top 5 Methods</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-ifunbox-evaluation-and-top-competing-platforms/"><u>Comprehensive IFUNBOX Evaluation & Top Competing Platforms</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-tutorial-on-sourcing-top-quality-high-res-audio-files/"><u>Easy Tutorial on Sourcing Top Quality High-Res Audio Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-evolving-skills-in-the-realm-of-google-photos/"><u>In 2024, From Novice Evolving Skills in the Realm of Google Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>In 2024, Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx/"><u>In 2024, Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-scrambled-avchd-files/"><u>Repairing Scrambled AVCHD Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-video-transformation-tools-from-iphone-to-file/"><u>Top #8 Video Transformation Tools From iPhone to File</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-ev-bev-phev-and-fcev-distinguishing-electric-vehicle-types/"><u>Unraveling EV, BEV, PHEV, and FCEV - Distinguishing Electric Vehicle Types</u></a></li>
 </ul></div>
 

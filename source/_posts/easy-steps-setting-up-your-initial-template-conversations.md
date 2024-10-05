@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Setting Up Your Initial Template Conversations"
-date: 2024-09-29T02:44:58.254Z
-updated: 2024-09-30T03:33:40.661Z
+date: 2024-10-04T22:34:31.501Z
+updated: 2024-10-05T18:13:57.251Z
 tags:
   - user-guide
 categories:
@@ -85,29 +85,22 @@ The dialogs defined here can appear only during the first time install or major 
 
  This dialog is briefly displayed at the beginning of the install process until searches and path resolution actions are performed. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Welcome Dialog (WelcomeDlg)
 
  The first dialog displayed during install. It is used to inform the user about the application which will be installed on the target machine.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to remove this dialog to reduce installation steps. Also, users usually skip this dialog without reading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Select Installation Folder Dialog (FolderDlg)
 
  Allows the user to select the folder where the package will be installed.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ready to Install Dialog (VerifyReadyDlg)
 
@@ -116,10 +109,10 @@ The user is notified that the configuration steps are complete and the installat
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Files Location and License Terms (InstallDlg)
@@ -134,22 +127,21 @@ In _Enterprise_ or above project types you can access the "LicenseAgreementDlg" 
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installation Progress Dialog (ProgressDlg)
 
 The dialog containing the progress bar that shows the installation's evolution.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installation Complete Dialog (ExitDialog)
@@ -174,6 +166,13 @@ This dialog will enable you to select which of the file associations you want to
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want to remove a checkbox from this dialog you can disable the "Show in extension list" option for the associated extension.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Install Type Dialog (InstallTypeDlg)
 
 This dialog will allow the user to choose where the application will be installed:
@@ -191,6 +190,13 @@ In _Enterprise_ or above project types you can select the Rich Text Format file 
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Logon Information Dialog (LogonInformationDlg)
 
  This dialog can be used when the logon credentials are needed to during the application's installation process. The dialog is composed of the following fields: 
@@ -199,22 +205,16 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 * Domain - the string will be saved in the DOMAIN\_NAME property.
 * Password - the string will be saved in the USER\_PASSWORD property.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Optional Features Dialog (OptionalFeatsDlg)
 
 This dialog implements the [Quick Selection List](https://tools.techidaily.com/advancedinstaller/products/) control with the function to check or uncheck all features in the list.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prerequisites Dialog (PrerequisitesDlg)
 
@@ -223,10 +223,10 @@ This dialog uses the [Prerequisites Selector](https://tools.techidaily.com/advan
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ReadMe Dialog (ReadmeDlg)
@@ -300,6 +300,13 @@ This dialogs defines and uses the following global properties:
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These properties can be easily used to configure an SQL connection. For more information please, visit [Configuring Databases with SQL Scripts](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### SQL Server Connection Dialog (SQLServerConnectionDlg)
 
 This dialog is mutually exclusive with SQL Connection Dialog (SQLConnectionDlg). It includes functionality to list the available [databases](https://tools.techidaily.com/advancedinstaller/products/) and [servers](https://tools.techidaily.com/advancedinstaller/products/), choosing the[SQL authentication type](https://tools.techidaily.com/advancedinstaller/products/) and [testing the connection parameters](https://tools.techidaily.com/advancedinstaller/products/) before establishing the connection. The advantage of this dialog over SQLConnectionDlg is that it automatically adds all necessary SQL configuration in the [SQL Databases Page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -323,13 +330,6 @@ Allows the user to enter the product's serial number.
 To add this dialog, go to “Product Information”, select “Licensing” and enable "Use Serial Validation". For more information, please see [Package Serial Validation Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Configure Dialog (ConfigDlg)
 
@@ -372,24 +372,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-playlist-extraction-made-simple-download-steps-revealed/"><u>[New] 2024 Approved Playlist Extraction Made Simple Download Steps Revealed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-regain-access-how-to-fix-a-2023-facebook-glitch/"><u>[New] In 2024, Regain Access How to Fix a 2023 Facebook Glitch</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-through-apples-best-in-class-virtual-reality-games/"><u>[New] Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-skys-playground-discovering-the-husqvarna-x4-fpv-for-2024/"><u>[New] The Sky's Playground Discovering the Husqvarna X4 FPV for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-conquering-green-hue-fixing-it-on-mac-for-video-editors/"><u>[Updated] 2024 Approved Conquering Green Hue Fixing It On Mac For Video Editors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-five-protocols-to-record-your-youtube-live-video/"><u>2024 Approved Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-report-rare-glimpse-into-qualcomm-copilotplus-testing-on-windows-arm-devices-just-56-recorded-by-benchmark-maker/"><u>Exclusive Report: Rare Glimpse Into Qualcomm Copilot+ Testing on Windows ARM Devices, Just 56 Recorded by Benchmark Maker</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-world-of-ui-with-creative-tim-access-your-collection-of-over-37-design-systems-and-resources/"><u>Exploring the World of UI with Creative Tim: Access Your Collection of Over 37 Design Systems & Resources</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/first-steps-in-mastering-av1-coders/"><u>First Steps in Mastering AV1 Coders</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-pre-built-argument-dashboard-for-web-development-using-reactjs-and-nodejs-compatible-with-bootstrap-framework/"><u>Free Pre-Built Argument Dashboard for Web Development Using ReactJS and Node.js, Compatible with Bootstrap Framework</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-pre-built-corporate-dashboard-template-with-bootstrap-5-download-from-creative-tim/"><u>Free, Pre-Built Corporate Dashboard Template with Bootstrap 5 - Download From Creative Tim</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-restore-game-sounds-solving-borderlands/"><u>How to Restore Game Sounds: Solving Borderlands</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/innovative-larval-framework-for-business-applications-the-unison-of-creative-tim-and-updivision/"><u>Innovative Larval Framework for Business Applications: The Unison of Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-visual-engagement-in-google-meet-sessions-for-2024/"><u>Optimizing Visual Engagement in Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/over-35-innovative-react-user-interface-frameworks-by-creative-tim/"><u>Over 35 Innovative React User Interface Frameworks by Creative Tim</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/premium-created-by-creative-tim-soft-ui-pro-tailwind-css-dashboard/"><u>Premium Created by Creative Tim: Soft UI Pro Tailwind CSS Dashboard</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/premium-creative-tims-laravel-dashboard-advanced-light-bootstrap-crud-panel/"><u>Premium Creative Tim's Laravel Dashboard: Advanced Light Bootstrap CRUD Panel</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/premium-vue-paper-professional-dashboard-suite-expertly-crafted-bootstrap-vue-admin-design-by-creative-tim/"><u>Premium Vue Paper Professional Dashboard Suite - Expertly Crafted Bootstrap Vue Admin Design by Creative Tim</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/premium-vuejs-bootstrap-4-dashboard-template-for-pro-developers-designedcoded-by-creative-tim-and-cristi-jora/"><u>Premium Vuejs Bootstrap 4 Dashboard Template for PRO Developers – Designed/Coded by Creative Tim and Cristi Jora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-experts-guide-to-360-video-conversion-and-youtube-sharing/"><u>[New] 2024 Approved The Expert's Guide to 360 Video Conversion and YouTube Sharing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-key-parameters-of-component-assembly-a-comprehensive-guide/"><u>1. Key Parameters of Component Assembly: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-e-readers-why-choose-kindle/"><u>Evaluating E-Readers: Why Choose Kindle?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/fur-nicht-lauffahige-udf-filme-behebung-mithilfe-von-winx-dvd-ripper/"><u>Für Nicht Lauffähige UDF-Filme - Behebung Mithilfe Von WinX DVD Ripper</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-a15-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy A15 5G Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-capturing-on-iphoneipad-updated-strategies/"><u>In 2024, Screen Capturing on iPhone/iPad Updated Strategies</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-7720-drivers-for-windows-a-comprehensive-guide/"><u>Latest Epson WF-7720 Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-meizu-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Meizu Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rhythmic-raptor-rumba/"><u>Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-workflows-with-these-10-innovative-chatgpt-pdf-add-ons/"><u>Streamline Workflows with These 10 Innovative ChatGPT PDF Add-Ons</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Navigation Tips: Navigating Through the Keyboard Shortcut Window"
-date: 2024-09-25T12:46:31.877Z
-updated: 2024-09-29T22:51:20.936Z
+date: 2024-10-03T16:17:30.225Z
+updated: 2024-10-05T17:00:53.518Z
 tags:
   - user-guide
 categories:
@@ -83,16 +83,10 @@ Table of Contents
 ## Shortcut Options Dialog
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Desktop Shortcuts
@@ -100,10 +94,16 @@ Table of Contents
 This section allows you to hide the **Desktop** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start Menu Programs Shortcuts
@@ -111,10 +111,10 @@ This section allows you to hide the **Desktop** shortcut location on ShortcutsDl
 This section allows you to hide the **Start Menu Programs Folder** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Startup Shortcuts
@@ -122,10 +122,10 @@ This section allows you to hide the **Start Menu Programs Folder** shortcut loca
 This section allows you to hide the **Startup folder** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pin to taskbar
@@ -165,20 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>[New] Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>2024 Approved Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/adding-chronological-markers-to-youtube-media/"><u>Adding Chronological Markers to YouTube Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-the-newest-controller-with-an-older-system/"><u>Can You Use the Newest Controller with an Older System?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-guide-setting-up-personal-ringtones-with-spotify-music/"><u>DIY Guide: Setting Up Personal Ringtones with Spotify Music</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-video-downloading-how-to-transform-and-transfer-vimeo-content-onto-dvds-for-offline-viewing/"><u>DIY Video Downloading: How to Transform and Transfer Vimeo Content Onto DVDs for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-hd-adult-content-from-reality-kings-in-mp4-format-using-reality-kings-downloader/"><u>Download HD Adult Content From Reality Kings in MP4 Format Using Reality Kings Downloader</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-dream-ipad-at-discounted-prices-right-now/"><u>Find Your Dream iPad at Discounted Prices Right Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722902836490-fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-downloads-with-openload-access-a-world-of-video-content-including-series-and-movies/"><u>Free Downloads with OPENLOAD: Access a World of Video Content Including Series and Movies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-convert-your-school-of-podcasting-episodes-into-high-quality-audio-formats-like-mp3-and-wav/"><u>How to Convert Your School of Podcasting Episodes Into High-Quality Audio Formats Like MP3 and WAV</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/journeying-through-vietnam-essential-phrases-revealed/"><u>Journeying Through Vietnam: Essential Phrases Revealed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-tutorial-seamless-audio-removal-and-retrieval-in-bak-formats/"><u>Step-by-Step Tutorial: Seamless Audio Removal and Retrieval in BAK Formats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-decoding-the-secrets-to-using-ez-grabber/"><u>[Updated] Decoding the Secrets to Using EZ Grabber</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-affordable-tutorial-on-professional-looking-youtube-introsends/"><u>[Updated] In 2024, Affordable Tutorial on Professional Looking YouTube Intros/Ends</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-vectors-demystified-starting-point-and-software-selection-tips/"><u>[Updated] Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adding-yourself-to-our-professional-network-directory-membership-guide/"><u>Adding Yourself to Our Professional Network: Directory Membership Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/in-depth-guide-best-mp4-downloader-services-beyond-video2mp3/"><u>In-Depth Guide: Best MP4 Downloader Services Beyond Video2MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mirroring-images-with-your-iphone-a-comprehensive-guide/"><u>Mirroring Images with Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11r-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-cutting-edge-of-home-entertainment-a-thorough-analysis-of-sonys-xbr-49x900f-smart-led-masterpiece/"><u>The Cutting Edge of Home Entertainment: A Thorough Analysis of Sony's XBR-49X900F Smart LED Masterpiece</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
 </ul></div>
 

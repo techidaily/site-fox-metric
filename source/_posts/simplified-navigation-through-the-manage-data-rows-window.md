@@ -1,7 +1,7 @@
 ---
 title: Simplified Navigation Through the 'Manage Data Rows' Window
-date: 2024-09-24T19:01:58.129Z
-updated: 2024-09-30T10:22:11.643Z
+date: 2024-10-02T17:23:53.128Z
+updated: 2024-10-05T16:50:56.415Z
 tags:
   - user-guide
 categories:
@@ -83,15 +83,29 @@ Table of Contents
 
 ## Control Data Row Dialog
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Values
 
 ![Control Data Row Dialog](https://cdn.advancedinstaller.com/img/dialog/control-data-row.png "Control Data Row Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Text
@@ -99,10 +113,10 @@ Table of Contents
 Specify item text.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -111,25 +125,11 @@ Specify item value.
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can insert a reference to a property.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Icon File
 
 Specify item icon. Use the \[... \] to select one.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is available only for ListView controls.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Icon Preview
 
@@ -168,24 +168,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-3-ways-to-record-lectures-on-mac/"><u>[New] 3 Ways to Record Lectures on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-top-5-agile-and-lightweight-cameras-list/"><u>[Updated] Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-become-a-pro-at-sims-4-video-sessions/"><u>2024 Approved Become a Pro at Sims 4 Video Sessions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s23-fe-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S23 FE Fingerprint Lock</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-audible-library-to-mp3-format-on-mac-or-windows-complete-tutorial/"><u>Convert Your Audible Library to MP3 Format on Mac or Windows – Complete Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-shows-from-pandora-stream-live-or-record-as-mp3-on-pcmac/"><u>Convert Your Favorite Shows From Pandora - Stream Live or Record as MP3 on PC/Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-songs-from-google-play-store-directly-onto-your-pc/"><u>Download Songs From Google Play Store Directly Onto Your PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-videostreams-from-ustream-efficiently-top-tools-and-tutorials-for-mac-and-windows-users/"><u>Download Videostreams From Ustream Efficiently: Top Tools & Tutorials for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-downloading-and-converting-zattoo-videos-into-multiple-formats-like-mp4-avi-and-mov-for-offline-viewing/"><u>Easy Guide: Downloading & Converting Zattoo Videos Into Multiple Formats Like MP4, AVI, and MOV for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-troubleshooting-steps-resolving-youtube-connectivity-errors-on-a-samsung-television-set/"><u>Easy Troubleshooting Steps: Resolving YouTube Connectivity Errors on a Samsung Television Set</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-launch-issues-with-watch-dogs-legion-on-windows/"><u>Fixing Persistent Launch Issues with Watch Dogs: Legion on Windows</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-your-favorite-hitboxtv-shows-downloadable-recording-and-streaming-options-for-pc-mac/"><u>Get Your Favorite Hitbox.TV Shows - Downloadable Recording and Streaming Options for PC, Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-aspect-ratios-for-stellar-youtube-thumbnails/"><u>In 2024, Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-interruptions-solving-dark-souls-3s-persistent-crash-troubles/"><u>No More Interruptions: Solving Dark Souls 3'S Persistent Crash Troubles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-techniques-for-broadcasting-fb-live-on-cable/"><u>Top Techniques for Broadcasting FB Live on Cable</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>[New] Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-fullscreen-image-of-page-layout-for-2024/"><u>[New] Fullscreen Image of Page Layout for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-video-editing-mastery-with-windows-movie-maker-the-windows-8-edition-explained/"><u>[New] Video Editing Mastery with Windows Movie Maker - The Windows 8 Edition Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-premium-luts-available-for-free/"><u>[Updated] Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015695875-borderlands-e-3-audio-not-working-here-are-the-fixes-for-pc-players/"><u>Borderlands E 3 Audio Not Working? Here Are The Fixes For PC Players!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/excellent-strategies-to-project-apples-tablet-screen-onto-laptop-or-desktop/"><u>Excellent Strategies to Project Apple's Tablet Screen Onto Laptop or Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-12-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 12 mini in the Best Ways</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-and-eliminating-the-amazonaws-virus-expert-tips-from-malwarefox-for-a-clean-system/"><u>Identifying and Eliminating the Amazonaws Virus: Expert Tips From MalwareFox for a Clean System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-system-with-official-realtek-drivers-windows-11-10-or-7-supported/"><u>Update Your System with Official Realtek Drivers: Windows 11, 10 or 7 Supported</u></a></li>
 </ul></div>
 

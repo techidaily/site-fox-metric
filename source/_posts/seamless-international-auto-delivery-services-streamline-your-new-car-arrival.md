@@ -1,7 +1,7 @@
 ---
 title: Seamless International Auto Delivery Services - Streamline Your New Car Arrival
-date: 2024-09-24T00:29:32.590Z
-updated: 2024-09-30T10:02:53.330Z
+date: 2024-10-01T18:28:59.999Z
+updated: 2024-10-05T18:59:52.527Z
 tags:
   - user-guide
 categories:
@@ -71,19 +71,25 @@ Advanced Installer has the ability to import XML and INI files. Besides the usua
 ![Tools Dialog](https://cdn.advancedinstaller.com/img/dialog/auto-import.png "Tools Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extensions Equivalence
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### XML
@@ -91,10 +97,10 @@ Advanced Installer has the ability to import XML and INI files. Besides the usua
 In this edit box, you can enter all the extensions that you wish for Advanced Installer to associate with XML files.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### INI
@@ -104,10 +110,10 @@ In this edit box, you can enter all the extensions that you wish for Advanced In
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can delete an extension from the lists, even from the predefined ones. All extensions must be defined with spaces between them and not containing the **dot** before the actual extension, as you can see in the dialog on the right which contains the default XML and INI extensions defined by us.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -143,19 +149,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-memes-in-the-virtual-frontier/"><u>[New] Crafting Memes in the Virtual Frontier</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-capacity-limit-how-many-vids-in-128gb/"><u>[Updated] In 2024, Capacity Limit How Many Vids in 128GB?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-increasing-ram-to-achieve-peak-performance-in-minecraft-for-2024/"><u>[Updated] Increasing RAM to Achieve Peak Performance in Minecraft for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-troubleshooting-steps-resolving-youtube-connectivity-errors-on-a-samsung-television-set/"><u>Easy Troubleshooting Steps: Resolving YouTube Connectivity Errors on a Samsung Television Set</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017000966-effortless-audio-inspection-the-definitive-method-to-test-microphones-on-the-go/"><u>Effortless Audio Inspection: The Definitive Method to Test Microphones on the Go</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-your-favorite-hitboxtv-shows-downloadable-recording-and-streaming-options-for-pc-mac/"><u>Get Your Favorite Hitbox.TV Shows - Downloadable Recording and Streaming Options for PC, Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-11-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme 11 Pro+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/is-av1-video-compatibility-available-with-plex-media-server-learn-the-process/"><u>Is AV1 Video Compatibility Available with Plex Media Server? Learn the Process</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-tv-streaming-platforms-you-cant-miss/"><u>Leading TV Streaming Platforms You Can't Miss</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-missing-entry-issue-in-windows-os/"><u>Mending the Missing Entry Issue in Windows OS</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mpora-content-grabber-quick-guide-to-retrieve-and-save-outdoor-footage/"><u>Mpora Content Grabber: Quick Guide to Retrieve and Save Outdoor Footage</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/never-lose-a-beat-again-step-by-step-strategies-for-archiving-spotify-songs-permanently/"><u>Never Lose a Beat Again: Step-by-Step Strategies for Archiving Spotify Songs Permanently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>2024 Approved The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adapt-innovate-and-conquer-mastering-professional-growth-in-an-artificially-intelligent-world-discover-how/"><u>Adapt, Innovate & Conquer: Mastering Professional Growth in an Artificially Intelligent World - Discover How!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tors-playground-building-your-own-visual-treats/"><u>Animator’s Playground Building Your Own Visual Treats</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/captivating-public-spaces-innovative-strategies-in-billboard-conversations/"><u>Captivating Public Spaces: Innovative Strategies in Billboard Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/decreasing-obs-stream-quality/"><u>Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-top-8-budget-friendly-apps-for-professional-looking-product-photos-at-home/"><u>Discover the Top 8 Budget-Friendly Apps for Professional-Looking Product Photos at Home!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fixing-issues-how-to-resolve-phone-manager-problems-on-your-iphone-or-ipad/"><u>Fixing Issues: How to Resolve 'Phone Manager' Problems on Your iPhone or iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kit-list-for-road-trip-movie-making/"><u>Kit List for Road-Trip Movie Making</u></a></li>
+<li><a href="https://techtrends.techidaily.com/spotlight-picks-top-disney-plus-film-selections-for-movie-buffs/"><u>Spotlight Picks: Top Disney Plus Film Selections for Movie Buffs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-perfecting-your-pc-cloning-process/"><u>Step-by-Step Guide: Perfecting Your PC Cloning Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-battle-of-titans-unveiling-the-differences-between-iphone-15-pro-max-and-galaxy-s24-ultra/"><u>The Battle of Titans: Unveiling the Differences Between iPhone 15 Pro Max and Galaxy S24 Ultra</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-digital-classrooms-for-aspiring-developers/"><u>The Most Effective Digital Classrooms for Aspiring Developers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-digital-learning-environments-for-educators/"><u>Top Digital Learning Environments for Educators</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transferring-iphone-voice-memos-to-your-mac-a-step-by-step-guide/"><u>Transferring iPhone Voice Memos to Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-the-power-of-youtube-playslists-mastering-embedding-techniques-for-instant-video-startup/"><u>Unlocking the Power of YouTube Playslists: Mastering Embedding Techniques for Instant Video Startup</u></a></li>
 </ul></div>
 

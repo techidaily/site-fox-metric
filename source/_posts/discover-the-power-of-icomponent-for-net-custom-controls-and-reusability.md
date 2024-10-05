@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of IComponent for .NET Custom Controls and Reusability
-date: 2024-09-29T05:16:24.068Z
-updated: 2024-09-29T19:05:32.409Z
+date: 2024-09-28T21:10:25.032Z
+updated: 2024-10-05T18:57:28.996Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 ## IComComponent
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,16 @@ Table of Contents
 IComComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -145,13 +151,6 @@ This interface is meant to create, access, delete COM entities.
 **Array<IComTypeLibrary> TypeLibraries** \- Gets the collection of type libraries. 
 
 **Array<IComPlus> TypeLibraries** \- Gets the collection of COM+. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -171,10 +170,10 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 **DeleteCom(VARIANT aCom)** \- Deletes a COM entity from project. Supported argument types are: IComClass, IComInterface, IComTypeLibrary, IComPlus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -182,6 +181,19 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 [IComClass](https://tools.techidaily.com/advancedinstaller/products/)
 
 [IComClassActiveX](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -231,24 +243,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-your-guide-to-stellar-igtv-talent/"><u>[New] 2024 Approved Your Guide to Stellar IGTV Talent</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-peer-reviewed-evaluation-of-action-screening-tech/"><u>[New] In 2024, Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>[Updated] 2024 Approved Youtube to Animated GIFs Conversion Guide Online Tutorial for Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-pioneers-guide-to-documenting-private-whatsapp-discussions-for-2024/"><u>[Updated] The Pioneer's Guide to Documenting Private WhatsApp Discussions for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/5-best-mp3-cutters-online-for-2024/"><u>5 Best MP3 Cutters Online for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-and-download-popular-media-as-mp4wmvaviflvmov-with-vodlocker-technology/"><u>Convert and Download Popular Media As MP4/WMV/AVI/FLV/MOV with Vodlocker Technology</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-bbc-shows-into-video-formats-save-episodes-in-mp4-or-avi/"><u>Convert Your Favorite BBC Shows Into Video Formats - Save Episodes in MP4 or AVI</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-guide-setting-up-personal-ringtones-with-spotify-music/"><u>DIY Guide: Setting Up Personal Ringtones with Spotify Music</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-user-experience-with-advanced-analytics-powered-by-the-cutting-edge-technology-of-cookiebot/"><u>Enhanced User Experience with Advanced Analytics: Powered by the Cutting-Edge Technology of Cookiebot</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/experience-unmatched-speed-and-performance-macxs-latest-release-video-converter-pro-59-boosts-multimedia-tasks-using-cutting-edge-hardware-tech/"><u>Experience Unmatched Speed and Performance: MacX's Latest Release, Video Converter Pro 5.9, Boosts Multimedia Tasks Using Cutting-Edge Hardware Tech.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimize-for-speed-effective-techniques-for-reducing-page-flip-latency-on-flipbuilder/"><u>Optimize for Speed: Effective Techniques for Reducing Page-Flip Latency on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/preserve-your-design-templates-easily-with-flipcreator-a-comprehensive-tutorial/"><u>Preserve Your Design Templates Easily with FlipCreator: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-audio-editing-made-easy-top-software-picks/"><u>Professional Audio Editing Made Easy Top Software Picks</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/professional-free-online-tool-batch-transform-multiple-images-into-high-quality-pdf-documents/"><u>Professional Free Online Tool: Batch Transform Multiple Images Into High-Quality PDF Documents</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/requesting-a-purchase-invoice-on-flipbuilder-how-can-i-obtain-it/"><u>Requesting a Purchase Invoice on FlipBuilder - How Can I Obtain It?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-meme-template-toolkit-for-2024/"><u>The Essential Meme Template Toolkit for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transforming-word-files-into-interactive-flipbooks-with-flipbuilders-tutorial/"><u>Transforming Word Files Into Interactive Flipbooks with FlipBuilder's Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-fixing-the-non-responsive-download-function-on-flipbuilder/"><u>Troubleshooting Steps: Fixing the Non-Responsive Download Function on FlipBuilder</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unbeatable-free-flv-video-editors-you-need-to-try/"><u>Updated Unbeatable Free FLV Video Editors You Need to Try</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-little-wheelmens-game-festivals/"><u>[Updated] 2024 Approved Little Wheelmen's Game Festivals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-public-melodies-for-calmness/"><u>2024 Approved Public Melodies for Calmness</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/a-comprehensive-tutorial-for-switching-languages-on-amazons-kindle-ereader-device/"><u>A Comprehensive Tutorial for Switching Languages on Amazon's Kindle eReader Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/airdroid-replacements-ranked-top-9-ways-to-improve-smartphone-management/"><u>AirDroid Replacements Ranked: Top 9 Ways to Improve Smartphone Management</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/approaches-strategies-and-implementation-models-these-titles-aim-to-be-relevant-for-search-engine-optimization-while-maintaining-semantic-relevance-to-virtu11/"><u>Approaches, Strategies, and Implementation Models, These Titles Aim to Be Relevant for Search Engine Optimization While Maintaining Semantic Relevance to Virtualization Project Types.</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-c67-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme C67 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-property-search-enhancements/"><u>Comprehensive Property Search Enhancements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopros-latest-camera-face-off/"><u>GoPro's Latest Camera Face-Off</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-fix-obs-full-screen-not-working-issue-in-2024/"><u>How To Fix OBS Full Screen Not Working Issue, In 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-upgrade-in-universal-windows-platform-detectability/"><u>Latest Upgrade in Universal Windows Platform Detectability</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-project-journeys-unveiling-the-project-paths-tab/"><u>Navigating Project Journeys: Unveiling the Project Paths Tab</u></a></li>
 </ul></div>
 

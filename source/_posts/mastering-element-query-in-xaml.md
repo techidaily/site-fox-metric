@@ -1,7 +1,7 @@
 ---
 title: Mastering Element Query in XAML
-date: 2024-09-28T21:30:55.151Z
-updated: 2024-09-30T11:46:45.762Z
+date: 2024-09-28T21:19:10.863Z
+updated: 2024-10-05T19:30:53.376Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IXmlElementSearch
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,28 +136,15 @@ Table of Contents
 IXmlElementSearch : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit an XML element search.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -168,10 +155,10 @@ This interface is meant to edit an XML element search.
 **Array<IXmlElementSearchLocator> Locators** \- Gets the collection of locators.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -187,6 +174,13 @@ Creates new child element.
 
 **DeleteLocator(IXmlElementSearchLocator \* aElement)**  
 Deletes locator.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -227,20 +221,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>[Updated] 2024 Approved Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-online-facebook-downloader-mp3/"><u>[Updated] Online Facebook Downloader MP3</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevating-gopro-videos-with-professional-filmmaking-techniques/"><u>2024 Approved Elevating Gopro Videos with Professional Filmmaking Techniques</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complimentary-material-tailwind-kit-with-react-integration-and-complete-wfh-solution-unleash-your-creative-potential-at-creative-tim/"><u>Complimentary Material Tailwind Kit with React Integration and Complete WFH Solution - Unleash Your Creative Potential at Creative Tim!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-blk-design-system-a-complimentary-bootstrap-4-framework-for-modern-web-development/"><u>Creative Tim's BLK Design System: A Complimentary Bootstrap 4 Framework for Modern Web Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-bootstrap-4-administrator-template-professional-and-enhanced-lightweight-interface/"><u>Creative Tim's Elite Bootstrap 4 Administrator Template - Professional & Enhanced Lightweight Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-laravel-admin-suite-with-pre-built-bootstrapped-crud-functionality/"><u>Creative Tim's Elite Laravel Admin Suite with Pre-Built Bootstrapped CRUD Functionality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-innovative-bootstrap-based-jquery-calendar-a-dual-view-on-time-management/"><u>Creative Tim's Innovative Bootstrap-Based jQuery Calendar: A Dual View on Time Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-premier-react-framework-with-professional-material-dashboard-2-pro-templates/"><u>Creative Tim's Premier React Framework with Professional Material Dashboard 2 PRO Templates</u></a></li>
-<li><a href="https://windows11.techidaily.com/end-the-saga-how-to-smoothly-sync-chromebook-files-in-windows/"><u>End the Saga: How to Smoothly Sync Chromebook Files in Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb/"><u>In 2024, Unlock the Power of Instream Ads Detailed Guidelines on Setup & Evaluation in FB</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pendulum-assembly-set-for-2024/"><u>Pendulum Assembly Set for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recommended-hardware-and-software-for-optimal-performance-on-splash-20/"><u>Recommended Hardware and Software for Optimal Performance on Splash 2.0</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-for-beginning-your-steam-gamers-journey-anew/"><u>The Blueprint for Beginning Your Steam Gamers' Journey Anew</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-seamlessly-streaming-your-android-screen-onto-a-windows-10-pc/"><u>Guide: Seamlessly Streaming Your Android Screen Onto a Windows 10 PC</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50i Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-lite-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Lite Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavi-mp4mpeg-2-h264/"><u>Movavi: 원활한 웹 검색을 사용하여 MP4/MPEG-2를 H.264로 무료 변환 기능</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/turn-the-table-youtube-reversal-techniques-and-tutorials-for-2024/"><u>Turn the Table YouTube Reversal Techniques & Tutorials for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
 </ul></div>
 

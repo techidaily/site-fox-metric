@@ -1,7 +1,7 @@
 ---
 title: "Enhancements and Updates: Your Guide to the Newest Version"
-date: 2024-09-24T06:32:33.126Z
-updated: 2024-09-30T04:23:37.460Z
+date: 2024-09-28T20:01:54.257Z
+updated: 2024-10-05T18:36:17.102Z
 tags:
   - user-guide
 categories:
@@ -78,15 +78,22 @@ This page allows you to specify a list of products that will be removed from the
 
 ![Upgrades](https://cdn.advancedinstaller.com/img/ui/upgrades.png "Upgrades")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Application Versions
 
 This section allows you to manage older versions of your package which were created with Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatically upgrade older product versions
@@ -95,21 +102,7 @@ This section allows you to manage older versions of your package which were crea
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When upgrading older versions, the install location of the previous version will be used as default for the current installation process. This applies only if both versions are built with Advanced Installer 3.8 or greater.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Uninstalling a version installed as Administrator only works when the current user has Administrator rights as well.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In order to use this option to upgrade an older installation you can follow these steps:
 
@@ -124,6 +117,13 @@ In order to use this option to upgrade an older installation you can follow thes
 If you run the upgraded package on a machine which has the old package installed, the old package will be removed automatically (and silently) and the upgraded package will be installed.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)A per-user installation cannot upgrade a per-machine installation and a per-machine installation cannot upgrade a per-user installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Allow side by side installs of different product versions
 
@@ -142,19 +142,19 @@ Select this option in order to allow different versions of the same application 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When authoring side by side installs of different versions of an application, it is recommended that some rules should be used. The install locations, registry entries, shortcuts etc. should differ from one version to another. If they are not different, the present items will be overwritten when a new version is installed. Also, they will be removed when a version of the application is uninstalled even if the other versions still uses them.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the installation folder selected by the user is the same folder used for the installation of an older version then that version will be removed. The user can choose a previously used install location from the drop-down list in the "Select Location" dialog, forcing an upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Customize Advanced Installer upgrade rules
@@ -165,13 +165,6 @@ By enabling this option you will have access to the Advanced Installer custom up
 
 By default a package uses the installation path of an older version when upgrading. If this option is unchecked, during an upgrade the package will use the Application Folder path defined in [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page, ignoring the original one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Allow downgrade (a lower version will be able to downgrade a higher version)
 
 Check this option to enable the ability to install an older version over a newer version of the package, for example version 1.0.0 being able to upgrade version 2.0.0.
@@ -179,6 +172,13 @@ Check this option to enable the ability to install an older version over a newer
 ### Change Product Code and component's GUIDS
 
 By clicking on this hyperlink you can change the Product Code of the package and the GUIDS of all its components.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Order
 
@@ -194,6 +194,13 @@ In this section you can specify the upgrade process' sequence.
 
 In this section you can specify other products that will be upgraded when your package will be installed. Note that these packages must be MSI-based, you cannot use this page to upgrade packages which don't use the Windows Installer technology. When you click the\[New... \] button Advanced Installer shows a dialog which allows you to select the target installation package from the disk.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a new upgrade
 
  Use the \[New... \] toolbar button, the “New...” context menu item or press the Insert key while the focus is in the list. 
@@ -205,13 +212,6 @@ In this section you can specify other products that will be upgraded when your p
 ### Removing an upgrade
 
  Use the \[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while a list item is selected. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -253,18 +253,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-swapping-streams-saving-songs-cross-service-shuffling/"><u>[New] 2024 Approved Swapping Streams, Saving Songs Cross-Service Shuffling</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-beyond-glitter-the-pure-reality-of-recordcast-experience-for-2024/"><u>[Updated] Beyond Glitter The Pure Reality of RecordCast Experience for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cheapest-alternatives-to-androids-facetime-for-2024/"><u>[Updated] Cheapest Alternatives to Android's FaceTime for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-secrets-to-profitable-facebook-animation-strategies/"><u>[Updated] Unveiling the Secrets to Profitable Facebook Animation Strategies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-and-download-popular-media-as-mp4wmvaviflvmov-with-vodlocker-technology/"><u>Convert and Download Popular Media As MP4/WMV/AVI/FLV/MOV with Vodlocker Technology</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-bbc-shows-into-video-formats-save-episodes-in-mp4-or-avi/"><u>Convert Your Favorite BBC Shows Into Video Formats - Save Episodes in MP4 or AVI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-access-control-setting-up-auto-hide-for-macos-menus/"><u>Effortless Access Control: Setting Up Auto-Hide for macOS Menus</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/requesting-a-purchase-invoice-on-flipbuilder-how-can-i-obtain-it/"><u>Requesting a Purchase Invoice on FlipBuilder - How Can I Obtain It?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-free-video-recording-software-of-2024-the-best-picks/"><u>Top 5 Free Video Recording Software of 2024: The Best Picks</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transforming-word-files-into-interactive-flipbooks-with-flipbuilders-tutorial/"><u>Transforming Word Files Into Interactive Flipbooks with FlipBuilder's Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-fixing-the-non-responsive-download-function-on-flipbuilder/"><u>Troubleshooting Steps: Fixing the Non-Responsive Download Function on FlipBuilder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-algorithmic-nature-of-gameplay-spaces/"><u>Unveiling the Algorithmic Nature of Gameplay Spaces</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-content-game-tactics-for-optimal-youtube-featured-channels/"><u>[New] Elevate Your Content Game Tactics for Optimal YouTube Featured Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adjust-your-screen-with-confidence-and-ease-iphone/"><u>2024 Approved Adjust Your Screen with Confidence and Ease (iPhone)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-bring-your-pics-to-life-with-easy-text-editing-apps/"><u>2024 Approved Bring Your Pics to Life with Easy Text Editing Apps</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adding-yourself-to-our-professional-network-directory-membership-guide/"><u>Adding Yourself to Our Professional Network: Directory Membership Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/fast-forwarding-instagram-videos-efficiently/"><u>Fast-Forwarding Instagram Videos Efficiently</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-xs-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone XS Max</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlock-viewers-essential-guide-to-fantastic-template-based-yt-desc-writing/"><u>Unlock Viewers Essential Guide to Fantastic Template-Based YT Desc Writing</u></a></li>
 </ul></div>
 

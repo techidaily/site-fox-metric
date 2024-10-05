@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to Verb Features: Insights Into Action Words in English Grammar"
-date: 2024-09-24T16:17:21.389Z
-updated: 2024-09-30T10:16:25.404Z
+date: 2024-10-02T20:53:13.330Z
+updated: 2024-10-05T17:36:30.190Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,16 @@ Table of Contents
 ## Verb Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -92,10 +98,16 @@ Table of Contents
 ![MSIX File Associations](https://cdn.advancedinstaller.com/img/ui/msix-file-associations.png "MSIX File Associations")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A name of an action. This action can be performed only on the files having an extension the verb is associated with. You can select a verb from the suggested list or you can also add your own verb names.
@@ -103,10 +115,10 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On the Mac OS X the default verb is "Edit". If you are creating a Mac OS X package, this verb will automatically be associated with the extension, regardless the verb you specify in the list.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Arguments
@@ -116,10 +128,10 @@ Table of Contents
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and thus they can include references to files, folders and properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11 Properties
@@ -161,16 +173,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-ae-text-styles-guide/"><u>[New] Top 10 AE Text Styles Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grusse-mit-zahlen-deutsch-von-1-100-fur-anfanger-erklaren/"><u>Grüße Mit Zahlen: Deutsch Von 1-100 Für Anfänger Erklären</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-11-proplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 11 Pro+ to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-insta-exiting-a-step-by-step-guide/"><u>In 2024, Mastering Insta Exiting A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/save-online-movies-and-tv-shows-as-mp4movavi-files-guides-for-mac-and-pc/"><u>Save Online Movies & TV Shows as MP4/MOV/AVI Files: Guides for Mac & PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/seamless-music-video-mp3-converter-and-downloader-for-instant-audio-format-transformation/"><u>Seamless Music Video MP3 Converter & Downloader for Instant Audio Format Transformation!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-to-converting-and-downloading-tv-shows-from-any-source-into-high-quality-movies-mp4-mov-for-both-mac-and-windows-users/"><u>Step-by-Step Guide to Converting and Downloading TV Shows From Any Source Into High-Quality Movies (MP4, MOV) for Both Mac & Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-functionality-of-your-hp-laptops-camera-in-windows-10/"><u>Step-by-Step Solution: Restoring Functionality of Your HP Laptop's Camera in Windows 10</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-how-to-download-music-from-xiami-in-multiple-formats-including-mp3-aac-wav-and-flac/"><u>Step-by-Step Tutorial: How to Download Music From Xiami in Multiple Formats Including MP3, AAC, WAV & FLAC</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-strategists-approach-to-locating-and-joining-specialized-discord-channels/"><u>The Strategist's Approach to Locating and Joining Specialized Discord Channels</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/watch-award-winning-film-classics-for-free-converted-movies-in-multiple-formats-for-macos-and-windows-users/"><u>Watch Award-Winning Film Classics for Free: Converted Movies in Multiple Formats for MacOS & Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-9-affordable-and-straightforward-video-editors/"><u>[New] Top 9 Affordable & Straightforward Video Editors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-lenovo-simple-recording-techniques/"><u>[Updated] 2024 Approved Lenovo Simple Recording Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-online-platforms-for-discovering-new-tunes-and-expanding-your-playlist/"><u>Best Online Platforms for Discovering New Tunes and Expanding Your Playlist</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-printer-drivers-download-upgrade-to-the-new-release/"><u>Brother HL-L2370DW Printer Drivers Download: Upgrade to the New Release</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/culinary-showdowns-hot-and-viral-food-crafts-on-tiktok-for-2024/"><u>Culinary Showdowns Hot and Viral Food Crafts on TikTok for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-realtek-bluetooth-drivers-compatible-with-windows-11-and-10/"><u>Download the Newest Realtek Bluetooth Drivers Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-to-stripping-xml-master-the-art-of-element-deletion/"><u>Easy Guide to Stripping XML: Master the Art of Element Deletion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-dell-g3-gaming-setup-with-new-driver-installations/"><u>Elevate Your Dell G3 Gaming Setup with New Driver Installations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-the-application-virtualization-configurations-the-role-of-the-options-tab-and-registry-key-setup/"><u>Navigating the Application Virtualization Configurations: The Role of the Options Tab and Registry Key Setup</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-animated-logo-design-software-top-picks-and-expert-advice/"><u>New 2024 Approved Free Animated Logo Design Software Top Picks and Expert Advice</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-complete-anthropic-guide-to-claude-3-usage/"><u>The Complete Anthropic Guide to Claude 3 Usage</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-utilizing-the-registry-keys-tab-in-windows-systems/"><u>Understanding and Utilizing the Registry Keys Tab in Windows Systems</u></a></li>
 </ul></div>
 

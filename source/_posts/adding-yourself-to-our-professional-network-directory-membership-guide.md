@@ -1,7 +1,7 @@
 ---
 title: "Adding Yourself to Our Professional Network: Directory Membership Guide"
-date: 2024-09-22T16:19:46.292Z
-updated: 2024-09-29T16:32:12.190Z
+date: 2024-09-28T22:25:25.345Z
+updated: 2024-10-05T17:51:22.327Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface allows to edit base information about a directory member.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface allows to edit base information about a directory member.
 IDirectoryMember : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -139,10 +139,10 @@ IDirectoryMember : IDispatch
 **String Type** \- Gets the type of the directory member as a string.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -152,10 +152,10 @@ IDirectoryMember : IDispatch
 * **DeleteFile()** \- This method deletes the directory member from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -201,18 +201,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-minimagic-mugger-assessment-and-opinions/"><u>[Updated] In 2024, Minimagic Mugger Assessment & Opinions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-under-500-drone-guide-top-5-budget-buzzers/"><u>[Updated] Under $500 Drone Guide Top 5 Budget Buzzers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-focal-flares-amplifying-your-footage-visually/"><u>2024 Approved Focal Flares Amplifying Your Footage Visually</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-perfecting-sound-with-advanced-audacity-methods/"><u>2024 Approved Perfecting Sound with Advanced Audacity Methods</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-and-download-popular-media-as-mp4wmvaviflvmov-with-vodlocker-technology/"><u>Convert and Download Popular Media As MP4/WMV/AVI/FLV/MOV with Vodlocker Technology</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-bbc-shows-into-video-formats-save-episodes-in-mp4-or-avi/"><u>Convert Your Favorite BBC Shows Into Video Formats - Save Episodes in MP4 or AVI</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-guide-setting-up-personal-ringtones-with-spotify-music/"><u>DIY Guide: Setting Up Personal Ringtones with Spotify Music</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-video-downloading-how-to-transform-and-transfer-vimeo-content-onto-dvds-for-offline-viewing/"><u>DIY Video Downloading: How to Transform and Transfer Vimeo Content Onto DVDs for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-hd-adult-content-from-reality-kings-in-mp4-format-using-reality-kings-downloader/"><u>Download HD Adult Content From Reality Kings in MP4 Format Using Reality Kings Downloader</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-guide-recording-netflix-videos-on-a-mac/"><u>In 2024, Essential Guide Recording Netflix Videos on a Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-fixing-the-non-responsive-download-function-on-flipbuilder/"><u>Troubleshooting Steps: Fixing the Non-Responsive Download Function on FlipBuilder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/winning-at-capturing-conversations-windows-vs-mac-recording-tactics-for-2024/"><u>Winning at Capturing Conversations - Windows vs Mac Recording Tactics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-instagrams-max-video-length-policy/"><u>[New] 2024 Approved Decoding Instagram's Max Video Length Policy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-vlc-video-record-a-critique/"><u>[New] VLC Video Record A Critique</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] 2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>[Updated] PicSweets Where Free TikTok BGs and Beauty Meet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-capture-a-perfect-screenshot-on-your-pc-with-windows-10/"><u>How to Capture a Perfect Screenshot on Your PC with Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tunetester-rethinking-dacast/"><u>In 2024, TuneTester Rethinking DaCast</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-screen-output-performance-windows/"><u>Increase Screen Output Performance (Windows)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-web-content-curation-tips-on-binding-your-digital-pages/"><u>Mastering the Art of Web Content Curation: Tips on Binding Your Digital Pages</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y200-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y200 Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-your-computing-to-the-next-level-with-beefys-revolutionary-mini-pc-featuring-meteor-lake-cpu-intel-ultra-celeron-185h-and-oculink-technology/"><u>Take Your Computing to the Next Level with Beefy's Revolutionary Mini PC: Featuring Meteor Lake CPU, Intel Ultra Celeron 185H and OCuLink Technology</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
 </ul></div>
 

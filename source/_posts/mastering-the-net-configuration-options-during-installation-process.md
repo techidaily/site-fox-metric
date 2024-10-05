@@ -1,7 +1,7 @@
 ---
 title: Mastering the .NET Configuration Options During Installation Process
-date: 2024-09-25T03:59:58.093Z
-updated: 2024-09-30T11:37:53.829Z
+date: 2024-10-02T20:00:14.147Z
+updated: 2024-10-05T17:24:48.752Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ This dialog allows you to configure a .NET Installer class parameter.
 ![Edit .NET Installer Class Parameter Dialog](https://cdn.advancedinstaller.com/img/dialog/new-dotnetca-param-dialog.png "Edit .NET Installer Class Parameter Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom Action Parameter
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -102,10 +102,10 @@ Represent the key name that the assembly will receive as a parameter.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** and **\=** characters are not allowed in the parameter name. Also, predefined parameters names are not user editable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Value
@@ -115,10 +115,10 @@ The parameter's value.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** character is not allowed in the parameter value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -156,21 +156,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>[New] 2024 Approved Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-online-interactions-master-microsoft-teams-snap/"><u>2024 Approved Elevate Your Online Interactions Master Microsoft Teams Snap</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-exorbitant-costs-4-factors-behind-vrs-pricing/"><u>Decoding the Exorbitant Costs: 4 Factors Behind VR's Pricing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-videostreams-from-ustream-efficiently-top-tools-and-tutorials-for-mac-and-windows-users/"><u>Download Videostreams From Ustream Efficiently: Top Tools & Tutorials for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-downloading-and-converting-zattoo-videos-into-multiple-formats-like-mp4-avi-and-mov-for-offline-viewing/"><u>Easy Guide: Downloading & Converting Zattoo Videos Into Multiple Formats Like MP4, AVI, and MOV for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-troubleshooting-steps-resolving-youtube-connectivity-errors-on-a-samsung-television-set/"><u>Easy Troubleshooting Steps: Resolving YouTube Connectivity Errors on a Samsung Television Set</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-chatgpt-on-the-go-optimizing-your-experience-on-android-and-ios-platforms/"><u>Get Started with ChatGPT on the Go - Optimizing Your Experience on Android & iOS Platforms</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-your-favorite-hitboxtv-shows-downloadable-recording-and-streaming-options-for-pc-mac/"><u>Get Your Favorite Hitbox.TV Shows - Downloadable Recording and Streaming Options for PC, Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-vivo-x-fold-2-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Vivo X Fold 2 using Video Repair Utility?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-visionaries-in-video-top-10-ig-editing-platforms-for-creatives/"><u>In 2024, Visionaries in Video Top 10 IG Editing Platforms for Creatives</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mpora-content-grabber-quick-guide-to-retrieve-and-save-outdoor-footage/"><u>Mpora Content Grabber: Quick Guide to Retrieve and Save Outdoor Footage</u></a></li>
-<li><a href="https://app-tips.techidaily.com/try-these-free-apps-the-best-ways-to-efficiently-delete-files-from-your-ipad/"><u>Try These Free Apps: The Best Ways to Efficiently Delete Files From Your iPad</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-deciphering-the-sideways-photo-puzzle-on-ig/"><u>[New] Deciphering the Sideways Photo Puzzle on IG</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>[New] In 2024, Speaking Like a Pro Tips to Upgrade Your Google Meet Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[Updated] Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-rotate-videos-for-free-top-10-online-and-offline-tools/"><u>2024 Approved Rotate Videos for Free Top 10 Online and Offline Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966014960-complete-driver-package-for-brother-mfc-l2740dw-compatible-with-all-windows-versions-download-now/"><u>Complete Driver Package for Brother MFC-L2740DW - Compatible with All Windows Versions, Download Now</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-device-turning-off-mouse-acceleration-today/"><u>Mastering Your Device: Turning Off Mouse Acceleration Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion/"><u>Prime 18 Webcam Recorders Your Ultimate Tech Companion</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-overcoming-recurring-fortnite-crash-issues-on-pc-during-2024/"><u>Step-by-Step Solutions: Overcoming Recurring Fortnite Crash Issues on PC During 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-no-cost-pdf-editor-for-windows-10-top-rated-and-free-download/"><u>Ultimate No-Cost PDF Editor for Windows 10: Top Rated & Free Download</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-imsixpackage-dependencies-in-software-development/"><u>Understanding IMsixPackage Dependencies in Software Development</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost/"><u>Valorant's Finest Voice Modder – Accessible at No Cost</u></a></li>
 </ul></div>
 

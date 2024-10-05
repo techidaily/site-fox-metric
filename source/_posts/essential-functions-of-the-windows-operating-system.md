@@ -1,7 +1,7 @@
 ---
 title: Essential Functions of the Windows Operating System
-date: 2024-09-24T18:27:53.150Z
-updated: 2024-09-29T17:56:00.612Z
+date: 2024-09-28T17:15:56.053Z
+updated: 2024-10-05T22:26:43.991Z
 tags:
   - user-guide
 categories:
@@ -90,15 +90,22 @@ Specify the bundle's install/uninstall settings.
 The condition which determines if the bundle will be installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature unavailable policy
 
 Some features may be unavailable on certain Windows editions. In such a case you can choose to rollback the installation or to ignore error and continue the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Uninstall policy
 
@@ -107,23 +114,17 @@ Choose whether to remove or keep the selected Windows Features on uninstall. If 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Uninstall policy doesn't apply on Windows Vista and Windows Server 2008.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Target Operating Systems
@@ -131,13 +132,6 @@ Choose whether to remove or keep the selected Windows Features on uninstall. If 
 Selecting several OS's will intersect each one's specific Features and Dependencies, displaying the resulting set in the**Available Windows Features** list.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Some Windows Features are shown in the Control Panel only after a system restart.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Available Windows Features
 
@@ -178,18 +172,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>[New] Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-10-superior-youtube-mp3-extractors-for-2024/"><u>[Updated] 10 Superior YouTube Mp3 Extractors for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[Updated] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-custom-iconography-to-your-toolbar-with-flipbuilder-a-step-by-step-guide/"><u>Adding Custom Iconography to Your Toolbar with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-personalized-page-count-to-your-pdf-books-with-flipbuilders-features/"><u>Adding Personalized Page Count to Your PDF Books with FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-protective-marks-mastering-image-watermarking-in-flipimage-professional-tool/"><u>Adding Protective Marks: Mastering Image Watermarking in FlipImage Professional Tool</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-to-flip-printer-solutions-at-flipbuildercom/"><u>Comprehensive Guide to Flip Printer Solutions at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-creating-interactive-ebooks-with-flip-pdf-explore-flipbuildercom/"><u>Comprehensive Guide: Creating Interactive eBooks with Flip PDF - Explore FlipBuilder.com</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-division-2-crashes-for-good-a-speed-demonstration-of-fixes/"><u>End Division 2 Crashes for Good - A Speed Demonstration of Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-f5-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco F5 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://article-helps.techidaily.com/srt-production-via-xml-ssa-and-ttml-conversions-for-2024/"><u>SRT Production via XML, SSA & TTML Conversions for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-reaction-video-hack-streamline-your-process-with-filmora-for-2024/"><u>The Ultimate Reaction Video Hack Streamline Your Process with Filmora for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/vuejs-and-laravel-integration-in-vue-now-by-creative-tim-and-updivision-comprehensive-free-full-stack-software-development-kit-featuring-jsonapi-support/"><u>Vue.js & Laravel Integration in Vue Now by Creative Tim and UPDIVISION: Comprehensive Free Full Stack Software Development Kit Featuring JsonApi Support</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-high-quality-fullscreen-recorders-for-desktops/"><u>[New] 2024 Approved High-Quality Fullscreen Recorders for Desktops</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] Curate a Perfect Playlist on YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control YouTube Visibility Personalization</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/complete-guide-on-eliminating-computer-block-scam-virus-effective-steps-with-malwarefox/"><u>Complete Guide on Eliminating 'Computer Block' Scam Virus - Effective Steps with MalwareFox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Pro 5G Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simplified-navigation-through-the-manage-data-rows-window/"><u>Simplified Navigation Through the 'Manage Data Rows' Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-making-apowerpdf-your-go-to-pdf-viewer/"><u>Step-by-Step Guide: Making ApowerPDF Your Go-To PDF Viewer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-how-to-edit-and-crop-your-videos-for-insta-success/"><u>Step-by-Step Tutorial on How to Edit and Crop Your Videos for Insta Success</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-15-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 15 Pro Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M34 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-exclusive-perks-your-guide-to-apowermirrors-member-advantages/"><u>Unlock Exclusive Perks: Your Guide to ApowerMirror's Member Advantages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Optimizing the Reference Section in Documents
-date: 2024-09-25T20:54:37.500Z
-updated: 2024-09-30T05:02:30.244Z
+date: 2024-09-29T22:24:25.602Z
+updated: 2024-10-05T16:50:47.734Z
 tags:
   - user-guide
 categories:
@@ -68,10 +68,10 @@ Throughout the project you may have items that you can not delete because they a
 References pane will display a list with the references of the item you tried to delete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go To Definition
@@ -81,10 +81,10 @@ To jump where the selected item from the list is created in the project use the 
 If the selected item can be displayed, the corresponding main page will be activated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go Back To Target Item
@@ -92,10 +92,10 @@ If the selected item can be displayed, the corresponding main page will be activ
 If you used the \[Go To Definition \] option or you have navigated thought the project pages you may want to go back where the target item is displayed. For that, use the \[Go Back To Target Item \] context menu button or press the F6 key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Search References
@@ -105,10 +105,10 @@ You can search for the references of the selected item by using the \[Search Ref
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references found for the selected item will be added to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,14 +144,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-cloudapp-studio-top-10-lightroom-alternatives/"><u>[New] CloudApp Studio Top 10 Lightroom Alternatives</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/emystifying-ajeys-monetization-strategy-youtube-edition/"><u>[New] Demystifying Ajey's Monetization Strategy - YouTube Edition</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/are-interactive-hyperlinks-allowed-in-printed-flipbooks-a-guide-using-flipbuilder/"><u>Are Interactive Hyperlinks Allowed in Printed Flipbooks? - A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://windows11.techidaily.com/beginners-blueprint-to-conquering-diablo/"><u>Beginner’s Blueprint to Conquering Diablo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-troubleshooting-guide-fixing-common-skype-connection-issues/"><u>Essential Troubleshooting Guide: Fixing Common Skype Connection Issues</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ta-the-equation-y-8-represents-a-horizontal-line-because-the-value-of-y-is-constant-for-all-values-of-x-this-means-that-the-slope-of-this-line-is-0-as-there11/"><u>TA]: The Equation $Y = 8$ Represents a Horizontal Line because the Value of $Y$ Is Constant for All Values of $X$. This Means that the Slope of This Line Is $0$, as There Is No Change in $Y$ when $X$ Changes.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unearthing-the-potential-of-htc-vive-for-immersive-gaming-for-2024/"><u>Unearthing the Potential of HTC Vive for Immersive Gaming for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/upgrade-your-projects-free-reactive-design-tools-by-creative-tim-including-bootstrap-3-react-and-reactstrap-integration/"><u>Upgrade Your Projects: Free Reactive Design Tools by Creative Tim, Including Bootstrap 3, React, and Reactstrap Integration</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/vuejs-and-laravel-integration-in-vue-now-by-creative-tim-and-updivision-comprehensive-free-full-stack-software-development-kit-featuring-jsonapi-support/"><u>Vue.js & Laravel Integration in Vue Now by Creative Tim and UPDIVISION: Comprehensive Free Full Stack Software Development Kit Featuring JsonApi Support</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-content-that-captivates-and-grows-your-audience-for-2024/"><u>[Updated] Crafting Content That Captivates and Grows Your Audience for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-professional-tips-for-hd-streaming-success-on-social-media-fb/"><u>[Updated] In 2024, Professional Tips for HD Streaming Success on Social Media (FB)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>[Updated] The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-understanding-bandicam-key-facts-revealed/"><u>2024 Approved Understanding Bandicam - Key Facts Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-inventory-optimal-auto-surveillance-cams/"><u>Elite Inventory Optimal Auto Surveillance Cams</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-6-lite-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic 6 Lite Phones with/without a PC</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-considerations-before-your-ps5-buy-decision/"><u>Key Considerations Before Your PS5 Buy Decision</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-talk-alert-could-facebook-sell-off-giphy-assets/"><u>Tech Talk Alert: Could Facebook Sell Off Giphy Assets?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-the-newly-released-samsung-galaxy-watch-7-pricing-specs-and-release-updates/"><u>The Comprehensive Guide to the Newly Released Samsung Galaxy Watch #7 - Pricing, Specs and Release Updates</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
 </ul></div>
 

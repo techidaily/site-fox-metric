@@ -1,7 +1,7 @@
 ---
 title: "Quick Access Choices: Mastering the Shortcuts Dialog Box"
-date: 2024-09-23T02:29:20.132Z
-updated: 2024-09-30T01:20:49.853Z
+date: 2024-10-04T18:31:56.653Z
+updated: 2024-10-05T22:15:16.645Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 ## Shortcut Options Dialog
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Desktop Shortcuts
@@ -94,10 +94,10 @@ Table of Contents
 This section allows you to hide the **Desktop** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start Menu Programs Shortcuts
@@ -105,10 +105,10 @@ This section allows you to hide the **Desktop** shortcut location on ShortcutsDl
 This section allows you to hide the **Start Menu Programs Folder** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Startup Shortcuts
@@ -116,10 +116,10 @@ This section allows you to hide the **Start Menu Programs Folder** shortcut loca
 This section allows you to hide the **Startup folder** shortcut location on ShortcutsDlg dialog. You can also set the default state of the option if it will be visible during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pin to taskbar
@@ -159,17 +159,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-fixing-absence-of-color-on-game-feedback/"><u>[New] Fixing Absence of Color on Game Feedback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-in-pacing-time-lapse-on-ipad-for-2024/"><u>[Updated] Precision in Pacing Time-Lapse on iPad for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-personalized-page-count-to-your-pdf-books-with-flipbuilders-features/"><u>Adding Personalized Page Count to Your PDF Books with FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-protective-marks-mastering-image-watermarking-in-flipimage-professional-tool/"><u>Adding Protective Marks: Mastering Image Watermarking in FlipImage Professional Tool</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time-for-2024/"><u>Assessing If SNS HDR Deserves Your Investment Time for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-to-flip-printer-solutions-at-flipbuildercom/"><u>Comprehensive Guide to Flip Printer Solutions at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-creating-interactive-ebooks-with-flip-pdf-explore-flipbuildercom/"><u>Comprehensive Guide: Creating Interactive eBooks with Flip PDF - Explore FlipBuilder.com</u></a></li>
-<li><a href="https://win11.techidaily.com/free-methods-to-transfer-your-dvd-collection-onto-your-huawei-device-a-comprehensive-guide/"><u>Free Methods to Transfer Your DVD Collection Onto Your Huawei Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-13c-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi 13C to New Phone | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/identifying-artificially-intelligent-images-a-comprehensive-guide/"><u>Identifying Artificially Intelligent Images: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-steps-to-explore-iis-manager-interface/"><u>Streamlined Steps to Explore IIS Manager Interface</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/understanding-the-difference-in-30-and-60-fps-videography-for-2024/"><u>Understanding the Difference in 30 and 60 FPS Videography for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-immaculatepixels-prograde-background-elimination-for-2024/"><u>[Updated] ImmaculatePixels Prograde Background Elimination for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-clearsnapzoommax-7-professional-photo-scaling/"><u>[Updated] In 2024, ClearSnapZoomMax 7 Professional Photo Scaling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>[Updated] Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-m6-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco M6 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-guide-on-assessing-sql-link-establishment-successfully/"><u>How-To Guide on Assessing SQL Link Establishment Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-command-center-conundrums-deciphering-best-cloud-solutions/"><u>In 2024, Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-mic-selection-for-vloggers-and-streamers-for-2024/"><u>Ultimate Mic Selection for Vloggers and Streamers for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-no-cost-pdf-editor-for-windows-10-top-rated-and-free-download/"><u>Ultimate No-Cost PDF Editor for Windows 10: Top Rated & Free Download</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-imsixpackage-dependencies-in-software-development/"><u>Understanding IMsixPackage Dependencies in Software Development</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-creativity-with-the-best-online-screen-changers-for-2024/"><u>Unleash Creativity with the Best Online Screen Changers for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721949841799-why-you-should-steer-clear-from-the-google-bard-application-malware-alert/"><u>Why You Should Steer Clear From the Google Bard Application – Malware Alert!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel"
-date: 2024-09-24T09:07:02.393Z
-updated: 2024-09-30T00:40:51.789Z
+date: 2024-10-04T16:06:18.840Z
+updated: 2024-10-05T22:29:34.437Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,16 @@ Table of Contents
 ![Control Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/control-condition.png "Control Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -98,10 +104,10 @@ Table of Contents
 The conditional statement that specifies under which conditions the action should be triggered. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/) (it cannot be blank). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action
@@ -141,21 +147,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-5-ios-friendly-fb-videos-optimal-downloading-apps/"><u>[New] 5 iOS-Friendly FB Videos Optimal Downloading Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-boosting-engagement-and-followers-in-igtv-with-smart-hash-tagging-for-2024/"><u>[New] Boosting Engagement and Followers in IGTV with Smart Hash Tagging for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-strategies-to-perfect-the-last-push-on-your-vimeo-videos/"><u>[New] In 2024, Strategies to Perfect the Last Push on Your Vimeo Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-personalized-page-count-to-your-pdf-books-with-flipbuilders-features/"><u>Adding Personalized Page Count to Your PDF Books with FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-protective-marks-mastering-image-watermarking-in-flipimage-professional-tool/"><u>Adding Protective Marks: Mastering Image Watermarking in FlipImage Professional Tool</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-to-flip-printer-solutions-at-flipbuildercom/"><u>Comprehensive Guide to Flip Printer Solutions at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-guide-creating-interactive-ebooks-with-flip-pdf-explore-flipbuildercom/"><u>Comprehensive Guide: Creating Interactive eBooks with Flip PDF - Explore FlipBuilder.com</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-chm-files-to-pdf-for-free-secure-and-safe-conversion-on-flipbuilder/"><u>Convert .CHM Files to PDF for Free: Secure & Safe Conversion on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-chm-files-to-secure-pdf-ebooks-at-no-cost-flipbuilders-reliable-conversion-tool/"><u>Convert .CHM Files to Secure PDF eBooks at No Cost - FlipBuilder's Reliable Conversion Tool</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-multiple-pdfs-to-ebooks-free-of-charge-with-epub-on-flipbuilder/"><u>Convert Multiple PDFs to eBooks Free of Charge with ePub on FlipBuilder</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-way-to-edit-youtube-videos-in-imovie-for-2024/"><u>Easy Way to Edit YouTube Videos in iMovie for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c12-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C12 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-a05s-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy A05s Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/no-need-for-separate-drivers-windows-11-offers-native-printer-and-scanner-compatibility/"><u>No Need for Separate Drivers: Windows 11 Offers Native Printer & Scanner Compatibility</u></a></li>
-<li><a href="https://blog-min.techidaily.com/seamlessly-transfer-your-dvd-subtitle-files-into-srt-format-for-both-windows-and-macos-users/"><u>Seamlessly Transfer Your DVD Subtitle Files Into SRT Format for Both Windows & macOS Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-503-service-unavailable-mistakes-on-your-website/"><u>Troubleshooting 503 Service Unavailable Mistakes on Your Website</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>[New] 2024 Approved The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-tutorial-on-sourcing-top-quality-high-res-audio-files/"><u>Easy Tutorial on Sourcing Top Quality High-Res Audio Files</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/is-being-polite-to-intelligent-assistants-such-as-chatgpt-alexa-by-amazon-and-siri-by-apple-a-must-for-proper-interaction/"><u>Is Being Polite to Intelligent Assistants Such as ChatGPT, Alexa by Amazon, and Siri by Apple a Must for Proper Interaction?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-slicing-through-long-videos-the-quickest-methods-for-mac-editing-for-2024/"><u>New Slicing Through Long Videos The Quickest Methods for Mac Editing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/now-divide-both-sides-by-72-to-solve-for-x/"><u>Now, Divide Both Sides by 72 to Solve for X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973770669-quick-updates-for-your-intel-iris-540-graphic-drivers-made-easy/"><u>Quick Updates for Your Intel Iris 540 Graphic Drivers Made Easy</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-rise-and-reality-of-magix-paintbox-for-2024/"><u>The Rise and Reality of MAGIX Paintbox for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
 </ul></div>
 

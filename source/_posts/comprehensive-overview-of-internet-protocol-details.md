@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Overview of Internet Protocol Details
-date: 2024-09-28T01:13:18.519Z
-updated: 2024-09-30T05:00:10.872Z
+date: 2024-10-04T21:05:49.124Z
+updated: 2024-10-05T18:35:42.192Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchDetails
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,22 +129,15 @@ Table of Contents
 IPatchDetails : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit patch details (name, company, comments, etc.)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -169,10 +162,10 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **Array<String> PatchesToReplace** \- Gets the collection of patches to replace. These patches, .msp files, if found installed and registered with Windows Installer on the user's computer, will be unregistered from the appropriate places.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -180,6 +173,13 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **AddPatchToReplace(String aPatch)** Adds new .msp file to the collection of patches to replace.
 
 **RemovePatchToReplace(String aPatch)** Removes a .msp file from the collection of patches to replace.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -220,22 +220,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>[New] Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>[New] The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>2024 Approved A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complimentary-material-tailwind-kit-with-react-integration-and-complete-wfh-solution-unleash-your-creative-potential-at-creative-tim/"><u>Complimentary Material Tailwind Kit with React Integration and Complete WFH Solution - Unleash Your Creative Potential at Creative Tim!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-blk-design-system-a-complimentary-bootstrap-4-framework-for-modern-web-development/"><u>Creative Tim's BLK Design System: A Complimentary Bootstrap 4 Framework for Modern Web Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-bootstrap-4-administrator-template-professional-and-enhanced-lightweight-interface/"><u>Creative Tim's Elite Bootstrap 4 Administrator Template - Professional & Enhanced Lightweight Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-laravel-admin-suite-with-pre-built-bootstrapped-crud-functionality/"><u>Creative Tim's Elite Laravel Admin Suite with Pre-Built Bootstrapped CRUD Functionality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-innovative-bootstrap-based-jquery-calendar-a-dual-view-on-time-management/"><u>Creative Tim's Innovative Bootstrap-Based jQuery Calendar: A Dual View on Time Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-premier-react-framework-with-professional-material-dashboard-2-pro-templates/"><u>Creative Tim's Premier React Framework with Professional Material Dashboard 2 PRO Templates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-professional-material-dashboard-with-angular-and-bootstrap-4-for-superior-admin-panel-experience/"><u>Creative Tim's Professional Material Dashboard with Angular & Bootstrap 4 for Superior Admin Panel Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-to-tackle-coredll-cannot-be-located-warnings/"><u>Effective Strategies to Tackle Core.dll Cannot Be Located Warnings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-iphone-7-screen-capture/"><u>Master the Art of iPhone 7 Screen Capture</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recommended-hardware-and-software-for-optimal-performance-on-splash-20/"><u>Recommended Hardware and Software for Optimal Performance on Splash 2.0</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-motorola-moto-g73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Motorola Moto G73 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-google-pixel-8-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Google Pixel 8 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] In 2024, Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-screen-sharing-on-discord/"><u>[Updated] 2024 Approved Mastering Screen Sharing on Discord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sony-xperia-xz-premium-4k-smartphone-review/"><u>[Updated] Sony Xperia XZ Premium 4K Smartphone Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-novices-route-to-revenue-in-the-youtube-realm/"><u>[Updated] The Novice's Route to Revenue in the YouTube Realm</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-science-behind-time-warp-visuals-for-2024/"><u>[Updated] The Science Behind Time Warp Visuals for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic 5 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029493692-shotcut/"><u>Shotcutアプリで動画回転・反転技術：簡単ガイド</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-end-of-apple-pay-later-exploring-new-financial-services-by-apple-on-the-horizon-zdnet/"><u>The End of Apple Pay Later? Exploring New Financial Services by Apple on the Horizon | ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-recommended-white-background-applications-in-poshmark-for-a-stellar-shopping-experience/"><u>Top Recommended White Background Applications in Poshmark for a Stellar Shopping Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-video-editing-software-ideal-for-vlog-creators/"><u>Top-Rated Video Editing Software Ideal for Vlog Creators</u></a></li>
 </ul></div>
 

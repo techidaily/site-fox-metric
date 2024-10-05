@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Tasks: Mastering Different Project Structures"
-date: 2024-09-24T00:06:46.226Z
-updated: 2024-09-30T07:16:50.888Z
+date: 2024-09-29T16:18:29.451Z
+updated: 2024-10-05T21:26:19.131Z
 tags:
   - user-guide
 categories:
@@ -79,43 +79,37 @@ Table of Contents
 
 ## Convert Project Types
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Repackage Installation
 
 ![Repackager](https://cdn.advancedinstaller.com/img/project/repackager.png "Repackager") This type of project gives you the possibility to create a project based on [capturing an existing installation](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repackager Session Monitoring
 
 ![Session monitoring](https://cdn.advancedinstaller.com/img/project/session-monitoring.png "Session monitoring")This type of project creates a package that contains only the changes you manually perform like creating a shortcut file, association or folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Import Repackaging Results
 
 ![Import repack results](https://cdn.advancedinstaller.com/img/project/import-repack-results.png "Import repack results") This type of project gives you the possibility to create a project starting from results of a previous repackaging operation. Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI from EXE(s)
@@ -123,10 +117,10 @@ Table of Contents
 ![Msi from exe](https://cdn.advancedinstaller.com/img/project/msi-from-exe.png "Msi from exe") This type of project gives you the possibility to[convert existing EXE packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import MSI
@@ -134,10 +128,10 @@ Table of Contents
 ![Msi import](https://cdn.advancedinstaller.com/img/project/msi-import.png "Msi import") This type of project gives you the possibility to[import an existing MSI](https://tools.techidaily.com/advancedinstaller/products/) into an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Desktop App Converter
@@ -181,19 +175,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-ae-text-preset-collection-the-best-of-both-worlds/"><u>[New] AE Text Preset Collection The Best of Both Worlds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erfect-your-youtube-intro-step-by-step-method-a-plus-b/"><u>[New] Perfect Your YouTube Intro Step by Step (Method A + B)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-pc-speeds-choosing-the-right-extension-software/"><u>2024 Approved Top PC Speeds Choosing the Right Extension Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-bbc-shows-into-video-formats-save-episodes-in-mp4-or-avi/"><u>Convert Your Favorite BBC Shows Into Video Formats - Save Episodes in MP4 or AVI</u></a></li>
-<li><a href="https://win-forum.techidaily.com/demystifying-bios-settings-and-uses-of-revouninstaller-software/"><u>Demystifying BIOS Settings and Uses of RevoUninstaller Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-guide-setting-up-personal-ringtones-with-spotify-music/"><u>DIY Guide: Setting Up Personal Ringtones with Spotify Music</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-video-downloading-how-to-transform-and-transfer-vimeo-content-onto-dvds-for-offline-viewing/"><u>DIY Video Downloading: How to Transform and Transfer Vimeo Content Onto DVDs for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-hd-adult-content-from-reality-kings-in-mp4-format-using-reality-kings-downloader/"><u>Download HD Adult Content From Reality Kings in MP4 Format Using Reality Kings Downloader</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-downloads-with-openload-access-a-world-of-video-content-including-series-and-movies/"><u>Free Downloads with OPENLOAD: Access a World of Video Content Including Series and Movies</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>In 2024, Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-v30t-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme V30T</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-xs-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone XS Max You Should Try Out</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966316520-latest-audio-interface-drivers-for-microsoft-windows-get-your-free-downloads/"><u>Latest Audio Interface Drivers for Microsoft Windows - Get Your FREE Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/streaming-mit-ultra-hd-4k-oder-in-qualitativ-hochwertigen-originalen-kinoversionen/"><u>Streaming Mit Ultra HD 4K Oder in Qualitativ Hochwertigen, Originalen Kinoversionen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinemas-best-hope-fueled-film-selections/"><u>2024 Approved Cinema's Best Hope-Fueled Film Selections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-most-shared-moments-socials-star-vids/"><u>2024 Approved Most Shared Moments Social's Star Vids</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v27-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V27 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adjusting-data-in-the-microsoft-installer-summary-tab-a-comprehensive-guide/"><u>Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969345005-get-the-latest-wi-fi-driver-upgrades-for-your-windows-7-device-instantly/"><u>Get the Latest Wi-Fi Driver Upgrades for Your Windows 7 Device Instantly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pushing-frontiers-elons-ai-project-scoop/"><u>Pushing Frontiers: Elon's AI Project Scoop</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
 </ul></div>
 

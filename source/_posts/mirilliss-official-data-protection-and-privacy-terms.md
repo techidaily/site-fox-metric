@@ -1,7 +1,7 @@
 ---
 title: Mirillis's Official Data Protection and Privacy Terms
-date: 2024-09-22T21:37:34.691Z
-updated: 2024-09-30T05:40:28.716Z
+date: 2024-09-28T17:41:58.541Z
+updated: 2024-10-05T20:35:49.407Z
 tags:
   - product
 categories:
@@ -45,10 +45,16 @@ Please read this information carefully before using Mirillis websites or/and cre
  \- On mirillis.com we carry out the so-called "soft" profiling. This means that we collect statistics about traffic on our websites, as well as data that enable us to use marketing activities (eg Google AdWords remarketing).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What personal information is collected and when
@@ -58,16 +64,10 @@ Mirillis Ltd. does not collect any personal information, this means no informati
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting this page. You can learn more about Google's practices at <http://google.com/policies/privacy>. You can revoke any authorization consent provided to our API client using this link <https://security.google.com/settings/security/permissions>.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How we may use personal information
@@ -75,26 +75,26 @@ We use Google Analytics, Google AdWords Conversion tracker, other Google service
 Your e-mail address (collected during product purchase or forum registration process) information may be used by Mirillis Ltd. for contact purposes on important matters. If you agree (i.e. by subscribing newsletter) to receive information from Mirillis, we will use e-mail contact information to send you electronic newsletters or similar types of information. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security 
 
 We take all possible measures to protect our customers and website users information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Questions
 
 If you have any questions regarding Privacy Policy please feel free to [contact us.](https://tools.techidaily.com/mirillis/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### General
 
@@ -115,20 +115,20 @@ This Privacy Policy may be changed from time to time, please check our privacy p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-download-youtube-images-with-ease-online-for-2024/"><u>[New] Download YouTube Images with Ease Online for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-youtube-creator-summit-a-getaway-for-top-talent/"><u>[Updated] The YouTube Creator Summit - A Getaway for Top Talent</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-on-creating-striking-ae-titles/"><u>Expert Tips on Creating Striking AE Titles</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-convert-your-school-of-podcasting-episodes-into-high-quality-audio-formats-like-mp3-and-wav/"><u>How to Convert Your School of Podcasting Episodes Into High-Quality Audio Formats Like MP3 and WAV</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-transfer-and-download-la-1ere-tv-show-videos-in-hd-as-mp4-or-avi-files-for-offline-viewing/"><u>How to Transfer and Download La 1Ère TV Show Videos in HD as MP4 or AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-decoding-snapchat-emoji-language/"><u>In 2024, Decoding Snapchat Emoji Language</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/koreas-top-episodes-and-films-free-download-app-for-mp4-avi-mov-files-korea-drama-downloader/"><u>Korea's Top Episodes and Films: Free Download App for MP4, AVI, MOV Files - Korea Drama Downloader</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/overcoming-dipry-issues-comprehensive-solutions-for-mac-users-and-windows-enthusiasts/"><u>Overcoming DIPrY Issues: Comprehensive Solutions for Mac Users and Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/starting-your-journey-a-guide-to-kickstarting-a-prompt-engineering-career/"><u>Starting Your Journey: A Guide to Kickstarting a Prompt Engineering Career</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-alienthink-course-content-as-mp4avi-files/"><u>Step-by-Step Tutorial for Downloading and Saving AlienThink Course Content as MP4/AVI Files</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-tutorial-converting-youtube-content-for-dvd-player-viewing/"><u>The Ultimate Tutorial: Converting YouTube Content for DVD Player Viewing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-resolving-iphone-voicemail-issues/"><u>Top 9 Solutions for Resolving iPhone Voicemail Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-quick-youtube-comment-removal-techniques/"><u>[New] In 2024, Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[Updated] 2024 Approved Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-audio-transforming-software-for-streamers-for-2024/"><u>[Updated] Essential Audio Transforming Software for Streamers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-addressing-the-your-computer-cannot-start-error-message/"><u>Expert Tips for Addressing the 'Your Computer Cannot Start' Error Message</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nocturnal-tales-on-the-silver-screen-for-2024/"><u>Nocturnal Tales on the Silver Screen for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-inside-music-agptek-a01-tiny-tech-review/"><u>Step Inside Music: AGPTEK A01 Tiny Tech Review</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
 </ul></div>
 

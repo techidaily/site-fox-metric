@@ -1,7 +1,7 @@
 ---
 title: "Universal Setup Techniques: Efficiently Managing Global Preferences"
-date: 2024-09-24T09:25:05.001Z
-updated: 2024-09-30T00:21:48.942Z
+date: 2024-10-03T18:48:42.243Z
+updated: 2024-10-05T19:00:49.999Z
 tags:
   - user-guide
 categories:
@@ -100,10 +100,10 @@ This view allows you to enable post configuration actions.
 ![Global settings](https://cdn.advancedinstaller.com/img/ui/global-settings.png "Global settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Post Configuration Actions
@@ -113,23 +113,17 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option becomes available once you have added at least one [Web Site](https://tools.techidaily.com/advancedinstaller/products/) or [virtual directory](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upgrades
@@ -137,10 +131,10 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This setting is available only for packages built with Advanced Installer 16.5 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 During an upgrade, the client customizations at IIS server level (applicationHost.config) can be preserved. These settings could be:
@@ -188,24 +182,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-beginner-to-pro-the-top-tips-for-instagram-stories/"><u>[Updated] From Beginner to Pro The Top Tips for Instagram Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>2024 Approved A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-microsofts-innovation-on-display-the-hololens-revolution/"><u>2024 Approved Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-capturing-the-perfect-verbal-note/"><u>2024 Approved Techniques for Capturing the Perfect Verbal Note</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-guide-to-exceptional-live-streamers/"><u>2024 Approved The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/como-convertir-archivos-wmv-en-mp4-sin-coste-guia-completa-para-sistemas-windows-y-mac/"><u>Cómo Convertir Archivos WMV en MP4 Sin Coste: Guía Completa Para Sistemas Windows Y Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-started-with-zero-cost-professional-attire-pages-template-collection-for-digital-creatives-on-flipbuilder/"><u>Get Started with Zero Cost: Professional Attire Pages Template Collection for Digital Creatives on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-transform-your-office-documents-into-an-interactive-ebook-with-toc-using-flipbuilder/"><u>How to Transform Your Office Documents Into an Interactive eBook with TOC Using FlipBuilder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-x876-owners-must-have-gif-apps-guide/"><u>In 2024, IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-collage-hacks-unveiled-for-2024/"><u>Instagram Collage Hacks Unveiled for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/is-it-possible-to-change-help-window-sizes-at-flipbuildercom/"><u>Is It Possible To Change Help Window Sizes at FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-content-creation-with-flip-writers-expert-knowledge-hub-dive-into-flipbuildercom-resources/"><u>Mastering Content Creation with Flip Writer's Expert Knowledge Hub - Dive Into FlipBuilder.com Resources</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimize-for-speed-effective-techniques-for-reducing-page-flip-latency-on-flipbuilder/"><u>Optimize for Speed: Effective Techniques for Reducing Page-Flip Latency on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/preserve-your-design-templates-easily-with-flipcreator-a-comprehensive-tutorial/"><u>Preserve Your Design Templates Easily with FlipCreator: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/professional-free-online-tool-batch-transform-multiple-images-into-high-quality-pdf-documents/"><u>Professional Free Online Tool: Batch Transform Multiple Images Into High-Quality PDF Documents</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/requesting-a-purchase-invoice-on-flipbuilder-how-can-i-obtain-it/"><u>Requesting a Purchase Invoice on FlipBuilder - How Can I Obtain It?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transforming-word-files-into-interactive-flipbooks-with-flipbuilders-tutorial/"><u>Transforming Word Files Into Interactive Flipbooks with FlipBuilder's Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-screen-capture-apps-beyond-official-gaming-tools/"><u>[New] In 2024, Essential Screen Capture Apps Beyond Official Gaming Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hiding-unwanted-elements-with-smart-filters-ps/"><u>2024 Approved Hiding Unwanted Elements with Smart Filters PS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>2024 Approved Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-online-platforms-for-discovering-new-tunes-and-expanding-your-playlist/"><u>Best Online Platforms for Discovering New Tunes and Expanding Your Playlist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deploying-ai-agents-with-agentgpt-a-step-by-step-guide-from-your-web-browser/"><u>Deploying AI Agents with AgentGPT: A Step-by-Step Guide From Your Web Browser</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-to-stripping-xml-master-the-art-of-element-deletion/"><u>Easy Guide to Stripping XML: Master the Art of Element Deletion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v27-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V27 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dynamic-dialogue-driven-decks/"><u>In 2024, Dynamic Dialogue Driven Decks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-the-application-virtualization-configurations-the-role-of-the-options-tab-and-registry-key-setup/"><u>Navigating the Application Virtualization Configurations: The Role of the Options Tab and Registry Key Setup</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-facilement-vos-fichier-mts-en-mp4-methodes-gratuites/"><u>Transformez Facilement Vos Fichier MTS en MP4 - Méthodes Gratuites</u></a></li>
 </ul></div>
 

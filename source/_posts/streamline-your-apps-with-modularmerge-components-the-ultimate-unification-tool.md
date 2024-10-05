@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool"
-date: 2024-09-29T02:51:44.540Z
-updated: 2024-09-30T03:11:57.231Z
+date: 2024-10-03T17:50:42.121Z
+updated: 2024-10-05T16:48:31.964Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IMergeModulesComponent
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 IMergeModulesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -134,6 +134,19 @@ This interface is meant to add a new merge module, delete or edit the existing o
 
 **Array<IMergeModule> MergeModules** \- Gets the collection of project merge modules. 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Methods
 
 **AddMergeModule(String aSourcePath)** returns IMergeModule  
@@ -141,13 +154,6 @@ This interface is meant to add a new merge module, delete or edit the existing o
 
  **RemoveMergeModule(IMergeModule aMergeModule)**  
  Removes a specified merge module from the project.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Example
 
@@ -159,10 +165,10 @@ Modules\Microsoft_VC140_DebugMFC_x64.msm")
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -204,20 +210,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-8-facebook-planners-for-enhanced-team-productivity/"><u>[New] 2024 Approved Top 8 Facebook Planners for Enhanced Team Productivity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comparing-profits-from-high-ranking-youtube-videos-for-2024/"><u>[Updated] Comparing Profits From High-Ranking YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[Updated] Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevating-your-gaming-the-xbox-recorder-playbook/"><u>2024 Approved Elevating Your Gaming The Xbox Recorder Playbook</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-videostreams-from-ustream-efficiently-top-tools-and-tutorials-for-mac-and-windows-users/"><u>Download Videostreams From Ustream Efficiently: Top Tools & Tutorials for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-downloading-and-converting-zattoo-videos-into-multiple-formats-like-mp4-avi-and-mov-for-offline-viewing/"><u>Easy Guide: Downloading & Converting Zattoo Videos Into Multiple Formats Like MP4, AVI, and MOV for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-troubleshooting-steps-resolving-youtube-connectivity-errors-on-a-samsung-television-set/"><u>Easy Troubleshooting Steps: Resolving YouTube Connectivity Errors on a Samsung Television Set</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-your-favorite-hitboxtv-shows-downloadable-recording-and-streaming-options-for-pc-mac/"><u>Get Your Favorite Hitbox.TV Shows - Downloadable Recording and Streaming Options for PC, Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-caption-solutions-photo-text-integration-guide-for-2024/"><u>Ideal Caption Solutions Photo-Text Integration Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-free-picture-haven-a-review-of-the-best-10-online-resources/"><u>In 2024, Free Picture Haven A Review of the Best 10 Online Resources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-reno-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Reno 11 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/perfect-the-art-of-teamsnap-photos-for-business-success-for-2024/"><u>Perfect the Art of TeamSnap Photos for Business Success for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-4-ai-writing-companions-for-every-wordsmith/"><u>The Best 4 AI Writing Companions for Every Wordsmith</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-exclusive-roundup-the-best-video-to-mp3-converters/"><u>[New] In 2024, Exclusive Roundup The Best Video to Mp3 Converters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[Updated] 2024 Approved Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100 FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adding-yourself-to-our-professional-network-directory-membership-guide/"><u>Adding Yourself to Our Professional Network: Directory Membership Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevating-your-game-in-drone-racing-and-top-5-speedy-fpv-drones/"><u>Elevating Your Game in Drone Racing & Top 5 Speedy FPV Drones</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/in-depth-guide-best-mp4-downloader-services-beyond-video2mp3/"><u>In-Depth Guide: Best MP4 Downloader Services Beyond Video2MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mirroring-images-with-your-iphone-a-comprehensive-guide/"><u>Mirroring Images with Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sync-your-xiaomi/"><u>Sync Your Xiaomi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-your-youtube-remarks-across-os-platforms-for-2024/"><u>Uncovering Your YouTube Remarks Across OS Platforms for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-lzma-compression-preferences-window/"><u>Understanding the LZMA Compression Preferences Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
+<li><a href="https://games-able.techidaily.com/unshakeable-play-nullify-series-x-vibration/"><u>Unshakeable Play: Nullify Series X Vibration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>Updated 2024 Approved Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
 </ul></div>
 

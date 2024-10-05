@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Hyperlink Management: Mastering the Edit Link Dialog"
-date: 2024-09-22T17:00:22.757Z
-updated: 2024-09-30T08:35:17.147Z
+date: 2024-10-04T18:07:03.988Z
+updated: 2024-10-05T18:11:51.818Z
 tags:
   - user-guide
 categories:
@@ -91,16 +91,10 @@ Table of Contents
 ![Edit Link Dialog](https://cdn.advancedinstaller.com/img/dialog/new-link-dialog.png "Edit Link Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Location
@@ -111,10 +105,10 @@ Table of Contents
 * Specify the name of the link. This field is of [pseudo-formatted](https://tools.techidaily.com/advancedinstaller/products/) type. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Target
@@ -122,10 +116,10 @@ Table of Contents
 Specify the path to the link's target file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -142,10 +136,16 @@ Specify the type of the link:
 * Creates a link of type Junction. A junction (or a soft link) is almost identical to a hard link, the difference being that the objects it references are separate directories, and it can link directories located on different local volumes on the same computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options
@@ -186,19 +186,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-prioritize-your-videography-with-top-12-players/"><u>[Updated] Prioritize Your Videography with Top 12 Players</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-challenge-in-depth-strategies-for-fixing-error-code-103003-in-tarkov-online/"><u>Beat the Challenge: In-Depth Strategies for Fixing Error Code 103003 in Tarkov Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-the-annoying-not-detected-warning-on-your-usb-devices/"><u>Eliminate the Annoying 'Not Detected' Warning on Your USB Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-15-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 15 System? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-transform-your-office-documents-into-an-interactive-ebook-with-toc-using-flipbuilder/"><u>How to Transform Your Office Documents Into an Interactive eBook with TOC Using FlipBuilder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pioneering-sustainability-transforming-metropolitan-environments/"><u>In 2024, Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/is-it-possible-to-change-help-window-sizes-at-flipbuildercom/"><u>Is It Possible To Change Help Window Sizes at FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-content-creation-with-flip-writers-expert-knowledge-hub-dive-into-flipbuildercom-resources/"><u>Mastering Content Creation with Flip Writer's Expert Knowledge Hub - Dive Into FlipBuilder.com Resources</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimize-for-speed-effective-techniques-for-reducing-page-flip-latency-on-flipbuilder/"><u>Optimize for Speed: Effective Techniques for Reducing Page-Flip Latency on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/preserve-your-design-templates-easily-with-flipcreator-a-comprehensive-tutorial/"><u>Preserve Your Design Templates Easily with FlipCreator: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/professional-free-online-tool-batch-transform-multiple-images-into-high-quality-pdf-documents/"><u>Professional Free Online Tool: Batch Transform Multiple Images Into High-Quality PDF Documents</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-activating-crossfade-option-in-your-apple-music-library/"><u>Step-by-Step Tutorial: Activating Crossfade Option in Your Apple Music Library</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-to-wipe-all-emails-from-your-gmail-app-at-once/"><u>Comprehensive Instructions to Wipe All Emails From Your Gmail App at Once</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/deep-into-dynamic-dialogue-dives/"><u>Dive Deep Into Dynamic Dialogue Dives</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-14-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 14 without Apple ID?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-new-capabilities-chatgpt-optimizes-user-experience-with-slashed-api-subscription-rates/"><u>Introducing New Capabilities: ChatGPT Optimizes User Experience with Slashed API Subscription Rates</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can/"><u>New 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
 </ul></div>
 

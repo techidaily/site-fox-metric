@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Property Search Enhancements
-date: 2024-09-28T23:40:20.981Z
-updated: 2024-09-30T04:28:22.700Z
+date: 2024-09-29T17:38:16.046Z
+updated: 2024-10-05T17:21:24.325Z
 tags:
   - user-guide
 categories:
@@ -82,14 +82,14 @@ The search operation is performed on the target machine only if the specified pr
 
 ![Extended search properties](https://cdn.advancedinstaller.com/img/ui/extended-search-properties.png "Extended search properties")  
 
-## Search Type
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Search Type
 
 ### Criteria
 
@@ -110,6 +110,19 @@ When searching multiple criteria can be used:
 * Product Version (identify by Upgrade Code) - The search will be successful if a product with the specified Upgrade Code and the appropriate version number is installed.
 * Installed MSIX package version - The search will be successful if the MSIX package with the appropriate _Package Name_(and optionally_Architecture_ and _Publisher_) is installed on the target machine. . You can either manually fill in the _Package Name_ or use the[Select an MSIX Product Dialog](https://tools.techidaily.com/advancedinstaller/products/) by clicking on\[...\] button
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### File To Find/Registry Key or Value
 
 This is helper string used in various criteria. Depending on the used criteria it may contain a file path, registry key or value, product code, upgrade code, etc. 
@@ -120,6 +133,13 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When searching for a file, if no path is specified, the search will be performed on all fix drives.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Search Depth
 
  Specified how deep within the folder's subdirectories to search for a file.
@@ -129,10 +149,10 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 Check this if you want to search in the 64-bit registry section. The search will not be redirected to the 32-bit section, regardless of the [package type](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Required Versions
@@ -146,20 +166,6 @@ The minimum version necessary for the search to be successful.
 The maximum version necessary for the search to be successful.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are using as criteria the version number extracted from a file or a registry value you can leave both fields blank. In this case, Advanced Installer will check only the presence of that file or registry value. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -199,21 +205,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>[Updated] 2024 Approved Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-composing-an-alluring-cinematic-teaser-track/"><u>[Updated] Composing an Alluring Cinematic Teaser Track</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-scoring-big-on-youtube-how-much-do-ad-revenues-add-up-in-2024/"><u>[Updated] Scoring Big on YouTube How Much Do Ad Revenues Add Up, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-optimal-hdr-camera-selection/"><u>2024 Approved Expert Advice on Optimal HDR Camera Selection</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>2024 Approved The Ultimate Method Changing Account Numbers on TikTok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-cleanup-tips-how-to-remove-stored-cache-files/"><u>Android Cleanup Tips: How to Remove Stored Cache Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/charting-the-course-of-viral-stocks-and-stories-for-2024/"><u>Charting the Course of Viral Stocks & Stories for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complimentary-material-tailwind-kit-with-react-integration-and-complete-wfh-solution-unleash-your-creative-potential-at-creative-tim/"><u>Complimentary Material Tailwind Kit with React Integration and Complete WFH Solution - Unleash Your Creative Potential at Creative Tim!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-blk-design-system-a-complimentary-bootstrap-4-framework-for-modern-web-development/"><u>Creative Tim's BLK Design System: A Complimentary Bootstrap 4 Framework for Modern Web Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-bootstrap-4-administrator-template-professional-and-enhanced-lightweight-interface/"><u>Creative Tim's Elite Bootstrap 4 Administrator Template - Professional & Enhanced Lightweight Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-laravel-admin-suite-with-pre-built-bootstrapped-crud-functionality/"><u>Creative Tim's Elite Laravel Admin Suite with Pre-Built Bootstrapped CRUD Functionality</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/experience-the-best-in-video-playback-unlock-splash-20-for-free-high-definition-hd-quality/"><u>Experience the Best in Video Playback: Unlock Splash 2.0 for Free High-Definition HD Quality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mirilliss-official-data-protection-and-privacy-terms/"><u>Mirillis's Official Data Protection and Privacy Terms</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recommended-hardware-and-software-for-optimal-performance-on-splash-20/"><u>Recommended Hardware and Software for Optimal Performance on Splash 2.0</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-lenovo-camera-with-the-latest-drivers-for-windows-7-platforms/"><u>Update Your Lenovo Camera with the Latest Drivers for Windows 7 Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-selective-blur-for-enhanced-mobile-photography/"><u>[Updated] Smart Selective Blur for Enhanced Mobile Photography</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-top-10-affordable-mobile-video-services/"><u>2024 Approved Navigating Top 10 Affordable Mobile Video Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-arma-3s-crash-issues-with-advanced-fixes-insider-knowledge/"><u>Mastering Stability: Overcoming Arma 3'S Crash Issues with Advanced Fixes - Insider Knowledge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-constant-team-fortress-2-game-crashes/"><u>Resolved: Fixes for Constant Team Fortress 2 Game Crashes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-chatgpts-limits-with-new-options/"><u>Surpassing ChatGPT's Limits with New Options</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-casting-bridge-your-apple-tvplus-and-chromecast/"><u>Unlock the Power of Casting: Bridge Your Apple TV+ and Chromecast</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
 </ul></div>
 

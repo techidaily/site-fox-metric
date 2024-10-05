@@ -1,7 +1,7 @@
 ---
 title: How-To Guide on Assessing SQL Link Establishment Successfully
-date: 2024-09-25T00:26:33.870Z
-updated: 2024-09-29T18:26:26.106Z
+date: 2024-10-03T18:33:20.634Z
+updated: 2024-10-05T18:31:25.323Z
 tags:
   - user-guide
 categories:
@@ -83,16 +83,10 @@ This feature enables the user to test if the ODBC connection works.
 ## General
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Connection String
@@ -101,16 +95,16 @@ In this field an SQL Connection field could be entered.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To escape characters in an SQL connection string you must enclose them between { and } characters (e.g. To escape a password value like;1234, the connection string should containPwd={;1234};. Since Advanced Installer uses [formatted fields](https://tools.techidaily.com/advancedinstaller/products/) the syntax will become something like Pwd=\[\\{\]\[PASSWORD\_PROP\]\[\\}\]; where PASSWORD\_PROP [public property](https://tools.techidaily.com/advancedinstaller/products/) will be dynamically resolved at runtime to ;1234.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use 64-bit ODBC resource
 
 Check this option to test connection against a 64-bit ODBC driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Login timeout (sec)
 
@@ -120,25 +114,25 @@ Check this option to test connection against a 64-bit ODBC driver.
 
 In this section you can choose to display the "Please wait.." message box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Output
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property
 
 The output property is always set to 0 when the connection test fails and to 1 when it succeeds.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Execution
 
@@ -177,24 +171,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-is-splitcam-the-premier-choice-for-video-capture-in-2024/"><u>[New] Is SplitCam the Premier Choice for Video Capture, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jokejigsaw-creator-humor-graphic-tool/"><u>2024 Approved JokeJigsaw Creator Humor Graphic Tool</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complimentary-material-tailwind-kit-with-react-integration-and-complete-wfh-solution-unleash-your-creative-potential-at-creative-tim/"><u>Complimentary Material Tailwind Kit with React Integration and Complete WFH Solution - Unleash Your Creative Potential at Creative Tim!</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-recurring-freezing-errors-on-windows-or-mac-systems/"><u>Comprehensive Strategies to Overcome Recurring Freezing Errors on Windows or Mac Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-blk-design-system-a-complimentary-bootstrap-4-framework-for-modern-web-development/"><u>Creative Tim's BLK Design System: A Complimentary Bootstrap 4 Framework for Modern Web Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-bootstrap-4-administrator-template-professional-and-enhanced-lightweight-interface/"><u>Creative Tim's Elite Bootstrap 4 Administrator Template - Professional & Enhanced Lightweight Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-laravel-admin-suite-with-pre-built-bootstrapped-crud-functionality/"><u>Creative Tim's Elite Laravel Admin Suite with Pre-Built Bootstrapped CRUD Functionality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-innovative-bootstrap-based-jquery-calendar-a-dual-view-on-time-management/"><u>Creative Tim's Innovative Bootstrap-Based jQuery Calendar: A Dual View on Time Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-premier-react-framework-with-professional-material-dashboard-2-pro-templates/"><u>Creative Tim's Premier React Framework with Professional Material Dashboard 2 PRO Templates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-professional-material-dashboard-with-angular-and-bootstrap-4-for-superior-admin-panel-experience/"><u>Creative Tim's Professional Material Dashboard with Angular & Bootstrap 4 for Superior Admin Panel Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/dynamic-spinning-card-design-tutorial-with-advanced-css-styles-and-animations/"><u>Dynamic Spinning Card Design Tutorial with Advanced CSS Styles & Animations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 12 mini</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-testimonial-toolkit-for-effective-promotion/"><u>In 2024, The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/owc-mercury-pro-assessment-exceptional-drives-and-peak-performances/"><u>OWC Mercury Pro Assessment: Exceptional Drives and Peak Performances</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recommended-hardware-and-software-for-optimal-performance-on-splash-20/"><u>Recommended Hardware and Software for Optimal Performance on Splash 2.0</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos-for-2024/"><u>Superior Way of Stitching GoPro Recordings in Extended Spherical Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-overcoming-stuck-windows-update-fixer/"><u>Swiftly Overcoming Stuck Windows Update Fixer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tips-selecting-pre-owned-electronic-devices/"><u>Top Tips: Selecting Pre-Owned Electronic Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-recordings-using-nvidia-recorder/"><u>[New] 2024 Approved Perfecting Your Recordings Using NVIDIA Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-for-broadcasting-is-obs-superior-to-twitch-studio-for-2024/"><u>[New] Best for Broadcasting Is OBS Superior to Twitch Studio for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-uniting-slack-and-filmora-for-ultimate-collaborative-gatherings/"><u>2024 Approved Uniting Slack and Filmora for Ultimate Collaborative Gatherings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieving-personal-excellence-the-role-of-chatgpt-in-daily-self-improvement/"><u>Achieving Personal Excellence: The Role of ChatGPT in Daily Self-Improvement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/at-the-forefront-elite-vr-creators/"><u>At The Forefront Elite VR Creators</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-free-tools-comprehensive-review-of-screen-recorders-on-windows-7/"><u>Best Free Tools: Comprehensive Review of Screen Recorders on Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-web-conversion-solutions-for-direct-hassle-free-gif-to-video-for-2024/"><u>Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface
-date: 2024-09-27T03:57:06.916Z
-updated: 2024-09-30T02:35:11.739Z
+date: 2024-10-04T20:37:14.753Z
+updated: 2024-10-05T20:12:15.070Z
 tags:
   - user-guide
 categories:
@@ -87,22 +87,15 @@ This dialog allows you to change the tab order for controls on the dialog.
 ![Control Tab Order Dialog](https://cdn.advancedinstaller.com/img/dialog/control-tab-order.png "Control Tab Order Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dialog Controls
 
 This list contains all the controls that are on the dialog. The order of the controls in the list represents the order in which the controls were created. Also, this order gives the tab order of the dialog at run-time as well as the Z-order. Use the \[Up \] and \[Down \] buttons to modify this order. If two controls overlap will be visible the one who is lower on the list.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Set Default
 
@@ -111,10 +104,10 @@ Make the current control the default control of the dialog. By default, this con
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Cancel
@@ -123,13 +116,20 @@ Make the current control the Cancel control of the dialog.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Cancel control must be a push button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A control can be simultaneously Default Control and Cancel Control for a dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,22 +165,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-instant-guide-how-to-safely-gratisly-download-vlc-on-macos/"><u>[New] Instant Guide How to Safely, Gratisly Download VLC on MacOS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-youtube-livestream-game-plan/"><u>[Updated] 2024 Approved Elevate Your YouTube Livestream Game Plan</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>[Updated] In 2024, Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-srt-tweaks-elevating-your-computing/"><u>2024 Approved Optimal SRT Tweaks Elevating Your Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024s-top-free-video-trimming-software-picks-for-ultimate-editing-recommended/"><u>2024'S Top Free Video Trimming Software Picks for Ultimate Editing [Recommended]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-sites-to-streamline-your-apartment-search-process/"><u>Essential Sites to Streamline Your Apartment Search Process</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-downloads-with-openload-access-a-world-of-video-content-including-series-and-movies/"><u>Free Downloads with OPENLOAD: Access a World of Video Content Including Series and Movies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-on-downloading-and-converting-5x-fpm-art-technique-lessons-to-mp4avi-files/"><u>Guide on Downloading & Converting 5X FPM Art Technique Lessons to MP4/AVI Files</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-convert-your-school-of-podcasting-episodes-into-high-quality-audio-formats-like-mp3-and-wav/"><u>How to Convert Your School of Podcasting Episodes Into High-Quality Audio Formats Like MP3 and WAV</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-transfer-and-download-la-1ere-tv-show-videos-in-hd-as-mp4-or-avi-files-for-offline-viewing/"><u>How to Transfer and Download La 1Ère TV Show Videos in HD as MP4 or AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-websites-for-3d-graffiti-fonts/"><u>In 2024, Top 8 Websites for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/koreas-top-episodes-and-films-free-download-app-for-mp4-avi-mov-files-korea-drama-downloader/"><u>Korea's Top Episodes and Films: Free Download App for MP4, AVI, MOV Files - Korea Drama Downloader</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/overcoming-dipry-issues-comprehensive-solutions-for-mac-users-and-windows-enthusiasts/"><u>Overcoming DIPrY Issues: Comprehensive Solutions for Mac Users and Windows Enthusiasts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-alienthink-course-content-as-mp4avi-files/"><u>Step-by-Step Tutorial for Downloading and Saving AlienThink Course Content as MP4/AVI Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stream-on-the-go-how-to-link-your-fire-stick-to-a-portable-wifi-network/"><u>Stream on the Go: How to Link Your Fire Stick to a Portable WiFi Network</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-tutorial-converting-youtube-content-for-dvd-player-viewing/"><u>The Ultimate Tutorial: Converting YouTube Content for DVD Player Viewing</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/universal-fixes-masterful-approaches-to-resolve-common-obstacles/"><u>Universal Fixes: Masterful Approaches to Resolve Common Obstacles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-analyzing-the-features-of-vegaspros-latest-release/"><u>[New] In 2024, Analyzing the Features of VegasPro's Latest Release</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations Using VoiceMod Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instant-mp3-download-from-facebook-vids-directly-for-2024/"><u>[Updated] Instant MP3 Download From Facebook Vids Directly for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[Updated] Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-modify-property-attributes-an-in-depth-tutorial/"><u>How to Modify Property Attributes: An In-Depth Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14 Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-zero-30-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Zero 30 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lenovo-device-reboot-mastering-the-process-of-a-clean-system-installation/"><u>Lenovo Device Reboot: Mastering the Process of a Clean System Installation</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-apps-to-write-on-photos-for-ios-and-android/"><u>Top 10 Apps to Write on Photos for iOS and Android</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-techniques-for-efficiently-converting-tiff-images-into-pdf-documents/"><u>Top Techniques for Efficiently Converting TIFF Images Into PDF Documents</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Language Reference Guides: The Ultimate Dictionaries Section"
-date: 2024-09-23T08:53:28.786Z
-updated: 2024-09-30T05:49:10.515Z
+date: 2024-10-03T18:00:56.956Z
+updated: 2024-10-05T19:58:48.164Z
 tags:
   - user-guide
 categories:
@@ -81,19 +81,19 @@ The Dictionaries page allows you to manage, create and register translation dict
 * Custom (user added)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dictionaries
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Managing
@@ -105,10 +105,10 @@ Strings are searched by their localization identifiers in the dictionaries in a 
 You can add a custom dictionary by using the\[Add... \] button or you can remove it by using the\[Remove \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating and Registering
@@ -125,10 +125,10 @@ This is the best way to translate packages into a new (unregistered) language:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A dictionary file can contain more than one language. When importing, only the languages that are **not registered** are taken into consideration. The languages already registered are ignored. Also ignored are the "start" languages - they are marked to be ignored when the dictionary is generated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Format
@@ -170,18 +170,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-metric.techidaily.com/convert-and-download-popular-media-as-mp4wmvaviflvmov-with-vodlocker-technology/"><u>Convert and Download Popular Media As MP4/WMV/AVI/FLV/MOV with Vodlocker Technology</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-bbc-shows-into-video-formats-save-episodes-in-mp4-or-avi/"><u>Convert Your Favorite BBC Shows Into Video Formats - Save Episodes in MP4 or AVI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-driven-personalization-elevating-your-websites-performance/"><u>Cookiebot Driven Personalization: Elevating Your Website's Performance</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-guide-setting-up-personal-ringtones-with-spotify-music/"><u>DIY Guide: Setting Up Personal Ringtones with Spotify Music</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diy-video-downloading-how-to-transform-and-transfer-vimeo-content-onto-dvds-for-offline-viewing/"><u>DIY Video Downloading: How to Transform and Transfer Vimeo Content Onto DVDs for Offline Viewing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-hd-adult-content-from-reality-kings-in-mp4-format-using-reality-kings-downloader/"><u>Download HD Adult Content From Reality Kings in MP4 Format Using Reality Kings Downloader</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-the-mfc42dll-not-detected-system-error/"><u>Expert Advice on Fixing the 'Mfc42.dll Not Detected' System Error</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y55s-5g-2023-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y55s 5G (2023) FRP</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-accelerated-mp4-to-facebook-video-conversion/"><u>In 2024, Accelerated MP4-to-Facebook Video Conversion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-capturing-made-easy-best-apps-for-windows-10/"><u>In 2024, Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-connection-issues-when-is-discord-unavailable-or-user-specific/"><u>Troubleshooting Connection Issues: When Is Discord Unavailable or User-Specific?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrading-to-amd-blockchain-complete-downloading-and-installation-tutorial-for-windows-users/"><u>Upgrading to AMD Blockchain: Complete Downloading & Installation Tutorial for Windows Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-reality-epics-the-most-captivating-sci-fi-cinematic-worlds/"><u>[New] 2024 Approved Virtual Reality Epics The Most Captivating Sci-Fi Cinematic Worlds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming-for-2024/"><u>[New] Navigating the Convergence of OBS & Zoom for Enhanced Streaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-a-hit-list-youtubes-way-for-fans-for-2024/"><u>[Updated] Crafting a Hit-List Youtube's Way for Fans for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-reels-to-filters-a-closer-look-at-tiktok-vs-snaps-features/"><u>2024 Approved From Reels to Filters A Closer Look at TikTok vs Snap's Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-dark-resolving-black-screen-issues-in-resident-evil-village-pc/"><u>Fixing the Dark: Resolving Black Screen Issues in Resident Evil Village [PC]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-compact-free-media-players-for-pcs/"><u>Top 7 Compact, FREE Media Players for PCs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
 </ul></div>
 

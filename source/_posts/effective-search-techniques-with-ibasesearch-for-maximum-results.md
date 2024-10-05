@@ -1,7 +1,7 @@
 ---
 title: Effective Search Techniques with IBaseSearch for Maximum Results
-date: 2024-09-28T23:10:25.767Z
-updated: 2024-09-30T11:55:39.871Z
+date: 2024-10-02T18:45:28.852Z
+updated: 2024-10-05T21:54:13.778Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 IBaseSearch: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ IBaseSearch: IDispatch
 This interface is meant to retrieve basic information about a search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -160,10 +160,10 @@ This interface is meant to retrieve basic information about a search.
 **String Type** \- Gets the type of search.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,18 +205,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[New] How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastery-start-essence-of-storyline-development-for-2024/"><u>[New] Mastery Start Essence of Storyline Development for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-dynamic-distortions-for-compelling-image-narratives/"><u>[Updated] In 2024, Dynamic Distortions for Compelling Image Narratives</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-quick-and-convenient-video-edits-in-windows-11-photos/"><u>2024 Approved Quick & Convenient Video Edits in Windows 11 Photos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-chm-files-to-pdf-for-free-secure-and-safe-conversion-on-flipbuilder/"><u>Convert .CHM Files to PDF for Free: Secure & Safe Conversion on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-chm-files-to-secure-pdf-ebooks-at-no-cost-flipbuilders-reliable-conversion-tool/"><u>Convert .CHM Files to Secure PDF eBooks at No Cost - FlipBuilder's Reliable Conversion Tool</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/convert-multiple-pdfs-to-ebooks-free-of-charge-with-epub-on-flipbuilder/"><u>Convert Multiple PDFs to eBooks Free of Charge with ePub on FlipBuilder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/create-flipbooks-from-pdfs-with-easy-page-edits-and-custom-booklet-design-discover-flipbuildercom/"><u>Create Flipbooks From PDFs with Easy Page Edits & Custom Booklet Design [Discover FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creating-expansive-flipbooks-simplified-unveiling-the-techniques-at-flipbuildercom/"><u>Creating Expansive Flipbooks Simplified: Unveiling the Techniques at FlipBuilder.com</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-and-read-your-flipbuildercom-ebooks-anywhere-for-ios-and-android-devices/"><u>Download and Read Your FlipBuilder.com eBooks Anywhere - For iOS & Android Devices</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-s17e-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo S17e</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-your-potential-in-writing-and-creativity-using-chatgpt-techniques/"><u>Unleashing Your Potential in Writing & Creativity Using ChatGPT Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-innovative-gloves-for-virtual-immersion/"><u>[New] Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>[Updated] Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram/"><u>2024 Approved Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/begin-recording-your-webcam-via-vlc-player-for-2024/"><u>Begin Recording Your Webcam via VLC Player for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curbing-cycle-breaking-conundrums-acer-pcs/"><u>Curbing Cycle-Breaking Conundrums: Acer PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/digital-frame-snatchers-top-video-tools/"><u>Digital Frame Snatchers Top Video Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/excellent-strategies-to-project-apples-tablet-screen-onto-laptop-or-desktop/"><u>Excellent Strategies to Project Apple's Tablet Screen Onto Laptop or Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-top-tier-hardware-solutions-a-spotlight-on-toms-equipment-reviews/"><u>Exploring Top-Tier Hardware Solutions - A Spotlight on Tom's Equipment Reviews</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-and-eliminating-the-amazonaws-virus-expert-tips-from-malwarefox-for-a-clean-system/"><u>Identifying and Eliminating the Amazonaws Virus: Expert Tips From MalwareFox for a Clean System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-editing-and-cropping-iphone-videos-with-simple-5-step-method/"><u>Quick Guide: Editing & Cropping iPhone Videos with Simple, 5-Step Method</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-silencing-sounds-cutting-audio-from-iphonesmac-videos/"><u>The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos</u></a></li>
 </ul></div>
 
