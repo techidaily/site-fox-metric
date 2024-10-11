@@ -1,7 +1,7 @@
 ---
 title: 2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard
-date: 2024-10-01T20:11:17.131Z
-updated: 2024-10-05T22:15:19.975Z
+date: 2024-10-05T21:26:56.499Z
+updated: 2024-10-10T23:08:39.737Z
 tags:
   - user-guide
 categories:
@@ -78,6 +78,13 @@ Table of Contents
 
 The Enhanced User Interface improves and extends the controls that you can use when designing the installation interface. You can activate the Enhanced User Interface controls for both EXE and MSI packages. The "EXE External UI" option is more powerful than the MSI Embedded UI equivalent. It also enables you to customize [Pre-install UI dialogs](https://tools.techidaily.com/advancedinstaller/products/) shown by the EXE Bootstrapper. You can read more about the requirements and benefits of this option in [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Always (install, uninstall and maintenance)
 
 EXE External UI will be used when installing the application as well as when performing "Modify" or "Uninstall" from Control Panel.
@@ -90,13 +97,6 @@ EXE External UI will be used only when installing the application. During "Modif
 
 If MSI Embedded UI option is enabled at the same time with the Only on install option, both the install and maintenance stages will use Enhanced UI controls. On install the EXE External UI will render the dialogs, while during maintenace the MSI Embedded UI option will be used for rendering the controls. This eliminates the requirement of overriding the Windows Installer programs list entry.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Never
 
 Windows Installer rendering will be used, if the option MSI Embedded UI option is also disabled.
@@ -105,16 +105,16 @@ Windows Installer rendering will be used, if the option MSI Embedded UI option i
 
 The Enhanced User Interface controls will be used, without requiring an EXE as output. You can read more about the requirements and limitations of this option in [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use WinUI rendering
 
 Installation UI will be rendered using the modern WinUI controls instead of the classic Win32 controls. You can read more about the requirements and benefits of this option in [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) page.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use custom frame only if Aero Glass is not available
 
@@ -123,28 +123,28 @@ If this checkbox is enabled the custom frame selected in the[Themes Page](https:
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option is available only if a custom frame is selected for the currently used theme.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Images Scalling
 
 In this section you have the option to specify how the images will be displayed: with fixed or variable size.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adaptive stretching, based on detected system DPI
 
@@ -161,10 +161,10 @@ The images will be stretched or kept at original size, based on the value of the
 The images will be rendered always at their original size, no matter if the image is smaller or larger then the control hosting it, ignoring the value of the attribute "Fixed Image Size".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Always stretch images to fit their control window bounds
@@ -206,22 +206,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-loading-boosted-tricks-for-all-devices/"><u>[New] Instagram Video Loading Boosted Tricks for All Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-teaching-trends-top-10-innovative-audio-visual-recording-tools-for-2024/"><u>[New] Teaching Trends Top 10 Innovative Audio-Visual Recording Tools for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-audience-wow-factor-the-best-camera-lenses-for-youtube-stars/"><u>2024 Approved Audience Wow Factor The Best Camera Lenses for YouTube Stars</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/designing-winning-youtube-banners-that-captivate-and-expand-your-audience-base/"><u>Designing Winning YouTube Banners That Captivate and Expand Your Audience Base</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-world-of-icom-type-libraries-the-ultimate-resource-optimization-toolkit/"><u>Exploring the World of ICOM Type Libraries: The Ultimate Resource Optimization Toolkit</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-14-plus-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 14 Plus Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-latest-bluetooth-dongle-drivers-for-your-pc/"><u>How to Download & Install Latest Bluetooth Dongle Drivers for Your PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-ce-3-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Nord CE 3 5G Bootloader Easily</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/immerse-in-the-german-language-via-popular-dark-series/"><u>Immerse in the German Language via Popular Dark Series</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-element-query-in-xaml/"><u>Mastering Element Query in XAML</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/quick-access-choices-mastering-the-shortcuts-dialog-box/"><u>Quick Access Choices: Mastering the Shortcuts Dialog Box</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/seamless-iphone-apps-for-playing-wma-audio-files/"><u>Seamless iPhone Apps for Playing WMA Audio Files</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/secure-code-practices-integrating-compliance-checks-into-fintech-applications/"><u>Secure Code Practices: Integrating Compliance Checks Into Fintech Applications</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-sites-for-free-4k-movie-downloads-and-how-to-use-leading-4k-video-converters/"><u>Top Sites for Free 4K Movie Downloads & How to Use Leading 4K Video Converters</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-tutorial-on-how-to-clone-oppo-reno-to-windowsmac-desktop-systems/"><u>Ultimate Tutorial on How to Clone Oppo Reno 지패 to Windows/Mac Desktop Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leveraging-instagram-for-monetary-success/"><u>[New] In 2024, Leveraging Instagram for Monetary Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features-for-2024/"><u>[Updated] Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>[Updated] In 2024, How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>2024 Approved Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-methods-for-converting-aiff-audio-clips-into-mp3-format/"><u>Easy Methods for Converting AIFF Audio Clips Into MP3 Format</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Zero 30 5G</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-guide-on-assessing-sql-link-establishment-successfully/"><u>How-To Guide on Assessing SQL Link Establishment Successfully</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/learn-how-to-generate-festive-season-wishes-with-no-cost-step-by-step-diy-video-card-tutorial/"><u>Learn How To Generate Festive Season Wishes With No Cost - Step-by-Step DIY Video Card Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-top-10-most-impressive-4k-video-examples/"><u>New 2024 Approved The Top 10 Most Impressive 4K Video Examples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/snapping-secrets-the-invisible-way-to-save-messages-from-snapchat/"><u>Snapping Secrets: The Invisible Way to Save Messages From Snapchat</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-iphone-cannot-restore-error-a-step-by-step-guide/"><u>Solving 'iPhone Cannot Restore' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/streamline-your-apps-with-modularmerge-components-the-ultimate-unification-tool/"><u>Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo X100? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

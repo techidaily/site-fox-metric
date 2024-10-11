@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Hyperlink Management: Mastering the Edit Link Dialog"
-date: 2024-10-04T18:07:03.988Z
-updated: 2024-10-05T18:11:51.818Z
+date: 2024-10-05T23:22:37.862Z
+updated: 2024-10-10T16:19:49.023Z
 tags:
   - user-guide
 categories:
@@ -91,10 +91,16 @@ Table of Contents
 ![Edit Link Dialog](https://cdn.advancedinstaller.com/img/dialog/new-link-dialog.png "Edit Link Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Location
@@ -105,10 +111,10 @@ Table of Contents
 * Specify the name of the link. This field is of [pseudo-formatted](https://tools.techidaily.com/advancedinstaller/products/) type. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Target
@@ -116,10 +122,10 @@ Table of Contents
 Specify the path to the link's target file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -136,16 +142,10 @@ Specify the type of the link:
 * Creates a link of type Junction. A junction (or a soft link) is almost identical to a hard link, the difference being that the objects it references are separate directories, and it can link directories located on different local volumes on the same computer.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options
@@ -186,16 +186,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-to-wipe-all-emails-from-your-gmail-app-at-once/"><u>Comprehensive Instructions to Wipe All Emails From Your Gmail App at Once</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/deep-into-dynamic-dialogue-dives/"><u>Dive Deep Into Dynamic Dialogue Dives</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-14-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 14 without Apple ID?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/introducing-new-capabilities-chatgpt-optimizes-user-experience-with-slashed-api-subscription-rates/"><u>Introducing New Capabilities: ChatGPT Optimizes User Experience with Slashed API Subscription Rates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can/"><u>New 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-alternatives-to-blockbuster-flicks/"><u>[New] 2024 Approved Best Alternatives to Blockbuster Flicks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-guide-to-the-top-5-windows-snipper-tools/"><u>[Updated] 2024 Approved Essential Guide to The Top 5 Windows Snipper Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-twitch-live-reset-guide/"><u>[Updated] In 2024, Twitch Live Reset Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-principles-of-paradoxical-intervention/"><u>2024 Approved Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-guide-on-assessing-sql-link-establishment-successfully/"><u>How-To Guide on Assessing SQL Link Establishment Successfully</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/learn-how-to-generate-festive-season-wishes-with-no-cost-step-by-step-diy-video-card-tutorial/"><u>Learn How To Generate Festive Season Wishes With No Cost - Step-by-Step DIY Video Card Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-nvidia-geforce-rtx-2070-drivers-compatible-with-windows-1087/"><u>New Release: NVIDIA GeForce RTX 2070 Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-non-working-fn-keys-on-asus-notebook-devices/"><u>Overcoming Issues with Non-Working Fn Keys on Asus Notebook Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/snapping-secrets-the-invisible-way-to-save-messages-from-snapchat/"><u>Snapping Secrets: The Invisible Way to Save Messages From Snapchat</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/streamline-your-apps-with-modularmerge-components-the-ultimate-unification-tool/"><u>Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-no-cost-pdf-editor-for-windows-10-top-rated-and-free-download/"><u>Ultimate No-Cost PDF Editor for Windows 10: Top Rated & Free Download</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-imsixpackage-dependencies-in-software-development/"><u>Understanding IMsixPackage Dependencies in Software Development</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of SQL Database Navigation and Management
-date: 2024-10-03T21:15:44.612Z
-updated: 2024-10-05T20:59:37.643Z
+date: 2024-10-06T18:57:31.302Z
+updated: 2024-10-10T19:45:28.329Z
 tags:
   - user-guide
 categories:
@@ -80,37 +80,44 @@ The [SQL Databases](https://tools.techidaily.com/advancedinstaller/products/) Br
 
 ![Sql database browse](https://cdn.advancedinstaller.com/img/ui/sql-database-browse.png "Sql database browse")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ODBC Driver
 
 Set the ODBC Driver for the SQL Database Browse functionality. The default value is SQL Server, but it can also be set to ODBC Driver 11 for SQL Server as well as other drivers. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Server
 
 Specify where to browse for the available databases. The name format ca be either **<server name>** or **<server name>\\<instance name>**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Login timeout(sec)
 
 You can optionally specify a connection timeout (in seconds) for the browse operation. By typing 0 in this field, the timeout will be disabled and the connection will wait indefinitely.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Verbose
 
 The "Please Wait..." message box for SQL Databases Browse will be shown. Also, if an error occurs when connecting to the SQL Server, a dialog box will be shown containing the error response.
 
 ## Authentication
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Trusted Connection (Windows integrated authentication)
 
@@ -119,10 +126,10 @@ Use a trusted login connection (local/domain). The credentials of the installing
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option can be enabled at install time by setting the**SQL\_TRUSTED\_CONNECTION** property to1. This property must be set before executing the associated browse action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Username
@@ -133,40 +140,13 @@ The logon user name.
 
 The property used at install time to set the logon password. Use the \[... \] button to select it.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Output
 
 Advanced Installer can return the discovered available SQL databases either in dialog controls or in an [installer property](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Display the result into a ListBox or CheckList control
 
 Specify the installer property associated with a [ListBox](https://tools.techidaily.com/advancedinstaller/products/) or[CheckList](https://tools.techidaily.com/advancedinstaller/products/) control which will be populated with the available SQL databases.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display the result into a ComboBox control
 
@@ -180,6 +160,13 @@ A flat, comma separated list of the available databases (names only) will be dum
 
 Enabling this option will hide system databases(e.g. master, msdb, etc) from the browse output.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Execution
 
 SQL Database Browse can be triggered by scheduling the associated action in the [Wizard Dialogs Stage](https://tools.techidaily.com/advancedinstaller/products/) or by directly invoking the action with a [published/init event](https://tools.techidaily.com/advancedinstaller/products/) on a dialog.
@@ -187,6 +174,13 @@ SQL Database Browse can be triggered by scheduling the associated action in the 
 ### Run in UI sequence
 
 Enabling this option will trigger the SQL Database Browse operation when an associated custom action will be executed in the installation sequence. To configure the custom action in the [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/), press the **Scheduled Action** link button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Attached to an event
 
@@ -225,15 +219,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-free-best-youtube-video-editor-apps-for-android/"><u>[New] In 2024, FREE Best YouTube Video Editor Apps for Android</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-exhilarating-viewing-experience-with-elite-blu-ray-players/"><u>[Updated] 2024 Approved Exhilarating Viewing Experience with Elite Blu-Ray Players</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp2-mp3-movavi/"><u>全天候免費在線 MP2-MP3格式改變：引導你進入 Movavi世界</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/best-practices-choosing-the-top-ios-video-downloaders-on-fb-for-2024/"><u>Best Practices Choosing the Top iOS Video Downloaders on FB for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-propulsion-harnessing-next-gen-tech-for-superior-seo-solutions/"><u>Cookiebot Propulsion: Harnessing Next-Gen Tech for Superior SEO Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-portable-media-players-uncovered/"><u>Top Portable Media Players Uncovered</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-recommended-white-background-applications-in-poshmark-for-a-stellar-shopping-experience/"><u>Top Recommended White Background Applications in Poshmark for a Stellar Shopping Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-video-editing-software-ideal-for-vlog-creators/"><u>Top-Rated Video Editing Software Ideal for Vlog Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-tiktok-updating-numbers-effectively/"><u>[Updated] 2024 Approved Mastering TikTok Updating Numbers Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-visual-snippet-retriever/"><u>[Updated] In 2024, Visual Snippet Retriever</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smooth-media-transition-pc-files-to-iphone/"><u>[Updated] Smooth Media Transition PC Files To iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-seamless-strategies-for-moving-android-phone-numbers-to-your-iphone/"><u>1. Seamless Strategies for Moving Android Phone Numbers to Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-for-novice-gopro-enthusiasts/"><u>2024 Approved Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-project-overview-key-points-and-insights/"><u>Comprehensive Project Overview: Key Points & Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/content-creation-on-facebook-aspect-ratio-choice-for-2024/"><u>Content Creation on Facebook Aspect Ratio Choice for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-most-trusted-protected-email-platforms/"><u>Exploring the Most Trusted Protected Email Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-preparing-your-pc-and-room-for-the-ultimate-vr/"><u>In 2024, Preparing Your PC and Room for the Ultimate VR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-software-to-craft-impeccable-voices-for-virtual-stars/"><u>Key Software to Craft Impeccable Voices for Virtual Stars</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-image-browsing-the-ultimate-guide-to-pexels-wonders-for-2024/"><u>Mastering Image Browsing The Ultimate Guide to Pexels Wonders for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-access-choices-mastering-the-shortcuts-dialog-box/"><u>Quick Access Choices: Mastering the Shortcuts Dialog Box</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-guide-how-to-seamlessly-mirror-your-instagram-stories-and-posts-to-your-smart-tv-or-any-display-device/"><u>Quick Guide: How to Seamlessly Mirror Your Instagram Stories and Posts to Your Smart TV or Any Display Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-iphone-apps-for-playing-wma-audio-files/"><u>Seamless iPhone Apps for Playing WMA Audio Files</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-tutorial-on-how-to-clone-oppo-reno-to-windowsmac-desktop-systems/"><u>Ultimate Tutorial on How to Clone Oppo Reno 지패 to Windows/Mac Desktop Systems</u></a></li>
 </ul></div>
 

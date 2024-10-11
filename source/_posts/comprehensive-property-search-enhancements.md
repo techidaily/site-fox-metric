@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Property Search Enhancements
-date: 2024-09-29T17:38:16.046Z
-updated: 2024-10-05T17:21:24.325Z
+date: 2024-10-05T07:37:59.636Z
+updated: 2024-10-11T00:56:55.618Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ The search operation is performed on the target machine only if the specified pr
 
 ![Extended search properties](https://cdn.advancedinstaller.com/img/ui/extended-search-properties.png "Extended search properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Search Type
 
 ### Criteria
@@ -110,19 +103,6 @@ When searching multiple criteria can be used:
 * Product Version (identify by Upgrade Code) - The search will be successful if a product with the specified Upgrade Code and the appropriate version number is installed.
 * Installed MSIX package version - The search will be successful if the MSIX package with the appropriate _Package Name_(and optionally_Architecture_ and _Publisher_) is installed on the target machine. . You can either manually fill in the _Package Name_ or use the[Select an MSIX Product Dialog](https://tools.techidaily.com/advancedinstaller/products/) by clicking on\[...\] button
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File To Find/Registry Key or Value
 
 This is helper string used in various criteria. Depending on the used criteria it may contain a file path, registry key or value, product code, upgrade code, etc. 
@@ -134,10 +114,16 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When searching for a file, if no path is specified, the search will be performed on all fix drives.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search Depth
@@ -148,24 +134,38 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 
 Check this if you want to search in the 64-bit registry section. The search will not be redirected to the 32-bit section, regardless of the [package type](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Required Versions
 
 ### Minimum
 
 The minimum version necessary for the search to be successful.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Maximum
 
 The maximum version necessary for the search to be successful.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are using as criteria the version number extracted from a file or a registry value you can leave both fields blank. In this case, Advanced Installer will check only the presence of that file or registry value. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,17 +205,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-selective-blur-for-enhanced-mobile-photography/"><u>[Updated] Smart Selective Blur for Enhanced Mobile Photography</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-top-10-affordable-mobile-video-services/"><u>2024 Approved Navigating Top 10 Affordable Mobile Video Services</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ning-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-arma-3s-crash-issues-with-advanced-fixes-insider-knowledge/"><u>Mastering Stability: Overcoming Arma 3'S Crash Issues with Advanced Fixes - Insider Knowledge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-constant-team-fortress-2-game-crashes/"><u>Resolved: Fixes for Constant Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surpassing-chatgpts-limits-with-new-options/"><u>Surpassing ChatGPT's Limits with New Options</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-casting-bridge-your-apple-tvplus-and-chromecast/"><u>Unlock the Power of Casting: Bridge Your Apple TV+ and Chromecast</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-strategies-for-screen-recording-games-for-2024/"><u>[New] Simplified Strategies for Screen Recording Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-setting-up-a-digital-stage-for-real-time-viewers/"><u>[Updated] Setting Up a Digital Stage for Real-Time Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aiwav-movavi/"><u>網路無限 AI語音轉WAV - 便利的 MOVAVI 自動語言過濾與轉檔工具</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-modify-property-attributes-an-in-depth-tutorial/"><u>How to Modify Property Attributes: An In-Depth Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a58-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo A58 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-15-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 15 or iPad?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/movavi-converti-file-m4v-in-wmv-senza-costi-online/"><u>Movavi: Converti File M4V in WMV Senza Costi Online</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-history-youtube-channels-for-students-and-history-lovers/"><u>Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-techniques-for-efficiently-converting-tiff-images-into-pdf-documents/"><u>Top Techniques for Efficiently Converting TIFF Images Into PDF Documents</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
 </ul></div>
 

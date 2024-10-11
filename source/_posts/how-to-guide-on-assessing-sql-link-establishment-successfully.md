@@ -1,7 +1,7 @@
 ---
 title: How-To Guide on Assessing SQL Link Establishment Successfully
-date: 2024-10-03T18:33:20.634Z
-updated: 2024-10-05T18:31:25.323Z
+date: 2024-10-09T08:50:00.653Z
+updated: 2024-10-11T02:34:31.475Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,20 @@ This feature enables the user to test if the ODBC connection works.
 
 ![Sql test connection](https://cdn.advancedinstaller.com/img/ui/sql-test-connection.png "Sql test connection")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Connection String
@@ -95,16 +102,16 @@ In this field an SQL Connection field could be entered.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To escape characters in an SQL connection string you must enclose them between { and } characters (e.g. To escape a password value like;1234, the connection string should containPwd={;1234};. Since Advanced Installer uses [formatted fields](https://tools.techidaily.com/advancedinstaller/products/) the syntax will become something like Pwd=\[\\{\]\[PASSWORD\_PROP\]\[\\}\]; where PASSWORD\_PROP [public property](https://tools.techidaily.com/advancedinstaller/products/) will be dynamically resolved at runtime to ;1234.)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use 64-bit ODBC resource
 
 Check this option to test connection against a 64-bit ODBC driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Login timeout (sec)
 
@@ -117,22 +124,15 @@ In this section you can choose to display the "Please wait.." message box.
 ## Output
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property
 
 The output property is always set to 0 when the connection test fails and to 1 when it succeeds.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Execution
 
@@ -171,15 +171,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-recordings-using-nvidia-recorder/"><u>[New] 2024 Approved Perfecting Your Recordings Using NVIDIA Recorder</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-for-broadcasting-is-obs-superior-to-twitch-studio-for-2024/"><u>[New] Best for Broadcasting Is OBS Superior to Twitch Studio for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-uniting-slack-and-filmora-for-ultimate-collaborative-gatherings/"><u>2024 Approved Uniting Slack and Filmora for Ultimate Collaborative Gatherings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieving-personal-excellence-the-role-of-chatgpt-in-daily-self-improvement/"><u>Achieving Personal Excellence: The Role of ChatGPT in Daily Self-Improvement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/at-the-forefront-elite-vr-creators/"><u>At The Forefront Elite VR Creators</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-free-tools-comprehensive-review-of-screen-recorders-on-windows-7/"><u>Best Free Tools: Comprehensive Review of Screen Recorders on Windows 7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-web-conversion-solutions-for-direct-hassle-free-gif-to-video-for-2024/"><u>Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-revamped-design-tools-after-acid-pro-era/"><u>[New] In 2024, Revamped Design Tools After ACID Pro Era</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>[Updated] Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlining-gaming-experience-how-to-record-games-obs/"><u>2024 Approved Streamlining Gaming Experience How to Record Games OBS</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/complete-guide-on-eliminating-computer-block-scam-virus-effective-steps-with-malwarefox/"><u>Complete Guide on Eliminating 'Computer Block' Scam Virus - Effective Steps with MalwareFox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-me-troubleshooting-for-gurus/"><u>Intel ME Troubleshooting for Gurus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-productivity-unveiling-7-exceptional-notetaking-apps-tailored-for-apples-tablet-range/"><u>Mastering Productivity: Unveiling 7 Exceptional Notetaking Apps Tailored for Apple's Tablet Range</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-web-content-curation-tips-on-binding-your-digital-pages/"><u>Mastering the Art of Web Content Curation: Tips on Binding Your Digital Pages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-stopping-stop-0x0000001d-errors/"><u>Mastering the Fix for Stopping STOP 0X0000001D Errors</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simplified-navigation-through-the-manage-data-rows-window/"><u>Simplified Navigation Through the 'Manage Data Rows' Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-making-apowerpdf-your-go-to-pdf-viewer/"><u>Step-by-Step Guide: Making ApowerPDF Your Go-To PDF Viewer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-how-to-edit-and-crop-your-videos-for-insta-success/"><u>Step-by-Step Tutorial on How to Edit and Crop Your Videos for Insta Success</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-exclusive-perks-your-guide-to-apowermirrors-member-advantages/"><u>Unlock Exclusive Perks: Your Guide to ApowerMirror's Member Advantages</u></a></li>
 </ul></div>
 

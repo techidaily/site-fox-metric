@@ -1,7 +1,7 @@
 ---
 title: "Quick Action Shortcuts: Mastering Efficient ICommand Tricks"
-date: 2024-09-29T21:58:56.499Z
-updated: 2024-10-05T16:12:54.455Z
+date: 2024-10-04T19:06:37.678Z
+updated: 2024-10-11T04:55:05.887Z
 tags:
   - user-guide
 categories:
@@ -115,16 +115,10 @@ Table of Contents
 Using this interface you can edit the command shortcut.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -132,10 +126,10 @@ Using this interface you can edit the command shortcut.
 ICommandShortcut : IBaseShortcut
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -175,19 +169,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>[Updated] 2024 Approved Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[Updated] 2024 Approved Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-to-clean-up-steams-networking-caches/"><u>Easy Steps to Clean Up Steam's Networking Caches</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-phone-without-pin-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Phone without PIN</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-brief-blueprints-iphone-content-for-desktop/"><u>In 2024, Brief Blueprints IPhone Content for Desktop</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/safe-mp3-extraction-three-methods-for-youtube-audio-conversion-for-2024/"><u>Safe MP3 Extraction Three Methods for YouTube Audio Conversion for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-fastsupport-scam-prevention-and-removal-strategies/"><u>Understanding the FastSupport Scam: Prevention & Removal Strategies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>Updated In 2024, Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-m34-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy M34 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-master-looped-video-techniques-for-instagram-top-4-strategies/"><u>[Updated] In 2024, Master Looped Video Techniques for Instagram Top 4 Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-techniques-for-video-narrative-inclusion/"><u>[Updated] Professional Techniques for Video Narrative Inclusion</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/detecting-and-halting-malware-effective-strategies-using-the-task-manager/"><u>Detecting & Halting Malware: Effective Strategies Using the Task Manager</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-make-tiktok-big-head-effect-for-2024/"><u>How to Make TikTok Big Head Effect for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-x6-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco X6 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/italys-swift-ban-on-chatgpt-whats-the-reason/"><u>Italy's Swift Ban on ChatGPT: What's the Reason?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mirroring-images-with-your-iphone-a-comprehensive-guide/"><u>Mirroring Images with Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-freeze-problem-windows-pointer/"><u>Resolve Freeze Problem: Windows Pointer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-procuring-and-planting-minecraft-realms/"><u>Secrets to Procuring & Planting Minecraft Realms</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sync-your-xiaomi/"><u>Sync Your Xiaomi</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-lzma-compression-preferences-window/"><u>Understanding the LZMA Compression Preferences Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-uwp-bootstrap-interface-navigating-through-its-tabs/"><u>Understanding the UWP Bootstrap Interface: Navigating Through Its Tabs</u></a></li>
+<li><a href="https://win-able.techidaily.com/version-11-of-wonderfox-the-new-release-transforming-videos-into-gifs/"><u>Version 1.1 of WonderFox: The New Release Transforming Videos Into GIFs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the .NET Configuration Options During Installation Process
-date: 2024-10-02T20:00:14.147Z
-updated: 2024-10-05T17:24:48.752Z
+date: 2024-10-08T02:29:00.445Z
+updated: 2024-10-11T08:43:52.596Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,25 @@ This dialog allows you to configure a .NET Installer class parameter.
 ![Edit .NET Installer Class Parameter Dialog](https://cdn.advancedinstaller.com/img/dialog/new-dotnetca-param-dialog.png "Edit .NET Installer Class Parameter Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom Action Parameter
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -102,10 +108,10 @@ Represent the key name that the assembly will receive as a parameter.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** and **\=** characters are not allowed in the parameter name. Also, predefined parameters names are not user editable.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Value
@@ -115,10 +121,10 @@ The parameter's value.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** character is not allowed in the parameter value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -156,20 +162,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-deciphering-the-sideways-photo-puzzle-on-ig/"><u>[New] Deciphering the Sideways Photo Puzzle on IG</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>[New] In 2024, Speaking Like a Pro Tips to Upgrade Your Google Meet Skills</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[Updated] Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-rotate-videos-for-free-top-10-online-and-offline-tools/"><u>2024 Approved Rotate Videos for Free Top 10 Online and Offline Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966014960-complete-driver-package-for-brother-mfc-l2740dw-compatible-with-all-windows-versions-download-now/"><u>Complete Driver Package for Brother MFC-L2740DW - Compatible with All Windows Versions, Download Now</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-your-device-turning-off-mouse-acceleration-today/"><u>Mastering Your Device: Turning Off Mouse Acceleration Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion/"><u>Prime 18 Webcam Recorders Your Ultimate Tech Companion</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-overcoming-recurring-fortnite-crash-issues-on-pc-during-2024/"><u>Step-by-Step Solutions: Overcoming Recurring Fortnite Crash Issues on PC During 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-no-cost-pdf-editor-for-windows-10-top-rated-and-free-download/"><u>Ultimate No-Cost PDF Editor for Windows 10: Top Rated & Free Download</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-imsixpackage-dependencies-in-software-development/"><u>Understanding IMsixPackage Dependencies in Software Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost/"><u>Valorant's Finest Voice Modder – Accessible at No Cost</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-building-a-fanbase-with-youtube-streams/"><u>[New] Building a Fanbase with YouTube Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-full-breakdown-razers-hd-webcam-experience/"><u>[New] Full Breakdown Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-superior-3d-tools-for-animated-designers/"><u>[New] In 2024, Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-gif-recorder-for-mac/"><u>2024 Approved Best Gif Recorder for Mac</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-explore-top-10-free-video-calls-highest-rated-and-easy-to-use/"><u>In 2024, Explore Top 10 Free Video Calls - Highest Rated & Easy to Use</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
 </ul></div>
 

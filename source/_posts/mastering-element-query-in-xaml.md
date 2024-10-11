@@ -1,7 +1,7 @@
 ---
 title: Mastering Element Query in XAML
-date: 2024-09-28T21:19:10.863Z
-updated: 2024-10-05T19:30:53.376Z
+date: 2024-10-06T05:09:41.267Z
+updated: 2024-10-11T03:21:21.161Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IXmlElementSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,16 @@ Table of Contents
 IXmlElementSearch : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -155,10 +161,10 @@ This interface is meant to edit an XML element search.
 **Array<IXmlElementSearchLocator> Locators** \- Gets the collection of locators.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -176,10 +182,10 @@ Creates new child element.
 Deletes locator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -221,16 +227,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic 5 Lite FRP</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-seamlessly-streaming-your-android-screen-onto-a-windows-10-pc/"><u>Guide: Seamlessly Streaming Your Android Screen Onto a Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50i Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-lite-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Lite Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavi-mp4mpeg-2-h264/"><u>Movavi: 원활한 웹 검색을 사용하여 MP4/MPEG-2를 H.264로 무료 변환 기능</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/turn-the-table-youtube-reversal-techniques-and-tutorials-for-2024/"><u>Turn the Table YouTube Reversal Techniques & Tutorials for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/universal-setup-techniques-efficiently-managing-global-preferences/"><u>Universal Setup Techniques: Efficiently Managing Global Preferences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-10-engaging-screen-free-mobile-games-for-android-users/"><u>2024 Approved Top 10 Engaging Screen-Free Mobile Games for Android Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-storm-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Storm 5G?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elite-gamers-revealed-free-pc-gaming-secrets/"><u>Elite Gamers Revealed: Free PC Gaming Secrets</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-nier-automata-game-crashing-issues-on-pc/"><u>Fixes for Nier: Automata Game Crashing Issues on PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-amd-freesync-not-workingnot-supported/"><u>How to Fix AMD FreeSync Not Working/Not Supported</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-modify-and-edit-a-json-configuration-file-easily/"><u>How to Modify and Edit a JSON Configuration File Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stabile-videos-schaffen-optimierungen-fur-windows-mac-android-und-iphone/"><u>Stabile Videos Schaffen: Optimierungen Für Windows, Mac, Android Und iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-imsixpackage-dependencies-in-software-development/"><u>Understanding IMsixPackage Dependencies in Software Development</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Viewing and Organizing Planned Jobs Online
-date: 2024-10-03T21:36:51.146Z
-updated: 2024-10-05T20:14:48.384Z
+date: 2024-10-06T06:35:17.542Z
+updated: 2024-10-11T00:55:39.826Z
 tags:
   - user-guide
 categories:
@@ -80,22 +80,15 @@ This page allows you to add an application from your project to the Windows Task
 
 ![Scheduled tasks](https://cdn.advancedinstaller.com/img/ui/scheduled-tasks.png "Scheduled tasks")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new task
 
 ![New Task](https://cdn.advancedinstaller.com/img/toolbar/new-task.png "New Task")Use the \[New Task \] toolbar button, the “New Task” context menu item or press the Insert key while the list is focused. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing a new task
@@ -103,28 +96,35 @@ This page allows you to add an application from your project to the Windows Task
 ![Import Task](https://cdn.advancedinstaller.com/img/toolbar/import-task.png "Import Task")Use the\[Import Task \] toolbar button, the “Import Task” context menu item or press theCtrl+Insert key while the list is focused. You will be prompted to select the scheduled task files to import. Multiple selection is available for batch import. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a task
 
 ![Edit Task](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Edit Task")Use the\[Properties \] toolbar button, the “Properties” context menu item or press theEnter key while a task is selected. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Deleting a task
 
 ![Edit Task](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Edit Task")Use the\[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while a task is selected.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Using this feature requires to have Task Scheduler service installed on the target computer. If not an warning message will appear explaining to the user why the command fails. If the Task Scheduler service is installed but not running when this command is called the service is started automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -170,22 +170,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-add-filters-effects-and-masks-in-google-meet-for-2024/"><u>[New] How to Add Filters, Effects, and Masks in Google Meet for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>[Updated] 2024 Approved Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/advanced-tips-enhancing-the-editable-user-interface-dialog/"><u>Advanced Tips: Enhancing the Editable User Interface Dialog</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/clearing-your-browsers-of-unwanted-redirection-the-3-stage-process-to-defeat-the-virus/"><u>Clearing Your Browsers of Unwanted Redirection: The 3-Stage Process to Defeat the Virus</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-project-overview-key-points-and-insights/"><u>Comprehensive Project Overview: Key Points & Insights</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/customize-your-service-configuration-options/"><u>Customize Your Service Configuration Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-lenovo-pc-power-driver-software/"><u>Effortless Guide to Revamping Lenovo PC Power Driver Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-conversion-of-nef-files-to-jpeg-images-using-movavi/"><u>Free Online Conversion of NEF Files to JPEG Images - Using Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-hot-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Hot 40 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-sony-xperia-5-v-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Sony Xperia 5 V Phone Now with These Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05s-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05s</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/story-1-the-misguided-environmental-consultant-answer-b/"><u>Story 1: The Misguided Environmental Consultant (Answer B)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-13-webcam-software-fur-windows-10-experten-empfehlungen-mit-movavi/"><u>Top 13 Webcam-Software Für Windows 10 - Experten Empfehlungen Mit Movavi</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-digital-voice-memo-apps-for-effortless-recording-and-sharing/"><u>Top-Rated Digital Voice Memo Apps for Effortless Recording & Sharing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-basics-unveiling-the-mp4-file-compression-technique/"><u>Understanding the Basics: Unveiling the MP4 File Compression Technique</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[New] 2024 Approved Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt/"><u>[New] In 2024, Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screenrec-101-essential-techniques-for-laptops-for-2024/"><u>[New] ScreenRec 101 Essential Techniques for Laptops for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>[New] The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/4-effective-techniques-to-remove-photo-backgrounds-effortlessly/"><u>4 Effective Techniques to Remove Photo Backgrounds Effortlessly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-baby-picture-perfect-mobile-apps-top-7-picks-for-android-and-iphone-users/"><u>Best Baby Picture-Perfect Mobile Apps: Top 7 Picks for Android and iPhone Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-free-tools-comprehensive-review-of-screen-recorders-on-windows-7/"><u>Best Free Tools: Comprehensive Review of Screen Recorders on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-jpeg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to insert sign in .jpeg</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-the-latest-dell-network-drivers-for-windows-7-users/"><u>How to Obtain & Install the Latest Dell Network Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-perfecting-altered-text-aesthetics-in-visual-media/"><u>In 2024, Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-elgato-driver-setup-for-optimal-performance/"><u>Speedy Elgato Driver Setup for Optimal Performance</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
 

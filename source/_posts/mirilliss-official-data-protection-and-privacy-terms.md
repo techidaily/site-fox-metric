@@ -1,7 +1,7 @@
 ---
 title: Mirillis's Official Data Protection and Privacy Terms
-date: 2024-09-28T17:41:58.541Z
-updated: 2024-10-05T20:35:49.407Z
+date: 2024-10-05T00:30:07.830Z
+updated: 2024-10-10T23:27:06.224Z
 tags:
   - product
 categories:
@@ -45,16 +45,10 @@ Please read this information carefully before using Mirillis websites or/and cre
  \- On mirillis.com we carry out the so-called "soft" profiling. This means that we collect statistics about traffic on our websites, as well as data that enable us to use marketing activities (eg Google AdWords remarketing).  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What personal information is collected and when
@@ -64,10 +58,10 @@ Mirillis Ltd. does not collect any personal information, this means no informati
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting this page. You can learn more about Google's practices at <http://google.com/policies/privacy>. You can revoke any authorization consent provided to our API client using this link <https://security.google.com/settings/security/permissions>.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How we may use personal information
@@ -75,26 +69,26 @@ We use Google Analytics, Google AdWords Conversion tracker, other Google service
 Your e-mail address (collected during product purchase or forum registration process) information may be used by Mirillis Ltd. for contact purposes on important matters. If you agree (i.e. by subscribing newsletter) to receive information from Mirillis, we will use e-mail contact information to send you electronic newsletters or similar types of information. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security 
 
 We take all possible measures to protect our customers and website users information.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Questions
 
 If you have any questions regarding Privacy Policy please feel free to [contact us.](https://tools.techidaily.com/mirillis/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### General
 
@@ -115,20 +109,14 @@ This Privacy Policy may be changed from time to time, please check our privacy p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-quick-youtube-comment-removal-techniques/"><u>[New] In 2024, Mastering Quick YouTube Comment Removal Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[Updated] 2024 Approved Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-audio-transforming-software-for-streamers-for-2024/"><u>[Updated] Essential Audio Transforming Software for Streamers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-addressing-the-your-computer-cannot-start-error-message/"><u>Expert Tips for Addressing the 'Your Computer Cannot Start' Error Message</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/nocturnal-tales-on-the-silver-screen-for-2024/"><u>Nocturnal Tales on the Silver Screen for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/step-inside-music-agptek-a01-tiny-tech-review/"><u>Step Inside Music: AGPTEK A01 Tiny Tech Review</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-practices-video-acceleration-techniques-for-2024/"><u>Cutting-Edge Practices Video Acceleration Techniques for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-starting-your-mac-in-system-repair-mode/"><u>Expert Tips for Starting Your Mac in System Repair Mode</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-efficiency-and-its-role-in-enhancing-xbox-sx-play/"><u>Résumé Efficiency & Its Role in Enhancing Xbox S/X Play</u></a></li>
+<li><a href="https://article-posts.techidaily.com/stutter-free-display-on-windows-11/"><u>Stutter-Free Display on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-8-best-no-cost-editing-software-for-social-media-for-2024/"><u>The 8 Best No-Cost Editing Software for Social Media for 2024</u></a></li>
 </ul></div>
 

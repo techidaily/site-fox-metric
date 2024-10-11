@@ -1,7 +1,7 @@
 ---
 title: How to Modify and Edit a JSON Configuration File Easily
-date: 2024-10-03T17:10:01.138Z
-updated: 2024-10-05T22:40:31.164Z
+date: 2024-10-07T01:32:28.401Z
+updated: 2024-10-10T18:45:33.412Z
 tags:
   - user-guide
 categories:
@@ -93,42 +93,35 @@ This dialog enables you to make configurations to a JSON File. You can create an
 
 ![JSON Dialog](https://cdn.advancedinstaller.com/img/dialog/json-file.png "JSON Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manage JSON file install parameters
 
  Select the JSON file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Manage general JSON file settings
 
 Select the JSON file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “New” context menu option or press theInsert key while an existing JSON element (an Object, Array, Null, Boolean, Number or String) is selected in the tree in order to create a child element. The newly created element has a[Property Settings](https://tools.techidaily.com/advancedinstaller/products/) tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming a JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing a JSON element (an Object, Array, Null, Boolean, Number or String)
 
@@ -137,16 +130,17 @@ Use the “Delete” context menu option or press theDelete key while a tree ite
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -191,20 +185,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/electing-the-right-gear-a-filmmakers-checklist-for-2024/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-size-matters-crafting-engaging-video-titles/"><u>[New] Size Matters Crafting Engaging Video Titles</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-cryptocurrency-trading-success-using-chatgpt-top-5-methods/"><u>Boost Cryptocurrency Trading Success Using ChatGPT - Top 5 Methods</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-ifunbox-evaluation-and-top-competing-platforms/"><u>Comprehensive IFUNBOX Evaluation & Top Competing Platforms</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-tutorial-on-sourcing-top-quality-high-res-audio-files/"><u>Easy Tutorial on Sourcing Top Quality High-Res Audio Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-evolving-skills-in-the-realm-of-google-photos/"><u>In 2024, From Novice Evolving Skills in the Realm of Google Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>In 2024, Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx/"><u>In 2024, Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX]</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-scrambled-avchd-files/"><u>Repairing Scrambled AVCHD Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-video-transformation-tools-from-iphone-to-file/"><u>Top #8 Video Transformation Tools From iPhone to File</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-ev-bev-phev-and-fcev-distinguishing-electric-vehicle-types/"><u>Unraveling EV, BEV, PHEV, and FCEV - Distinguishing Electric Vehicle Types</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-detailed-review-experience-with-samsungs-sphere-cam/"><u>[New] Detailed Review Experience with Samsung's Sphere Cam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[New] In 2024, The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-gpus-for-sharp-4k-image-display/"><u>[New] Prime GPUs for Sharp 4K Image Display</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/boost-your-brand-twitter-ads-guide-for-2024/"><u>Boost Your Brand Twitter Ads Guide for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>New In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-potential-of-generative-ai/"><u>Understanding ChatGPT: Unlocking the Potential of Generative AI</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-aesthetics-advanced-video-hue-balancing/"><u>YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
 </ul></div>
 

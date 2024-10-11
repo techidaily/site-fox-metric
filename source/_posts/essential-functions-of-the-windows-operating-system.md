@@ -1,7 +1,7 @@
 ---
 title: Essential Functions of the Windows Operating System
-date: 2024-09-28T17:15:56.053Z
-updated: 2024-10-05T22:26:43.991Z
+date: 2024-10-07T08:37:31.113Z
+updated: 2024-10-10T17:04:41.024Z
 tags:
   - user-guide
 categories:
@@ -81,31 +81,38 @@ Table of Contents
 
 ![Windows Features bundle](https://cdn.advancedinstaller.com/img/dialog/windows-features.png "Windows Features bundle")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Installation
 
 Specify the bundle's install/uninstall settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition
 
 The condition which determines if the bundle will be installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature unavailable policy
 
 Some features may be unavailable on certain Windows editions. In such a case you can choose to rollback the installation or to ignore error and continue the installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Uninstall policy
 
@@ -113,25 +120,24 @@ Choose whether to remove or keep the selected Windows Features on uninstall. If 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Uninstall policy doesn't apply on Windows Vista and Windows Server 2008.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Target Operating Systems
 
 Selecting several OS's will intersect each one's specific Features and Dependencies, displaying the resulting set in the**Available Windows Features** list.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Some Windows Features are shown in the Control Panel only after a system restart.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Available Windows Features
 
@@ -172,16 +178,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-high-quality-fullscreen-recorders-for-desktops/"><u>[New] 2024 Approved High-Quality Fullscreen Recorders for Desktops</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] Curate a Perfect Playlist on YouTube A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control YouTube Visibility Personalization</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complete-guide-on-eliminating-computer-block-scam-virus-effective-steps-with-malwarefox/"><u>Complete Guide on Eliminating 'Computer Block' Scam Virus - Effective Steps with MalwareFox</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Pro 5G Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simplified-navigation-through-the-manage-data-rows-window/"><u>Simplified Navigation Through the 'Manage Data Rows' Window</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-making-apowerpdf-your-go-to-pdf-viewer/"><u>Step-by-Step Guide: Making ApowerPDF Your Go-To PDF Viewer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-how-to-edit-and-crop-your-videos-for-insta-success/"><u>Step-by-Step Tutorial on How to Edit and Crop Your Videos for Insta Success</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-15-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 15 Pro Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M34 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-exclusive-perks-your-guide-to-apowermirrors-member-advantages/"><u>Unlock Exclusive Perks: Your Guide to ApowerMirror's Member Advantages</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-virtual-racing-masterclass-our-five-favorite-games/"><u>[Updated] In 2024, Virtual Racing Masterclass Our Five Favorite Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>[Updated] Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-selecting-cinematic-slices-top-10-for-editing-mastery/"><u>[Updated] Selecting Cinematic Slices Top 10 for Editing Mastery</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/download-the-latest-macx-pro-the-ultimate-free-video-transcoder-for-mac-users/"><u>Download the Latest MacX Pro: The Ultimate Free Video Transcoder for Mac Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/project-protection-learn-how-to-save-your-final-cut-pro-files/"><u>Project Protection Learn How to Save Your Final Cut Pro Files</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/refine-your-query-mastering-the-pre-search-setup-screen/"><u>Refine Your Query: Mastering the Pre-Search Setup Screen</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-audio-interchange-file-format-aif-files-into-mp3/"><u>Step-by-Step Guide: Transforming Audio Interchange File Format (AIF) Files Into MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78plus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78+ Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-mastering-snapchats-call-and-chat-features/"><u>The Ultimate Guide Mastering Snapchat's Call & Chat Features</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
 </ul></div>
 

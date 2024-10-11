@@ -1,7 +1,7 @@
 ---
 title: Simplified Navigation Through the 'Manage Data Rows' Window
-date: 2024-10-02T17:23:53.128Z
-updated: 2024-10-05T16:50:56.415Z
+date: 2024-10-09T05:22:07.414Z
+updated: 2024-10-10T18:03:25.780Z
 tags:
   - user-guide
 categories:
@@ -84,40 +84,19 @@ Table of Contents
 ## Control Data Row Dialog
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Values
 
 ![Control Data Row Dialog](https://cdn.advancedinstaller.com/img/dialog/control-data-row.png "Control Data Row Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Text
 
 Specify item text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Value
 
@@ -125,11 +104,32 @@ Specify item value.
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can insert a reference to a property.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Icon File
 
 Specify item icon. Use the \[... \] to select one.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is available only for ListView controls.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Icon Preview
 
@@ -168,17 +168,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>[New] Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-fullscreen-image-of-page-layout-for-2024/"><u>[New] Fullscreen Image of Page Layout for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-video-editing-mastery-with-windows-movie-maker-the-windows-8-edition-explained/"><u>[New] Video Editing Mastery with Windows Movie Maker - The Windows 8 Edition Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-premium-luts-available-for-free/"><u>[Updated] Top 10 Premium LUTs, Available for FREE</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015695875-borderlands-e-3-audio-not-working-here-are-the-fixes-for-pc-players/"><u>Borderlands E 3 Audio Not Working? Here Are The Fixes For PC Players!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/excellent-strategies-to-project-apples-tablet-screen-onto-laptop-or-desktop/"><u>Excellent Strategies to Project Apple's Tablet Screen Onto Laptop or Desktop</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-12-mini-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 12 mini in the Best Ways</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-and-eliminating-the-amazonaws-virus-expert-tips-from-malwarefox-for-a-clean-system/"><u>Identifying and Eliminating the Amazonaws Virus: Expert Tips From MalwareFox for a Clean System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-system-with-official-realtek-drivers-windows-11-10-or-7-supported/"><u>Update Your System with Official Realtek Drivers: Windows 11, 10 or 7 Supported</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-immediate-techniques-for-instagram-video-audio-extraction-mp3-for-2024/"><u>[Updated] Immediate Techniques for Instagram Video Audio Extraction (MP3) for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aiff/"><u>無料在線AIFF格式轉換 - 動畫舞者</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-network-speed-secure-your-intel-dual-band-ac-7260-wi-fi-adapters-latest-driver-here/"><u>Boost Network Speed: Secure Your Intel Dual Band AC 7260 Wi-Fi Adapter's Latest Driver Here</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/detecting-and-halting-malware-effective-strategies-using-the-task-manager/"><u>Detecting & Halting Malware: Effective Strategies Using the Task Manager</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v29-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V29 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-x7b-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X7b phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-itel-a60s-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Itel A60s Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-pro-manycam-top-tier-video-software-and-simulated-camera-solutions/"><u>Live Streaming Pro - ManyCam: Top-Tier Video Software and Simulated Camera Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steam-playback-perfection-in-video-games/"><u>Steam Playback Perfection in Video Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-note-30-vip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Note 30 VIP? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sync-your-xiaomi/"><u>Sync Your Xiaomi</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-lzma-compression-preferences-window/"><u>Understanding the LZMA Compression Preferences Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-uwp-bootstrap-interface-navigating-through-its-tabs/"><u>Understanding the UWP Bootstrap Interface: Navigating Through Its Tabs</u></a></li>
 </ul></div>
 

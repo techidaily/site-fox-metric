@@ -1,7 +1,7 @@
 ---
 title: "Adding Yourself to Our Professional Network: Directory Membership Guide"
-date: 2024-09-28T22:25:25.345Z
-updated: 2024-10-05T17:51:22.327Z
+date: 2024-10-09T17:18:07.519Z
+updated: 2024-10-10T22:14:29.681Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This interface allows to edit base information about a directory member.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This interface allows to edit base information about a directory member.
 IDirectoryMember : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -139,10 +139,10 @@ IDirectoryMember : IDispatch
 **String Type** \- Gets the type of the directory member as a string.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -152,10 +152,10 @@ IDirectoryMember : IDispatch
 * **DeleteFile()** \- This method deletes the directory member from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -201,22 +201,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-instagrams-max-video-length-policy/"><u>[New] 2024 Approved Decoding Instagram's Max Video Length Policy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-vlc-video-record-a-critique/"><u>[New] VLC Video Record A Critique</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] 2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>[Updated] PicSweets Where Free TikTok BGs and Beauty Meet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-capture-a-perfect-screenshot-on-your-pc-with-windows-10/"><u>How to Capture a Perfect Screenshot on Your PC with Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tunetester-rethinking-dacast/"><u>In 2024, TuneTester Rethinking DaCast</u></a></li>
-<li><a href="https://driver-install.techidaily.com/increase-screen-output-performance-windows/"><u>Increase Screen Output Performance (Windows)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-web-content-curation-tips-on-binding-your-digital-pages/"><u>Mastering the Art of Web Content Curation: Tips on Binding Your Digital Pages</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y200-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y200 Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/take-your-computing-to-the-next-level-with-beefys-revolutionary-mini-pc-featuring-meteor-lake-cpu-intel-ultra-celeron-185h-and-oculink-technology/"><u>Take Your Computing to the Next Level with Beefy's Revolutionary Mini PC: Featuring Meteor Lake CPU, Intel Ultra Celeron 185H and OCuLink Technology</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-instagram-presence-through-bigger-video-content/"><u>[New] 2024 Approved Elevating Instagram Presence Through Bigger Video Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] In 2024, Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-audio-transformation-from-instagram-visuals-mp3/"><u>[Updated] 2024 Approved Audio Transformation From Instagram Visuals (MP3)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-master-switch-pro-controller-gaming-in-steam-for-2024/"><u>[Updated] How to Master Switch Pro Controller Gaming in Steam for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/advanced-techniques-to-leverage-windows-11-pro/"><u>Advanced Techniques to Leverage Windows 11 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-7-ai-applications-transforming-how-you-create-slideshows/"><u>Discover the Ultimate 7 AI Applications Transforming How You Create Slideshows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-poco-x5-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Poco X5.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>New Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724313373570-abbyy-jay-parkai/"><u>アジア太平洋市場に新たな飛躍: ABBYY は、Jay Park氏を営業担当副社長に任命し、ドキュメントAIとプロセスインテリジェンスの可能性を切り開く</u></a></li>
 </ul></div>
 

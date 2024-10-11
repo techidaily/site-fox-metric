@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface
-date: 2024-10-04T20:37:14.753Z
-updated: 2024-10-05T20:12:15.070Z
+date: 2024-10-05T02:05:14.096Z
+updated: 2024-10-11T07:54:29.497Z
 tags:
   - user-guide
 categories:
@@ -86,16 +86,16 @@ This dialog allows you to change the tab order for controls on the dialog.
 
 ![Control Tab Order Dialog](https://cdn.advancedinstaller.com/img/dialog/control-tab-order.png "Control Tab Order Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dialog Controls
 
 This list contains all the controls that are on the dialog. The order of the controls in the list represents the order in which the controls were created. Also, this order gives the tab order of the dialog at run-time as well as the Z-order. Use the \[Up \] and \[Down \] buttons to modify this order. If two controls overlap will be visible the one who is lower on the list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Default
 
@@ -104,10 +104,17 @@ Make the current control the default control of the dialog. By default, this con
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Cancel
@@ -117,20 +124,19 @@ Make the current control the Cancel control of the dialog.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Cancel control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A control can be simultaneously Default Control and Cancel Control for a dialog.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -165,20 +171,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-analyzing-the-features-of-vegaspros-latest-release/"><u>[New] In 2024, Analyzing the Features of VegasPro's Latest Release</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations Using VoiceMod Effectively</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-instant-mp3-download-from-facebook-vids-directly-for-2024/"><u>[Updated] Instant MP3 Download From Facebook Vids Directly for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[Updated] Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-modify-property-attributes-an-in-depth-tutorial/"><u>How to Modify Property Attributes: An In-Depth Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-14-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 14 Plus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-zero-30-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Zero 30 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lenovo-device-reboot-mastering-the-process-of-a-clean-system-installation/"><u>Lenovo Device Reboot: Mastering the Process of a Clean System Installation</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-apps-to-write-on-photos-for-ios-and-android/"><u>Top 10 Apps to Write on Photos for iOS and Android</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-techniques-for-efficiently-converting-tiff-images-into-pdf-documents/"><u>Top Techniques for Efficiently Converting TIFF Images Into PDF Documents</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uick-resize-youtube-to-fit-mac-display-ratio-for-2024/"><u>[New] Quick Resize YouTube to Fit Mac Display Ratio for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-optimal-performance-desktops-today/"><u>[Updated] 2024 Approved Optimal Performance Desktops Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionizing-video-recording-insights-on-camstudios-latest-release-for-2024/"><u>[Updated] Revolutionizing Video Recording - Insights on CamStudio's Latest Release for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-online-platforms-for-discovering-new-tunes-and-expanding-your-playlist/"><u>Best Online Platforms for Discovering New Tunes and Expanding Your Playlist</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-top-8-budget-friendly-apps-for-professional-looking-product-photos-at-home/"><u>Discover the Top 8 Budget-Friendly Apps for Professional-Looking Product Photos at Home!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100 Phone FRP Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-8-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 8 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/offline-domains-leading-to-print-failures/"><u>Offline Domains Leading to Print Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pro-mobile-showdown-google-pixel-e-vs-apple-iphone-13-expert-review-and-buying-guide/"><u>Pro Mobile Showdown: Google Pixel E vs Apple iPhone 13 | Expert Review and Buying Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-digital-learning-environments-for-educators/"><u>Top Digital Learning Environments for Educators</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transferring-iphone-voice-memos-to-your-mac-a-step-by-step-guide/"><u>Transferring iPhone Voice Memos to Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-fastsupport-scam-prevention-and-removal-strategies/"><u>Understanding the FastSupport Scam: Prevention & Removal Strategies</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-the-power-of-youtube-playslists-mastering-embedding-techniques-for-instant-video-startup/"><u>Unlocking the Power of YouTube Playslists: Mastering Embedding Techniques for Instant Video Startup</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y100 5G? | Dr.fone</u></a></li>
 </ul></div>
 

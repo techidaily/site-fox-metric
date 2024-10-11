@@ -1,7 +1,7 @@
 ---
 title: How to Navigate and Utilize the Registration Tab Effectively
-date: 2024-10-04T20:08:55.392Z
-updated: 2024-10-05T19:00:45.031Z
+date: 2024-10-03T23:07:34.048Z
+updated: 2024-10-11T06:40:40.332Z
 tags:
   - user-guide
 categories:
@@ -104,13 +104,6 @@ The following file types can be registered:
 
 * **Dynamic-Link Library(.dll) files, Object Linking and Embedding custom control(.ocx) files, etc.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## File Registration
 
 Check the _Auto register file (DLL,OCX,etc.)_ box to mark the file for registration.
@@ -119,25 +112,11 @@ There are three methods for registering files, two for native libraries and one 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A self-registrable native library should export the “DllRegisterServer” function.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Self-register native library
 
 By selecting this option the file is marked for self-registration.
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The self-registration method of registering components has many drawbacks (like not being able to roll back the changes if something fails later in the install) and it is against Microsoft guidelines.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Extract registration info from the native library
 
@@ -145,7 +124,21 @@ By selecting this option all the necessary registry entries and keys are install
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you make changes to the source file or change the file directory in Advanced Installer it is recommended to synchronize the file's registration.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When this option is enabled for EXE COMs being already registered on the current build machine after the option is applied it is possible that the EXE COMs be unregistered from build machine. This behavior may exhibit due to a limitation of our extract registration info mechanism.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Register .NET assembly for COM interoperability
 
@@ -163,16 +156,16 @@ This option creates the required registry entries in order for your assembly to 
 
 * **Font files:**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Font Options
 
 ![Font Registration](https://cdn.advancedinstaller.com/img/dialog/font-registration.png "Font Registration")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check the “Register Font” check-box for the font to be registered during the installation process.
 
@@ -180,27 +173,34 @@ Enter the font's name in the “Registration Name” text field. This will be th
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)For True-Type and True-Type Collections this field must be empty since the correct name will be read from the file. If a different name is entered the font will be registered twice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Merge Modules files:**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Merge Module Registration
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Register with Visual Studio
 
 Registers this merge module with Visual Studio. Registered merge modules can be selected when creating "Setup and Deployment" projects.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Register with Advanced Installer
 
@@ -239,24 +239,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-can-instagrams-video-selfies-be-trusted-in-2024/"><u>[New] Can Instagram's Video Selfies Be Trusted, In 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-choosing-your-videos-ultimate-shape/"><u>[New] Choosing Your Video's Ultimate Shape</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-find-the-optimal-screen-capture-solutions-in-linux-for-2024/"><u>[New] Find the Optimal Screen Capture Solutions in Linux for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[New] In 2024, ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-innovative-fb-videos-unique-ad-creation-techniques/"><u>[Updated] In 2024, Crafting Innovative FB Videos Unique Ad Creation Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[Updated] Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-importance-of-b-roll-diversity-in-filmmaking/"><u>2024 Approved The Importance of B-Roll Diversity in Filmmaking</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-6-misconceptions-macs-vs-gaming-computers/"><u>Dissecting 6 Misconceptions: Macs Vs. Gaming Computers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-pop-7-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Pop 7 Pro ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-techniques-for-efficiently-converting-tiff-images-into-pdf-documents/"><u>Top Techniques for Efficiently Converting TIFF Images Into PDF Documents</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-landscape-of-motion-sensing-technology/"><u>2024 Approved Navigating the Landscape of Motion Sensing Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-c55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco C55</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-gaming-smoothness-on-dragon-gro-dogma-ii-fixing-frame-rate-problems/"><u>Boost Gaming Smoothness on Dragon' Gro Dogma II: Fixing Frame Rate Problems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-optimizing-the-reference-section-in-documents/"><u>Effective Strategies for Optimizing the Reference Section in Documents</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-techniques-for-retrieving-text-from-pdf-documents/"><u>Effortless Techniques for Retrieving Text From PDF Documents</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-canon-mp250-printer-driver-free-software-downloads-available-now/"><u>Get the Most Recent Canon MP250 Printer Driver - Free Software Downloads Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-advanced-video-editing-and-virtual-webcam-features/"><u>Live Streaming Made Easy: Discover ManyCam's Advanced Video Editing and Virtual Webcam Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-trends-on-toms-electronic-highway/"><u>Navigating New Tech Trends on Tom's Electronic Highway</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-predetermined-terms-and-agreed-upon-stipulations/"><u>Navigating Predetermined Terms and Agreed Upon Stipulations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/revolutionize-your-life-strategies-for-effective-transformation/"><u>Revolutionize Your Life: Strategies for Effective Transformation</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-mirroring-your-smartphone-display-onto-your-computer-from-afar/"><u>Step-by-Step Guide: Mirroring Your Smartphone Display Onto Your Computer From Afar</u></a></li>
 </ul></div>
 

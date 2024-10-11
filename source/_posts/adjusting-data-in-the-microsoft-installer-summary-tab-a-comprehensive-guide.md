@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide"
-date: 2024-09-30T21:29:46.722Z
-updated: 2024-10-05T18:52:10.467Z
+date: 2024-10-08T16:19:27.169Z
+updated: 2024-10-11T06:33:44.164Z
 tags:
   - user-guide
 categories:
@@ -99,41 +99,41 @@ This dialog enables you to edit a field from the MSI summary information.
 
 The field name. This value cannot be changed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Options
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use specific value
 
 Checking this option will enable the above **Value** field allowing you to edit it.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use default value (generated at build)
@@ -141,10 +141,10 @@ Checking this option will enable the above **Value** field allowing you to edit 
 This option restores the default field value which is generated at build time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not use this field
@@ -184,21 +184,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-standout-settings-guide-for-online-events/"><u>[New] Standout Settings Guide for Online Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-picking-prime-stream-services/"><u>[New] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-7-dslr-recommendations-for-dynamic-video-content/"><u>[Updated] Optimal 7 DSLR Recommendations For Dynamic Video Content</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-key-parameters-of-component-assembly-a-comprehensive-guide/"><u>1. Key Parameters of Component Assembly: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-deciphering-the-variance-between-metaverse-and-multi-meva-environments/"><u>2024 Approved Deciphering the Variance Between Metaverse and Multi-Meva Environments</u></a></li>
-<li><a href="https://android-frp.techidaily.com/advanced-gemini-vs-chatgpt-plus-which-delivers-superior-performance/"><u>Advanced Gemini Vs. ChatGPT Plus – Which Delivers Superior Performance?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/experience-flawless-videos-every-time-using-winxvideos-artificial-intelligence-stabilizer/"><u>Experience Flawless Videos Every Time Using Winxvideo's Artificial Intelligence Stabilizer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4s-global-footprint-simplified/"><u>GPT-4's Global Footprint, Simplified</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/recognizing-inauthentic-facebook-friends-a-step-by-step-guide/"><u>Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/secure-code-practices-integrating-compliance-checks-into-fintech-applications/"><u>Secure Code Practices: Integrating Compliance Checks Into Fintech Applications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-8-leading-no-monetary-cost-video-tools-for-editors/"><u>[Updated] Unveiling the 8 Leading No-Monetary-Cost Video Tools for Editors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-no-cost-screen-capture-apps-for-hd-video-broadcasting-across-pc-and-mac-devices/"><u>Best No-Cost Screen Capture Apps for HD Video Broadcasting Across PC and MAC Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/captivating-cosmic-images-from-nasa-transform-your-computer-background-with-stunning-space-photography/"><u>Captivating Cosmic Images From NASA: Transform Your Computer Background with Stunning Space Photography</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-to-move-music-files-from-iphone-onto-a-mac-computer/"><u>Easy Steps to Move Music Files From iPhone Onto a Mac Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-for-the-modern-world-saying-hello-in-the-21st-century/"><u>French for the Modern World: Saying Hello in the 21St Century</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-modify-and-edit-a-json-configuration-file-easily/"><u>How to Modify and Edit a JSON Configuration File Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Pro Phone without PIN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captivate-with-crafted-cost-free-comic-templates/"><u>In 2024, Captivate with Crafted, Cost-Free Comic Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-gopro-hero5-sessions/"><u>In 2024, Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-snap-into-fb-shorts-saga/"><u>In 2024, Snap Into FB Shorts Saga</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-java-development-opening-the-include-path-files-interface/"><u>Mastering Java Development: Opening the 'Include Path Files' Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-tips-for-removing-podcast-content-from-your-ios-device-efficiently/"><u>Quick Tips For Removing Podcast Content From Your iOS Device Efficiently</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/theoretical-investigation-into-comparative-models-of-public-resource-availability-internet-vs-physical-library/"><u>Theoretical Investigation Into Comparative Models of Public Resource Availability: Internet Vs. Physical Library</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
 </ul></div>
 

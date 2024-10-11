@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of IComponent for .NET Custom Controls and Reusability
-date: 2024-09-28T21:10:25.032Z
-updated: 2024-10-05T18:57:28.996Z
+date: 2024-10-04T16:00:48.486Z
+updated: 2024-10-11T01:01:20.051Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 ## IComComponent
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,16 +126,10 @@ Table of Contents
 IComComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -170,10 +164,10 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 **DeleteCom(VARIANT aCom)** \- Deletes a COM entity from project. Supported argument types are: IComClass, IComInterface, IComTypeLibrary, IComPlus.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -183,16 +177,10 @@ Creates a new COM+ from specified executable file (\*.exe, \*.dll).
 [IComClassActiveX](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -243,17 +231,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-little-wheelmens-game-festivals/"><u>[Updated] 2024 Approved Little Wheelmen's Game Festivals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-public-melodies-for-calmness/"><u>2024 Approved Public Melodies for Calmness</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/a-comprehensive-tutorial-for-switching-languages-on-amazons-kindle-ereader-device/"><u>A Comprehensive Tutorial for Switching Languages on Amazon's Kindle eReader Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/airdroid-replacements-ranked-top-9-ways-to-improve-smartphone-management/"><u>AirDroid Replacements Ranked: Top 9 Ways to Improve Smartphone Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/approaches-strategies-and-implementation-models-these-titles-aim-to-be-relevant-for-search-engine-optimization-while-maintaining-semantic-relevance-to-virtu11/"><u>Approaches, Strategies, and Implementation Models, These Titles Aim to Be Relevant for Search Engine Optimization While Maintaining Semantic Relevance to Virtualization Project Types.</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-c67-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme C67 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-property-search-enhancements/"><u>Comprehensive Property Search Enhancements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gopros-latest-camera-face-off/"><u>GoPro's Latest Camera Face-Off</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-fix-obs-full-screen-not-working-issue-in-2024/"><u>How To Fix OBS Full Screen Not Working Issue, In 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-upgrade-in-universal-windows-platform-detectability/"><u>Latest Upgrade in Universal Windows Platform Detectability</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-project-journeys-unveiling-the-project-paths-tab/"><u>Navigating Project Journeys: Unveiling the Project Paths Tab</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-seamlessly-add-snap-camera-to-microsoft-chats/"><u>[New] In 2024, How To Seamlessly Add Snap Camera to Microsoft Chats</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revenue-optimization-leveraging-your-youtube-mobile-audience/"><u>[New] Revenue Optimization Leveraging Your YouTube Mobile Audience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-eliminating-robotic-ratings-to-grow-views/"><u>[Updated] In 2024, Eliminating Robotic Ratings to Grow Views</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mac-mp4/"><u>「初心者フレンドリーなガイド：【高解像度】無料アプリでMac MP4動画を整理して圧縮」</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adjust-macs-screenshot-stash-location/"><u>Adjust Mac's Screenshot Stash Location</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/advanced-tips-enhancing-the-editable-user-interface-dialog/"><u>Advanced Tips: Enhancing the Editable User Interface Dialog</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/clearing-your-browsers-of-unwanted-redirection-the-3-stage-process-to-defeat-the-virus/"><u>Clearing Your Browsers of Unwanted Redirection: The 3-Stage Process to Defeat the Virus</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/customize-your-service-configuration-options/"><u>Customize Your Service Configuration Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-low-cost-digital-video-capture-software/"><u>Essential Low-Cost Digital Video Capture Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-echoes-effective-steps-to-troubleshoot-your-lenovos-lack-of-sound/"><u>Restoring Echoes: Effective Steps to Troubleshoot Your Lenovo's Lack of Sound</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-audio-interchange-file-format-aif-files-into-mp3/"><u>Step-by-Step Guide: Transforming Audio Interchange File Format (AIF) Files Into MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/story-1-the-misguided-environmental-consultant-answer-b/"><u>Story 1: The Misguided Environmental Consultant (Answer B)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-essential-list-top-10-video-editors-to-elevate-reels/"><u>The Essential List Top 10 Video Editors to Elevate Reels</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-digital-voice-memo-apps-for-effortless-recording-and-sharing/"><u>Top-Rated Digital Voice Memo Apps for Effortless Recording & Sharing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-basics-unveiling-the-mp4-file-compression-technique/"><u>Understanding the Basics: Unveiling the MP4 File Compression Technique</u></a></li>
 </ul></div>
 

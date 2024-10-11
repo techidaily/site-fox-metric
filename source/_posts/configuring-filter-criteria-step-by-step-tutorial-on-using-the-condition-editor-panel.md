@@ -1,7 +1,7 @@
 ---
 title: "Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel"
-date: 2024-10-04T16:06:18.840Z
-updated: 2024-10-05T22:29:34.437Z
+date: 2024-10-08T06:52:35.649Z
+updated: 2024-10-10T17:10:00.748Z
 tags:
   - user-guide
 categories:
@@ -87,16 +87,10 @@ Table of Contents
 ![Control Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/control-condition.png "Control Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -104,10 +98,10 @@ Table of Contents
 The conditional statement that specifies under which conditions the action should be triggered. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/) (it cannot be blank). 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action
@@ -147,18 +141,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>[New] 2024 Approved The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-pdf-reader-applications-on-windows-11-comprehensive-review-updated-in-2020/"><u>Best PDF Reader Applications on Windows 11: Comprehensive Review (Updated in 2020)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-whatsapp-call-recording-apps-top-picks-for-android-and-iphone/"><u>Best WhatsApp Call Recording Apps: Top Picks for Android & iPhone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-tutorial-on-sourcing-top-quality-high-res-audio-files/"><u>Easy Tutorial on Sourcing Top Quality High-Res Audio Files</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/is-being-polite-to-intelligent-assistants-such-as-chatgpt-alexa-by-amazon-and-siri-by-apple-a-must-for-proper-interaction/"><u>Is Being Polite to Intelligent Assistants Such as ChatGPT, Alexa by Amazon, and Siri by Apple a Must for Proper Interaction?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-updates-optimizing-your-app-with-the-enhanced-jvm-system-settings-interface/"><u>Latest Updates: Optimizing Your App with the Enhanced JVM System Settings Interface</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-slicing-through-long-videos-the-quickest-methods-for-mac-editing-for-2024/"><u>New Slicing Through Long Videos The Quickest Methods for Mac Editing for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/now-divide-both-sides-by-72-to-solve-for-x/"><u>Now, Divide Both Sides by 72 to Solve for X</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973770669-quick-updates-for-your-intel-iris-540-graphic-drivers-made-easy/"><u>Quick Updates for Your Intel Iris 540 Graphic Drivers Made Easy</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recovering-lost-data-steps-to-retrieve-permanently-deleted-items-from-the-recycle-bin/"><u>Recovering Lost Data: Steps to Retrieve Permanently Deleted Items From the Recycle Bin</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-rise-and-reality-of-magix-paintbox-for-2024/"><u>The Rise and Reality of MAGIX Paintbox for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transform-your-tasks-mastering-different-project-structures/"><u>Transform Your Tasks: Mastering Different Project Structures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discovering-your-youtube-comments-on-various-devices-for-2024/"><u>[New] Discovering Your YouTube Comments on Various Devices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-drone-cinematography-team-the-best-10/"><u>[New] In 2024, Ultimate Drone Cinematography Team The Best 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-envisioning-artistry-a-gopro-hero5-black-journey-to-excellence/"><u>[Updated] 2024 Approved Envisioning Artistry A GoPro Hero5 Black Journey to Excellence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-twitter-media-transfer-to-whatsapp/"><u>[Updated] In 2024, Direct Twitter Media Transfer to WhatsApp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-moment-in-time-windows-108-screenshots-explained/"><u>[Updated] Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-seamless-strategies-for-moving-android-phone-numbers-to-your-iphone/"><u>1. Seamless Strategies for Moving Android Phone Numbers to Your iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/advanced-tips-enhancing-the-editable-user-interface-dialog/"><u>Advanced Tips: Enhancing the Editable User Interface Dialog</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-project-overview-key-points-and-insights/"><u>Comprehensive Project Overview: Key Points & Insights</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-features-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Features: Enhance Your Site's User Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-guide-how-to-seamlessly-mirror-your-instagram-stories-and-posts-to-your-smart-tv-or-any-display-device/"><u>Quick Guide: How to Seamlessly Mirror Your Instagram Stories and Posts to Your Smart TV or Any Display Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-basics-unveiling-the-mp4-file-compression-technique/"><u>Understanding the Basics: Unveiling the MP4 File Compression Technique</u></a></li>
 </ul></div>
 

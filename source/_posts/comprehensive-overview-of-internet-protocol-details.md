@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Overview of Internet Protocol Details
-date: 2024-10-04T21:05:49.124Z
-updated: 2024-10-05T18:35:42.192Z
+date: 2024-10-08T18:24:44.716Z
+updated: 2024-10-10T21:35:52.902Z
 tags:
   - user-guide
 categories:
@@ -117,27 +117,27 @@ Table of Contents
 
 ## IPatchDetails
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPatchDetails : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit patch details (name, company, comments, etc.)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -162,10 +162,16 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **Array<String> PatchesToReplace** \- Gets the collection of patches to replace. These patches, .msp files, if found installed and registered with Windows Installer on the user's computer, will be unregistered from the appropriate places.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -175,10 +181,10 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **RemovePatchToReplace(String aPatch)** Removes a .msp file from the collection of patches to replace.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -220,22 +226,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] In 2024, Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-screen-sharing-on-discord/"><u>[Updated] 2024 Approved Mastering Screen Sharing on Discord</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sony-xperia-xz-premium-4k-smartphone-review/"><u>[Updated] Sony Xperia XZ Premium 4K Smartphone Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-novices-route-to-revenue-in-the-youtube-realm/"><u>[Updated] The Novice's Route to Revenue in the YouTube Realm</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-science-behind-time-warp-visuals-for-2024/"><u>[Updated] The Science Behind Time Warp Visuals for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic 5 Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029493692-shotcut/"><u>Shotcutアプリで動画回転・反転技術：簡単ガイド</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-end-of-apple-pay-later-exploring-new-financial-services-by-apple-on-the-horizon-zdnet/"><u>The End of Apple Pay Later? Exploring New Financial Services by Apple on the Horizon | ZDNet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-recommended-white-background-applications-in-poshmark-for-a-stellar-shopping-experience/"><u>Top Recommended White Background Applications in Poshmark for a Stellar Shopping Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-video-editing-software-ideal-for-vlog-creators/"><u>Top-Rated Video Editing Software Ideal for Vlog Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-adding-social-media-magic-snapchat-to-your-mac/"><u>[New] In 2024, Adding Social Media Magic Snapchat to Your Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-engaging-storytelling-with-snapchats-gifted-gifs-for-2024/"><u>[Updated] Engaging Storytelling with Snapchat's Gifted GIFs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-high-fidelity-mp4-converter-to-fb/"><u>[Updated] High-Fidelity MP4 Converter to FB</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-15-imei-checker-by-drfone-ios/"><u>Best Free iPhone 15 IMEI Checker</u></a></li>
+<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
+<li><a href="https://win-dash.techidaily.com/patience-pays-off-a-satisfying-experience-with-the-new-windows-release-of-goodnotes/"><u>Patience Pays Off: A Satisfying Experience with the New Windows Release of GoodNotes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-how-to-access-your-iphone-x-securely-when-youve-forgotten-the-code-or-cant-use-face-id/"><u>Ultimate Guide: How to Access Your iPhone X Securely When You've Forgotten the Code or Can't Use Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-application-in-entertainment/"><u>VR Application in Entertainment</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
 </ul></div>
 

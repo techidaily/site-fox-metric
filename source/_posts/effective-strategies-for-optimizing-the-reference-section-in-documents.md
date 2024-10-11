@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Optimizing the Reference Section in Documents
-date: 2024-09-29T22:24:25.602Z
-updated: 2024-10-05T16:50:47.734Z
+date: 2024-10-06T05:00:35.266Z
+updated: 2024-10-10T20:07:26.415Z
 tags:
   - user-guide
 categories:
@@ -68,10 +68,16 @@ Throughout the project you may have items that you can not delete because they a
 References pane will display a list with the references of the item you tried to delete.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go To Definition
@@ -81,10 +87,10 @@ To jump where the selected item from the list is created in the project use the 
 If the selected item can be displayed, the corresponding main page will be activated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go Back To Target Item
@@ -92,10 +98,10 @@ If the selected item can be displayed, the corresponding main page will be activ
 If you used the \[Go To Definition \] option or you have navigated thought the project pages you may want to go back where the target item is displayed. For that, use the \[Go Back To Target Item \] context menu button or press the F6 key.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Search References
@@ -105,10 +111,10 @@ You can search for the references of the selected item by using the \[Search Ref
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references found for the selected item will be added to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,19 +150,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-content-that-captivates-and-grows-your-audience-for-2024/"><u>[Updated] Crafting Content That Captivates and Grows Your Audience for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-professional-tips-for-hd-streaming-success-on-social-media-fb/"><u>[Updated] In 2024, Professional Tips for HD Streaming Success on Social Media (FB)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>[Updated] The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-understanding-bandicam-key-facts-revealed/"><u>2024 Approved Understanding Bandicam - Key Facts Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-inventory-optimal-auto-surveillance-cams/"><u>Elite Inventory Optimal Auto Surveillance Cams</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancements-and-updates-your-guide-to-the-newest-version/"><u>Enhancements and Updates: Your Guide to the Newest Version</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-6-lite-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic 6 Lite Phones with/without a PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/introducing-the-new-and-improved-apowersoft-pdf-suite-for-a-smarter-document-experience/"><u>Introducing the New and Improved Apowersoft PDF Suite for a Smarter Document Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-considerations-before-your-ps5-buy-decision/"><u>Key Considerations Before Your PS5 Buy Decision</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-talk-alert-could-facebook-sell-off-giphy-assets/"><u>Tech Talk Alert: Could Facebook Sell Off Giphy Assets?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-the-newly-released-samsung-galaxy-watch-7-pricing-specs-and-release-updates/"><u>The Comprehensive Guide to the Newly Released Samsung Galaxy Watch #7 - Pricing, Specs and Release Updates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-full-screen-recorder-azs-complete-application-review-for-2024/"><u>[New] Full Screen Recorder - AZ's Complete Application Review for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-8-prime-video-advancement-aids/"><u>Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functional-shortcut-win-shift-and-s-on-microsoft-windows-versions/"><u>Effective Fixes for Non-Functional Shortcut: Win, Shift, and S on Microsoft Windows Versions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-intro-scripts-for-panzoid-zeoids/"><u>In 2024, Premier Intro Scripts for Panzoid Zeoids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-steps-to-develop-a-charismatic-vlog-script/"><u>In 2024, Steps to Develop a Charismatic Vlog Script</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-premiere-pros-lut-potential/"><u>In 2024, Unlocking Premiere Pro's LUT Potential</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-gopro-hero5-testing-report-for-2024/"><u>In-Depth GoPro Hero5 Testing Report for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-web-content-curation-tips-on-binding-your-digital-pages/"><u>Mastering the Art of Web Content Curation: Tips on Binding Your Digital Pages</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-a-408-request-timeout-mean-diagnosis-and-fixing-techniques/"><u>What Does a 408 Request Timeout Mean? Diagnosis & Fixing Techniques</u></a></li>
 </ul></div>
 

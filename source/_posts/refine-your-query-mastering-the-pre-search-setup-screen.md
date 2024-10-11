@@ -1,7 +1,7 @@
 ---
 title: "Refine Your Query: Mastering the Pre-Search Setup Screen"
-date: 2024-09-30T16:37:05.066Z
-updated: 2024-10-05T21:42:03.160Z
+date: 2024-10-04T17:58:05.077Z
+updated: 2024-10-10T21:25:57.496Z
 tags:
   - user-guide
 categories:
@@ -84,21 +84,7 @@ Table of Contents
 
 ![Edit Prerequisites Search](https://cdn.advancedinstaller.com/img/dialog/edit-prereq-search.png "Edit Prerequisites Search")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Search Type
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Criteria
 
@@ -130,15 +116,35 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When searching for a file, if no path is specified, the search will be performed on all drives.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search Depth
 
  Specified how deep to search for a file in the subdirectories of the folder.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Required Versions
 
@@ -150,10 +156,10 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are using as a criteria the version from a file or a registry value you can leave both fields blank. In this case Advanced Installer will check only the presence of that file or registry value to check if the prerequisite is already installed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -196,22 +202,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-swiftrecorder-plus-soundtrack-guided-screen-recording/"><u>[New] In 2024, SwiftRecorder Plus - Soundtrack Guided Screen Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>[Updated] Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-deep-dive-into-the-core-functionalities-of-zdsoft/"><u>2024 Approved Deep Dive Into the Core Functionalities of ZDSoft</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>2024 Approved XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-the-silence-crafting-powerful-film-dialogues-for-2024/"><u>Breaking the Silence Crafting Powerful Film Dialogues for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-methods-to-take-screenshots-on-acer-tablets-and-laptops-comprehensive-guide/"><u>Easy Methods to Take Screenshots on Acer Tablets & Laptops - Comprehensive Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-computing-with-the-latest-intel-82579lm-driver-updates/"><u>Efficient Computing with the Latest Intel 82579LM Driver Updates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-navigation-tips-navigating-through-the-keyboard-shortcut-window/"><u>Effortless Navigation Tips: Navigating Through the Keyboard Shortcut Window</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-webm-video-editing-software-top-10-picks/"><u>Free WebM Video Editing Software Top 10 Picks</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-file-damage-in-video-games-on-computers-modern-fixes-for-2e24/"><u>Overcoming File Damage in Video Games on Computers - Modern Fixes for 2E24</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-10-firework-worthy-television-deals-this-4th-of-july-on-zdnet/"><u>Top 10 Firework-Worthy Television Deals This 4Th of July on ZDNet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-video-editing-software-ideal-for-vlog-creators/"><u>Top-Rated Video Editing Software Ideal for Vlog Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[New] 2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-overview-dji-inspire-2/"><u>[New] Comprehensive Overview - DJI Inspire 2</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-joke-junctions-brainstorming-7-hilarious-youtube-storylines/"><u>[Updated] 2024 Approved Joke Junctions Brainstorming 7 Hilarious YouTube Storylines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>[Updated] In 2024, How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-issue-of-high-cpu-load-on-zoom-sessions-with-these-fixes/"><u>Busting the Issue of High CPU Load on Zoom Sessions with These Fixes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/detecting-and-halting-malware-effective-strategies-using-the-task-manager/"><u>Detecting & Halting Malware: Effective Strategies Using the Task Manager</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-title-design-adding-insights-to-visual-content-via-windows-photos-app/"><u>Dive Into Title Design Adding Insights to Visual Content via Windows Photos App</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-video-cropping-and-export-for-instagram-posts/"><u>In 2024, Mastering Video Cropping & Export for Instagram Posts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/triumphant-fix-for-days-gone-successful-installation-on-windows-machines/"><u>Triumphant Fix for 'Days Gone': Successful Installation on Windows Machines</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-uwp-bootstrap-interface-navigating-through-its-tabs/"><u>Understanding the UWP Bootstrap Interface: Navigating Through Its Tabs</u></a></li>
 </ul></div>
 

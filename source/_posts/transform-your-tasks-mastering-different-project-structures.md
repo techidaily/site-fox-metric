@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Tasks: Mastering Different Project Structures"
-date: 2024-09-29T16:18:29.451Z
-updated: 2024-10-05T21:26:19.131Z
+date: 2024-10-09T20:18:14.774Z
+updated: 2024-10-10T22:18:39.729Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ Table of Contents
 ![Repackager](https://cdn.advancedinstaller.com/img/project/repackager.png "Repackager") This type of project gives you the possibility to create a project based on [capturing an existing installation](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repackager Session Monitoring
@@ -95,10 +95,10 @@ Table of Contents
 ![Session monitoring](https://cdn.advancedinstaller.com/img/project/session-monitoring.png "Session monitoring")This type of project creates a package that contains only the changes you manually perform like creating a shortcut file, association or folder. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import Repackaging Results
@@ -106,10 +106,10 @@ Table of Contents
 ![Import repack results](https://cdn.advancedinstaller.com/img/project/import-repack-results.png "Import repack results") This type of project gives you the possibility to create a project starting from results of a previous repackaging operation. Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI from EXE(s)
@@ -117,10 +117,10 @@ Table of Contents
 ![Msi from exe](https://cdn.advancedinstaller.com/img/project/msi-from-exe.png "Msi from exe") This type of project gives you the possibility to[convert existing EXE packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import MSI
@@ -128,10 +128,10 @@ Table of Contents
 ![Msi import](https://cdn.advancedinstaller.com/img/project/msi-import.png "Msi import") This type of project gives you the possibility to[import an existing MSI](https://tools.techidaily.com/advancedinstaller/products/) into an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Desktop App Converter
@@ -175,15 +175,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cinemas-best-hope-fueled-film-selections/"><u>2024 Approved Cinema's Best Hope-Fueled Film Selections</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-most-shared-moments-socials-star-vids/"><u>2024 Approved Most Shared Moments Social's Star Vids</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v27-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V27 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adjusting-data-in-the-microsoft-installer-summary-tab-a-comprehensive-guide/"><u>Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969345005-get-the-latest-wi-fi-driver-upgrades-for-your-windows-7-device-instantly/"><u>Get the Latest Wi-Fi Driver Upgrades for Your Windows 7 Device Instantly</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pushing-frontiers-elons-ai-project-scoop/"><u>Pushing Frontiers: Elon's AI Project Scoop</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-reigniting-the-social-sphere-how-to-amplify-instagram-activity/"><u>2024 Approved Reigniting the Social Sphere How to Amplify Instagram Activity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-no-cost-screen-capture-apps-for-hd-video-broadcasting-across-pc-and-mac-devices/"><u>Best No-Cost Screen Capture Apps for HD Video Broadcasting Across PC and MAC Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103448965-bluetooth-cant-turn-off-on-windows-10-solved/"><u>Bluetooth Can't Turn Off on Windows 10 [Solved]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-overview-of-internet-protocol-details/"><u>Comprehensive Overview of Internet Protocol Details</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-the-persistent-asus-screen-squirm/"><u>Eradicate the Persistent ASUS Screen Squirm</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>In 2024, Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-java-development-opening-the-include-path-files-interface/"><u>Mastering Java Development: Opening the 'Include Path Files' Interface</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premium-audio-packs-for-visual-storytelling/"><u>Premium Audio Packs for Visual Storytelling</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-tips-for-removing-podcast-content-from-your-ios-device-efficiently/"><u>Quick Tips For Removing Podcast Content From Your iOS Device Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-csgo-frame-rate-drop-problems/"><u>Solved! How to Fix CS:GO Frame Rate Drop Problems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-how-to-access-your-iphone-x-securely-when-youve-forgotten-the-code-or-cant-use-face-id/"><u>Ultimate Guide: How to Access Your iPhone X Securely When You've Forgotten the Code or Can't Use Face ID</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/uncovering-ifileversion-details-tips-and-techniques/"><u>Uncovering IFileVersion Details - Tips and Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-facebook-financial-gains-a-step-by-step-guide/"><u>Unlocking Facebook Financial Gains A Step-by-Step Guide</u></a></li>
 </ul></div>
 

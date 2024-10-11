@@ -1,7 +1,7 @@
 ---
 title: "Universal Setup Techniques: Efficiently Managing Global Preferences"
-date: 2024-10-03T18:48:42.243Z
-updated: 2024-10-05T19:00:49.999Z
+date: 2024-10-04T16:51:49.711Z
+updated: 2024-10-10T19:44:17.548Z
 tags:
   - user-guide
 categories:
@@ -100,10 +100,10 @@ This view allows you to enable post configuration actions.
 ![Global settings](https://cdn.advancedinstaller.com/img/ui/global-settings.png "Global settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Post Configuration Actions
@@ -113,17 +113,17 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option becomes available once you have added at least one [Web Site](https://tools.techidaily.com/advancedinstaller/products/) or [virtual directory](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upgrades
@@ -131,10 +131,10 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This setting is available only for packages built with Advanced Installer 16.5 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 During an upgrade, the client customizations at IIS server level (applicationHost.config) can be preserved. These settings could be:
@@ -182,19 +182,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-screen-capture-apps-beyond-official-gaming-tools/"><u>[New] In 2024, Essential Screen Capture Apps Beyond Official Gaming Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hiding-unwanted-elements-with-smart-filters-ps/"><u>2024 Approved Hiding Unwanted Elements with Smart Filters PS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>2024 Approved Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-online-platforms-for-discovering-new-tunes-and-expanding-your-playlist/"><u>Best Online Platforms for Discovering New Tunes and Expanding Your Playlist</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deploying-ai-agents-with-agentgpt-a-step-by-step-guide-from-your-web-browser/"><u>Deploying AI Agents with AgentGPT: A Step-by-Step Guide From Your Web Browser</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-to-stripping-xml-master-the-art-of-element-deletion/"><u>Easy Guide to Stripping XML: Master the Art of Element Deletion</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v27-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V27 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-dynamic-dialogue-driven-decks/"><u>In 2024, Dynamic Dialogue Driven Decks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-the-application-virtualization-configurations-the-role-of-the-options-tab-and-registry-key-setup/"><u>Navigating the Application Virtualization Configurations: The Role of the Options Tab and Registry Key Setup</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-facilement-vos-fichier-mts-en-mp4-methodes-gratuites/"><u>Transformez Facilement Vos Fichier MTS en MP4 - Méthodes Gratuites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-asmr-knowledge-beyond-what-you-see/"><u>[Updated] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>[Updated] Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-key-parameters-of-component-assembly-a-comprehensive-guide/"><u>1. Key Parameters of Component Assembly: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/flicker-free-windows-experience-step-by-step-guide/"><u>Flicker-Free Windows Experience: Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-15-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 15 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-your-microsoft-device-drivers-for-windows-11-8-or-7-users/"><u>How to Seamlessly Update Your Microsoft Device Drivers for Windows 11, 8, or 7 Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y27s-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y27s Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mp4-reimagined-effortlessly-adding-srt/"><u>In 2024, MP4 Reimagined Effortlessly Adding SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-surge-gpt-4-ais-new-frontier/"><u>Innovation Surge: GPT-4, AI's New Frontier</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
 </ul></div>
 

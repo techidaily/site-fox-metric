@@ -1,7 +1,7 @@
 ---
 title: Understanding the LZMA Compression Preferences Window
-date: 2024-10-04T20:56:24.643Z
-updated: 2024-10-05T17:28:26.730Z
+date: 2024-10-08T02:22:09.908Z
+updated: 2024-10-11T05:18:15.531Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,16 @@ Table of Contents
 ## LZMA Settings Dialog
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compression Settings
@@ -100,10 +106,10 @@ Table of Contents
 ![Custom LZMA](https://cdn.advancedinstaller.com/img/dialog/custom-lzma.png "Custom LZMA")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method
@@ -115,10 +121,16 @@ Choose the appropriate LZMA method from the following values:
 * LZMA2 - Is an LZMA-based compression method that provides**better multithreading** support than LZMA compression (it scales with the number of CPU cores, to achieve **faster builds**). However, the compression ratio can be worse than LZMA in some cases, because LZMA2 method splits data into chunks and compresses these chunks independently (2 threads per each chunk).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Level
@@ -135,10 +147,10 @@ You can select the desired compression level for the LZMA archive. The following
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about LZMA compression go to the [LZMA Compression](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dictionary size
@@ -182,19 +194,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mov-file-keeping-hacks-for-new-win-11-users-for-2024/"><u>[New] .MOV File Keeping Hacks for New Win 11 Users for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-techniques-to-increase-periscope-stream-velocity/"><u>[New] 2024 Approved Techniques to Increase Periscope Stream Velocity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-animating-elegance-self-designed-tricks-and-effects/"><u>[Updated] In 2024, Animating Elegance Self-Designed Tricks & Effects</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-precision-in-screenshots-a-detailed-guide/"><u>[Updated] Precision in Screenshots A Detailed Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-download-dance-of-hd-media-on-social-platforms/"><u>2024 Approved Mastering the Download Dance of HD Media on Social Platforms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eling-success-emulating-top-video-bloggers-techniques/"><u>Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creating-dynamic-responses-with-conditionals-in-dialogue-systems/"><u>Creating Dynamic Responses with Conditionals in Dialogue Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-navigation-tips-navigating-through-the-keyboard-shortcut-window/"><u>Effortless Navigation Tips: Navigating Through the Keyboard Shortcut Window</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-move-videos-from-an-iphone-4s-to-an-iphone-6-a-step-by-step-guide/"><u>How to Move Videos From an iPhone 4S to an iPhone 6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/kinemaster-android-an-in-depth-gaming-guide-review-for-2024/"><u>KineMaster Android An In-Depth Gaming Guide Review for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-video-editing-software-ideal-for-vlog-creators/"><u>Top-Rated Video Editing Software Ideal for Vlog Creators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-complete-manual-for-modifying-cover-images/"><u>[New] 2024 Approved The Complete Manual for Modifying Cover Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-followers-with-effective-igtv-hashtag-techniques-for-2024/"><u>[New] Elevate Followers with Effective IGTV Hashtag Techniques for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-balancing-viral-potential-with-long-term-traction-in-videos/"><u>[New] In 2024, Balancing Viral Potential with Long-Term Traction in Videos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/4-effective-techniques-to-remove-photo-backgrounds-effortlessly/"><u>4 Effective Techniques to Remove Photo Backgrounds Effortlessly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-baby-picture-perfect-mobile-apps-top-7-picks-for-android-and-iphone-users/"><u>Best Baby Picture-Perfect Mobile Apps: Top 7 Picks for Android and iPhone Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-repair-tips-for-a-non-functional-hyperx-cloud-headset-microphone/"><u>Effective Repair Tips for a Non-Functional HyperX Cloud Headset Microphone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-seamlessly-streaming-your-android-screen-onto-a-windows-10-pc/"><u>Guide: Seamlessly Streaming Your Android Screen Onto a Windows 10 PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-fix-for-winning-against-dell-optiplex-790s-driver-complications/"><u>Step-by-Step Fix for Winning Against Dell OptiPlex 790'S Driver Complications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c12-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C12 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-resolve-msxml4dll-file-missing-or-corrupted/"><u>Troubleshooting Solutions: Resolve 'Msxml4.dll' File Missing or Corrupted</u></a></li>
 </ul></div>
 

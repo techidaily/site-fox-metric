@@ -1,7 +1,7 @@
 ---
 title: Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab
-date: 2024-10-04T21:20:13.137Z
-updated: 2024-10-05T19:48:52.528Z
+date: 2024-10-08T18:15:04.526Z
+updated: 2024-10-11T09:03:42.901Z
 tags:
   - user-guide
 categories:
@@ -100,6 +100,13 @@ Table of Contents
 
 ![Folder Removal Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-operations.png "Folder Removal Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remove
 
  Folders for removal will be marked visually with this icon:![Folder Removal](https://cdn.advancedinstaller.com/img/gfx/removal.png "Folder Removal").
@@ -114,6 +121,19 @@ Table of Contents
 ### Component
 
  The component which will trigger the folder removal operation.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove On
 
@@ -130,10 +150,16 @@ Specify a condition for the folder removal.
 You can specify files to be removed upon install or uninstall from the [File Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite behavior
@@ -149,10 +175,10 @@ When this option is selected, if the files from the folder on the target machine
 If this option is enabled, the files from this folder in your package will overwrite any similar files already present on the target computer. Usually this can be used when performing a downgrade (install files older than the ones already installed) or for non-versioned files which don't overwrite the existing files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not overwrite existing files
@@ -161,36 +187,22 @@ If this option is enabled, the files from this folder in your package will overw
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you don't need to preserve all the folder content, it is recommended to enable this option specifically for each file you want to preserve, especially for folders with large content.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Persistence
 
 Save and restore original folder content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition
 
 Condition when the folder content will be preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -225,16 +237,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/o-create-content-to-maximize-youtube-follower-count/"><u>[New] Co-Create Content to Maximize YouTube Follower Count</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-securing-sound-output-fixes-for-silent-obs-streams/"><u>[New] In 2024, Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-techniques-for-changing-wmv-videos-to-mp4-on-macos-devices/"><u>Best Free Techniques for Changing WMV Videos to MP4 on macOS Devices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-set-for-innovation-two-key-steps-towards-the-latest-windows-11-creators-release/"><u>Getting Set for Innovation: Two Key Steps Towards the Latest Windows 11 Creator's Release</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-essential-guide-to-zero-cost-webinars-on-youtube/"><u>In 2024, The Essential Guide to Zero-Cost Webinars on YouTube</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines/"><u>The Noob's Manual to Saving Streaming Radio Lines</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-your-signature-voice-for-instagram-success/"><u>[New] In 2024, Crafting Your Signature Voice for Instagram Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/apid-growth-on-youtube-harnessing-the-potential-of-outros-for-2024/"><u>[New] Rapid Growth on YouTube Harnessing the Potential of Outros for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-automate-playlist-retrieval-from-youtube-directly/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/a-comprehensive-guide-to-verb-features-insights-into-action-words-in-english-grammar/"><u>A Comprehensive Guide to Verb Features: Insights Into Action Words in English Grammar</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/approaches-strategies-and-implementation-models-these-titles-aim-to-be-relevant-for-search-engine-optimization-while-maintaining-semantic-relevance-to-virtu11/"><u>Approaches, Strategies, and Implementation Models, These Titles Aim to Be Relevant for Search Engine Optimization While Maintaining Semantic Relevance to Virtualization Project Types.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comprehensive-property-search-enhancements/"><u>Comprehensive Property Search Enhancements</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-best-android-voice-recording-applications-an-in-depth-analysis/"><u>Exploring the Best Android Voice Recording Applications: An In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-authenticating-a-step-by-step-for-youtube-users/"><u>In 2024, Authenticating A Step-by-Step for Youtube Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-upgrade-in-universal-windows-platform-detectability/"><u>Latest Upgrade in Universal Windows Platform Detectability</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-project-journeys-unveiling-the-project-paths-tab/"><u>Navigating Project Journeys: Unveiling the Project Paths Tab</u></a></li>
+<li><a href="https://win-trending.techidaily.com/personalized-webcam-border-designs-and-dimming-effects/"><u>Personalized Webcam Border Designs & Dimming Effects</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-international-auto-delivery-services-streamline-your-new-car-arrival/"><u>Seamless International Auto Delivery Services - Streamline Your New Car Arrival</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simple-tricks-and-tips-how-to-effortlessly-upscale-480p-videos-into-full-hd-1080p-perfection/"><u>Simple Tricks and Tips: How to Effortlessly Upscale 480P Videos Into Full HD 1080P Perfection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-forcefully-shut-down-unyielding-windows-programs-swiftly/"><u>The Ultimate Trick to Forcefully Shut Down Unyielding Windows Programs Swiftly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unleashing-linguistic-potential-mondlys-success-story-2022/"><u>Unleashing Linguistic Potential: Mondly's Success Story, 2022</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-battery-efficiency-on-your-iphone-with-these-six-steps/"><u>Unlock Better Battery Efficiency on Your iPhone with These Six Steps!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/wireless-sync-and-display-transferring-iphone-visuals-onto-the-lg-smart-tv-platform/"><u>Wireless Sync & Display: Transferring iPhone Visuals Onto the LG Smart TV Platform</u></a></li>
 </ul></div>
 

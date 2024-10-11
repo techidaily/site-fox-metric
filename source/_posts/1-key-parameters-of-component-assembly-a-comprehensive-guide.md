@@ -1,7 +1,7 @@
 ---
 title: "1. Key Parameters of Component Assembly: A Comprehensive Guide"
-date: 2024-10-03T21:26:42.841Z
-updated: 2024-10-05T22:32:22.655Z
+date: 2024-10-04T17:53:31.105Z
+updated: 2024-10-11T00:47:38.315Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,16 @@ Table of Contents
 ![Assemblies properties](https://cdn.advancedinstaller.com/img/ui/assemblies-properties.png "Assemblies properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Files
@@ -97,16 +103,10 @@ You can install the assembly either as private install connected to one of the a
 If you need to install the same assembly in both locations (in a folder on the disk and in the GAC), you can add the assembly file twice in the "Files and Folders" page (in two different folders). One file will be set for private installation and the other will be set for installation into the GAC.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -114,16 +114,16 @@ If you need to install the same assembly in both locations (in a folder on the d
 Both .NET and Win32 assemblies are supported. 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate Native Image
@@ -135,10 +135,10 @@ Both .NET and Win32 assemblies are supported.
 You can create a new attribute using the\[New... \] button or you can add a well-known attribute using the \[Add... \] button. Edit attributes using the[Edit Assembly Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -181,16 +181,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[Updated] 2024 Approved Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-toshiba-scancopier-drivers-for-windows-computers/"><u>Get the Latest Toshiba Scan/Copier Drivers for Windows Computers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>In 2024, Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/speedy-tracking-visuals-plus-voices-for-2024/"><u>Speedy Tracking Visuals + Voices for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-giants-understanding-facebook-twitter-instagram-and-youtube/"><u>The Digital Giants: Understanding Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-10-high-growth-youtube-channels-that-inspire-you/"><u>[Updated] In 2024, Unveiling 10 High-Growth YouTube Channels that Inspire You</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pazera-unchained-master-your-music-extraction-techniques/"><u>2024 Approved Pazera Unchained Master Your Music Extraction Techniques</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/4-effective-techniques-to-remove-photo-backgrounds-effortlessly/"><u>4 Effective Techniques to Remove Photo Backgrounds Effortlessly</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-baby-picture-perfect-mobile-apps-top-7-picks-for-android-and-iphone-users/"><u>Best Baby Picture-Perfect Mobile Apps: Top 7 Picks for Android and iPhone Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-free-tools-comprehensive-review-of-screen-recorders-on-windows-7/"><u>Best Free Tools: Comprehensive Review of Screen Recorders on Windows 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-preventing-and-repairing-pc-crashes-while-playing-fifa-19/"><u>Easy Guide to Preventing and Repairing PC Crashes While Playing FIFA 19</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-captivation-craftsman-for-posters/"><u>In 2024, Captivation Craftsman for Posters</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-net-configuration-options-during-installation-process/"><u>Mastering the .NET Configuration Options During Installation Process</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/spotv-now/"><u>SPOTV NOWでライブ放送視聴とビデオダウンロード手順</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-smart-users-guide-to-enhancing-technology/"><u>The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-tips-repairing-your-connection-with-malwarebytes-easily-in-three-simple-steps/"><u>Troubleshooting Tips: Repairing Your Connection with Malwarebytes Easily in Three Simple Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
 </ul></div>
 
