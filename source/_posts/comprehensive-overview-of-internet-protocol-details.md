@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Overview of Internet Protocol Details
-date: 2024-10-08T18:24:44.716Z
-updated: 2024-10-10T21:35:52.902Z
+date: 2024-11-20T21:51:49.637Z
+updated: 2024-11-22T20:22:33.297Z
 tags:
   - user-guide
 categories:
@@ -115,28 +115,26 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IPatchDetails
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Declaration
 
 IPatchDetails : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit patch details (name, company, comments, etc.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,16 +160,7 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **Array<String> PatchesToReplace** \- Gets the collection of patches to replace. These patches, .msp files, if found installed and registered with Windows Installer on the user's computer, will be unregistered from the appropriate places.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -181,10 +170,7 @@ This interface is meant to edit patch details (name, company, comments, etc.)
 **RemovePatchToReplace(String aPatch)** Removes a .msp file from the collection of patches to replace.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -226,16 +212,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-adding-social-media-magic-snapchat-to-your-mac/"><u>[New] In 2024, Adding Social Media Magic Snapchat to Your Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-engaging-storytelling-with-snapchats-gifted-gifs-for-2024/"><u>[Updated] Engaging Storytelling with Snapchat's Gifted GIFs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-high-fidelity-mp4-converter-to-fb/"><u>[Updated] High-Fidelity MP4 Converter to FB</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-15-imei-checker-by-drfone-ios/"><u>Best Free iPhone 15 IMEI Checker</u></a></li>
-<li><a href="https://app-tips.techidaily.com/genuine-insight-into-lightcut-the-ultimate-ai-powered-video-editor-for-your-mobile-devices-android-and-ios/"><u>Genuine Insight Into LightCut: The Ultimate AI-Powered Video Editor for Your Mobile Devices (Android & iOS)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-file-handling-in-admin-settings-unlocking-the-potential-of-the-operation-tab/"><u>Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab</u></a></li>
-<li><a href="https://win-dash.techidaily.com/patience-pays-off-a-satisfying-experience-with-the-new-windows-release-of-goodnotes/"><u>Patience Pays Off: A Satisfying Experience with the New Windows Release of GoodNotes</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resurrecting-your-disappeared-correspondence-strategies-for-retrieving-past-emails-after-a-months-time/"><u>Resurrecting Your Disappeared Correspondence: Strategies for Retrieving Past Emails After a Month's Time</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-guide-how-to-access-your-iphone-x-securely-when-youve-forgotten-the-code-or-cant-use-face-id/"><u>Ultimate Guide: How to Access Your iPhone X Securely When You've Forgotten the Code or Can't Use Face ID</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-application-in-entertainment/"><u>VR Application in Entertainment</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/what-are-drive-through-security-vulnerabilities-insights-from-malwarefox-experts/"><u>What Are Drive-Through Security Vulnerabilities? Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>[New] 2024 Approved A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>[New] Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[Updated] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728492361933-windows-10/"><u>「Windows 10 尋找計算機上所有照片方法」</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-mastering-the-art-of-retrieve-a-step-by-step-guide-to-restoring-images-from-your-digital-cameras-storage/"><u>1. Mastering the Art of Retrieve: A Step-by-Step Guide to Restoring Images From Your Digital Camera's Storage</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-restaurer-des-photographies-perdues-sur-amazon-photos-pour-plusieurs-appareils/"><u>Comment Restaurer Des Photographies Perdues Sur Amazon Photos Pour Plusieurs Appareils</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/como-migrar-archivos-de-windows-10-a-windows-11-sin-problemas-tres-metodos-sencillos/"><u>Cómo Migrar Archivos De Windows 10 a Windows 11 Sin Problemas: Tres Métodos Sencillos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-toms-gear-expertise-in-depth-analysis-of-electronics-and-systems/"><u>Discovering Tom's Gear Expertise: In-Depth Analysis of Electronics and Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fonebackup-by-aomei-how-to-change-language-settings/"><u>FoneBackup by AOMEI: How to Change Language Settings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>In 2024, The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-google-pixel-7a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Google Pixel 7a to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-troubleshooting-techniques-for-unrecognized-ssds-on-windows-11-systems/"><u>Mastering Troubleshooting Techniques for Unrecognized SSDs on Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-home-networks-the-power-of-the-netgear-nighthawk-x10-ad7200-router-unveiled/"><u>Revolutionizing Home Networks: The Power of the Netgear Nighthawk X10 AD7200 Router Unveiled</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ubertrage-apples-news-von-einer-apple-id-zu-einer-anderen-schritt-fur-schritt-anleitung/"><u>Übertrage Apples News Von Einer Apple ID Zu Einer Anderen, Schritt-Für-Schritt-Anleitung.</u></a></li>
 </ul></div>
 

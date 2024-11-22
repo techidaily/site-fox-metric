@@ -1,7 +1,7 @@
 ---
 title: Mastering the .NET Configuration Options During Installation Process
-date: 2024-10-08T02:29:00.445Z
-updated: 2024-10-11T08:43:52.596Z
+date: 2024-11-21T18:06:45.597Z
+updated: 2024-11-22T18:36:58.265Z
 tags:
   - user-guide
 categories:
@@ -73,6 +73,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## .NET Installer Class Argument Dialog
 
 This dialog allows you to configure a .NET Installer class parameter.
@@ -80,25 +84,17 @@ This dialog allows you to configure a .NET Installer class parameter.
 ![Edit .NET Installer Class Parameter Dialog](https://cdn.advancedinstaller.com/img/dialog/new-dotnetca-param-dialog.png "Edit .NET Installer Class Parameter Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Custom Action Parameter
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Name
@@ -108,10 +104,7 @@ Represent the key name that the assembly will receive as a parameter.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** and **\=** characters are not allowed in the parameter name. Also, predefined parameters names are not user editable.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Value
@@ -119,13 +112,6 @@ Represent the key name that the assembly will receive as a parameter.
 The parameter's value.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** character is not allowed in the parameter value.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
@@ -162,15 +148,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-building-a-fanbase-with-youtube-streams/"><u>[New] Building a Fanbase with YouTube Streams</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-full-breakdown-razers-hd-webcam-experience/"><u>[New] Full Breakdown Razer's HD Webcam Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-superior-3d-tools-for-animated-designers/"><u>[New] In 2024, Superior 3D Tools for Animated Designers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-ultimate-audio-video-converter-software-top-substitutes-for-mediacoder/"><u>1. Ultimate Audio-Video Converter Software: Top Substitutes for Mediacoder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-gif-recorder-for-mac/"><u>2024 Approved Best Gif Recorder for Mac</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-car-imports-simplifying-your-vehicle-acquisition-process/"><u>Effortless Car Imports: Simplifying Your Vehicle Acquisition Process</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-explore-top-10-free-video-calls-highest-rated-and-easy-to-use/"><u>In 2024, Explore Top 10 Free Video Calls - Highest Rated & Easy to Use</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-three-no-cost-methods-to-rapidly-reduce-tiff-image-size/"><u>Top Three No-Cost Methods to Rapidly Reduce TIFF Image Size</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-navigate-apples-podcast-acceptance-policy/"><u>[New] How to Navigate Apple's Podcast Acceptance Policy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfecting-pics-and-videos-on-iphones-and-androids-with-best-apps/"><u>[New] Perfecting Pics & Videos on iPhones and Androids with Best Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-music-video-madness-top-10-on-social-sphere-for-2024/"><u>[Updated] Music Video Madness Top 10 on Social Sphere for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-to-photo-framing-on-the-net-for-2024/"><u>[Updated] The Ultimate Guide to Photo Framing on the Net for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-premier-service-youtube-to-written-summary/"><u>2024 Approved Premier Service YouTube to Written Summary</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-ultimate-usb-tools-for-windows-11-evaluate-and-compare-top-4-solutions/"><u>Discover the Ultimate USB Tools for Windows 11 – Evaluate and Compare Top 4 Solutions!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/einfach-und-effektiv-methodik-zur-wiederherstellung-vergangener-dokumentversionen/"><u>Einfach Und Effektiv: Methodik Zur Wiederherstellung Vergangener Dokumentversionen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ultimate-live-broadcast-guide-software-and-hardware-recommendations/"><u>In 2024, Ultimate Live Broadcast Guide Software & Hardware Recommendations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/is-adjusting-bios-configuration-necessary-when-installing-an-ssd/"><u>Is Adjusting BIOS Configuration Necessary When Installing an SSD?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-instagram-videos-with-music-for-2024/"><u>Make Instagram Videos With Music for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-fresh-printer-drivers-for-your-hp-officejet-3830-compatible-with-windows/"><u>Quick Setup: Fresh Printer Drivers for Your HP OfficeJet 3830 - Compatible with Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/samsungusb/"><u>Samsungデータ転送用ブータブルUSB駆動手順</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-moving-your-windows-pcs-audiobook-collection-onto-your-iphone/"><u>Step-by-Step Guide: Moving Your Windows PC's Audiobook Collection Onto Your iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/undo-deleted-items-from-recycle-bin-easily-complete-3-step-guide/"><u>Undo Deleted Items From Recycle Bin Easily (Complete 3-Step Guide)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-smart-note-management-via-mematic/"><u>Unlock Smart Note Management via Mematic</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-7-cdhdd/"><u>Windows 7のバックアップと再インストール: CD不使用でHDDへの簡単な移行手順</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-mise-a-jour-echoue-augmentez-votre-espace-disque-pour-les-patchs-necessaires-6/"><u>Windows Mise À Jour Échoue : Augmentez Votre Espace Disque Pour Les Patchs Nécessaires (6)</u></a></li>
 </ul></div>
 

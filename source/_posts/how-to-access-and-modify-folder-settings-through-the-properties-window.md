@@ -1,7 +1,7 @@
 ---
 title: How to Access and Modify Folder Settings Through the Properties Window
-date: 2024-10-09T18:38:18.695Z
-updated: 2024-10-11T07:09:10.477Z
+date: 2024-11-16T20:54:59.594Z
+updated: 2024-11-22T23:17:04.666Z
 tags:
   - user-guide
 categories:
@@ -90,15 +90,16 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Folder Properties Dialog
 
 This dialog allows you to specify folder settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -145,18 +146,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-inside-a-virtual-reality-device-a-basic-overview/"><u>[New] Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-expedition-manual-launching-a-career-in-travel-blogging/"><u>[Updated] The Ultimate Expedition Manual Launching a Career in Travel Blogging</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/capturing-onscreen-activity-the-ultimate-methods-for-recording-desktop-screenshots-and-videos/"><u>Capturing Onscreen Activity: The Ultimate Methods For Recording Desktop Screenshots & Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/excellent-strategies-to-project-apples-tablet-screen-onto-laptop-or-desktop/"><u>Excellent Strategies to Project Apple's Tablet Screen Onto Laptop or Desktop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-11-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 11 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/getting-started-with-seamless-sound-transitions/"><u>Getting Started with Seamless Sound Transitions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-and-eliminating-the-amazonaws-virus-expert-tips-from-malwarefox-for-a-clean-system/"><u>Identifying and Eliminating the Amazonaws Virus: Expert Tips From MalwareFox for a Clean System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-resolving-the-steam-corrupted-disk-issue/"><u>Quick & Easy Solutions: Resolving the Steam Corrupted Disk Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speedy-solutions-for-camera-troubleshooting-in-windows-device-manager/"><u>Speedy Solutions for Camera Troubleshooting in Windows Device Manager</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-6-solutions-for-eliminating-lag-in-hogwarts-legacy-a-comprehensive-guide/"><u>Top 6 Solutions for Eliminating Lag in Hogwarts Legacy: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-f15-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy F15 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[New] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-savers-top-10plus-for-ease-and-convenience/"><u>[New] 2024 Approved Screen Savers Top 10+ for Ease and Convenience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melodies-of-the-night-king-recommended-sites-for-tts-downloads/"><u>[Updated] Melodies of the Night King Recommended Sites for TTS Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-tech-upgrade-go-big-sur-on-your-mac/"><u>[Updated] Streamlining Tech Upgrade Go Big Sur! On Your Mac</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/44cm44k944ov44oi44km44kn44ki566h55cg44ks44kk44oj77ya5q2j44gx44ge44kk44oz44k544oi44o844or44o744ki44oz44kk44oz44k544oi44o844or44gu5luv57we44g44go5yem55cg5oml6264/"><u>「ソフトウェア管理ガイド：正しいインストール・アンインストールの仕組みと処理手順」</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-transfer-your-tunes-4-methods-no-itunes-required-effortless-drag-and-drop-song-sharing-with-your-iphone/"><u>1. Transfer Your Tunes: [4 Methods] No iTunes Required - Effortless Drag-and-Drop Song Sharing with Your iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/bengkel-berkualitas-tertinggi-penempat-file-nas-layak-untuk-windows-111087-dengan-aplikasi-pencadangan-yang-simplest/"><u>Bengkel Berkualitas Tertinggi: Penempat File NAS Layak Untuk Windows 11/10/8/7 Dengan Aplikasi Pencadangan Yang Simplest</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/steps-for-exporting-videos-from-youtube-to-dailymotion-for-2024/"><u>Easy Steps for Exporting Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/efficiently-setting-up-your-rufus-startup-disk-with-windows-11-tutorials/"><u>Efficiently Setting Up Your Rufus Startup Disk with Windows 11 Tutorials</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortlessly-merge-mac-directories-with-google-drive-using-drivesync/"><u>Effortlessly Merge Mac Directories with Google Drive Using DriveSync</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-a70-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel A70</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-14-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi 14 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-incomplete-ssd-capacity-display-on-windows-11-systems/"><u>Solving the Problem of Incomplete SSD Capacity Display on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-solution-making-your-windows-11-boot-applications-visible-again/"><u>Step-by-Step Solution: Making Your Windows 11 Boot Applications Visible Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-gadget-digest-inside-look-by-toms-tech-vault/"><u>The Comprehensive Gadget Digest: Inside Look by Tom's Tech Vault</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-ranked-hp-ssd-cloning-tools-for-seamless-operating-system-and-file-transfer/"><u>Top-Ranked HP SSD Cloning Tools for Seamless Operating System and File Transfer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/untuk-semua-pengguna-usb-mulailah-jadi-experts-cara-mudah-dan-gantungan-berharga-untuk-memulihkan-folder-dihilang/"><u>Untuk Semua Pengguna USB, Mulailah Jadi Experts! Cara Mudah Dan Gantungan Berharga Untuk Memulihkan Folder Dihilang!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287620335-winxvideo-ai/"><u>Winxvideo AI - 원환성의 스토리모얼 기능: 화면, 웹캠 및 오디오에 대한 관여자 안전</u></a></li>
 </ul></div>
 

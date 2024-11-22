@@ -1,7 +1,7 @@
 ---
 title: "Universal Setup Techniques: Efficiently Managing Global Preferences"
-date: 2024-10-04T16:51:49.711Z
-updated: 2024-10-10T19:44:17.548Z
+date: 2024-11-15T20:44:43.630Z
+updated: 2024-11-22T21:02:13.152Z
 tags:
   - user-guide
 categories:
@@ -93,6 +93,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Global Settings
 
 This view allows you to enable post configuration actions.
@@ -100,10 +104,7 @@ This view allows you to enable post configuration actions.
 ![Global settings](https://cdn.advancedinstaller.com/img/ui/global-settings.png "Global settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post Configuration Actions
@@ -113,17 +114,11 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option becomes available once you have added at least one [Web Site](https://tools.techidaily.com/advancedinstaller/products/) or [virtual directory](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgrades
@@ -131,10 +126,7 @@ This view allows you to enable post configuration actions.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This setting is available only for packages built with Advanced Installer 16.5 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 During an upgrade, the client customizations at IIS server level (applicationHost.config) can be preserved. These settings could be:
@@ -182,20 +174,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-asmr-knowledge-beyond-what-you-see/"><u>[Updated] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>[Updated] Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-key-parameters-of-component-assembly-a-comprehensive-guide/"><u>1. Key Parameters of Component Assembly: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
-<li><a href="https://win11.techidaily.com/flicker-free-windows-experience-step-by-step-guide/"><u>Flicker-Free Windows Experience: Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-15-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 15 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-your-microsoft-device-drivers-for-windows-11-8-or-7-users/"><u>How to Seamlessly Update Your Microsoft Device Drivers for Windows 11, 8, or 7 Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y27s-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y27s Through Google Earth?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mp4-reimagined-effortlessly-adding-srt/"><u>In 2024, MP4 Reimagined Effortlessly Adding SRT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovation-surge-gpt-4-ais-new-frontier/"><u>Innovation Surge: GPT-4, AI's New Frontier</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-demystifying-twitter-archives-for-users-and-analysts/"><u>[Updated] Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-reel-it-in-proven-approaches-to-record-sporting-events-live-for-2024/"><u>[Updated] Reel It In Proven Approaches to Record Sporting Events Live for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dji-quadcopter-a-deep-dive-into-phantom-3/"><u>2024 Approved DJI Quadcopter A Deep Dive Into Phantom 3</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226009627-avigif-movavi/"><u>高速・簡単AVIからGIFへの変換! Movaviのおもしろアニメコレクションを作るために</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-the-winner-an-in-depth-comparison-of-huggingchat-and-chatgpt-capabilities/"><u>Deciding the Winner: An In-Depth Comparison of HuggingChat and ChatGPT Capabilities</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/eu-an-organization-hence-labeled-as-b-org/"><u>EU - An Organization, Hence Labeled as B-ORG</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gerez-vos-erreurs-rapides-avec-ces-9-techniques-au-volant-du-boulevard-peripherique-est-en-activite/"><u>Gérez Vos Erreurs Rapides Avec Ces 9 Techniques Au Volant Du Boulevard Périphérique Est en Activité</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-apples-strategy-to-integrate-cameras-into-airpods-by-2026-revealed-insights/"><u>Inside Look: Apple's Strategy to Integrate Cameras Into AirPods by 2026 Revealed - Insights</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728507201703-pcwindows/"><u>PC用Windowsシステムバックアップ・ディザスターリカバリーチャート</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/schritt-fur-schritt-leitfaden-zur-einrichtung-von-dateiubertragungen-in-einem-windows-11-netzwerk/"><u>Schritt-Für-Schritt-Leitfaden Zur Einrichtung Von Dateiübertragungen in Einem Windows 11 Netzwerk</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-secure-and-quick-video-transcoding-tools-for-windows-1110-users/"><u>Top 10 Secure and Quick Video Transcoding Tools for Windows 11/10 Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728487475974-windows-111087/"><u>プロ並みの画像修復ソフトを無料で提供 - Windows 11/10/8/7向け</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool"
-date: 2024-10-09T23:19:42.486Z
-updated: 2024-10-11T07:29:55.745Z
+date: 2024-11-16T20:27:21.741Z
+updated: 2024-11-22T18:43:13.516Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,7 @@ Table of Contents
 ## IMergeModulesComponent
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +117,7 @@ Table of Contents
 IMergeModulesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,15 +125,16 @@ IMergeModulesComponent : IDispatch
 This interface is meant to add a new merge module, delete or edit the existing ones. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IMergeModule> MergeModules** \- Gets the collection of project merge modules. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -159,10 +154,7 @@ Modules\Microsoft_VC140_DebugMFC_x64.msm")
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -204,16 +196,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>2024 Approved Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/capture-chat-tunes-on-social-platforms/"><u>Capture Chat Tunes on Social Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-x8b-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor X8b.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>In 2024, Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-evergreen-most-watched-video-catalog/"><u>In 2024, YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/language-reference-guides-the-ultimate-dictionaries-section/"><u>Language Reference Guides: The Ultimate Dictionaries Section</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgic-gaming-revolution-playing-classic-dreamcast-titles-on-android-platforms/"><u>Nostalgic Gaming Revolution: Playing Classic Dreamcast Titles on Android Platforms</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/page-management-and-hosting-with-internet-information-services-an-in-depth-overview/"><u>Page Management and Hosting with Internet Information Services: An In-Depth Overview</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-collage-creation-apps-iphone-and-android-compatible/"><u>Top-Rated Collage Creation Apps : IPhone and Android Compatible</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-time-online-embracing-facebook-fully-for-2024/"><u>[New] Maximizing Your Time Online Embracing Facebook Fully for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/3iphone/"><u>如何使用3種方法回收iPhone裡面損毀的照片 - 實戰教學成果</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capture-selfie-snap-shots-with-vintage-iphone-x-for-2024/"><u>Capture Selfie Snap Shots with Vintage iPhone X for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-to-find-your-perfect-apple-laptop-techradar/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide to Find Your Perfect Apple Laptop | TechRadar</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-recuperer-gratuitement-des-fichiers-volumineux-supprimes-dans-les-systemes-dexploitation-windows-7-8-10-ou-11/"><u>Comment Récupérer Gratuitement Des Fichiers Volumineux Supprimés Dans Les Systèmes D'exploitation Windows 7, 8, 10 Ou 11 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oneplus-nord-ce-3-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone OnePlus Nord CE 3 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-career-success-for-tech-professionals-crafting-impeccable-applications-with-tips-from-zdnet/"><u>Navigating Career Success for Tech Professionals: Crafting Impeccable Applications with Tips From ZDNET</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/que-hacer-cuando-tu-ordenador-no-se-inicia-tras-actualizar-windows-5-soluciones-rapidas/"><u>Qué Hacer Cuando Tu Ordenador No Se Inicia Tras Actualizar Windows - 5 Soluciones Rápidas</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-storage-expansion-duplicate-128gb-ssd-to-enhance-256gb-windows-capacity/"><u>Seamless Storage Expansion - Duplicate 128GB SSD to Enhance 256GB Windows Capacity</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/verlorene-xbox-clip-daten-wiederherstellen-professionelle-wiederholungsmethoden/"><u>Verlorene Xbox Clip Daten Wiederherstellen - Professionelle Wiederholungsmethoden</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-s17t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo S17t Phones</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/daaona-nsy-mbashra-almzyd-fhm-alaamlya-lnkl-albyanatalmlfat-mn-mhrk-ssd-il-akhr/"><u>دعونا نسيئ مباشرة المزيد - فهم العملية لنقل البيانات/الملفات من محرك SSD إلى آخر</u></a></li>
 </ul></div>
 

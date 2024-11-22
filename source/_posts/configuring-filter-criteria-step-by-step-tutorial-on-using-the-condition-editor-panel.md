@@ -1,7 +1,7 @@
 ---
 title: "Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel"
-date: 2024-10-08T06:52:35.649Z
-updated: 2024-10-10T17:10:00.748Z
+date: 2024-11-17T18:31:32.677Z
+updated: 2024-11-22T21:20:51.458Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Control Condition Dialog
 
  This dialog allows you to specify special actions to be applied to the selected control based on the result of a conditional statement.
@@ -87,10 +91,11 @@ Table of Contents
 ![Control Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/control-condition.png "Control Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Condition
@@ -98,10 +103,7 @@ Table of Contents
 The conditional statement that specifies under which conditions the action should be triggered. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/) (it cannot be blank). 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Action
@@ -141,16 +143,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discovering-your-youtube-comments-on-various-devices-for-2024/"><u>[New] Discovering Your YouTube Comments on Various Devices for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-drone-cinematography-team-the-best-10/"><u>[New] In 2024, Ultimate Drone Cinematography Team The Best 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-envisioning-artistry-a-gopro-hero5-black-journey-to-excellence/"><u>[Updated] 2024 Approved Envisioning Artistry A GoPro Hero5 Black Journey to Excellence</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-twitter-media-transfer-to-whatsapp/"><u>[Updated] In 2024, Direct Twitter Media Transfer to WhatsApp</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-moment-in-time-windows-108-screenshots-explained/"><u>[Updated] Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-seamless-strategies-for-moving-android-phone-numbers-to-your-iphone/"><u>1. Seamless Strategies for Moving Android Phone Numbers to Your iPhone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/advanced-tips-enhancing-the-editable-user-interface-dialog/"><u>Advanced Tips: Enhancing the Editable User Interface Dialog</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-project-overview-key-points-and-insights/"><u>Comprehensive Project Overview: Key Points & Insights</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-features-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Features: Enhance Your Site's User Experience</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/quick-guide-how-to-seamlessly-mirror-your-instagram-stories-and-posts-to-your-smart-tv-or-any-display-device/"><u>Quick Guide: How to Seamlessly Mirror Your Instagram Stories and Posts to Your Smart TV or Any Display Device</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-basics-unveiling-the-mp4-file-compression-technique/"><u>Understanding the Basics: Unveiling the MP4 File Compression Technique</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-effortless-harmony-creating-engaging-and-organized-youtube-playlists/"><u>[New] 2024 Approved Effortless Harmony Creating Engaging and Organized YouTube Playlists</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-techniques-for-captivating-visual-fb-ads/"><u>[Updated] In 2024, Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-art-of-tiktok-dance-a-step-by-step-guide-for-mac-users/"><u>[Updated] In 2024, The Art of TikTok Dance A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-past-essential-history-youtubes-for-educational-journey-for-2024/"><u>[Updated] Unlocking the Past Essential History YouTubes For Educational Journey for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>2024 Approved From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-snapshits-pro-photography-edits-guide/"><u>2024 Approved Mastering Snapshits Pro Photography Edits Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-defend-against-windows-update-mishaps-including-the-common-0x803f800b-glitch/"><u>Decode & Defend Against Windows Update Mishaps, Including the Common 0X803F800b Glitch</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/des-solutions-efficaces-pour-les-cles-usb-en-panne-traitement-de-caracteres-speciaux-recuperation-des-fichiers-indisponibles/"><u>Des Solutions Efficaces Pour Les Clés USB en Panne : Traitement De Caractères Spéciaux, Récupération Des Fichiers Indisponibles</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-tutorial-for-restoring-missing-note-content-on-iphone-811xs-devices/"><u>Easy Tutorial for Restoring Missing Note Content on iPhone 8/11/XS Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-pour-synchroniser-les-commentaires-entre-google-drive-et-votre-ordinateur-sous-windows-11-10-8-7/"><u>Guide Pour Synchroniser Les Commentaires Entre Google Drive Et Votre Ordinateur Sous Windows : 11, 10, 8, 7</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-to-transferring-old-pc-hardware-into-a-new-system/"><u>Guide to Transferring Old PC Hardware Into a New System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-graphics-driver-on-windows-11/"><u>How to Update Graphics Driver on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-m14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy M14 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/les-differentes-methodes-de-programmation-pour-le-demarrage-et-lextinction-sous-windows-10/"><u>Les Différentes Méthodes De Programmation Pour Le Démarrage Et L'Extinction Sous Windows 10</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ps5-master-reset-a-step-by-step-guide-on-saving-your-saved-games/"><u>PS5 Master Reset: A Step-by-Step Guide on Saving Your Saved Games</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recuperacion-efectiva-de-datos-como-desbloquear-tus-archivos-tras-una-restauracion-del-sistema-en-windows-1011/"><u>Recuperación Efectiva De Datos: Cómo Desbloquear Tus Archivos Tras Una Restauración Del Sistema en Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-solutions-for-switching-your-m4v-videos-over-to-mkv-format-efficiently/"><u>Speedy Solutions for Switching Your M4V Videos Over to MKV Format Efficiently</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-buffalo-nas-back-up-software-seamless-solutions-for-windows-111087-users/"><u>Top Buffalo NAS Back-Up Software: Seamless Solutions For Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728509104556-windows-117/"><u>ディスククリーンアップ手順を見直す: Windows 11ユーザー向け最強解決策7選！</u></a></li>
 </ul></div>
 

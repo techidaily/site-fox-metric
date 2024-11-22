@@ -1,7 +1,7 @@
 ---
 title: 2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard
-date: 2024-10-05T21:26:56.499Z
-updated: 2024-10-10T23:08:39.737Z
+date: 2024-11-19T19:38:59.505Z
+updated: 2024-11-22T16:45:47.704Z
 tags:
   - user-guide
 categories:
@@ -78,18 +78,15 @@ Table of Contents
 
 The Enhanced User Interface improves and extends the controls that you can use when designing the installation interface. You can activate the Enhanced User Interface controls for both EXE and MSI packages. The "EXE External UI" option is more powerful than the MSI Embedded UI equivalent. It also enables you to customize [Pre-install UI dialogs](https://tools.techidaily.com/advancedinstaller/products/) shown by the EXE Bootstrapper. You can read more about the requirements and benefits of this option in [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Always (install, uninstall and maintenance)
 
 EXE External UI will be used when installing the application as well as when performing "Modify" or "Uninstall" from Control Panel.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option requires the “Override Windows Installer programs list entry” option to be enabled in [Product Details Tab](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Only on install
 
@@ -97,9 +94,17 @@ EXE External UI will be used only when installing the application. During "Modif
 
 If MSI Embedded UI option is enabled at the same time with the Only on install option, both the install and maintenance stages will use Enhanced UI controls. On install the EXE External UI will render the dialogs, while during maintenace the MSI Embedded UI option will be used for rendering the controls. This eliminates the requirement of overriding the Windows Installer programs list entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Never
 
 Windows Installer rendering will be used, if the option MSI Embedded UI option is also disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MSI Embedded UI
 
@@ -110,10 +115,7 @@ The Enhanced User Interface controls will be used, without requiring an EXE as o
 Installation UI will be rendered using the modern WinUI controls instead of the classic Win32 controls. You can read more about the requirements and benefits of this option in [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use custom frame only if Aero Glass is not available
@@ -123,32 +125,20 @@ If this checkbox is enabled the custom frame selected in the[Themes Page](https:
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option is available only if a custom frame is selected for the currently used theme.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Images Scalling
 
 In this section you have the option to specify how the images will be displayed: with fixed or variable size.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adaptive stretching, based on detected system DPI
 
 The images will be rendered as you would have the option "Use image control intrinsic setting" enabled if the DPI from the machine where the package is installing is at normal scale, i.e. 100%. If the DPI is larger the images will be rendered as if the option "Always stretch images to fit their control window bounds" is enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use image control intrinsic setting
 
@@ -159,13 +149,6 @@ The images will be stretched or kept at original size, based on the value of the
 ### Always use original image sizes, regardless of control window bounds
 
 The images will be rendered always at their original size, no matter if the image is smaller or larger then the control hosting it, ignoring the value of the attribute "Fixed Image Size".
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Always stretch images to fit their control window bounds
 
@@ -206,20 +189,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leveraging-instagram-for-monetary-success/"><u>[New] In 2024, Leveraging Instagram for Monetary Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features-for-2024/"><u>[Updated] Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>[Updated] In 2024, How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>2024 Approved Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-methods-for-converting-aiff-audio-clips-into-mp3-format/"><u>Easy Methods for Converting AIFF Audio Clips Into MP3 Format</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-access-and-modify-folder-settings-through-the-properties-window/"><u>How to Access and Modify Folder Settings Through the Properties Window</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Zero 30 5G</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-guide-on-assessing-sql-link-establishment-successfully/"><u>How-To Guide on Assessing SQL Link Establishment Successfully</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/learn-how-to-generate-festive-season-wishes-with-no-cost-step-by-step-diy-video-card-tutorial/"><u>Learn How To Generate Festive Season Wishes With No Cost - Step-by-Step DIY Video Card Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-top-10-most-impressive-4k-video-examples/"><u>New 2024 Approved The Top 10 Most Impressive 4K Video Examples</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/snapping-secrets-the-invisible-way-to-save-messages-from-snapchat/"><u>Snapping Secrets: The Invisible Way to Save Messages From Snapchat</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-iphone-cannot-restore-error-a-step-by-step-guide/"><u>Solving 'iPhone Cannot Restore' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/streamline-your-apps-with-modularmerge-components-the-ultimate-unification-tool/"><u>Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo X100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crystal-clear-play-premium-cards-for-4k-for-2024/"><u>[New] Crystal Clear Play Premium Cards for 4K for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-tips-for-achieving-peak-performance-switch-pro-and-steam-games/"><u>2024 Approved Tips for Achieving Peak Performance Switch Pro & Steam Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728497260402-excel/"><u>擔心打不開Excel檔案？以下是進一步分析和修復方法！</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/clone-resources-and-data-management-in-windows-11-step-by-step-tutorial/"><u>Clone Resources and Data Management in Windows 11: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726228147061-flac-wmv-movavi/"><u>FLAC, WMV를 원하는 사용자에게 이메일로 바로가기 – Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/problemes-de-disque-dur-identifies-sous-windows-11-solutions-rapides/"><u>Problèmes De Disque Dur Identifiés Sous Windows 11: Solutions Rapides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-windows-11-activation-steer-clear-from-ai-chatbot-keys/"><u>Protect Your Windows 11 Activation: Steer Clear From AI Chatbot Keys</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/simplify-your-workflow-gopro-quik-video-editing-made-easy-on-macbook/"><u>Simplify Your Workflow GoPro Quik Video Editing Made Easy on MacBook</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-saving-your-pc-files-on-a-usb-flash-drive-in-windows-10-and-11/"><u>Step-by-Step Guide: Saving Your PC Files on a USB Flash Drive in Windows 10 and 11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-quick-and-easy-secure-wipe-for-western-digital-ssds-on-windows-operating-systems/"><u>Step-by-Step Tutorial: Quick and Easy Secure Wipe for Western Digital SSDs on Windows Operating Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/two-effective-methods-for-creating-file-backup-schedules/"><u>Two Effective Methods for Creating File Backup Schedules</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-10-817/"><u>Windows 10から従来のバージョンへ安全にアップグレード解除 - 8.1および7</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728509024328-windows-781011/"><u>Windows 版本 (7/8/10/11) 中實現文件回退方法與技巧</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancements and Updates: Your Guide to the Newest Version"
-date: 2024-10-09T08:26:54.737Z
-updated: 2024-10-11T03:57:15.791Z
+date: 2024-11-20T21:11:21.973Z
+updated: 2024-11-22T16:10:23.816Z
 tags:
   - user-guide
 categories:
@@ -72,22 +72,23 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgrades Page
 
 This page allows you to specify a list of products that will be removed from the target computer when your package will be installed.
 
 ![Upgrades](https://cdn.advancedinstaller.com/img/ui/upgrades.png "Upgrades")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Application Versions
 
 This section allows you to manage older versions of your package which were created with Advanced Installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Automatically upgrade older product versions
 
@@ -95,20 +96,10 @@ This section allows you to manage older versions of your package which were crea
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When upgrading older versions, the install location of the previous version will be used as default for the current installation process. This applies only if both versions are built with Advanced Installer 3.8 or greater.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Uninstalling a version installed as Administrator only works when the current user has Administrator rights as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In order to use this option to upgrade an older installation you can follow these steps:
@@ -124,13 +115,6 @@ In order to use this option to upgrade an older installation you can follow thes
 If you run the upgraded package on a machine which has the old package installed, the old package will be removed automatically (and silently) and the upgraded package will be installed.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)A per-user installation cannot upgrade a per-machine installation and a per-machine installation cannot upgrade a per-user installation.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow side by side installs of different product versions
 
@@ -154,16 +138,13 @@ Select this option in order to allow different versions of the same application 
 
 By enabling this option you will have access to the Advanced Installer custom upgrade rows. You can customize them to suit your needs but you are not allowed to delete them. When this option is unchecked these rows are reset to their original state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use original installation path when upgrading
 
 By default a package uses the installation path of an older version when upgrading. If this option is unchecked, during an upgrade the package will use the Application Folder path defined in [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page, ignoring the original one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow downgrade (a lower version will be able to downgrade a higher version)
 
@@ -172,6 +153,10 @@ Check this option to enable the ability to install an older version over a newer
 ### Change Product Code and component's GUIDS
 
 By clicking on this hyperlink you can change the Product Code of the package and the GUIDS of all its components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Order
 
@@ -183,20 +168,25 @@ In this section you can specify the upgrade process' sequence.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The _Install new version first and then uninstall old version_ option will work only if the files' components don't change from the old version to the new one (their names and GUIDs remain the same).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgrades
 
 In this section you can specify other products that will be upgraded when your package will be installed. Note that these packages must be MSI-based, you cannot use this page to upgrade packages which don't use the Windows Installer technology. When you click the\[New... \] button Advanced Installer shows a dialog which allows you to select the target installation package from the disk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding a new upgrade
 
  Use the \[New... \] toolbar button, the “New...” context menu item or press the Insert key while the focus is in the list. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing an upgrade
 
@@ -205,13 +195,6 @@ In this section you can specify other products that will be upgraded when your p
 ### Removing an upgrade
 
  Use the \[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while a list item is selected. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -253,14 +236,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-8-virtual-backdrops-for-macbook-upgrades/"><u>[Updated] In 2024, Best 8 Virtual Backdrops for MacBook Upgrades</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-harnessing-new-filters-on-instagram-a-modern-take-2023-techniques/"><u>[Updated] In 2024, Harnessing New Filters on Instagram A Modern Take (2023 Techniques)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-optimizing-the-reference-section-in-documents/"><u>Effective Strategies for Optimizing the Reference Section in Documents</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo F23 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x50i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X50i Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-predetermined-terms-and-agreed-upon-stipulations/"><u>Navigating Predetermined Terms and Agreed Upon Stipulations</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-mirroring-your-smartphone-display-onto-your-computer-from-afar/"><u>Step-by-Step Guide: Mirroring Your Smartphone Display Onto Your Computer From Afar</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-tutorial-mastering-the-art-of-recording-and-posting-on-instagrams-quick-clips-feature/"><u>Ultimate Tutorial: Mastering the Art of Recording and Posting on Instagram's Quick Clips Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reducing-recording-ambiance-free-methods-and-pros/"><u>[Updated] Reducing Recording Ambiance Free Methods and Pros</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728509193895-ssd/"><u>「簡易上手術：重建 SSD 儲存裝置中的資料」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>2024 Approved Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banish-the-blue-screen-troubleshooting-storahcisys/"><u>Banish the Blue Screen: Troubleshooting 'storahci.sys'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-reducing-dota-2-lag-for-a-seamless-experience/"><u>Expert Advice on Reducing Dota 2 Lag for a Seamless Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-brother-dcp-l2540dw-quick-guide-for-windows-users/"><u>Get the Latest Drivers for Brother DCP-L2540DW: Quick Guide for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/scale-down-oversized-win-10-interface/"><u>Scale Down: Oversized WIN 10 Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-missing-responses-in-your-youtube-video-comments/"><u>Solving the Issue of Missing Responses in Your YouTube Video Comments</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-restoring-a-deleted-partition-on-your-lenovo-pc-running-windows-10/"><u>Step-by-Step Guide: Restoring a Deleted Partition on Your Lenovo PC Running Windows 10</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-syncing-video-content-from-itunes-to-iphone-or-ipad/"><u>Step-by-Step Tutorial on Syncing Video Content From iTunes to iPhone or iPad</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/uberwindet-apple-itunes-problem-fehler-beim-wiederherstellen-des-iphones-aufgrund-unzureichender-speicherkapazitat/"><u>Überwindet Apple ITunes-Problem: Fehler Beim Wiederherstellen Des iPhones Aufgrund Unzureichender Speicherkapazität</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-powerdirector-alternatives-for-android-and-ios-for-2024/"><u>Updated Best PowerDirector Alternatives for Android and iOS for 2024</u></a></li>
 </ul></div>
 

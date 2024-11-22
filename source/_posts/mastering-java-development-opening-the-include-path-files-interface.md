@@ -1,7 +1,7 @@
 ---
 title: "Mastering Java Development: Opening the 'Include Path Files' Interface"
-date: 2024-10-07T21:39:23.215Z
-updated: 2024-10-10T16:13:19.057Z
+date: 2024-11-15T20:57:36.699Z
+updated: 2024-11-22T20:28:38.386Z
 tags:
   - user-guide
 categories:
@@ -79,21 +79,20 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add Classpath Files Dialog
 
 ![Add Classpath Files Dialog](https://cdn.advancedinstaller.com/img/dialog/add-classpath-files.png "Add Classpath Files Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wildcard Path
@@ -103,19 +102,13 @@ In this field, you can declare custom locations with wildcard support. The files
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The location of the files can be **absolute** or**relative**. If the location will not point to an**absolute** path, it is considered as **relative** to the Java Product folder.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Examples:
@@ -170,18 +163,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elite-soundstage-storytelling-scripts-for-2024/"><u>[New] Elite Soundstage Storytelling Scripts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ield-cash-reviewing-gadgets-apparel-and-more-on-the-web-for-2024/"><u>[New] Yield Cash Reviewing Gadgets, Apparel, and More on the Web for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>[Updated] Pinnacle of Recording Quality 9 Mic Devices Rated Best</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adding-yourself-to-our-professional-network-directory-membership-guide/"><u>Adding Yourself to Our Professional Network: Directory Membership Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/in-depth-guide-best-mp4-downloader-services-beyond-video2mp3/"><u>In-Depth Guide: Best MP4 Downloader Services Beyond Video2MP3</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mirroring-images-with-your-iphone-a-comprehensive-guide/"><u>Mirroring Images with Your iPhone: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/sync-your-xiaomi/"><u>Sync Your Xiaomi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-guide-keep-your-macbook-awake-even-with-closed-lid-step-by-step/"><u>Tech Guide: Keep Your MacBook Awake Even with Closed Lid – Step-by-Step</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/form-footage-into-visual-art-with-youtube-studio-for-2024/"><u>Transform Footage Into Visual Art with YouTube Studio for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-lzma-compression-preferences-window/"><u>Understanding the LZMA Compression Preferences Window</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-uwp-bootstrap-interface-navigating-through-its-tabs/"><u>Understanding the UWP Bootstrap Interface: Navigating Through Its Tabs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wav-winxvideo-ai/"><u>WAV ファイルの変換と抽出テクニック - Winxvideo AIで学ぶ</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-amplify-your-vlog-presence-with-tubebuddys-tools-for-2024/"><u>[New] Amplify Your Vlog Presence with TubeBuddy's Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-upload-and-share-like-a-pro-quick-and-easy-gif-tutorial-for-instagram-users/"><u>[New] Upload and Share Like a Pro Quick & Easy GIF Tutorial for Instagram Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-beyond-wirecast-top-video-broadcasting-software/"><u>[Updated] 2024 Approved Beyond WireCast Top Video Broadcasting Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-the-safest-video-chat-apps-on-both-sides-of-the-market-for-2024/"><u>[Updated] Explore the Safest Video Chat Apps on Both Sides of the Market for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-harness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>[Updated] Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comfort-meets-performance-the-leading-ergonomic-keyboards/"><u>Comfort Meets Performance: The Leading Ergonomic Keyboards</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-deplacer-votre-dossier-mesdocuments-dans-lexplorateur-de-fichiers-de-windows/"><u>Comment Déplacer Votre Dossier 'MesDocuments' Dans L'Explorateur De Fichiers De Windows?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-ron-stefanskis-expertise-and-innovations-at-movavi-for-efficient-video-editing-solutions/"><u>Discover Ron Stefanski's Expertise and Innovations at Movavi for Efficient Video Editing Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gratuitamente-installare-windows-10-il-programma-di-clonazione-del-computer-piu-efficiente-sul-mercato/"><u>Gratuitamente Installare Windows 10: Il Programma Di Clonazione Del Computer Più Efficiente Sul Mercato</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/hyper-v-virtual-machine-solution-fix-the-blank-display-and-flashing-cursor-problem/"><u>Hyper-V Virtual Machine Solution: Fix the Blank Display and Flashing Cursor Problem</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/probleme-avec-clonezilla-taille-inadequate-du-disque-cible/"><u>Problème Avec Clonezilla - Taille Inadéquate Du Disque Cible</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-file-duplication-across-multiple-nas-units-using-windows-features/"><u>Seamless File Duplication Across Multiple NAS Units Using Windows Features</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/side-by-side-showdown-evaluating-the-differences-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Side by Side Showdown: Evaluating the Differences Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-5-best-free-computer-diagnostic-tools-compare-and-choose/"><u>Top 5 Best Free Computer Diagnostic Tools - Compare & Choose!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/transformez-vos-videos-avec-la-technologie-avancee-de-winxvideo-edition-montage-and-conversion-facile/"><u>Transformez Vos Vidéos Avec La Technologie Avancée De Winxvideo : Édition, Montage & Conversion Facile</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/usbwindows-7/"><u>USBメモリをWindows 7で安全にするための二つの方法</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728496891047-windows-11/"><u>Windows 11で必要なセキュアブート: サポート済みか確認して、設定方法を解説</u></a></li>
 </ul></div>
 

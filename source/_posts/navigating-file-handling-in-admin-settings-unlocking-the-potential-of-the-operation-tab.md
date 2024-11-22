@@ -1,7 +1,7 @@
 ---
 title: Navigating File Handling in Admin Settings - Unlocking the Potential of the Operation Tab
-date: 2024-10-08T18:15:04.526Z
-updated: 2024-10-11T09:03:42.901Z
+date: 2024-11-19T17:23:36.315Z
+updated: 2024-11-22T17:31:05.883Z
 tags:
   - user-guide
 categories:
@@ -90,6 +90,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Folder Operations Tab
 
  In this dialog you can set the folder to be removed when a component is installed or uninstalled. Also, you can enable its content to be persistent during an upgrade.
@@ -100,18 +104,19 @@ Table of Contents
 
 ![Folder Removal Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-operations.png "Folder Removal Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remove
 
  Folders for removal will be marked visually with this icon:![Folder Removal](https://cdn.advancedinstaller.com/img/gfx/removal.png "Folder Removal").
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Operation
 
@@ -123,16 +128,7 @@ Table of Contents
  The component which will trigger the folder removal operation.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Remove On
@@ -149,19 +145,6 @@ Specify a condition for the folder removal.
 
 You can specify files to be removed upon install or uninstall from the [File Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overwrite behavior
 
 Specify the folder content's overwrite behavior.
@@ -170,15 +153,16 @@ Specify the folder content's overwrite behavior.
 
 When this option is selected, if the files from the folder on the target machine are older then the one included in the package, they will be overwritten.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Always overwrite existing files
 
 If this option is enabled, the files from this folder in your package will overwrite any similar files already present on the target computer. Usually this can be used when performing a downgrade (install files older than the ones already installed) or for non-versioned files which don't overwrite the existing files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Do not overwrite existing files
@@ -191,18 +175,15 @@ If this option is enabled, the files from this folder in your package will overw
 
 Save and restore original folder content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 Condition when the folder content will be preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -237,22 +218,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-your-signature-voice-for-instagram-success/"><u>[New] In 2024, Crafting Your Signature Voice for Instagram Success</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/apid-growth-on-youtube-harnessing-the-potential-of-outros-for-2024/"><u>[New] Rapid Growth on YouTube Harnessing the Potential of Outros for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-automate-playlist-retrieval-from-youtube-directly/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/a-comprehensive-guide-to-verb-features-insights-into-action-words-in-english-grammar/"><u>A Comprehensive Guide to Verb Features: Insights Into Action Words in English Grammar</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/approaches-strategies-and-implementation-models-these-titles-aim-to-be-relevant-for-search-engine-optimization-while-maintaining-semantic-relevance-to-virtu11/"><u>Approaches, Strategies, and Implementation Models, These Titles Aim to Be Relevant for Search Engine Optimization While Maintaining Semantic Relevance to Virtualization Project Types.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-property-search-enhancements/"><u>Comprehensive Property Search Enhancements</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-best-android-voice-recording-applications-an-in-depth-analysis/"><u>Exploring the Best Android Voice Recording Applications: An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-authenticating-a-step-by-step-for-youtube-users/"><u>In 2024, Authenticating A Step-by-Step for Youtube Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-upgrade-in-universal-windows-platform-detectability/"><u>Latest Upgrade in Universal Windows Platform Detectability</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-project-journeys-unveiling-the-project-paths-tab/"><u>Navigating Project Journeys: Unveiling the Project Paths Tab</u></a></li>
-<li><a href="https://win-trending.techidaily.com/personalized-webcam-border-designs-and-dimming-effects/"><u>Personalized Webcam Border Designs & Dimming Effects</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/seamless-international-auto-delivery-services-streamline-your-new-car-arrival/"><u>Seamless International Auto Delivery Services - Streamline Your New Car Arrival</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-tricks-and-tips-how-to-effortlessly-upscale-480p-videos-into-full-hd-1080p-perfection/"><u>Simple Tricks and Tips: How to Effortlessly Upscale 480P Videos Into Full HD 1080P Perfection</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-trick-to-forcefully-shut-down-unyielding-windows-programs-swiftly/"><u>The Ultimate Trick to Forcefully Shut Down Unyielding Windows Programs Swiftly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unleashing-linguistic-potential-mondlys-success-story-2022/"><u>Unleashing Linguistic Potential: Mondly's Success Story, 2022</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-better-battery-efficiency-on-your-iphone-with-these-six-steps/"><u>Unlock Better Battery Efficiency on Your iPhone with These Six Steps!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/wireless-sync-and-display-transferring-iphone-visuals-onto-the-lg-smart-tv-platform/"><u>Wireless Sync & Display: Transferring iPhone Visuals Onto the LG Smart TV Platform</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leading-digital-adjustments-optimal-photo-framing-software-2023-for-2024/"><u>[Updated] Leading Digital Adjustments Optimal Photo Framing Software, 2023 for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-comment-eliminer-definitivement-un-fichier-de-cle-usb/"><u>1. Comment Éliminer Définitivement Un Fichier De Clé USB ?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-vos-videos-mpg-en-3gp-sans-frais-sur-le-site-web-de-movavi/"><u>Convertissez Vos Vidéos MPG en 3GP Sans Frais Sur Le Site Web De Movavi</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/exploring-the-functionality-and-uses-of-vmwares-key-virtual-switches-vmnet0-vmnet8-and-vmnet1-explained/"><u>Exploring the Functionality and Uses of VMware's Key Virtual Switches: VMnet0, VMnet8 & VMnet1 Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/video-embedding-techniques-for-online-articles/"><u>Free Video Embedding Techniques for Online Articles</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-100-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 100 Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-live-action-to-youtube-recording-your-device-display/"><u>In 2024, From Live Action to YouTube Recording Your Device Display</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-adobe-premiere-pro-secrets-6-time-saving-tips-for-better-video-edits/"><u>New Adobe Premiere Pro Secrets 6 Time-Saving Tips for Better Video Edits</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolution-steps-for-can-not-respond-to-phone-calls-problem-on-iwatch-by-apple/"><u>Resolution Steps for 'Can Not Respond To Phone Calls' Problem on iWatch by Apple</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-why-and-how-to-get-your-onedrive-shared-folders-to-appear-in-file-explorer/"><u>Step-by-Step Guide: Why and How To Get Your OneDrive Shared Folders to Appear in File Explorer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/wiederherstellung-von-kurznotizen-eine-schrittweise-anleitungsreihe/"><u>Wiederherstellung Von Kurznotizen - Eine Schrittweise Anleitungsreihe</u></a></li>
 </ul></div>
 

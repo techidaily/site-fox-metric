@@ -1,7 +1,7 @@
 ---
 title: How to Modify and Edit a JSON Configuration File Easily
-date: 2024-10-07T01:32:28.401Z
-updated: 2024-10-10T18:45:33.412Z
+date: 2024-11-17T20:37:08.868Z
+updated: 2024-11-22T19:34:49.209Z
 tags:
   - user-guide
 categories:
@@ -87,6 +87,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit JSON File Dialog
 
 This dialog enables you to make configurations to a JSON File. You can create and edit JSON content(an Object, Array, Null, Boolean, Number or String) , change the JSON structure and others.
@@ -98,10 +102,7 @@ This dialog enables you to make configurations to a JSON File. You can create an
  Select the JSON file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Manage general JSON file settings
@@ -109,10 +110,7 @@ This dialog enables you to make configurations to a JSON File. You can create an
 Select the JSON file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Creating a new JSON element (an Object, Array, Null, Boolean, Number or String)
@@ -123,6 +121,10 @@ Use the “New” context menu option or press theInsert key while an existing J
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Removing a JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “Delete” context menu option or press theDelete key while a tree item is selected.
@@ -130,17 +132,7 @@ Use the “Delete” context menu option or press theDelete key while a tree ite
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -185,17 +177,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-detailed-review-experience-with-samsungs-sphere-cam/"><u>[New] Detailed Review Experience with Samsung's Sphere Cam</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[New] In 2024, The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-gpus-for-sharp-4k-image-display/"><u>[New] Prime GPUs for Sharp 4K Image Display</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/boost-your-brand-twitter-ads-guide-for-2024/"><u>Boost Your Brand Twitter Ads Guide for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-impact-of-connected-container-interactions/"><u>Exploring the Impact of Connected Container Interactions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/itext-file-update-component-efficient-text-handling/"><u>IText File Update Component: Efficient Text Handling</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-sql-database-navigation-and-management/"><u>Mastering the Art of SQL Database Navigation and Management</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>New In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-potential-of-generative-ai/"><u>Understanding ChatGPT: Unlocking the Potential of Generative AI</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-aesthetics-advanced-video-hue-balancing/"><u>YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-picks-for-free-high-quality-screen-recorders-in-chrome-os/"><u>[New] 2024 Approved Top Picks for Free, High-Quality Screen Recorders in Chrome OS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-identifying-high-growth-youtube-channels-for-personal-development/"><u>[New] In 2024, Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-motion-blur-in-ps-a-step-by-step-guide-for-2024/"><u>[New] Mastering Motion Blur in PS A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-your-essential-list-of-the-finest-ios-ps2-emulators-for-2024/"><u>[Updated] Your Essential List of the Finest iOS PS2 Emulators for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pcdvd/"><u>安心・効率的なPC写真DVD化方法：ストレージ対応術</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-leveraging-remote-features-for-an-optimized-samsung-tv-experience/"><u>Comprehensive Walkthrough: Leveraging Remote Features for an Optimized Samsung TV Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-surface-book-driver-software-easy-download-and-update-options/"><u>Get the Latest Surface Book Driver Software - Easy Download & Update Options!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/losung-von-problemen-beim-definieren-der-sicherheitsrichtlinie-bei-systemupdates-unter-windows-10/"><u>Lösung Von Problemen Beim Definieren Der Sicherheitsrichtlinie Bei Systemupdates Unter Windows 10</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/powerpoint-prasentation-wiederherstellen-top-3-ansatze-fur-nicht-gespeichertes-material/"><u>PowerPoint Präsentation Wiederherstellen: Top 3 Ansätze Für Nicht Gespeichertes Material</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-missing-backup-service-for-windows-servers-2008-2012-2016/"><u>Solving the Problem of Missing Backup Service for Windows Servers (2008, 2012, 2016)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-hitachai-hard-drive-copying-tools-discover-the-excellence-of-aomei-backupper/"><u>Top-Rated Hitachai Hard Drive Copying Tools: Discover the Excellence of AOMEI Backupper</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-accessories-for-iphone-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Accessories for iPhone - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-rated-windows-11-backup-and-recovery-applications-top-3-free-solutions/"><u>Top-Rated Windows 11 Backup & Recovery Applications: Top 3 Free Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/two-methods-for-connecting-your-synology-network-attached-storage-across-the-web/"><u>Two Methods for Connecting Your Synology Network Attached Storage Across the Web</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-top-5-leading-sdhc-memory-card-data-retrieval-applications/"><u>Ultimate Guide: Top 5 Leading SDHC Memory Card Data Retrieval Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-settings-visibility-restored/"><u>Windows 10 Display Settings: Visibility Restored</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-pxe-boot-server/"><u>Windows PXE Boot Server 簡易設置法：實現安全且流程簡化</u></a></li>
 </ul></div>
 

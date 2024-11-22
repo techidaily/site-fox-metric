@@ -1,7 +1,7 @@
 ---
 title: "Adding Yourself to Our Professional Network: Directory Membership Guide"
-date: 2024-10-09T17:18:07.519Z
-updated: 2024-10-10T22:14:29.681Z
+date: 2024-11-17T21:47:30.128Z
+updated: 2024-11-22T18:38:09.679Z
 tags:
   - user-guide
 categories:
@@ -106,15 +106,16 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IDirectoryMember
 
 This interface allows to edit base information about a directory member.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +123,7 @@ This interface allows to edit base information about a directory member.
 IDirectoryMember : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -139,10 +137,7 @@ IDirectoryMember : IDispatch
 **String Type** \- Gets the type of the directory member as a string.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -152,10 +147,7 @@ IDirectoryMember : IDispatch
 * **DeleteFile()** \- This method deletes the directory member from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -201,18 +193,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-instagram-presence-through-bigger-video-content/"><u>[New] 2024 Approved Elevating Instagram Presence Through Bigger Video Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] In 2024, Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-audio-transformation-from-instagram-visuals-mp3/"><u>[Updated] 2024 Approved Audio Transformation From Instagram Visuals (MP3)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-master-switch-pro-controller-gaming-in-steam-for-2024/"><u>[Updated] How to Master Switch Pro Controller Gaming in Steam for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/2-easy-guide-to-adjusting-webpage-layouts-through-the-design-preferences-dashboard/"><u>2. Easy Guide to Adjusting Webpage Layouts Through the Design Preferences Dashboard</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/advanced-techniques-to-leverage-windows-11-pro/"><u>Advanced Techniques to Leverage Windows 11 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-7-ai-applications-transforming-how-you-create-slideshows/"><u>Discover the Ultimate 7 AI Applications Transforming How You Create Slideshows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-poco-x5-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Poco X5.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-steps-setting-up-your-initial-template-conversations/"><u>Easy Steps: Setting Up Your Initial Template Conversations</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-functions-of-the-windows-operating-system/"><u>Essential Functions of the Windows Operating System</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>New Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724313373570-abbyy-jay-parkai/"><u>アジア太平洋市場に新たな飛躍: ABBYY は、Jay Park氏を営業担当副社長に任命し、ドキュメントAIとプロセスインテリジェンスの可能性を切り開く</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimize-social-media-visual-clarity-for-iphoneandroid-users/"><u>[New] 2024 Approved Optimize Social Media Visual Clarity for iPhone/Android Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-checklist-lipo-batteries-for-drone-excellence-for-2024/"><u>[Updated] The Ultimate Checklist LiPo Batteries for Drone Excellence for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-about-dji-inspire-1-detailed-survey/"><u>2024 Approved All About DJI Inspire 1 Detailed Survey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquering-the-flaws-of-windows-11-photo-app/"><u>2024 Approved Conquering the Flaws of Windows 11 Photo App</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-top-4-substitutes-for-r-studios-data-restoration-capabilities/"><u>Exploring the Top 4 Substitutes for R-Studio's Data Restoration Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-speed-windows-viewer-for-images/"><u>High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-p55-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel P55 to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-for-drone-pilots-vr-eyewear/"><u>In 2024, Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recuperare-i-file-perduti-strategie-di-ripristino-in-esplora-file/"><u>Recuperare I File Perduti: Strategie Di Ripristino in Esplora File</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/schnell-und-einfach-klopfe-deine-festplatte-per-cloner-auf-eine-virtuelle-maschine-ohne-boot-schwierigkeiten/"><u>Schnell Und Einfach: Klopfe Deine Festplatte per Cloner Auf Eine Virtuelle Maschine Ohne Boot-Schwierigkeiten!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/wd-my-cloudwindows-11-windows-11/"><u>WD My Cloud在Windows 11上的完整指南：從初始化到最佳利用方式 - Windows 11相關資訊</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-nvidia-gamestream-not-working-common-fixes-explored/"><u>Why Is My NVIDIA GameStream Not Working? Common Fixes Explored</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728481660788-windows-server/"><u>Windows Serverのバックアップで増分更新失敗を修正する方法</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ifana-data-lna-thana-ka-btha-aapaka-garavaha-kasa-parapata-kaya-jata-ha-eka-para-tapasa/"><u>इफोन डेटा लेन-देन के बाद, आपका गुरुवाही कैसे प्राप्त किया जाता है? - एक पूरी टिप्स!</u></a></li>
 </ul></div>
 

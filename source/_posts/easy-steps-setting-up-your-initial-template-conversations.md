@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Setting Up Your Initial Template Conversations"
-date: 2024-10-07T02:47:21.021Z
-updated: 2024-10-10T23:41:08.872Z
+date: 2024-11-16T21:35:28.637Z
+updated: 2024-11-22T17:56:56.752Z
 tags:
   - user-guide
 categories:
@@ -77,9 +77,17 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First time install Predefined Dialogs
 
 The dialogs defined here can appear only during the first time install or major upgrade process. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Preparing Dialog (PrepareDlg)
 
@@ -131,13 +139,6 @@ The dialog asks the user to confirm the file associations' creation. The availab
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want the user to be able to select which file associations to register, you should use the "FileAssociationsDlg" dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File Associations Dialog (FileAssociationsDlg)
 
 This dialog will enable you to select which of the file associations you want to register. When added, this dialog is automatically populated with the extensions which use the **Show in extension list** option in [Extension Properties](https://tools.techidaily.com/advancedinstaller/products/) pane. In order to use this dialog, go to “File Associations” under “Resources” and select the desired File Extension. In the “Extension Properties” page of the selected element, be sure to enable "Show in FileAssociationsDlg dialog" option. 
@@ -145,6 +146,14 @@ This dialog will enable you to select which of the file associations you want to
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information, please see [File Associations Page](https://tools.techidaily.com/advancedinstaller/products/). This dialog is not available in a "Simple" project.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want to remove a checkbox from this dialog you can disable the "Show in extension list" option for the associated extension.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install Type Dialog (InstallTypeDlg)
 
@@ -171,6 +180,10 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 * Domain - the string will be saved in the DOMAIN\_NAME property.
 * Password - the string will be saved in the USER\_PASSWORD property.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Optional Features Dialog (OptionalFeatsDlg)
 
 This dialog implements the [Quick Selection List](https://tools.techidaily.com/advancedinstaller/products/) control with the function to check or uncheck all features in the list.
@@ -182,17 +195,11 @@ This dialog uses the [Prerequisites Selector](https://tools.techidaily.com/advan
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ReadMe Dialog (ReadmeDlg)
@@ -207,13 +214,6 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setup Type Dialog (SetupTypeDlg)
 
  Allows the user to select the installation's type.
@@ -227,19 +227,6 @@ Although this dialog's content and layout are theme dependant, the user can choo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Include this dialog with a Typical installation selected default. It is recommended to have all customization dialogs (if needed) on the Custom chain.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can set a feature to be installed in a Typical installation by using the [Feature Properties](https://tools.techidaily.com/advancedinstaller/products/) page.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Shortcuts Dialog (ShortcutsDlg)
 
@@ -257,6 +244,10 @@ With _Professional_ project types, in the bottom pane you can choose what option
 On _Enterprise_ or above project types, in the "Shortcuts Actions" tab from the "Control" view you can choose what shortcuts will be displayed on the dialog during installation as well as their default state.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### SQL Connection Dialog (SQLConnectionDlg)
 
@@ -284,7 +275,15 @@ This dialogs defines and uses the following global properties:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These properties can be easily used to configure an SQL connection. For more information please, visit [Configuring Databases with SQL Scripts](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### SQL Server Connection Dialog (SQLServerConnectionDlg)
 
@@ -292,32 +291,11 @@ This dialog is mutually exclusive with SQL Connection Dialog (SQLConnectionDlg).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is available in Enterprise or Architect project types.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Start Menu Shortcuts Dialog (StartMenuShortcutsDlg)
 
  This dialog allows you to choose the shortcut group from Start Menu in which your program's shortcuts will be installed. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This dialog is not available in a "Simple" project.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Upgrade Dialog (UpgradeDlg)
 
@@ -372,22 +350,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>[New] In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-rapid-restoration-snapped-shenanigans/"><u>[New] In 2024, Rapid Restoration Snapped Shenanigans</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[Updated] In 2024, Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/approaches-strategies-and-implementation-models-these-titles-aim-to-be-relevant-for-search-engine-optimization-while-maintaining-semantic-relevance-to-virtu11/"><u>Approaches, Strategies, and Implementation Models, These Titles Aim to Be Relevant for Search Engine Optimization While Maintaining Semantic Relevance to Virtualization Project Types.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comprehensive-property-search-enhancements/"><u>Comprehensive Property Search Enhancements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-windows-11-new-functionality/"><u>Decoding Windows 11 New Functionality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-guide-to-using-quickmark-in-ios-11-for-enhanced-screen-captures/"><u>Easy Guide to Using QuickMark in iOS 11 for Enhanced Screen Captures</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-best-android-voice-recording-applications-an-in-depth-analysis/"><u>Exploring the Best Android Voice Recording Applications: An In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-edge-in-gaming-a-step-by-step-tutorial-on-upgrading-to-asus-970-pro-graphics/"><u>Get the Edge in Gaming: A Step-by-Step Tutorial on Upgrading to ASUS 970 Pro Graphics</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-enable-device-firmware-update-dfu-mode-on-your-iphone-or-ipad-a-step-by-step-guide/"><u>How to Enable Device Firmware Update (DFU) Mode on Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-upgrade-in-universal-windows-platform-detectability/"><u>Latest Upgrade in Universal Windows Platform Detectability</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mozilla-thunderbird-update-version-52-features-and-improvements/"><u>Mozilla Thunderbird Update: Version 52 Features and Improvements</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-project-journeys-unveiling-the-project-paths-tab/"><u>Navigating Project Journeys: Unveiling the Project Paths Tab</u></a></li>
-<li><a href="https://solve-news.techidaily.com/reduction-efficace-des-fichiers-multimedias-compresser-en-moins-de-10-pour-videos-hd4k8k/"><u>Réduction Efficace Des Fichiers Multimédias - Compresser en Moins De 10 % Pour Vidéos HD/4K/8K</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-lifelong-learners-guide-to-new-languages/"><u>The Lifelong Learner's Guide to New Languages</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/wireless-sync-and-display-transferring-iphone-visuals-onto-the-lg-smart-tv-platform/"><u>Wireless Sync & Display: Transferring iPhone Visuals Onto the LG Smart TV Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-podcast-rss-feed-crafting/"><u>[New] Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-transfer-your-reading-materials-4-methods-to-move-epub-and-pdf-books-onto-your-kobo-reader/"><u>1. Transfer Your Reading Materials: 4 Methods to Move EPUB & PDF Books Onto Your Kobo Reader</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-psychology-of-persuasion-in-subscription-growth/"><u>2024 Approved The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-tutorial-to-display-hidden-files-on-a-mac-via-command-line-interface/"><u>A Beginner’s Tutorial to Display Hidden Files on a Mac via Command Line Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/backup-del-disco-in-windows-11-due-metodi-gratuiti-e-facili-da-usare/"><u>Backup Del Disco in Windows 11: Due Metodi Gratuiti E Facili Da Usare!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/die-top-zwei-methoden-zum-schutz-von-windows-11-auf-einem-qnap-nas-gerat/"><u>Die Top-Zwei Methoden Zum Schutz Von Windows 11 Auf Einem QNAP NAS Gerät</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/direkter-transfer-zwischen-zwei-iphones-unabhangig-von-icloud-funf-losungen-erkunden/"><u>Direkter Transfer Zwischen Zwei iPhones, Unabhängig Von iCloud – Fünf Lösungen Erkunden</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-not-responding-post-wake-from-sleep-w7/"><u>Printers Not Responding Post Wake From Sleep, W7</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-retrieving-lost-files-from-your-samsung-memory-card/"><u>Step-by-Step Guide: Retrieving Lost Files From Your Samsung Memory Card</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/tech-tips-discovering-missing-files-on-usb-a-4-step-guide-to-track-them-down/"><u>Tech Tips: Discovering Missing Files on USB - A 4-Step Guide to Track Them Down!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review-for-2024/"><u>The Most Downloaded and Loved iPhone Apps A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728498390676-windows-11/"><u>Windows 11用ダイナミックディスクの迅速なコピー手順</u></a></li>
 </ul></div>
 

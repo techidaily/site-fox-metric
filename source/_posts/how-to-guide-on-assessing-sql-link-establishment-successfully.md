@@ -1,7 +1,7 @@
 ---
 title: How-To Guide on Assessing SQL Link Establishment Successfully
-date: 2024-10-09T08:50:00.653Z
-updated: 2024-10-11T02:34:31.475Z
+date: 2024-11-19T18:42:00.134Z
+updated: 2024-11-22T19:51:01.254Z
 tags:
   - user-guide
 categories:
@@ -81,20 +81,10 @@ This feature enables the user to test if the ODBC connection works.
 ![Sql test connection](https://cdn.advancedinstaller.com/img/ui/sql-test-connection.png "Sql test connection")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## General
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Connection String
 
@@ -102,15 +92,16 @@ In this field an SQL Connection field could be entered.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To escape characters in an SQL connection string you must enclose them between { and } characters (e.g. To escape a password value like;1234, the connection string should containPwd={;1234};. Since Advanced Installer uses [formatted fields](https://tools.techidaily.com/advancedinstaller/products/) the syntax will become something like Pwd=\[\\{\]\[PASSWORD\_PROP\]\[\\}\]; where PASSWORD\_PROP [public property](https://tools.techidaily.com/advancedinstaller/products/) will be dynamically resolved at runtime to ;1234.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use 64-bit ODBC resource
 
 Check this option to test connection against a 64-bit ODBC driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Login timeout (sec)
@@ -121,13 +112,14 @@ Check this option to test connection against a 64-bit ODBC driver.
 
 In this section you can choose to display the "Please wait.." message box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Output
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Property
@@ -171,21 +163,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-revamped-design-tools-after-acid-pro-era/"><u>[New] In 2024, Revamped Design Tools After ACID Pro Era</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>[Updated] Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlining-gaming-experience-how-to-record-games-obs/"><u>2024 Approved Streamlining Gaming Experience How to Record Games OBS</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complete-guide-on-eliminating-computer-block-scam-virus-effective-steps-with-malwarefox/"><u>Complete Guide on Eliminating 'Computer Block' Scam Virus - Effective Steps with MalwareFox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-troubleshooting-for-gurus/"><u>Intel ME Troubleshooting for Gurus</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-productivity-unveiling-7-exceptional-notetaking-apps-tailored-for-apples-tablet-range/"><u>Mastering Productivity: Unveiling 7 Exceptional Notetaking Apps Tailored for Apple's Tablet Range</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-web-content-curation-tips-on-binding-your-digital-pages/"><u>Mastering the Art of Web Content Curation: Tips on Binding Your Digital Pages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-for-stopping-stop-0x0000001d-errors/"><u>Mastering the Fix for Stopping STOP 0X0000001D Errors</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simplified-navigation-through-the-manage-data-rows-window/"><u>Simplified Navigation Through the 'Manage Data Rows' Window</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-making-apowerpdf-your-go-to-pdf-viewer/"><u>Step-by-Step Guide: Making ApowerPDF Your Go-To PDF Viewer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-how-to-edit-and-crop-your-videos-for-insta-success/"><u>Step-by-Step Tutorial on How to Edit and Crop Your Videos for Insta Success</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-exclusive-perks-your-guide-to-apowermirrors-member-advantages/"><u>Unlock Exclusive Perks: Your Guide to ApowerMirror's Member Advantages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-websites-for-futuristic-typography-for-2024/"><u>[New] Essential Websites for Futuristic Typography for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-finding-your-niche-making-money-with-video-content/"><u>[New] In 2024, Finding Your Niche Making Money with Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screencapture-pro-laptop-tips-and-tricks/"><u>[New] In 2024, ScreenCapture Pro Laptop Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-introduction-to-effective-analysis-facebook-insights/"><u>[Updated] In 2024, Introduction to Effective Analysis Facebook Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-come-migliorare-la-qualita-dei-tuoi-video-guida-per-sistemi-operativi-windows-mac-android-e-iphone/"><u>1. Come Migliorare La Qualità Dei Tuoi Video: Guida per Sistemi Operativi Windows, Mac, Android E iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pinpointing-potential-a-youtube-niche-journey/"><u>2024 Approved Pinpointing Potential A Youtube Niche Journey</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/acces-perdu-sur-outlook-decouvrez-des-conseils-eclairant-pour-le-regain-immediat/"><u>Accès Perdu Sur Outlook ? Découvrez Des Conseils Éclairant Pour Le Regain Immédiat!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effizientes-ubertragen-ihrer-vms-und-daten-von-esxi-auf-eine-usb-festplatte-image-and-file-level/"><u>Effizientes Übertragen Ihrer VMs Und Daten Von ESXi Auf Eine USB-Festplatte - Image & File Level</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guia-paso-a-paso-encriptar-un-disco-duro-exterior-con-windows-11-metodos-faciles-de-hacer/"><u>Guía Paso a Paso: Encriptar Un Disco Duro Exterior Con Windows 11 - Métodos Fáciles De Hacer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guida-per-lesecuzione-del-backup-e-il-successivo-recupero-dei-file-in-windows-e-storia-con-cronologia/"><u>Guida per L'Esecuzione Del Backup E Il Successivo Recupero Dei File in Windows E Storia Con Cronologia</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-quickly-migrate-os-from-hard-drive-to-m2-ssd-with-step-by-step-instructions-for-windows-users/"><u>How to Quickly Migrate OS From Hard Drive to M.2 SSD with Step-by-Step Instructions for Windows Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/le-choix-des-amateurs-logiciels-de-recuperation-video-gratuits-optimises-pour-windows-11/"><u>Le Choix Des Amateurs: Logiciels De Récupération Vidéo Gratuits Optimisés Pour Windows 11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/preserve-your-files-while-restoring-your-usb-with-windows-command-line-tools/"><u>Preserve Your Files While Restoring Your USB with Windows Command Line Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/procedure-de-sauvegarde-en-douceur-pour-windows-7-comment-le-faire-sur-un-disque-dur-externe/"><u>Procédure De Sauvegarde en Douceur Pour Windows 7 : Comment Le Faire Sur Un Disque Dur Externe</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-adding-subs-to-igtv-for-2024/"><u>Step-by-Step Guide Adding Subs to IGTV for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-smart-way-to-combine-igtv-with-stories-for-2024/"><u>The Smart Way to Combine IGTV with Stories for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-power-of-nvidias-wins11-compatible-drivers-geforce-210/"><u>Unveiling the Power of NVIDIA's Wins11-Compatible Drivers, GeForce 210</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-twixtor-effect-to-add-slow-motion-effect-to-video/"><u>Updated 2024 Approved How to Use Twixtor Effect to Add Slow-Motion Effect to Video?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/wd-laufwerke-datenwiederherstellung-professionelle-losungen-finden/"><u>WD Laufwerke Datenwiederherstellung - Professionelle Lösungen Finden</u></a></li>
 </ul></div>
 

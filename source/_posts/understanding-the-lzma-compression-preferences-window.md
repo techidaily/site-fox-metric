@@ -1,7 +1,7 @@
 ---
 title: Understanding the LZMA Compression Preferences Window
-date: 2024-10-08T02:22:09.908Z
-updated: 2024-10-11T05:18:15.531Z
+date: 2024-11-21T21:32:05.955Z
+updated: 2024-11-22T16:14:30.581Z
 tags:
   - user-guide
 categories:
@@ -89,16 +89,7 @@ Table of Contents
 ## LZMA Settings Dialog
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compression Settings
@@ -106,10 +97,11 @@ Table of Contents
 ![Custom LZMA](https://cdn.advancedinstaller.com/img/dialog/custom-lzma.png "Custom LZMA")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method
@@ -121,16 +113,7 @@ Choose the appropriate LZMA method from the following values:
 * LZMA2 - Is an LZMA-based compression method that provides**better multithreading** support than LZMA compression (it scales with the number of CPU cores, to achieve **faster builds**). However, the compression ratio can be worse than LZMA in some cases, because LZMA2 method splits data into chunks and compresses these chunks independently (2 threads per each chunk).
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Level
@@ -147,10 +130,7 @@ You can select the desired compression level for the LZMA archive. The following
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about LZMA compression go to the [LZMA Compression](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dictionary size
@@ -194,18 +174,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-complete-manual-for-modifying-cover-images/"><u>[New] 2024 Approved The Complete Manual for Modifying Cover Images</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-followers-with-effective-igtv-hashtag-techniques-for-2024/"><u>[New] Elevate Followers with Effective IGTV Hashtag Techniques for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-balancing-viral-potential-with-long-term-traction-in-videos/"><u>[New] In 2024, Balancing Viral Potential with Long-Term Traction in Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/4-effective-techniques-to-remove-photo-backgrounds-effortlessly/"><u>4 Effective Techniques to Remove Photo Backgrounds Effortlessly</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-baby-picture-perfect-mobile-apps-top-7-picks-for-android-and-iphone-users/"><u>Best Baby Picture-Perfect Mobile Apps: Top 7 Picks for Android and iPhone Users</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-repair-tips-for-a-non-functional-hyperx-cloud-headset-microphone/"><u>Effective Repair Tips for a Non-Functional HyperX Cloud Headset Microphone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/expert-tips-on-how-to-effortlessly-blur-the-background-in-images/"><u>Expert Tips on How to Effortlessly Blur the Background in Images</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-seamlessly-streaming-your-android-screen-onto-a-windows-10-pc/"><u>Guide: Seamlessly Streaming Your Android Screen Onto a Windows 10 PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fix-for-winning-against-dell-optiplex-790s-driver-complications/"><u>Step-by-Step Fix for Winning Against Dell OptiPlex 790'S Driver Complications</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c12-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C12 Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-solutions-resolve-msxml4dll-file-missing-or-corrupted/"><u>Troubleshooting Solutions: Resolve 'Msxml4.dll' File Missing or Corrupted</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>[New] Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-essential-steps-for-embedding-social-network-live-videos/"><u>[New] In 2024, Essential Steps for Embedding Social Network Live Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-best-practices-in-altering-igtv-video-titles/"><u>[Updated] Best Practices in Altering IGTV Video Titles</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2-ways-para-obtener-copia-de-respaldo-gratuita-para-disco-duro-externo-toshiba/"><u>2 Ways Para Obtener Cópia De Respaldo Gratuita Para Disco Duro Externo Toshiba</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/accelerate-your-file-transfers-with-teracopy-on-windows-10-a-comprehensive-speed-boosting-manual/"><u>Accelerate Your File Transfers with TeraCopy on Windows 10: A Comprehensive Speed-Boosting Manual</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-automatically-eradicate-unique-pictures-without-or-with-siris-quick-actions/"><u>How to Automatically Eradicate Unique Pictures Without or With Siri's Quick Actions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-v30-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme V30 Phone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/retrieving-your-missing-video-files-from-pc-and-iphone-systems/"><u>Retrieving Your Missing Video Files From PC and iPhone Systems</u></a></li>
 </ul></div>
 
