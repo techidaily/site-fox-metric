@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2024-11-26T19:33:08.039Z
-updated: 2024-11-30T16:18:18.995Z
+date: 2024-12-08T01:58:00.567Z
+updated: 2024-12-08T22:18:14.331Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] In 2024, Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-smooth-media-transfer-twitvideos-to-whatsapp-guide-for-2024/"><u>[New] Smooth Media Transfer TwitVideos to WhatsApp Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs/"><u>[Updated] Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youngest-entrepreneur-in-media-lands-fortune-peak/"><u>[Updated] Youngest Entrepreneur in Media Lands Fortune Peak</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/5-mannertechniques-to-reclaim-space-in-your-trash-can-by-removing-unwanted-photos/"><u>5 Mannertechniques to Reclaim Space in Your Trash Can by Removing Unwanted Photos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comment-deplacer-votre-dossier-mesdocuments-dans-lexplorateur-de-fichiers-de-windows/"><u>Comment Déplacer Votre Dossier 'MesDocuments' Dans L'Explorateur De Fichiers De Windows?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/gratuitamente-installare-windows-10-il-programma-di-clonazione-del-computer-piu-efficiente-sul-mercato/"><u>Gratuitamente Installare Windows 10: Il Programma Di Clonazione Del Computer Più Efficiente Sul Mercato</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/hyper-v-virtual-machine-solution-fix-the-blank-display-and-flashing-cursor-problem/"><u>Hyper-V Virtual Machine Solution: Fix the Blank Display and Flashing Cursor Problem</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x50-gt-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X50 GT Phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-xcover-7-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy XCover 7 online without jailbreak</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-correction-for-rpc-failures/"><u>Mastering Windows Error Correction for RPC Failures</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/probleme-avec-clonezilla-taille-inadequate-du-disque-cible/"><u>Problème Avec Clonezilla - Taille Inadéquate Du Disque Cible</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/restoring-specific-files-from-a-windows-backup-a-two-step-guide/"><u>Restoring Specific Files From a Windows Backup: A Two-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-flaccid-gpu-fan-dynamics/"><u>Reviving Flaccid GPU Fan Dynamics</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/usbwindows-7/"><u>USBメモリをWindows 7で安全にするための二つの方法</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728496891047-windows-11/"><u>Windows 11で必要なセキュアブート: サポート済みか確認して、設定方法を解説</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-leveraging-youtubes-tagging-system-for-enhanced-visibility/"><u>[Updated] Leveraging YouTube's Tagging System for Enhanced Visibility</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-identifying-faulty-ram-a-step-by-step-guide-on-when-to-replace-insights-by-yl-computing/"><u>1. Identifying Faulty RAM: A Step-by-Step Guide on When To Replace - Insights by YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-brief-guide-to-kickstarting-conversations-on-instagram-for-2024/"><u>A Brief Guide to Kickstarting Conversations on Instagram for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-entering-the-virtual-realm-google-meet/"><u>In 2024, Entering the Virtual Realm Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-free-video-players-vlc-or-mpc-winner/"><u>In 2024, Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-remixing-tracks-essential-tips-for-every-djs-playlist-curation/"><u>Mastering the Art of Remixing Tracks - Essential Tips for Every DJ's Playlist Curation</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/neurotransmission-is-the-process-by-which-neurons-communicate-through-chemical-messengers-called-neurotransmitters-at-synapses/"><u>Neurotransmission Is the Process by Which Neurons Communicate Through Chemical Messengers Called Neurotransmitters at Synapses.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-scanner-error-messages-a-comprehensive-guide-troubleshooting-tips-by-yl-computing/"><u>Resolving Scanner Error Messages: A Comprehensive Guide - Troubleshooting Tips by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-turn-onoff-auto-update-feature-in-yl-software/"><u>Step-by-Step Guide: Turn On/Off Auto Update Feature in YL Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-5-best-screens-for-playstation-5-gamers/"><u>TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-solutions-for-a-sluggish-download-speed/"><u>Troubleshooting Steam: Solutions for a Sluggish Download Speed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-computings-ultimate-tutorial-on-installing-and-configuring-a-secure-crypto-wallet/"><u>YL Computing's Ultimate Tutorial on Installing and Configuring a Secure Crypto Wallet</u></a></li>
 </ul></div>
 

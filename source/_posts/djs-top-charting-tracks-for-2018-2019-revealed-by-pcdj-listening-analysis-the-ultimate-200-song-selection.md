@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2024-11-25T23:22:49.118Z
-updated: 2024-11-30T21:05:04.154Z
+date: 2024-12-01T22:48:55.347Z
+updated: 2024-12-09T01:07:54.014Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,17 +58,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[New] 2024 Approved High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-canva-meme-generator-for-2024/"><u>[Updated] Canva Meme Generator for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-strategies-for-syncing-zoom-meetings-across-devices/"><u>[Updated] Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728505953676-youtube/"><u>古いYouTube動画が見られなくなった？復活テクニックと復元方法をお教えします。</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-speedy-mov-to-mkv-video-file-conversion/"><u>Effortless Techniques for Speedy MOV to MKV Video File Conversion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-call-a-user-friendly-approach-to-skype-audio-glitches/"><u>Fixing the Silent Call: A User-Friendly Approach to Skype Audio Glitches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-of-the-best-15-4k-video-capture-units/"><u>In 2024, Best of the Best #15 4K Video Capture Units</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-x90s-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo X90S</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recuperation-gratuite-de-fichiers-effaces-decouvrez-ces-5-methodes-essentielles/"><u>Récupération Gratuite De Fichiers Effacés : Découvrez Ces 5 Méthodes Essentielles !</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/simplified-guide-transfer-data-from-hard-drive-to-solid-state-without-needing-a-sata-usb-converter/"><u>Simplified Guide: Transfer Data From Hard Drive to Solid State without Needing a SATA-USB Converter</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/sneaky-tricks-how-to-get-deleted-photos-back-on-your-iphone-13/"><u>Sneaky Tricks: How To Get Deleted Photos Back on Your iPhone 13</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transfert-de-donnees-hdd-toshiba-sur-un-ssd-astuces-et-etapes-a-suivre/"><u>Transfert De Données HDD Toshiba Sur Un SSD : Astuces Et Étapes À Suivre !</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>[Updated] 2024 Approved Mastering Access The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-words-in-motion-a-guide-to-lively-animation-methods/"><u>2024 Approved Words in Motion A Guide to Lively Animation Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-online-gif-creators-the-ultimate-list-of-top-tools-for-crafting-animation/"><u>Best Free Online GIF Creators: The Ultimate List of Top Tools for Crafting Animation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210476720-9781504074650-beyond-any-kind-of-god/"><u>Beyond Any Kind of God | Free Book</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/christian-grey-theme-backgrounds-and-digital-artwork-premium-collections-by-yl-computing/"><u>Christian Grey Theme Backgrounds & Digital Artwork - Premium Collections by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-techniques-to-boost-your-hard-drive-efficiency-according-to-yl-software-expertise/"><u>Effective Techniques to Boost Your Hard Drive Efficiency, According to YL Software Expertise</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solve-your-scanner-detection-issues-with-ease-a-comprehensive-guide-by-yl-software-professionals/"><u>Solve Your Scanner Detection Issues with Ease! A Comprehensive Guide by YL Software Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/which-windows-editions-come-with-pre-installed-windows-defender-protection-insights-by-yl-computing/"><u>Which Windows Editions Come with Pre-Installed Windows Defender Protection - Insights by YL Computing</u></a></li>
 </ul></div>
 

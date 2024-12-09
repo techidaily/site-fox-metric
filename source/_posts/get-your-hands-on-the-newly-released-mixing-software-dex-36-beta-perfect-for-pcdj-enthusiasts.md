@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2024-11-24T19:02:00.463Z
-updated: 2024-11-30T23:53:35.562Z
+date: 2024-12-05T00:21:33.352Z
+updated: 2024-12-08T18:19:13.727Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-perfecting-picture-clarity-efficiently-eradicating-backgrounds-for-2024/"><u>[New] Perfecting Picture Clarity Efficiently Eradicating Backgrounds for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-8-leading-cost-effective-open-source-video-solutions-for-2024/"><u>[New] Unveiling 8 Leading Cost-Effective Open Source Video Solutions for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-setting-up-your-business-youtube-channel-on-mobile/"><u>[Updated] In 2024, Step-by-Step Setting Up Your Business YouTube Channel on Mobile</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/client-speeches-transforming-marketing-narratives-for-2024/"><u>Client Speeches Transforming Marketing Narratives for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-configurar-una-copia-de-seguridad-automatica-en-su-dispositivo/"><u>Cómo Configurar Una Copia De Seguridad Automática en Su Dispositivo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-brilliance-justified-choice-or-overkill/"><u>HDR Brilliance Justified Choice or Overkill?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-8-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 8 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus To Phone | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-strategies-for-managing-system-registry-editing-deletion-and-key-creation-in-revo-uninstaller/"><u>In-Depth Strategies for Managing System Registry: Editing, Deletion & Key Creation in Revo Uninstaller</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimizando-la-proteccion-de-datos-mejore-su-negocio-con-nuestras-soluciones-expertas-para-copias-de-respaldo-en-pc-y-servidores/"><u>Optimizando La Protección De Datos: Mejore Su Negocio Con Nuestras Soluciones Expertas Para Copias De Respaldo en PC Y Servidores</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimize-your-storage-seamless-transfer-from-hdd-to-ocz-ssd-using-top-cloning-tools/"><u>Optimize Your Storage: Seamless Transfer From HDD to OCZ SSD Using Top Cloning Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/perubahan-layanan-cloud-storage-pelaku-untuk-mempertahankan-gambar-yang-hapus-di-perangkat-yang-berbeda/"><u>Perubahan Layanan Cloud Storage: Pelaku Untuk Mempertahankan Gambar Yang Hapus Di Perangkat Yang Berbeda!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-for-a-fresh-start-safely-deleting-data-and-reinstalling-windows-tenth-on-your-computer/"><u>Step-by-Step Tutorial for a Fresh Start: Safely Deleting Data and Reinstalling Windows Tenth on Your Computer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/uberwindet-den-update-hinderniscode-0x800f0922-in-windows-11-mit-drei-erfolgreichen-strategien/"><u>Überwindet Den Update-Hinderniscode 0X800f0922 in Windows 11 Mit Drei Erfolgreichen Strategien</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[New] 2024 Approved Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-five-key-approaches-to-youtube-livestream-capture/"><u>[New] In 2024, Five Key Approaches to Youtube Livestream Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-list-of-excellent-fb-cover-photo-creators-for-2024/"><u>[Updated] A Comprehensive List of Excellent FB Cover Photo Creators for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[Updated] Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-timely-team-setups-adjusting-backdrop-beforeafter-calls-for-2024/"><u>[Updated] Timely Team Setups Adjusting Backdrop Before/After Calls for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/assessing-potential-pitfalls-understanding-crypto-investment-dangers-with-yl-computing/"><u>Assessing Potential Pitfalls: Understanding Crypto-Investment Dangers with YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-key-applications-of-digital-currencies-an-insight-from-yl-computing/"><u>Exploring the Key Applications of Digital Currencies: An Insight From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-did-chairman-maos-leadership-shape-modern-china-insights-from-yl-computing-perspective/"><u>How Did Chairman Mao's Leadership Shape Modern China: Insights From YL Computing Perspective</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-fix-flashing-monitor-on-hp-notebooks-with-windows-11-solution-provided/"><u>How to Fix Flashing Monitor on HP Notebooks with Windows 11 - Solution Provided</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-archiving-files-on-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Archiving Files on Windows PC - Expert Tips From YL Computing</u></a></li>
 </ul></div>
 

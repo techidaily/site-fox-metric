@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2024-11-30T00:05:28.884Z
-updated: 2024-11-30T16:47:35.406Z
+date: 2024-12-07T17:51:38.890Z
+updated: 2024-12-09T04:24:27.007Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[New] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-navigating-the-copyright-seas-before-posting-on-tiktok/"><u>[New] Navigating the Copyright Seas Before Posting on TikTok</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-live-streams-from-obs-to-fb/"><u>[Updated] 2024 Approved Mastering Live Streams From OBS to FB</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/windows-1011-bitlocker/"><u>专为 Windows 10/11 设计的顶级 Bitlocker 救回工具</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y77t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y77t Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/complimentary-material-tailwind-kit-with-react-integration-and-complete-wfh-solution-unleash-your-creative-potential-at-creative-tim/"><u>Complimentary Material Tailwind Kit with React Integration and Complete WFH Solution - Unleash Your Creative Potential at Creative Tim!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-blk-design-system-a-complimentary-bootstrap-4-framework-for-modern-web-development/"><u>Creative Tim's BLK Design System: A Complimentary Bootstrap 4 Framework for Modern Web Development</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/creative-tims-elite-bootstrap-4-administrator-template-professional-and-enhanced-lightweight-interface/"><u>Creative Tim's Elite Bootstrap 4 Administrator Template - Professional & Enhanced Lightweight Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-guide-transferring-windows-11-to-an-ssd-without-a-fresh-install-two-methods/"><u>Effortless Guide: Transferring Windows 11 to an SSD Without a Fresh Install - Two Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-7-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 7 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-isolate-audio-from-dvds-with-dvd-decryptor-tool/"><u>How to Isolate Audio From DVDs with DVD Decryptor Tool</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-methods-blurring-the-line-between-work-and-distractions-for-2024/"><u>Innovative Methods Blurring the Line Between Work and Distractions for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/reinstate-your-missing-or-removed-mappartxml-file-on-windows-7-using-four-methods/"><u>Reinstate Your Missing or Removed Mappart.xml File on Windows 7 Using Four Methods</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-secrets-of-seamless-ios-restoration-avoid-backups-and-still-save-your-iphones-history/"><u>Unlock the Secrets of Seamless iOS Restoration - Avoid Backups and Still Save Your iPhone's History!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-comprehensive-morphvox-modification-handbook/"><u>[New] In 2024, Comprehensive MorphVOX Modification Handbook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-gif-revolution-free-transformation-of-tweets-to-gifs/"><u>[Updated] Gif Revolution Free Transformation of Tweets to GIFs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screen-savvy-taking-screenshots-on-windows/"><u>[Updated] In 2024, Screen Savvy Taking Screenshots on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[Updated] In 2024, Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-routine-upkeep-tasks-for-your-pc-tips-and-tricks-from-yl-software/"><u>Essential Routine Upkeep Tasks for Your PC: Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-file-recovery-on-windows-how-to-restore-your-data-to-an-earlier-time-point-insights-from-yl-software-professionals/"><u>Exploring File Recovery on Windows: How to Restore Your Data to an Earlier Time Point - Insights From YL Software Professionals</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/high-definition-batman-backgrounds-and-walls-premium-4k-wallpaper-collection-by-yl-computing/"><u>High-Definition Batman Backgrounds & Walls - Premium 4K Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-x5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco X5 Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-fix-a-non-responsive-pc-steps-and-tips-expert-guidance-by-yl-tech-solutions/"><u>How to Fix a Non-Responsive PC: Steps & Tips - Expert Guidance by YL Tech Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/lyrx-karaoke-player-v141-update-released-free-downloads-now/"><u>LYRX Karaoke Player v1.4.1 Update Released - Free Downloads Now!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-the-issue-of-your-laptop-overheating-expert-advice-from-yl-computing/"><u>Solving the Issue of Your Laptop Overheating: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726224817706-dng-movavi/"><u>무게 없이 DNG 편집 - 오피스에 가장 나은 방법 : Movavi</u></a></li>
 </ul></div>
 

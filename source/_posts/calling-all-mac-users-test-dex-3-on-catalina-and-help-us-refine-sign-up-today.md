@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2024-11-23T23:31:03.289Z
-updated: 2024-11-30T19:59:36.901Z
+date: 2024-12-04T04:37:07.466Z
+updated: 2024-12-09T01:25:33.269Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-understanding-whatsapps-voice-communication-system/"><u>[New] Understanding WhatsApp's Voice Communication System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>[Updated] Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728506197251-sd3/"><u>「写真データを効率よくパソコンに転送: SDカード使用方法3つ」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-eloquence-encounter-chatgpt-versus-googles-bard-brain/"><u>AI Eloquence Encounter: ChatGPT Versus Google's Bard Brain</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elevate-your-communication-skills-fastest-way-7-ways-through-mondlys-afrikaans-lessons/"><u>Elevate Your Communication Skills Fastest Way - 7 Ways Through Mondly's Afrikaans Lessons</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-windows-11-mail-security-discover-our-top-2-strategies/"><u>Enhance Windows 11 Mail Security: Discover Our Top 2 Strategies!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/festplattenentfernung-vereinfacht-prozedur-zur-schnellen-loschung-der-zweiten-speicherkarte/"><u>Festplattenentfernung Vereinfacht - Prozedur Zur Schnellen Löschung Der Zweiten Speicherkarte</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/havit-5-adjustable-cooler-for-gamers-in-depth-review-and-performance-insights/"><u>HAVIT 5 Adjustable Cooler for Gamers: In-Depth Review and Performance Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-customize-fonts-in-aldiko-reader-app-for-android-devices/"><u>How to Customize Fonts in Aldiko Reader App for Android Devices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-install-grsync-on-windows-a-step-by-step-guide-with-alternatives/"><u>How to Install GRSync on Windows: A Step-by-Step Guide with Alternatives</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>In 2024, A Century of Sparks The 10 Most Voted on Reddit Posts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-rapid-subscription-truly-effective-for-youtube-users-in-2024/"><u>Is Rapid Subscription Truly Effective for YouTube Users, In 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-live-data-sync-step-by-step-guide-with-aomei-backupper/"><u>Mastering Live Data Sync: Step-by-Step Guide with AOMEI Backupper</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolucion-desactivacion-de-la-proteccion-de-datos-mediante-el-cifrado-en-windows-11/"><u>Resolución: Desactivación De La Protección De Datos Mediante El Cifrado en Windows 11</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/soll-ich-mein-iphone-aus-datenschutzgrunden-besorgen-expertenmeinung-von-fonetool/"><u>Soll Ich Mein iPhone Aus Datenschutzgründen Besorgen? - Expertenmeinung Von FoneTool.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/strategies-pour-definitivement-bloquer-des-messages-repetitifs-dans-votre-boite-de-reception/"><u>Stratégies Pour Définitivement Bloquer Des Messages Répétitifs Dans Votre Boîte De Réception.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[New] 2024 Approved Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-resonating-with-your-device-a-comprehensive-guide-for-customizing-auditory-experience-on-android/"><u>[Updated] 2024 Approved Resonating With Your Device A Comprehensive Guide for Customizing Auditory Experience on Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-gt-3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-bonus-points-why-trust-game-review-scores/"><u>Beyond the Bonus Points: Why Trust Game Review Scores?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computer-speed-with-expert-cleanup-techniques-unlock-performance-secrets-at-yl-software/"><u>Boost Your Computer Speed with Expert Cleanup Techniques – Unlock Performance Secrets at YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/decoding-history-key-factors-leading-to-the-end-of-chinas-qing-empire-analyzed-by-yl-software/"><u>Decoding History: Key Factors Leading to the End of China's Qing Empire - Analyzed by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-dj-techniques-in-pioneer-cdj-touch-3-mastering-the-search-functionality/"><u>Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exclusive-preview-anticipating-ios-18-updates-breakthrough-in-apple-artificial-intelligence-and-siris-next-generation-wwdc24-highlights-and-new-tech-innovat21/"><u>Exclusive Preview: Anticipating iOS 18 Updates, Breakthrough in Apple Artificial Intelligence, and Siri's Next Generation - WWDC24 Highlights & New Tech Innovations!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-influence-of-the-opium-conflict-on-chinese-heritage-with-yl-technology-solutions/"><u>Exploring the Influence of the Opium Conflict on Chinese Heritage with YL Technology Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-your-niche-a-guide-for-career-development-in-designing/"><u>Finding Your Niche A Guide for Career Development in Designing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-15-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-world-of-textual-wonder-traverse-these-top-10-sites-featuring-modern-font-designs/"><u>In 2024, A World of Textual Wonder Traverse These Top 10 Sites Featuring Modern Font Designs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-power-usage-unlocking-secrets-of-the-windows-10-battery-diagnostics-feature/"><u>Optimizing Power Usage: Unlocking Secrets of the Windows 10 Battery Diagnostics Feature</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-graphics-card-performance-tips-to-improve-frame-rate-lag-insights-by-yl-computing/"><u>Resolving Graphics Card Performance: Tips to Improve Frame Rate Lag - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-persistent-device-driver-problems-with-expertise-by-yl-computing-and-yl-software/"><u>Solving Persistent Device Driver Problems with Expertise by YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-techniques-resolving-issues-with-a-non-responsive-computer-mouse-insights-from-yl-computing/"><u>Troubleshooting Techniques: Resolving Issues with a Non-Responsive Computer Mouse - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unzip-made-easy-how-to-retrieve-individual-files-from-archives-in-windows-with-yl-software-solutions/"><u>Unzip Made Easy: How to Retrieve Individual Files From Archives in Windows with YL Software Solutions</u></a></li>
 </ul></div>
 
