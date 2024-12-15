@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2024-12-07T17:51:38.890Z
-updated: 2024-12-09T04:24:27.007Z
+date: 2024-12-09T06:53:58.468Z
+updated: 2024-12-14T20:42:28.677Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,18 +72,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-comprehensive-morphvox-modification-handbook/"><u>[New] In 2024, Comprehensive MorphVOX Modification Handbook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gif-revolution-free-transformation-of-tweets-to-gifs/"><u>[Updated] Gif Revolution Free Transformation of Tweets to GIFs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screen-savvy-taking-screenshots-on-windows/"><u>[Updated] In 2024, Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[Updated] In 2024, Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-routine-upkeep-tasks-for-your-pc-tips-and-tricks-from-yl-software/"><u>Essential Routine Upkeep Tasks for Your PC: Tips & Tricks From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-file-recovery-on-windows-how-to-restore-your-data-to-an-earlier-time-point-insights-from-yl-software-professionals/"><u>Exploring File Recovery on Windows: How to Restore Your Data to an Earlier Time Point - Insights From YL Software Professionals</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/high-definition-batman-backgrounds-and-walls-premium-4k-wallpaper-collection-by-yl-computing/"><u>High-Definition Batman Backgrounds & Walls - Premium 4K Wallpaper Collection by YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-x5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco X5 Devices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-fix-a-non-responsive-pc-steps-and-tips-expert-guidance-by-yl-tech-solutions/"><u>How to Fix a Non-Responsive PC: Steps & Tips - Expert Guidance by YL Tech Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/lyrx-karaoke-player-v141-update-released-free-downloads-now/"><u>LYRX Karaoke Player v1.4.1 Update Released - Free Downloads Now!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-the-issue-of-your-laptop-overheating-expert-advice-from-yl-computing/"><u>Solving the Issue of Your Laptop Overheating: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726224817706-dng-movavi/"><u>무게 없이 DNG 편집 - 오피스에 가장 나은 방법 : Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-making-an-impact-on-youtube-tips-on-banners-and-art-dimensions/"><u>[Updated] 2024 Approved Making an Impact on YouTube Tips on Banners and Art Dimensions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-steps-to-manage-user-accounts-create-and-delete-options-in-yl-computing-software/"><u>1. Steps to Manage User Accounts: Create and Delete Options in YL Computing Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-apex-producers-blending-photography-and-music/"><u>2024 Approved Apex Producers Blending Photography & Music</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1732516062135-yl-yl/"><u>永久性契约网格方案 - YL计算机的深入指导 | YL软件</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-optimal-ark-isle-of-carnage-speed-a-players-guide-to-fps-boosting-on-desktops/"><u>Achieving Optimal ARK: Isle of Carnage Speed: A Player's Guide to FPS Boosting on Desktops</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intel-nvme-device-drivers-fast-and-simple-installation-guide/"><u>Download Intel NVME Device Drivers: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssing-emotionally-using-emojis-for-yt-comments/"><u>Expressing Emotionally Using Emojis for YT Comments</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/get-your-hands-on-the-new-dex-beta-version-36-by-pcdj-is-ready-to-roll/"><u>Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investing-in-google-drive-my-experience-with-paid-storage-and-the-worth-of-my-decision/"><u>Investing in Google Drive: My Experience with Paid Storage and the Worth of My Decision</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how-for-2024/"><u>New Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/set-up-your-windows-xp-professional-videography-tool-for-2024/"><u>Set Up Your Windows XP Professional Videography Tool for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-garden-themed-hd-walls-and-hd-backgrounds-high-quality-imagery-collection-by-yl-computing/"><u>Stunning Garden Themed HD Walls & HD Backgrounds: High-Quality Imagery Collection by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-us-landscapes-for-inspiration-wallpaper-collection-from-yl-software/"><u>Stunning US Landscapes for Inspiration: Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-windows-display-problems-how-to-restore-correct-settings-with-help-from-yl-software/"><u>Troubleshooting Windows Display Problems: How to Restore Correct Settings with Help From YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-universal-triggers-for-graphics-card-issues-as-explained-by-yl-computing-and-yl-software-experts/"><u>Understanding the Universal Triggers for Graphics Card Issues as Explained by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unveiling-cryptocurrency-perks-a-comprehensive-guide-by-yl-software-experts/"><u>Unveiling Cryptocurrency Perks: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-software-explains-easily-change-to-different-languages-in-windows-11-user-interface/"><u>YL Software Explains: Easily Change to Different Languages in Windows 11 User Interface</u></a></li>
 </ul></div>
 

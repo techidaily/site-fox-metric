@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2024-12-08T01:58:00.567Z
-updated: 2024-12-08T22:18:14.331Z
+date: 2024-12-07T19:54:15.270Z
+updated: 2024-12-15T06:01:02.210Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,19 +73,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-youtubes-tagging-system-for-enhanced-visibility/"><u>[Updated] Leveraging YouTube's Tagging System for Enhanced Visibility</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-identifying-faulty-ram-a-step-by-step-guide-on-when-to-replace-insights-by-yl-computing/"><u>1. Identifying Faulty RAM: A Step-by-Step Guide on When To Replace - Insights by YL Computing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/a-brief-guide-to-kickstarting-conversations-on-instagram-for-2024/"><u>A Brief Guide to Kickstarting Conversations on Instagram for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-entering-the-virtual-realm-google-meet/"><u>In 2024, Entering the Virtual Realm Google Meet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-free-video-players-vlc-or-mpc-winner/"><u>In 2024, Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-remixing-tracks-essential-tips-for-every-djs-playlist-curation/"><u>Mastering the Art of Remixing Tracks - Essential Tips for Every DJ's Playlist Curation</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/neurotransmission-is-the-process-by-which-neurons-communicate-through-chemical-messengers-called-neurotransmitters-at-synapses/"><u>Neurotransmission Is the Process by Which Neurons Communicate Through Chemical Messengers Called Neurotransmitters at Synapses.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolving-scanner-error-messages-a-comprehensive-guide-troubleshooting-tips-by-yl-computing/"><u>Resolving Scanner Error Messages: A Comprehensive Guide - Troubleshooting Tips by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-turn-onoff-auto-update-feature-in-yl-software/"><u>Step-by-Step Guide: Turn On/Off Auto Update Feature in YL Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-5-best-screens-for-playstation-5-gamers/"><u>TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steam-solutions-for-a-sluggish-download-speed/"><u>Troubleshooting Steam: Solutions for a Sluggish Download Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-computings-ultimate-tutorial-on-installing-and-configuring-a-secure-crypto-wallet/"><u>YL Computing's Ultimate Tutorial on Installing and Configuring a Secure Crypto Wallet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>[New] 2024 Approved Quick-Convert Facebook Videos to MP4, Opting for HD Variants</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecoming-a-top-youtuber-with-gaming-livestreams/"><u>[New] Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-easy-steps-to-free-online-and-offline-animation/"><u>[Updated] In 2024, Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-guide-best-15-gopro-support-systems/"><u>[Updated] In 2024, Essential Guide Best 15 GoPro Support Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/el-salvadors-bitcoin-integration-paves-path-to-americas-singapore-insights-by-vaneck-advisor-and-yl-tech-solutions/"><u>El Salvador's Bitcoin Integration Paves Path to 'Americas Singapore': Insights by VanEck Advisor and YL Tech Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/essential-protection-strategies-safeguarding-your-computer-from-viruses-and-malware-tips-by-yl-software/"><u>Essential Protection Strategies: Safeguarding Your Computer From Viruses & Malware - Tips by YL Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-resolve-incorrect-scanner-software-installation-issues-tips-by-yl-computing/"><u>How to Resolve Incorrect Scanner Software Installation Issues - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-the-reasons-behind-your-pcs-memory-glitches-and-unexpected-shutdowns-insights-from-yl-computing-software/"><u>Identifying the Reasons Behind Your PC's Memory Glitches and Unexpected Shutdowns - Insights From YL Computing Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-music-videos-and-dj-mixes-free-mp3s-in-the-june-selection-dive-into-the-pool-of-audio/"><u>Latest Music Videos & DJ Mixes: Free MP3s in the June Selection - Dive Into the Pool of Audio!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/optimal-windows-file-sync-and-backup-techniques-explained-by-yl-software-experts/"><u>Optimal Windows File Sync and Backup Techniques Explained by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/reverting-your-pcs-configuration-a-step-by-step-guide-discover-how-with-yl-solutions/"><u>Reverting Your PC's Configuration: A Step-by-Step Guide - Discover How with YL Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-platforms-ranked-by-security-first/"><u>Social Platforms Ranked by Security First</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-adding-soundtracks-to-videos-without-costs-both-online-and-offline/"><u>Step-by-Step Guide: Adding Soundtracks to Videos without Costs, Both Online and Offline</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-rise-of-googles-gemini-and-its-battle-against-chatgpt/"><u>The Rise of Google's Gemini and Its Battle Against ChatGPT</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/there-are-many-neurotransmitters-with-specific-functions-including-glutamate-gaba-dopamine-serotonin-and-acetylcholine/"><u>There Are Many Neurotransmitters with Specific Functions, Including Glutamate, GABA, Dopamine, Serotonin, and Acetylcholine.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-multiple-digital-coins-insights-from-yl-softwares-analysis-on-crypto-types/"><u>Understanding Multiple Digital Coins: Insights From YL Software's Analysis on Crypto Types</u></a></li>
 </ul></div>
 

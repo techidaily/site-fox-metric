@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2024-12-05T00:21:33.352Z
-updated: 2024-12-08T18:19:13.727Z
+date: 2024-12-13T21:17:44.860Z
+updated: 2024-12-15T00:06:58.221Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[New] 2024 Approved Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-five-key-approaches-to-youtube-livestream-capture/"><u>[New] In 2024, Five Key Approaches to Youtube Livestream Capture</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-list-of-excellent-fb-cover-photo-creators-for-2024/"><u>[Updated] A Comprehensive List of Excellent FB Cover Photo Creators for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[Updated] Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-timely-team-setups-adjusting-backdrop-beforeafter-calls-for-2024/"><u>[Updated] Timely Team Setups Adjusting Backdrop Before/After Calls for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/assessing-potential-pitfalls-understanding-crypto-investment-dangers-with-yl-computing/"><u>Assessing Potential Pitfalls: Understanding Crypto-Investment Dangers with YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-key-applications-of-digital-currencies-an-insight-from-yl-computing/"><u>Exploring the Key Applications of Digital Currencies: An Insight From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-did-chairman-maos-leadership-shape-modern-china-insights-from-yl-computing-perspective/"><u>How Did Chairman Mao's Leadership Shape Modern China: Insights From YL Computing Perspective</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-fix-flashing-monitor-on-hp-notebooks-with-windows-11-solution-provided/"><u>How to Fix Flashing Monitor on HP Notebooks with Windows 11 - Solution Provided</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-archiving-files-on-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Archiving Files on Windows PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook-for-2024/"><u>Broadcast Brilliance How to Prevent Live Video Halts on Facebook for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/decoding-crypto-perks-unveiling-top-advantages-of-virtual-currencies-by-yl-software-solutions/"><u>Decoding Crypto Perks: Unveiling Top Advantages of Virtual Currencies by YL Software Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/djs-top-charting-tracks-for-2018-2019-revealed-by-pcdj-listening-analysis-the-ultimate-200-song-selection/"><u>DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/financing-your-business-with-blockchain-innovative-strategies-from-yl-computing-and-yl-software/"><u>Financing Your Business with Blockchain: Innovative Strategies From YL Computing and YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y71-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei Nova Y71 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/professional-apple-background-pixels-stunning-hd-imagery-for-your-desktop-and-devices-curated-by-yl-software/"><u>Professional Apple Background Pixels: Stunning HD Imagery for Your Desktop and Devices - Curated by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/setting-up-your-power-management-a-step-by-step-guide-tips-from-yl-computing/"><u>Setting Up Your Power Management: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-docs.techidaily.com/simple-steps-how-to-completely-remove-videos-from-your-iphone/"><u>Simple Steps: How to Completely Remove Videos From Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-secret-to-love-in-video-editing-filmoras-best-aspects-for-2024/"><u>The Secret to Love in Video Editing Filmora's Best Aspects for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-and-civ-6-a-guide-to-overcoming-game-launch-obstacles/"><u>Windows 11 and Civ 6: A Guide to Overcoming Game Launch Obstacles</u></a></li>
 </ul></div>
 

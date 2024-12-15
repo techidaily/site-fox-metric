@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2024-12-01T22:48:55.347Z
-updated: 2024-12-09T01:07:54.014Z
+date: 2024-12-08T21:55:38.160Z
+updated: 2024-12-15T03:25:18.760Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,14 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-access-the-journey-through-free-visual-resources/"><u>[Updated] 2024 Approved Mastering Access The Journey Through Free Visual Resources</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-words-in-motion-a-guide-to-lively-animation-methods/"><u>2024 Approved Words in Motion A Guide to Lively Animation Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-free-online-gif-creators-the-ultimate-list-of-top-tools-for-crafting-animation/"><u>Best Free Online GIF Creators: The Ultimate List of Top Tools for Crafting Animation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210476720-9781504074650-beyond-any-kind-of-god/"><u>Beyond Any Kind of God | Free Book</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/christian-grey-theme-backgrounds-and-digital-artwork-premium-collections-by-yl-computing/"><u>Christian Grey Theme Backgrounds & Digital Artwork - Premium Collections by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-techniques-to-boost-your-hard-drive-efficiency-according-to-yl-software-expertise/"><u>Effective Techniques to Boost Your Hard Drive Efficiency, According to YL Software Expertise</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solve-your-scanner-detection-issues-with-ease-a-comprehensive-guide-by-yl-software-professionals/"><u>Solve Your Scanner Detection Issues with Ease! A Comprehensive Guide by YL Software Professionals</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/which-windows-editions-come-with-pre-installed-windows-defender-protection-insights-by-yl-computing/"><u>Which Windows Editions Come with Pre-Installed Windows Defender Protection - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sonic-shifts-for-strategic-victories-in-free-fire/"><u>[New] 2024 Approved Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[New] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-cutting-edge-pro-audio-interfaces-compatible-with-modern-dj-software-shop-now/"><u>1. Cutting-Edge Pro Audio Interfaces Compatible with Modern DJ Software - Shop Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tactics-to-determine-igtv-viewership-success/"><u>2024 Approved Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note/"><u>Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/capturing-the-details-easy-guide-to-zooming-inout-on-iphones-or-ipads/"><u>Capturing the Details: Easy Guide to Zooming In/Out on iPhones or iPads</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recognizing-signs-how-to-identify-a-malfunctioning-computer-power-unit-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify a Malfunctioning Computer Power Unit - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-450-off-the-newest-m1-powered-512gb-macbook-pro-exclusive-offer-from-zdnet/"><u>Slash $450 Off the Newest M1 Powered 512GB MacBook Pro - Exclusive Offer From ZDNET!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728480253654-windows-7-8-10-11/"><u>Windows 7, 8, 10, 11のセーフモードで効果的なファイルバックアップ手順</u></a></li>
 </ul></div>
 

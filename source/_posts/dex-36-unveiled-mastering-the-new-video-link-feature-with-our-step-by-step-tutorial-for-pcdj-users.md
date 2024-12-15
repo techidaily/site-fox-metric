@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2024-12-02T18:02:41.193Z
-updated: 2024-12-08T22:38:08.693Z
+date: 2024-12-07T20:19:49.207Z
+updated: 2024-12-14T20:49:13.424Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,22 +57,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-15-pro-max-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 15 Pro Max iCloud Lock</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/achieve-personalized-elegance-modifying-window-shades-in-windows-with-guidance-from-yl-software-experts/"><u>Achieve Personalized Elegance: Modifying Window Shades in Windows with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/download-official-imovie-software-for-your-windows-pc-step-by-step-guide/"><u>Download Official iMovie Software for Your Windows PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95856044-9781620557143-effortless-living/"><u>Effortless Living | Free Book</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-scanning-experience-discover-the-new-software-upgrades-from-yl-computing/"><u>Enhance Your Scanning Experience: Discover the New Software Upgrades From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/express-more-with-emojis-how-to-use-gifs-in-your-comments-on-instagram/"><u>Express More with Emojis: How to Use GIFs in Your Comments on Instagram</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-trial-experience-the-ultimate-sing-along-fun-with-lyrx-karaoke-app-compatible-with-windows-pc/"><u>Free Trial: Experience the Ultimate Sing-Along Fun with LYRX Karaoke App - Compatible with Windows PC!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-resolve-incorrect-scanner-software-installation-issues-tips-by-yl-computing/"><u>How to Resolve Incorrect Scanner Software Installation Issues - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-the-reasons-behind-your-pcs-memory-glitches-and-unexpected-shutdowns-insights-from-yl-computing-software/"><u>Identifying the Reasons Behind Your PC's Memory Glitches and Unexpected Shutdowns - Insights From YL Computing Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>In 2024, The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-unleash-the-power-of-first-impressions-with-top-30-youtube-intra-craftsmen/"><u>In 2024, Unleash the Power of First Impressions with Top 30 YouTube Intra Craftsmen</u></a></li>
-<li><a href="https://fox-links.techidaily.com/mastering-temporal-and-spatial-shifts-in-filmmaking-for-2024/"><u>Mastering Temporal & Spatial Shifts in Filmmaking for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-10-essential-strategies-for-successful-instagram-reels/"><u>The 10 Essential Strategies for Successful Instagram Reels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-record-your-desktop-and-microphone-simultaneeously-on-windows-10/"><u>Ultimate Guide: How to Record Your Desktop and Microphone Simultaneeously on Windows 10</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-multiple-digital-coins-insights-from-yl-softwares-analysis-on-crypto-types/"><u>Understanding Multiple Digital Coins: Insights From YL Software's Analysis on Crypto Types</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlocking-parental-controls-in-windows-11-a-step-by-step-guide-yl-software/"><u>Unlocking Parental Controls in Windows 11: A Step-by-Step Guide - YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/upgrade-your-karaoke-experience-with-new-features-try-pcdj-karaoke-software-version-086368-public-beta-at-no-cost/"><u>Upgrade Your Karaoke Experience with New Features - Try PCDJ Karaoke Software Version 0.8.6368 Public Beta at No Cost!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-iphone-cams-with-these-hacks/"><u>[New] Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>[New] Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-the-world-of-youtube-titling-and-tagging/"><u>[Updated] 2024 Approved Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-innovative-strategies-for-amplifying-subscriber-numbers-via-channel-branding/"><u>2024 Approved Innovative Strategies for Amplifying Subscriber Numbers via Channel Branding</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/detecting-symptoms-of-gpu-overheating-insights-from-yl-computing-experts/"><u>Detecting Symptoms of GPU Overheating: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/disk-integrity-verification-a-step-by-step-guide-from-yl-computings-expert-team/"><u>Disk Integrity Verification: A Step-by-Step Guide From YL Computing's Expert Team</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-stunning-bmw-e90-hd-background-graphics-and-pictures-comprehensive-visual-library-from-yl-software-solutions/"><u>Download Stunning BMW E90 HD Background Graphics & Pictures | Comprehensive Visual Library From YL Software Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/effortless-captioning-of-instagram-story-and-video-content/"><u>Effortless Captioning of Instagram Story & Video Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-non-responsive-kodi-now-expert-advice-for-streamlined-performance/"><u>Fix Your Non-Responsive Kodi Now – Expert Advice for Streamlined Performance</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-troubleshoot-a-malfunctioning-sound-card-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning Sound Card: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-gopro-tips-shooting-underwater-video-with-gopro/"><u>In 2024, GoPro Tips Shooting Underwater Video with GoPro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-insight-discovering-6-realistic-examples/"><u>Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-the-management-of-apps-on-your-pc-a-step-by-step-guide-through-windows-control-panel-expert-tips-from-yl-computing/"><u>Navigating the Management of Apps on Your PC: A Step-by-Step Guide Through Windows Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-crypto-transactions-buy-sell-and-store-securely-with-yl-computings-guidance/"><u>Protect Your Crypto Transactions: Buy, Sell & Store Securely with YL Computing's Guidance</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-finding-and-configuring-your-network-preferences-via-windows-control-panel-yl-computing/"><u>Step-by-Step Guide: Finding & Configuring Your Network Preferences via Windows Control Panel - YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-must-have-bargains-this-cyber-monday-insights/"><u>Top 98 Must-Have Bargains This Cyber Monday - Insights</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-fixing-unusual-colors-in-your-scans-with-yl-software-solutions/"><u>Understanding and Fixing Unusual Colors in Your Scans with YL Software Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unveiling-the-consequences-the-aftermath-of-the-boxer-rebellion-insights-from-yl-tech/"><u>Unveiling the Consequences: The Aftermath of the Boxer Rebellion - Insights From YL Tech</u></a></li>
 </ul></div>
 

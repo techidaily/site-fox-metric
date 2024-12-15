@@ -1,7 +1,7 @@
 ---
 title: "Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality"
-date: 2024-12-07T02:57:44.897Z
-updated: 2024-12-09T04:23:21.653Z
+date: 2024-12-13T22:28:34.062Z
+updated: 2024-12-15T07:33:42.120Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,16 +55,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial/"><u>[New] From Standard Definition to High Dynamic Range - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-high-quality-youtube-recording-techniques/"><u>[Updated] High-Quality YouTube Recording Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-optimizing-footage-variety-in-your-video-production/"><u>[Updated] In 2024, Optimizing Footage Variety in Your Video Production</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-steps-to-manage-user-accounts-create-and-delete-options-in-yl-computing-software/"><u>1. Steps to Manage User Accounts: Create and Delete Options in YL Computing Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-5-sleep-enhancement-applications-for-your-apple-watch/"><u>Discover the Best 5 Sleep Enhancement Applications for Your Apple Watch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-business-operations-what-gaining-access-to-chatgpt-and-whisper-means-for-enterprise-success/"><u>Elevating Business Operations: What Gaining Access to ChatGPT and Whisper Means for Enterprise Success</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-techniques-for-smartphone-video-capture-for-2024/"><u>Essential Techniques for Smartphone Video Capture for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/repairing-mouse-issues-effective-techniques-provided-by-yl-software-experts/"><u>Repairing Mouse Issues: Effective Techniques Provided by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-solutions-when-your-graphic-card-wont-show-on-screen-techtalk-by-gfxpro/"><u>Troubleshooting: Solutions When Your Graphic Card Won't Show On Screen - TechTalk by GFXPro</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-guide-how-to-efficiently-clean-and-optimize-your-windows-registry-tips-and-tricks-from-yl-computing/"><u>Ultimate Guide: How to Efficiently Clean and Optimize Your Windows Registry - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-cryptocurrency-perks-a-comprehensive-guide-by-yl-software-experts/"><u>Unveiling Cryptocurrency Perks: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-achieving-excellent-illumination-on-youtube-videos/"><u>[New] 2024 Approved Achieving Excellent Illumination on YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-star-clusters-in-social-media-landscape/"><u>[Updated] Star Clusters in Social Media Landscape</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-listing-from-the-tail-reordering-videos-in-a-reverse-sequence/"><u>2024 Approved Listing From the Tail Reordering Videos in a Reverse Sequence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-armored-core-6-rubicon-issues-for-smooth-gaming-on-desktops/"><u>Comprehensive Guide to Fixing Armored Core 6 (Rubicon) Issues for Smooth Gaming on Desktops</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-the-latest-karaoke-program-pc-dj-version-085865-free-trial/"><u>Download the Latest Karaoke Program - PC DJ Version 0.8.5865 Free Trial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-how-to-enter-biosboot-on-windows-11-pcs/"><u>Easy Fixes: How to Enter BIOS/Boot on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-fortify-your-computer-against-malware-and-viruses-expert-advice-from-yl-software/"><u>How to Fortify Your Computer Against Malware and Viruses - Expert Advice From YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy M34 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g73-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G73 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-time-for-graphics-cards-to-get-more-expensive/"><u>Is It Time for Graphics Cards to Get More Expensive?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/personalizing-your-windows-10-start-menu-a-step-by-step-guide/"><u>Personalizing Your Windows 10 Start Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adjusting-your-firewall-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Firewall Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-guide-fixing-incorrect-printouts-yl-computings-expert-advice/"><u>Troubleshooting Guide: Fixing Incorrect Printouts - YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-the-secrets-of-crypto-trends-expert-techniques-in-technical-analysis-by-yl-software-solutions/"><u>Unlock the Secrets of Crypto Trends: Expert Techniques in Technical Analysis by YL Software Solutions</u></a></li>
 </ul></div>
 
