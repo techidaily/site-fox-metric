@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2024-12-13T21:17:44.860Z
-updated: 2024-12-15T00:06:58.221Z
+date: 2024-12-17T17:20:38.140Z
+updated: 2024-12-23T17:18:20.570Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook-for-2024/"><u>Broadcast Brilliance How to Prevent Live Video Halts on Facebook for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/decoding-crypto-perks-unveiling-top-advantages-of-virtual-currencies-by-yl-software-solutions/"><u>Decoding Crypto Perks: Unveiling Top Advantages of Virtual Currencies by YL Software Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/djs-top-charting-tracks-for-2018-2019-revealed-by-pcdj-listening-analysis-the-ultimate-200-song-selection/"><u>DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/financing-your-business-with-blockchain-innovative-strategies-from-yl-computing-and-yl-software/"><u>Financing Your Business with Blockchain: Innovative Strategies From YL Computing and YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y71-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei Nova Y71 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/professional-apple-background-pixels-stunning-hd-imagery-for-your-desktop-and-devices-curated-by-yl-software/"><u>Professional Apple Background Pixels: Stunning HD Imagery for Your Desktop and Devices - Curated by YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/setting-up-your-power-management-a-step-by-step-guide-tips-from-yl-computing/"><u>Setting Up Your Power Management: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://win-docs.techidaily.com/simple-steps-how-to-completely-remove-videos-from-your-iphone/"><u>Simple Steps: How to Completely Remove Videos From Your iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-secret-to-love-in-video-editing-filmoras-best-aspects-for-2024/"><u>The Secret to Love in Video Editing Filmora's Best Aspects for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/windows-11-and-civ-6-a-guide-to-overcoming-game-launch-obstacles/"><u>Windows 11 and Civ 6: A Guide to Overcoming Game Launch Obstacles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-80s-family-flick-the-vhs-edition-of-the-goofys-for-2024/"><u>[Updated] '80S Family Flick The VHS Edition of The Goofys for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-superior-routes-converting-pinners-videos-into-music-files/"><u>[Updated] 2024 Approved Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-guide-to-online-image-sharpening/"><u>Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/automotive-excellence-premium-car-spoilers-visuals-and-wallpaper-collections-from-yl-software/"><u>Automotive Excellence: Premium Car Spoilers Visuals and Wallpaper Collections From YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-the-latest-dj-software-dexonix-v31101-now-available/"><u>Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/easy-cross-platform-posting-tiktok-stories-on-facebook-for-2024/"><u>Easy Cross-Platform Posting TikTok Stories on Facebook for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-with-yl-computing/"><u>Identifying Your System's GPU - A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>In 2024, Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-crusader-kings-3-running-smoothly-without-interruptions-on-pc/"><u>Optimizing Performance: Crusader Kings 3 Running Smoothly without Interruptions on PC</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pioneer-friendly-controller-options-numarks-ndx500-dex-3-integration-and-compatible-dj-programming-tools/"><u>Pioneer-Friendly Controller Options - Numark's NDX500, DEX 3 Integration & Compatible DJ Programming Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solutions-when-your-pc-wont-recognize-the-scanner-drivers-insights-from-yl-computing/"><u>Solutions When Your PC Won't Recognize The Scanner Drivers - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-why-wont-my-printer-turn-on-insights-from-yl-computing-experts/"><u>Troubleshooting Steps: Why Won't My Printer Turn On? Insights From YL Computing Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-strategies-for-boosting-system-performance-by-yl-software-experts/"><u>Ultimate Strategies for Boosting System Performance by YL Software Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/win-11s-10-finest-webcams-for-high-quality-capture-for-2024/"><u>Win 11'S 10 Finest Webcams For High-Quality Capture for 2024</u></a></li>
 </ul></div>
 

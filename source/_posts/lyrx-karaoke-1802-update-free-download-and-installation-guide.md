@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2024-12-09T06:53:58.468Z
-updated: 2024-12-14T20:42:28.677Z
+date: 2024-12-21T17:48:48.772Z
+updated: 2024-12-23T17:53:41.510Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-making-an-impact-on-youtube-tips-on-banners-and-art-dimensions/"><u>[Updated] 2024 Approved Making an Impact on YouTube Tips on Banners and Art Dimensions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-steps-to-manage-user-accounts-create-and-delete-options-in-yl-computing-software/"><u>1. Steps to Manage User Accounts: Create and Delete Options in YL Computing Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-apex-producers-blending-photography-and-music/"><u>2024 Approved Apex Producers Blending Photography & Music</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1732516062135-yl-yl/"><u>永久性契约网格方案 - YL计算机的深入指导 | YL软件</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieving-optimal-ark-isle-of-carnage-speed-a-players-guide-to-fps-boosting-on-desktops/"><u>Achieving Optimal ARK: Isle of Carnage Speed: A Player's Guide to FPS Boosting on Desktops</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-intel-nvme-device-drivers-fast-and-simple-installation-guide/"><u>Download Intel NVME Device Drivers: Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssing-emotionally-using-emojis-for-yt-comments/"><u>Expressing Emotionally Using Emojis for YT Comments</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/get-your-hands-on-the-new-dex-beta-version-36-by-pcdj-is-ready-to-roll/"><u>Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/investing-in-google-drive-my-experience-with-paid-storage-and-the-worth-of-my-decision/"><u>Investing in Google Drive: My Experience with Paid Storage and the Worth of My Decision</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how-for-2024/"><u>New Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/set-up-your-windows-xp-professional-videography-tool-for-2024/"><u>Set Up Your Windows XP Professional Videography Tool for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/stunning-garden-themed-hd-walls-and-hd-backgrounds-high-quality-imagery-collection-by-yl-computing/"><u>Stunning Garden Themed HD Walls & HD Backgrounds: High-Quality Imagery Collection by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/stunning-us-landscapes-for-inspiration-wallpaper-collection-from-yl-software/"><u>Stunning US Landscapes for Inspiration: Wallpaper Collection From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-windows-display-problems-how-to-restore-correct-settings-with-help-from-yl-software/"><u>Troubleshooting Windows Display Problems: How to Restore Correct Settings with Help From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-universal-triggers-for-graphics-card-issues-as-explained-by-yl-computing-and-yl-software-experts/"><u>Understanding the Universal Triggers for Graphics Card Issues as Explained by YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-cryptocurrency-perks-a-comprehensive-guide-by-yl-software-experts/"><u>Unveiling Cryptocurrency Perks: A Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-software-explains-easily-change-to-different-languages-in-windows-11-user-interface/"><u>YL Software Explains: Easily Change to Different Languages in Windows 11 User Interface</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] 2024 Approved Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-tagging-101-for-better-engagement/"><u>[New] 2024 Approved YouTube Tagging 101 for Better Engagement</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-guide-to-superior-sound-on-cams/"><u>[New] In 2024, Ultimate Guide to Superior Sound on Cams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-building-brand-identity-with-instagram-video-content/"><u>[Updated] 2024 Approved Building Brand Identity with Instagram Video Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[Updated] In 2024, Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-driver-replacement-tips-for-computer-hardware-expert-advice-from-yl-computing/"><u>Effective Driver Replacement Tips for Computer Hardware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-remote-testing-how-to-use-apples-diagnostic-tools-on-your-iphone/"><u>Guide to Remote Testing: How to Use Apple's Diagnostic Tools on Your iPhone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/optimal-virus-security-software-guide-insights-and-recommendations-by-yl-software-experts/"><u>Optimal Virus Security Software Guide: Insights and Recommendations by YL Software Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-iphone-photography-top-app-picks-x-7/"><u>Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pseudounipolar-neurons-have-one-process-that-divides-into-two-branches-and-are-often-sensory-neurons/"><u>Pseudounipolar Neurons Have One Process that Divides Into Two Branches and Are Often Sensory Neurons.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/south-korea-protests-japans-fukushima-nuclear-discharge-oceans-ministry-confirms-safe-cesium-and-tritium-levels/"><u>South Korea Protests Japan's Fukushima Nuclear Discharge: Oceans Ministry Confirms Safe Cesium & Tritium Levels</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-using-windows-defender-to-perform-a-single-file-scan-tips-from-yl-computing/"><u>Step-by-Step Guide: Using Windows Defender to Perform a Single File Scan - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-depths-of-snapchats-my-ai-uncovering-the-top-6-surprising-benefits/"><u>The Hidden Depths of Snapchat's My AI: Uncovering the Top 6 Surprising Benefits</u></a></li>
 </ul></div>
 

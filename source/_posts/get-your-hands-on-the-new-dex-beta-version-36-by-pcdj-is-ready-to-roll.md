@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2024-12-07T19:54:15.270Z
-updated: 2024-12-15T06:01:02.210Z
+date: 2024-12-21T18:52:17.451Z
+updated: 2024-12-23T23:26:03.374Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>[New] 2024 Approved Quick-Convert Facebook Videos to MP4, Opting for HD Variants</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ecoming-a-top-youtuber-with-gaming-livestreams/"><u>[New] Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-easy-steps-to-free-online-and-offline-animation/"><u>[Updated] In 2024, Easy Steps to Free Online & Offline Animation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-guide-best-15-gopro-support-systems/"><u>[Updated] In 2024, Essential Guide Best 15 GoPro Support Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/el-salvadors-bitcoin-integration-paves-path-to-americas-singapore-insights-by-vaneck-advisor-and-yl-tech-solutions/"><u>El Salvador's Bitcoin Integration Paves Path to 'Americas Singapore': Insights by VanEck Advisor and YL Tech Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-protection-strategies-safeguarding-your-computer-from-viruses-and-malware-tips-by-yl-software/"><u>Essential Protection Strategies: Safeguarding Your Computer From Viruses & Malware - Tips by YL Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-resolve-incorrect-scanner-software-installation-issues-tips-by-yl-computing/"><u>How to Resolve Incorrect Scanner Software Installation Issues - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-the-reasons-behind-your-pcs-memory-glitches-and-unexpected-shutdowns-insights-from-yl-computing-software/"><u>Identifying the Reasons Behind Your PC's Memory Glitches and Unexpected Shutdowns - Insights From YL Computing Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/latest-music-videos-and-dj-mixes-free-mp3s-in-the-june-selection-dive-into-the-pool-of-audio/"><u>Latest Music Videos & DJ Mixes: Free MP3s in the June Selection - Dive Into the Pool of Audio!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimal-windows-file-sync-and-backup-techniques-explained-by-yl-software-experts/"><u>Optimal Windows File Sync and Backup Techniques Explained by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/reverting-your-pcs-configuration-a-step-by-step-guide-discover-how-with-yl-solutions/"><u>Reverting Your PC's Configuration: A Step-by-Step Guide - Discover How with YL Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-platforms-ranked-by-security-first/"><u>Social Platforms Ranked by Security First</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-adding-soundtracks-to-videos-without-costs-both-online-and-offline/"><u>Step-by-Step Guide: Adding Soundtracks to Videos without Costs, Both Online and Offline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-googles-gemini-and-its-battle-against-chatgpt/"><u>The Rise of Google's Gemini and Its Battle Against ChatGPT</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/there-are-many-neurotransmitters-with-specific-functions-including-glutamate-gaba-dopamine-serotonin-and-acetylcholine/"><u>There Are Many Neurotransmitters with Specific Functions, Including Glutamate, GABA, Dopamine, Serotonin, and Acetylcholine.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-multiple-digital-coins-insights-from-yl-softwares-analysis-on-crypto-types/"><u>Understanding Multiple Digital Coins: Insights From YL Software's Analysis on Crypto Types</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-streamlining-audio-integration-in-youtube-videos-for-professionals/"><u>[New] 2024 Approved Streamlining Audio Integration in YouTube Videos for Professionals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[New] 2024 Approved Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>[Updated] Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] In 2024, Optimizing Your Project B-Roll Utilization Tips</u></a></li>
+<li><a href="https://techidaily.com/advanced-techniques-to-boost-minecraft-performance-on-powerful-computers/"><u>Advanced Techniques to Boost Minecraft Performance on Powerful Computers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-lenovo-thinkpad-x1-nano-the-revolutionary-leap-in-ultra-thin-computing/"><u>Breaking Down the Lenovo ThinkPad X1 Nano - The Revolutionary Leap in Ultra-Thin Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-can-i-decrease-my-pcs-memory-consumption-tips-and-tricks-from-yl-computing/"><u>How Can I Decrease My PC's Memory Consumption? - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-refresh-your-graphics-drivers-a-step-by-step-guide-by-yl-computing/"><u>How to Refresh Your Graphics Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/locating-specific-settings-within-your-systems-control-panel-a-guide-by-yl-computing/"><u>Locating Specific Settings Within Your System's Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-common-reasons-behind-printer-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Printer Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-the-ai-tool-causing-website-bans/"><u>Understanding GPTBot: The AI Tool Causing Website Bans</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unveiling-the-significance-of-sun-yat-sens-revolutionary-ideals-in-modern-china-an-analysis-by-yl-computing-and-software-experts/"><u>Unveiling the Significance of Sun Yat-Sen’s Revolutionary Ideals in Modern China: An Analysis by YL Computing & Software Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166455-9780760390245-vampires/"><u>Vampires | Free Book</u></a></li>
 </ul></div>
 

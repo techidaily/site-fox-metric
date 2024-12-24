@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2024-12-10T01:47:21.526Z
-updated: 2024-12-15T01:55:14.738Z
+date: 2024-12-21T16:07:39.025Z
+updated: 2024-12-23T19:11:46.228Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] In 2024, Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-micro-business-video-advertising-insights-for-2024/"><u>[Updated] Micro-Business Video Advertising Insights for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/beginners-guide-to-using-uplighting-techniques-with-dj-brian-s-redd-on-pcdj/"><u>Beginner's Guide to Using UpLighting Techniques with DJ Brian S Redd on PCDJ</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-system-speed-a-guide-to-clearing-junk-files-and-reclaiming-disk-space-with-yl-software-expertise/"><u>Boost Your System Speed: A Guide to Clearing Junk Files and Reclaiming Disk Space with YL Software Expertise</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/customize-your-workspace-a-simple-way-to-update-your-computers-desktop-background-advice-by-yl-software/"><u>Customize Your Workspace: A Simple Way to Update Your Computer's Desktop Background - Advice by YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/discover-stunning-niki-shiina-designs-premium-images-and-wallpapers-curated-by-yl-software-enhance-your-digital-space-today/"><u>Discover Stunning Niki Shiina Designs: Premium Images and Wallpapers Curated by YL Software – Enhance Your Digital Space Today!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/false-positives-on-your-windows-defender-scans-expert-solutions-from-yl-computing-and-yl-software/"><u>False Positives on Your Windows Defender Scans? Expert Solutions From YL Computing and YL Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>In 2024, Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/new-party-anthems-await-dive-into-the-latest-karaoke-selection-from-party-times-october-2018-release/"><u>New Party Anthems Await! Dive Into the Latest Karaoke Selection From Party Time's October 2018 Release</u></a></li>
-<li><a href="https://facebook.techidaily.com/revamp-your-social-media-identity-with-a-new-birthday-fb/"><u>Revamp Your Social Media Identity with a New Birthday (FB)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/sas-software-updates-and-downloads-compatible-with-windows-10-8-or-e7-systems/"><u>SAS Software Updates & Downloads: Compatible with Windows 10, 8 or E7 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-focusrite-scarlett-18i20-compatible-windows-drivers-and-download-links/"><u>Update Your Focusrite Scarlett 18I20: Compatible Windows Drivers and Download Links</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/visual-verdict-clash-sj6-prodigy-versus-yis-4k-masterpiece/"><u>Visual Verdict Clash SJ6 Prodigy Versus Yi’s 4K Masterpiece</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-selections-high-capacity-cloud-options/"><u>[New] Superior Selections High-Capacity Cloud Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-posts-with-these-8-instagram-scheduling-apps/"><u>[Updated] Boost Your Posts with These 8 Instagram Scheduling Apps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-pre-upload-tiktoks-copyright-guidelines/"><u>[Updated] In 2024, Mastering Pre-Upload TikTok's Copyright Guidelines</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/captivating-hd-wallpapers-of-lush-forests-with-images-and-photos-premium-collection-by-yl-software/"><u>Captivating HD Wallpapers of Lush Forests with Images and Photos - Premium Collection by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-day-using-slack-reminder-features/"><u>Expert Tips for Organizing Your Day Using Slack Reminder Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-nova-y91-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei Nova Y91 Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/inside-look-at-cod-modern-warfare-updates-for-improved-first-person-shooter-action/"><u>Inside Look at COD: Modern Warfare Updates for Improved First Person Shooter Action</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-digital-assets-key-security-protocols-in-cryptocurrency-transactions-by-yl-software-professionals/"><u>Protect Your Digital Assets: Key Security Protocols in Cryptocurrency Transactions by YL Software Professionals</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-verifying-system-and-security-patches-with-yl-computing-tools/"><u>Step-by-Step Guide: Verifying System & Security Patches with YL Computing Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unveiling-the-birth-date-of-the-chinese-peoples-republic-with-expert-analysis-from-yl-software-solutions/"><u>Unveiling the Birth Date of the Chinese People’s Republic with Expert Analysis From YL Software Solutions</u></a></li>
 </ul></div>
 

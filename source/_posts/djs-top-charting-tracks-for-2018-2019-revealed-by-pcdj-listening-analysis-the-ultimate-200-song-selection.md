@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2024-12-08T21:55:38.160Z
-updated: 2024-12-15T03:25:18.760Z
+date: 2024-12-23T04:36:17.897Z
+updated: 2024-12-23T22:33:32.476Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sonic-shifts-for-strategic-victories-in-free-fire/"><u>[New] 2024 Approved Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[New] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-cutting-edge-pro-audio-interfaces-compatible-with-modern-dj-software-shop-now/"><u>1. Cutting-Edge Pro Audio Interfaces Compatible with Modern DJ Software - Shop Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tactics-to-determine-igtv-viewership-success/"><u>2024 Approved Tactics to Determine IGTV Viewership Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note/"><u>Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/capturing-the-details-easy-guide-to-zooming-inout-on-iphones-or-ipads/"><u>Capturing the Details: Easy Guide to Zooming In/Out on iPhones or iPads</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recognizing-signs-how-to-identify-a-malfunctioning-computer-power-unit-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify a Malfunctioning Computer Power Unit - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-450-off-the-newest-m1-powered-512gb-macbook-pro-exclusive-offer-from-zdnet/"><u>Slash $450 Off the Newest M1 Powered 512GB MacBook Pro - Exclusive Offer From ZDNET!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728480253654-windows-7-8-10-11/"><u>Windows 7, 8, 10, 11のセーフモードで効果的なファイルバックアップ手順</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tackle-intermittent-fb-reels-display/"><u>[Updated] 2024 Approved Tackle Intermittent FB Reels Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-understanding-diverse-flavors-in-windows-movie-maker/"><u>[Updated] In 2024, Understanding Diverse Flavors in Windows Movie Maker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>[Updated] The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-the-essentials-of-burst-in-action-shots/"><u>[Updated] Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/antminer-t21-bitmains-exciting-launch-and-shipment-schedule-for-january-2024-revealed-by-yl-computing-yl-software/"><u>Antminer T21: Bitmain's Exciting Launch & Shipment Schedule for January 2024 Revealed by YL Computing | YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boosting-system-speed-uninstalling-non-essential-programs-with-guidance-from-yl-software-experts/"><u>Boosting System Speed: Uninstalling Non-Essential Programs with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhance-your-karaoke-experience-by-integrating-personal-backgrounds-into-dex-3s-next-singers-function/"><u>Enhance Your Karaoke Experience by Integrating Personal Backgrounds Into DEX 3'S 'Next Singers' Function</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-list-of-websites-ease-up-on-youtube-videos-and-templates/"><u>Expert List of Websites Ease Up on Youtube Videos and Templates</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/high-definition-hydrating-droplets-professional-static-desktops-and-screensavers-by-yl-computing-complete-water-drops-wallpaper-collection/"><u>High-Definition Hydrating Droplets: Professional Static Desktops & Screensavers by YL Computing - Complete Water Drops Wallpaper Collection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-c33-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme C33 2023 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-70-lite-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 70 Lite 5G FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 3 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/revamp-your-login-options-effortlessly-using-yl-softwares-tutorial/"><u>Revamp Your Login Options Effortlessly Using YL Software's Tutorial</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/there-are-many-neurotransmitters-with-specific-functions-including-glutamate-gaba-dopamine-serotonin-and-acetylcholine/"><u>There Are Many Neurotransmitters with Specific Functions, Including Glutamate, GABA, Dopamine, Serotonin, and Acetylcholine.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-windows-defender-and-windows-security-in-windows-10-differences-explained-by-yl-computing/"><u>Understanding Windows Defender & Windows Security in Windows 10 - Differences Explained by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-softwares-expert-advice-how-to-resolve-scanner-problems-effectively/"><u>YL Software's Expert Advice: How to Resolve Scanner Problems Effectively</u></a></li>
 </ul></div>
 

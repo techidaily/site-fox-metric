@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2024-12-07T20:19:49.207Z
-updated: 2024-12-14T20:49:13.424Z
+date: 2024-12-18T20:33:29.192Z
+updated: 2024-12-24T02:04:55.404Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,24 +57,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-master-iphone-cams-with-these-hacks/"><u>[New] Master iPhone Cams with These Hacks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>[New] Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-the-world-of-youtube-titling-and-tagging/"><u>[Updated] 2024 Approved Navigating the World of YouTube Titling and Tagging</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-innovative-strategies-for-amplifying-subscriber-numbers-via-channel-branding/"><u>2024 Approved Innovative Strategies for Amplifying Subscriber Numbers via Channel Branding</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/detecting-symptoms-of-gpu-overheating-insights-from-yl-computing-experts/"><u>Detecting Symptoms of GPU Overheating: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/disk-integrity-verification-a-step-by-step-guide-from-yl-computings-expert-team/"><u>Disk Integrity Verification: A Step-by-Step Guide From YL Computing's Expert Team</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-stunning-bmw-e90-hd-background-graphics-and-pictures-comprehensive-visual-library-from-yl-software-solutions/"><u>Download Stunning BMW E90 HD Background Graphics & Pictures | Comprehensive Visual Library From YL Software Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/effortless-captioning-of-instagram-story-and-video-content/"><u>Effortless Captioning of Instagram Story & Video Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-non-responsive-kodi-now-expert-advice-for-streamlined-performance/"><u>Fix Your Non-Responsive Kodi Now – Expert Advice for Streamlined Performance</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-troubleshoot-a-malfunctioning-sound-card-expert-advice-from-yl-computing/"><u>How to Troubleshoot a Malfunctioning Sound Card: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-gopro-tips-shooting-underwater-video-with-gopro/"><u>In 2024, GoPro Tips Shooting Underwater Video with GoPro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-insight-discovering-6-realistic-examples/"><u>Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-the-management-of-apps-on-your-pc-a-step-by-step-guide-through-windows-control-panel-expert-tips-from-yl-computing/"><u>Navigating the Management of Apps on Your PC: A Step-by-Step Guide Through Windows Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-crypto-transactions-buy-sell-and-store-securely-with-yl-computings-guidance/"><u>Protect Your Crypto Transactions: Buy, Sell & Store Securely with YL Computing's Guidance</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-finding-and-configuring-your-network-preferences-via-windows-control-panel-yl-computing/"><u>Step-by-Step Guide: Finding & Configuring Your Network Preferences via Windows Control Panel - YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-98-must-have-bargains-this-cyber-monday-insights/"><u>Top 98 Must-Have Bargains This Cyber Monday - Insights</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-fixing-unusual-colors-in-your-scans-with-yl-software-solutions/"><u>Understanding and Fixing Unusual Colors in Your Scans with YL Software Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-consequences-the-aftermath-of-the-boxer-rebellion-insights-from-yl-tech/"><u>Unveiling the Consequences: The Aftermath of the Boxer Rebellion - Insights From YL Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>[Updated] Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech-for-2024/"><u>[Updated] Screen Capture Clarity with iRecorder Tech for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-elevating-your-content-with-featured-channels-on-youtube-for-2024/"><u>[Updated] Strategies for Elevating Your Content with Featured Channels on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-recommendations-elite-ios-audio-makers/"><u>[Updated] Superior Recommendations Elite iOS Audio Makers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-google-docs-speech-to-text-a-complete-guidebook/"><u>2024 Approved Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adjusting-your-keyboard-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Your Keyboard Configuration - A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-handle-a-failed-windows-update-expert-advice-from-yl-computing/"><u>How to Handle a Failed Windows Update: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/impact-of-mongol-empires-establishment-on-chinese-society-insights-by-yl-computing/"><u>Impact of Mongol Empire's Establishment on Chinese Society: Insights by YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-tracking-movement-on-your-smartphone-or-tablet/"><u>In 2024, Best Apps for Tracking Movement on Your Smartphone or Tablet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-choice-avi-player-with-multiplatform-support/"><u>In 2024, Best Choice Avi Player with Multiplatform Support</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/securing-your-data-with-effective-backups-insights-by-yl-software/"><u>Securing Your Data with Effective Backups - Insights by YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simple-setup-winning-the-art-of-fishy-voice-transformation/"><u>Simple Setup Winning the Art of Fishy Voice Transformation</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-crafting-attractive-visual-landing-pages-using-massmail-platform/"><u>Step-by-Step Guide: Crafting Attractive Visual Landing Pages Using MassMail Platform</u></a></li>
 </ul></div>
 
