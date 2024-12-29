@@ -1,7 +1,7 @@
 ---
 title: "Latest PCDJ Update Unveiled: Discover Features of DEX 3.2 Demo for Aspiring DJs"
-date: 2024-12-20T20:12:00.726Z
-updated: 2024-12-24T06:07:00.948Z
+date: 2024-12-25T22:34:31.575Z
+updated: 2024-12-29T18:46:26.250Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Here’s an overview of what is already set to launch in DEX 3.2, although we ma
 As always, we’ll email DEX 3 customers when the update has been published for download. Keep checking the blog for addition information and tutorials regarding new features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,18 +59,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/12/dex32-blogcoverimage-templ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>[Updated] How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-angles-strategic-composition-tips-for-iphone-photography-for-2024/"><u>[Updated] Unveiling Angles Strategic Composition Tips for iPhone Photography for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads-for-2024/"><u>Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/best-tools-and-applications-to-accelerate-your-computers-performance-recommendations-from-yl-computing/"><u>Best Tools & Applications to Accelerate Your Computer's Performance - Recommendations From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-profits-and-fun-with-top-ranking-trivia-party-apps-discover-how/"><u>Boost Your Profits & Fun with Top-Ranking Trivia Party Apps - Discover How!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/disk-integrity-verification-a-step-by-step-guide-from-yl-computings-expert-team/"><u>Disk Integrity Verification: A Step-by-Step Guide From YL Computing's Expert Team</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-stunning-bmw-e90-hd-background-graphics-and-pictures-comprehensive-visual-library-from-yl-software-solutions/"><u>Download Stunning BMW E90 HD Background Graphics & Pictures | Comprehensive Visual Library From YL Software Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-easy-guide-to-youtube-to-avi-conversion-technology-for-2024/"><u>The Easy Guide to YouTube-to-AVI Conversion Technology for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-privacy-filter-concealing-visual-details-in-media-for-2024/"><u>The Privacy Filter Concealing Visual Details in Media for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/toppest-ios-video-capture-aids-for-2024/"><u>Toppest iOS Video Capture Aids for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-fixing-unusual-colors-in-your-scans-with-yl-software-solutions/"><u>Understanding and Fixing Unusual Colors in Your Scans with YL Software Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-consequences-the-aftermath-of-the-boxer-rebellion-insights-from-yl-tech/"><u>Unveiling the Consequences: The Aftermath of the Boxer Rebellion - Insights From YL Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-10-keyboard-responsiveness-problems/"><u>Winning the Battle Against Windows 10 Keyboard Responsiveness Problems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/esolved-shorts-display-issue-on-youtube/"><u>[New] Resolved Shorts Display Issue on YouTube</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-beginners-guide-to-crypto-investment-essential-steps-and-tips-by-yl-computing/"><u>1. Beginner's Guide to Crypto Investment: Essential Steps & Tips by YL Computing</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728506936713-usb2/"><u>簡単ガイド：USBメモリに保存されている失われた動画の素早い回復方法2つ</u></a></li>
+<li><a href="https://extra-information.techidaily.com/begin-a-new-era-of-editing-with-xps-video-suite-for-2024/"><u>Begin a New Era of Editing with Xp's Video Suite for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/can-your-graphic-cards-performance-limit-game-compatibility-insights-from-yl-computing/"><u>Can Your Graphic Card's Performance Limit Game Compatibility? - Insights From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-android-device-communication-issues-expert-tips/"><u>Diagnosing and Repairing Android Device Communication Issues - Expert Tips</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/djs-top-charting-tracks-for-2018-2019-revealed-by-pcdj-listening-analysis-the-ultimate-200-song-selection/"><u>DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dynamic-wallpaper-change-the-editors-companion-list-for-2024/"><u>Dynamic Wallpaper Change The Editor's Companion List for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-shielding-your-system-from-malware-insights-by-yl-computing/"><u>Effective Strategies for Shielding Your System From Malware: Insights by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhancing-image-clarity-resolve-your-scanners-subpar-output-with-tips-from-yl-software-experts/"><u>Enhancing Image Clarity: Resolve Your Scanner's Subpar Output with Tips From YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-incompatible-fingerprint-error-on-windows-os/"><u>Fixing Incompatible Fingerprint Error on Windows OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-oppo-f25-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-ultimate-mini-portable-charger-power-up-your-laptops-tablets-and-phones-with-ease-zdnet-review/"><u>Introducing the Ultimate Mini Portable Charger: Power up Your Laptops, Tablets & Phones with Ease - ZDNet Review</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/luscious-fruits-in-stunning-detail-exclusive-collection-of-hd-backgrounds-and-wallpaper-images-from-yl-creations/"><u>Luscious Fruits in Stunning Detail: Exclusive Collection of HD Backgrounds and Wallpaper Images From YL Creations</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/renaming-files-with-ease-mastery-guide-on-windows-learn-from-experts-at-yl-computing/"><u>Renaming Files with Ease: Mastery Guide on Windows - Learn From Experts at YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-graphic-drivers-gone-wrong-a-guide-to-troubleshooting-computer-displays-techwise-solutions/"><u>Solving Graphic Drivers Gone Wrong: A Guide to Troubleshooting Computer Displays - TechWise Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/solving-pc-scavenger-game-crashes-a-comprehensive-guide/"><u>Solving PC Scavenger Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-incompatibility-how-to-resolve-your-scanners-os-conflicts-expertise-from-yl-computing/"><u>Troubleshooting Incompatibility: How to Resolve Your Scanner's OS Conflicts - Expertise From YL Computing</u></a></li>
 </ul></div>
 

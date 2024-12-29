@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2024-12-18T20:33:29.192Z
-updated: 2024-12-24T02:04:55.404Z
+date: 2024-12-22T18:19:03.464Z
+updated: 2024-12-29T22:26:21.277Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,18 +57,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>[Updated] Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech-for-2024/"><u>[Updated] Screen Capture Clarity with iRecorder Tech for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-elevating-your-content-with-featured-channels-on-youtube-for-2024/"><u>[Updated] Strategies for Elevating Your Content with Featured Channels on YouTube for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-superior-recommendations-elite-ios-audio-makers/"><u>[Updated] Superior Recommendations Elite iOS Audio Makers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-google-docs-speech-to-text-a-complete-guidebook/"><u>2024 Approved Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adjusting-your-keyboard-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Your Keyboard Configuration - A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-handle-a-failed-windows-update-expert-advice-from-yl-computing/"><u>How to Handle a Failed Windows Update: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/impact-of-mongol-empires-establishment-on-chinese-society-insights-by-yl-computing/"><u>Impact of Mongol Empire's Establishment on Chinese Society: Insights by YL Computing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-tracking-movement-on-your-smartphone-or-tablet/"><u>In 2024, Best Apps for Tracking Movement on Your Smartphone or Tablet</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-best-choice-avi-player-with-multiplatform-support/"><u>In 2024, Best Choice Avi Player with Multiplatform Support</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/securing-your-data-with-effective-backups-insights-by-yl-software/"><u>Securing Your Data with Effective Backups - Insights by YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simple-setup-winning-the-art-of-fishy-voice-transformation/"><u>Simple Setup Winning the Art of Fishy Voice Transformation</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-crafting-attractive-visual-landing-pages-using-massmail-platform/"><u>Step-by-Step Guide: Crafting Attractive Visual Landing Pages Using MassMail Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-amplifying-audio-and-visual-quality-in-your-youtube-videos-for-2024/"><u>[Updated] Amplifying Audio and Visual Quality in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-picks-top-10-shaky-free-cameras-for-action/"><u>[Updated] Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-power-of-spotless-image-resources/"><u>2024 Approved Harnessing the Power of Spotless Image Resources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-game-streams-through-ai-facial-recognition/"><u>2024 Approved Optimizing Game Streams Through AI Facial Recognition</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-edge-40-neo-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-capturing-desktop-footage-tips-and-tricks-with-movavi-software/"><u>Mastering the Art of Capturing Desktop Footage - Tips & Tricks with Movavi Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recognizing-signs-how-to-identify-a-malfunctioning-computer-power-unit-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify a Malfunctioning Computer Power Unit - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-cellphone-promotions-and-discounts-for-independence-day-insights-from-zdnet/"><u>Top Cellphone Promotions & Discounts for Independence Day - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
 </ul></div>
 

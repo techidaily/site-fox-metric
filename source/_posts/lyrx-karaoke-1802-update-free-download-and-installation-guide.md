@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2024-12-21T17:48:48.772Z
-updated: 2024-12-23T17:53:41.510Z
+date: 2024-12-25T17:21:21.805Z
+updated: 2024-12-29T16:27:34.437Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,18 +72,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] 2024 Approved Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-tagging-101-for-better-engagement/"><u>[New] 2024 Approved YouTube Tagging 101 for Better Engagement</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-guide-to-superior-sound-on-cams/"><u>[New] In 2024, Ultimate Guide to Superior Sound on Cams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-building-brand-identity-with-instagram-video-content/"><u>[Updated] 2024 Approved Building Brand Identity with Instagram Video Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[Updated] In 2024, Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-driver-replacement-tips-for-computer-hardware-expert-advice-from-yl-computing/"><u>Effective Driver Replacement Tips for Computer Hardware - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-remote-testing-how-to-use-apples-diagnostic-tools-on-your-iphone/"><u>Guide to Remote Testing: How to Use Apple's Diagnostic Tools on Your iPhone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimal-virus-security-software-guide-insights-and-recommendations-by-yl-software-experts/"><u>Optimal Virus Security Software Guide: Insights and Recommendations by YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-iphone-photography-top-app-picks-x-7/"><u>Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pseudounipolar-neurons-have-one-process-that-divides-into-two-branches-and-are-often-sensory-neurons/"><u>Pseudounipolar Neurons Have One Process that Divides Into Two Branches and Are Often Sensory Neurons.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/south-korea-protests-japans-fukushima-nuclear-discharge-oceans-ministry-confirms-safe-cesium-and-tritium-levels/"><u>South Korea Protests Japan's Fukushima Nuclear Discharge: Oceans Ministry Confirms Safe Cesium & Tritium Levels</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-using-windows-defender-to-perform-a-single-file-scan-tips-from-yl-computing/"><u>Step-by-Step Guide: Using Windows Defender to Perform a Single File Scan - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-depths-of-snapchats-my-ai-uncovering-the-top-6-surprising-benefits/"><u>The Hidden Depths of Snapchat's My AI: Uncovering the Top 6 Surprising Benefits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-time-lapse-magic-capturing-moments-with-an-ipad/"><u>[New] In 2024, Time-Lapse Magic Capturing Moments with an iPad</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-techniques-for-adjusting-tempo-of-tracks-in-spotify-for-2024/"><u>[New] Superior Techniques for Adjusting Tempo of Tracks in Spotify for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-zooming-skills-for-clearer-google-meets-for-2024/"><u>[Updated] Essential Zooming Skills for Clearer Google Meets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-rewind-a-twitch-live-stream-for-2024/"><u>[Updated] How to Rewind A Twitch Live Stream for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adjusting-your-keyboard-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Your Keyboard Configuration - A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/do-electric-vehicles-hold-their-own-against-conventional-car-lifespans/"><u>Do Electric Vehicles Hold Their Own Against Conventional Car Lifespans?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hold-on-tight-master-the-right-way-to-carry-iphone-and-airpods-according-to-experts/"><u>Hold On Tight: Master the Right Way to Carry iPhone and AirPods According to Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-handle-a-failed-windows-update-expert-advice-from-yl-computing/"><u>How to Handle a Failed Windows Update: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/impact-of-mongol-empires-establishment-on-chinese-society-insights-by-yl-computing/"><u>Impact of Mongol Empire's Establishment on Chinese Society: Insights by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-diverse-flavors-in-windows-movie-maker/"><u>In 2024, Understanding Diverse Flavors in Windows Movie Maker</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-your-soundscape-adjusting-audio-configurations-using-yl-software-solutions/"><u>Master Your Soundscape: Adjusting Audio Configurations Using YL Software Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/securing-your-data-with-effective-backups-insights-by-yl-software/"><u>Securing Your Data with Effective Backups - Insights by YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-applications-for-image-driven-video-creation/"><u>Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211236418-9798989828623-the-art-of-mindkeeping/"><u>The Art of Mindkeeping | Free Book</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unraveling-the-mystery-identifying-causes-of-sudden-graphics-problems-in-microsoft-windows-guidance-by-yl-software-experts/"><u>Unraveling the Mystery: Identifying Causes of Sudden Graphics Problems in Microsoft Windows – Guidance by YL Software Experts</u></a></li>
 </ul></div>
 

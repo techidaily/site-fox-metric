@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2024-12-21T16:07:39.025Z
-updated: 2024-12-23T19:11:46.228Z
+date: 2024-12-22T20:30:20.787Z
+updated: 2024-12-29T18:21:43.532Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-superior-selections-high-capacity-cloud-options/"><u>[New] Superior Selections High-Capacity Cloud Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-posts-with-these-8-instagram-scheduling-apps/"><u>[Updated] Boost Your Posts with These 8 Instagram Scheduling Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-pre-upload-tiktoks-copyright-guidelines/"><u>[Updated] In 2024, Mastering Pre-Upload TikTok's Copyright Guidelines</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/captivating-hd-wallpapers-of-lush-forests-with-images-and-photos-premium-collection-by-yl-software/"><u>Captivating HD Wallpapers of Lush Forests with Images and Photos - Premium Collection by YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-day-using-slack-reminder-features/"><u>Expert Tips for Organizing Your Day Using Slack Reminder Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-nova-y91-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei Nova Y91 Lock Screen Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/inside-look-at-cod-modern-warfare-updates-for-improved-first-person-shooter-action/"><u>Inside Look at COD: Modern Warfare Updates for Improved First Person Shooter Action</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-assets-key-security-protocols-in-cryptocurrency-transactions-by-yl-software-professionals/"><u>Protect Your Digital Assets: Key Security Protocols in Cryptocurrency Transactions by YL Software Professionals</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-verifying-system-and-security-patches-with-yl-computing-tools/"><u>Step-by-Step Guide: Verifying System & Security Patches with YL Computing Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-birth-date-of-the-chinese-peoples-republic-with-expert-analysis-from-yl-software-solutions/"><u>Unveiling the Birth Date of the Chinese People’s Republic with Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-lg-monitor-driver-issues-on-windows-10-7-81/"><u>[Solved] LG Monitor Driver Issues on Windows 10, 7, 8.1</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[Updated] From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-your-netflix-video-flow-pc-and-mobile/"><u>[Updated] How to Control Your Netflix Video Flow PC & Mobile</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/assessing-your-video-card-condition-expert-strategies-from-yl-software-specialists/"><u>Assessing Your Video Card Condition - Expert Strategies From YL Software Specialists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-epic-moments-three-techniques-for-recording-wild-hearts-gaming-sessions-on-your-pc/"><u>Capturing Epic Moments: Three Techniques for Recording Wild Hearts Gaming Sessions on Your PC</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-right-ram-for-your-pc-a-comprehensive-guide-yl-tech-solutions/"><u>Discover the Right RAM for Your PC: A Comprehensive Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-level-control-surfaces-for-pcdj-enthusiasts-top-options-to-elevate-your-mixing-skills/"><u>Expert-Level Control Surfaces for PCDJ Enthusiasts: Top Options to Elevate Your Mixing Skills</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-can-you-confirm-memory-failure-in-ram-modules-expert-tips-from-yl-computings-tech-team/"><u>How Can You Confirm Memory Failure in RAM Modules? – Expert Tips From YL Computing's Tech Team</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-10t-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 10T 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 6</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-crypto-acquisition-with-ease-expert-insights-from-yl-software/"><u>Navigating Crypto Acquisition with Ease - Expert Insights From YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-digital-roadblocks-decoding-the-page-not-found-message/"><u>Navigating Digital Roadblocks: Decoding the 'Page Not Found' Message</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-video-card-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Video Card Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-to-install-or-uninstall-programs-via-control-panel-by-yl-computing-expertise/"><u>Step-by-Step Guide to Install or Uninstall Programs via Control Panel by YL Computing Expertise</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-creating-a-new-text-file-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Creating a New Text File on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-free-video-editors-to-replace-windows-movie-maker-in-windows-10-and-11/"><u>Top 7 Free Video Editors to Replace Windows Movie Maker in Windows 10 and 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-android-and-iphone-video-creators-best-music-integrated-options/"><u>Updated In 2024, Android and iPhone Video Creators Best Music-Integrated Options</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-softwares-expert-tips-for-fixing-a-non-responsive-computer-startup-issue/"><u>YL Software's Expert Tips for Fixing a Non-Responsive Computer Startup Issue</u></a></li>
 </ul></div>
 

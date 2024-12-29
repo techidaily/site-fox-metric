@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!"
-date: 2024-12-16T20:37:00.719Z
-updated: 2024-12-24T06:42:06.522Z
+date: 2024-12-27T16:12:23.185Z
+updated: 2024-12-29T20:49:41.257Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ _**Note:** A DEX 3 update that will include new features will be posted for down
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.2
@@ -56,7 +56,7 @@ _**DEX 3.11.0.2 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our the latest update to our DEX 3 **DJ Software**, or the included support for the **Pioneer DDJ-SX3 DJ Controller**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,17 +78,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/dex31102-update.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>[Updated] In 2024, Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-techniques-sending-tweets-as-videos-to-whatsapp/"><u>2023 Techniques Sending Tweets as Videos to WhatsApp</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-fast-track-to-find-insta-follower-lapses/"><u>2024 Approved The Fast Track to Find Insta Follower Lapses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-revolutionizes-tv-viewing-with-surreal-immersive-shows-that-test-endurance-zdnet-insights/"><u>Apple Vision Pro Revolutionizes TV Viewing with Surreal, Immersive Shows That Test Endurance | ZDNET Insights</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/captivating-hd-wallpapers-of-lush-forests-with-images-and-photos-premium-collection-by-yl-software/"><u>Captivating HD Wallpapers of Lush Forests with Images and Photos - Premium Collection by YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancing-beatmatching-skills-the-impact-of-key-detection-feature-in-pcdj-dex-355/"><u>Enhancing Beatmatching Skills: The Impact of Key Detection Feature in PCDJ DEX 3.5.5</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-pulse-picking-playbacks-character-beats-unveiled/"><u>In 2024, Pulse-Picking Playbacks Character Beats Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-12-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi 12 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-assets-key-security-protocols-in-cryptocurrency-transactions-by-yl-software-professionals/"><u>Protect Your Digital Assets: Key Security Protocols in Cryptocurrency Transactions by YL Software Professionals</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-verifying-system-and-security-patches-with-yl-computing-tools/"><u>Step-by-Step Guide: Verifying System & Security Patches with YL Computing Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-birth-date-of-the-chinese-peoples-republic-with-expert-analysis-from-yl-software-solutions/"><u>Unveiling the Birth Date of the Chinese People’s Republic with Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-channel-your-inner-metaverse-wit/"><u>[New] 2024 Approved How to Channel Your Inner Metaverse Wit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-profitability-on-youtube-shorts-fundamentals-and-future-earnings/"><u>[New] Secrets to Profitability on YouTube Shorts Fundamentals & Future Earnings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-10-royale-showdowns/"><u>[Updated] 2024 Approved Ultimate 10 Royale Showdowns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-customization-for-youtube-shorts-thumbnails/"><u>[Updated] Master the Art of Customization for YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-reno-10-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo Reno 10 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/error-404-missing-webpage-alert/"><u>Error 404: Missing Webpage Alert</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-the-reasons-behind-your-pcs-sudden-crashes-expert-advice-from-yl-computing/"><u>Identifying the Reasons Behind Your PC's Sudden Crashes: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/maximizing-pc-efficiency-in-depth-guide-to-optimal-system-memory-configuration-by-yl-software-professionals/"><u>Maximizing PC Efficiency: In-Depth Guide to Optimal System Memory Configuration by YL Software Professionals</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/premium-football-visuals-collection-crisp-hd-graphics-for-your-display-curated-by-yl-software-solutions/"><u>Premium Football Visuals Collection - Crisp HD Graphics for Your Display, Curated by YL Software Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/set-the-date-as-index-for-resampling/"><u>Set the Date as Index for Resampling</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-issues-with-onikuma-headset-microphone/"><u>Solved: Fixing Issues with Onikuma Headset Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-leap-in-ai-musks-secret-project/"><u>The Next Leap in AI: Musk’s Secret Project</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-culprits-behind-memory-failures-key-hardware-factors-explained-by-yl-computing/"><u>Understanding the Culprits Behind Memory Failures: Key Hardware Factors Explained by YL Computing</u></a></li>
 </ul></div>
 

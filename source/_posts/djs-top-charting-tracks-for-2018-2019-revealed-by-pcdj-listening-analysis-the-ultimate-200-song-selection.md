@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2024-12-23T04:36:17.897Z
-updated: 2024-12-23T22:33:32.476Z
+date: 2024-12-24T19:11:52.374Z
+updated: 2024-12-29T16:43:44.119Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,22 +58,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tackle-intermittent-fb-reels-display/"><u>[Updated] 2024 Approved Tackle Intermittent FB Reels Display</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-understanding-diverse-flavors-in-windows-movie-maker/"><u>[Updated] In 2024, Understanding Diverse Flavors in Windows Movie Maker</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>[Updated] The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-essentials-of-burst-in-action-shots/"><u>[Updated] Understanding the Essentials of Burst in Action Shots</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/antminer-t21-bitmains-exciting-launch-and-shipment-schedule-for-january-2024-revealed-by-yl-computing-yl-software/"><u>Antminer T21: Bitmain's Exciting Launch & Shipment Schedule for January 2024 Revealed by YL Computing | YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boosting-system-speed-uninstalling-non-essential-programs-with-guidance-from-yl-software-experts/"><u>Boosting System Speed: Uninstalling Non-Essential Programs with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-karaoke-experience-by-integrating-personal-backgrounds-into-dex-3s-next-singers-function/"><u>Enhance Your Karaoke Experience by Integrating Personal Backgrounds Into DEX 3'S 'Next Singers' Function</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/expert-list-of-websites-ease-up-on-youtube-videos-and-templates/"><u>Expert List of Websites Ease Up on Youtube Videos and Templates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/high-definition-hydrating-droplets-professional-static-desktops-and-screensavers-by-yl-computing-complete-water-drops-wallpaper-collection/"><u>High-Definition Hydrating Droplets: Professional Static Desktops & Screensavers by YL Computing - Complete Water Drops Wallpaper Collection</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-c33-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme C33 2023 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-70-lite-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 70 Lite 5G FRP Locks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 3 Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/revamp-your-login-options-effortlessly-using-yl-softwares-tutorial/"><u>Revamp Your Login Options Effortlessly Using YL Software's Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/there-are-many-neurotransmitters-with-specific-functions-including-glutamate-gaba-dopamine-serotonin-and-acetylcholine/"><u>There Are Many Neurotransmitters with Specific Functions, Including Glutamate, GABA, Dopamine, Serotonin, and Acetylcholine.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-windows-defender-and-windows-security-in-windows-10-differences-explained-by-yl-computing/"><u>Understanding Windows Defender & Windows Security in Windows 10 - Differences Explained by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-softwares-expert-advice-how-to-resolve-scanner-problems-effectively/"><u>YL Software's Expert Advice: How to Resolve Scanner Problems Effectively</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-access-facebooks-just-watched-video-list/"><u>[New] 2024 Approved How To Access Facebook’s Just-Watched Video List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-tricks-for-swift-vimeo-watch/"><u>[New] 2024 Approved Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dive-deep-into-single-platform-livestreaming-with-onestream/"><u>[Updated] 2024 Approved Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/beginners-guide-steps-to-purchase-your-first-cryptocurrency-a-tutorial-by-yl-computing/"><u>Beginner's Guide: Steps to Purchase Your First Cryptocurrency - A Tutorial by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-compatible-drivers-for-your-epson-scanner/"><u>Free Downloads: Compatible Drivers for Your Epson Scanner</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-correcting-windows-11-non-paged-area-page-fault-failures/"><u>Guide: Correcting Windows 11 'Non-Paged Area' Page Fault Failures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia C12 Plus</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-mixing-the-advantages-of-using-dj-equipment-dex-3-with-pioneer-cdjs/"><u>Mastering Mixing: The Advantages of Using DJ Equipment Dex 3 With Pioneer CDJs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pro-djs-choice-in-depth-analysis-of-leading-music-production-suites-compared/"><u>Pro DJs Choice: In-Depth Analysis of Leading Music Production Suites Compared</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-sound-card-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Sound Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/verifying-your-digital-wallet-a-step-by-step-guide-to-checking-crypto-account-balances-yl-computing/"><u>Verifying Your Digital Wallet: A Step-by-Step Guide to Checking Crypto Account Balances - YL Computing</u></a></li>
 </ul></div>
 

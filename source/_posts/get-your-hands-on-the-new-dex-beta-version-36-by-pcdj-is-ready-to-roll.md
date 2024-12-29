@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2024-12-21T18:52:17.451Z
-updated: 2024-12-23T23:26:03.374Z
+date: 2024-12-24T19:31:24.972Z
+updated: 2024-12-29T20:52:34.452Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,19 +73,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streamlining-audio-integration-in-youtube-videos-for-professionals/"><u>[New] 2024 Approved Streamlining Audio Integration in YouTube Videos for Professionals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[New] 2024 Approved Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>[Updated] Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] In 2024, Optimizing Your Project B-Roll Utilization Tips</u></a></li>
-<li><a href="https://techidaily.com/advanced-techniques-to-boost-minecraft-performance-on-powerful-computers/"><u>Advanced Techniques to Boost Minecraft Performance on Powerful Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breaking-down-the-lenovo-thinkpad-x1-nano-the-revolutionary-leap-in-ultra-thin-computing/"><u>Breaking Down the Lenovo ThinkPad X1 Nano - The Revolutionary Leap in Ultra-Thin Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-can-i-decrease-my-pcs-memory-consumption-tips-and-tricks-from-yl-computing/"><u>How Can I Decrease My PC's Memory Consumption? - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-refresh-your-graphics-drivers-a-step-by-step-guide-by-yl-computing/"><u>How to Refresh Your Graphics Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/locating-specific-settings-within-your-systems-control-panel-a-guide-by-yl-computing/"><u>Locating Specific Settings Within Your System's Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-common-reasons-behind-printer-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Printer Malfunctions: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-the-ai-tool-causing-website-bans/"><u>Understanding GPTBot: The AI Tool Causing Website Bans</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-significance-of-sun-yat-sens-revolutionary-ideals-in-modern-china-an-analysis-by-yl-computing-and-software-experts/"><u>Unveiling the Significance of Sun Yat-Sen’s Revolutionary Ideals in Modern China: An Analysis by YL Computing & Software Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211166455-9780760390245-vampires/"><u>Vampires | Free Book</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/diagnose-and-eliminate-harmful-programs-triggering-device-errors-with-insights-by-yl-software/"><u>Diagnose and Eliminate Harmful Programs Triggering Device Errors with Insights by YL Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-steps-for-mp3-streams-on-youtube-for-2024/"><u>Essential Steps for MP3 Streams on Youtube for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/explore-the-features-in-progressive-demo-for-pcdj-dex-3-modern-dj-programs-unveiled/"><u>Explore the Features in Progressive Demo for PCDJ DEX 3 - Modern DJ Programs Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a14-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A14 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-12-best-sites-for-downloading-yt-template-videos/"><u>In 2024, 12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-video-potential-with-fraps-recorder/"><u>In 2024, Unlocking Video Potential with Fraps Recorder</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-your-monitor-changing-display-settings-easily-with-yl-software-help/"><u>Master Your Monitor: Changing Display Settings Easily with YL Software Help</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/trouble-with-your-scanner-expert-guidance-and-strategies-by-yl-software-professionals/"><u>Trouble with Your Scanner? Expert Guidance and Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-the-value-whats-your-data-worth-the-lifespan-of-1gb/"><u>Understanding the Value: What's Your Data Worth? The Lifespan of 1GB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-effective-metaverse-engagement-tactics/"><u>Unveiling Effective Metaverse Engagement Tactics</u></a></li>
 </ul></div>
 

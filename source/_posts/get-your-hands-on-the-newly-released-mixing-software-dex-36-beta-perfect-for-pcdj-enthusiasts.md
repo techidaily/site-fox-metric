@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2024-12-17T17:20:38.140Z
-updated: 2024-12-23T17:18:20.570Z
+date: 2024-12-23T18:07:49.579Z
+updated: 2024-12-29T16:10:39.452Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-80s-family-flick-the-vhs-edition-of-the-goofys-for-2024/"><u>[Updated] '80S Family Flick The VHS Edition of The Goofys for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-superior-routes-converting-pinners-videos-into-music-files/"><u>[Updated] 2024 Approved Superior Routes Converting Pinners' Videos Into Music Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-guide-to-online-image-sharpening/"><u>Advanced Guide to Online Image Sharpening</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/automotive-excellence-premium-car-spoilers-visuals-and-wallpaper-collections-from-yl-software/"><u>Automotive Excellence: Premium Car Spoilers Visuals and Wallpaper Collections From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-the-latest-dj-software-dexonix-v31101-now-available/"><u>Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/easy-cross-platform-posting-tiktok-stories-on-facebook-for-2024/"><u>Easy Cross-Platform Posting TikTok Stories on Facebook for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-with-yl-computing/"><u>Identifying Your System's GPU - A Step-by-Step Guide with YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>In 2024, Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-performance-crusader-kings-3-running-smoothly-without-interruptions-on-pc/"><u>Optimizing Performance: Crusader Kings 3 Running Smoothly without Interruptions on PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pioneer-friendly-controller-options-numarks-ndx500-dex-3-integration-and-compatible-dj-programming-tools/"><u>Pioneer-Friendly Controller Options - Numark's NDX500, DEX 3 Integration & Compatible DJ Programming Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solutions-when-your-pc-wont-recognize-the-scanner-drivers-insights-from-yl-computing/"><u>Solutions When Your PC Won't Recognize The Scanner Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-why-wont-my-printer-turn-on-insights-from-yl-computing-experts/"><u>Troubleshooting Steps: Why Won't My Printer Turn On? Insights From YL Computing Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-strategies-for-boosting-system-performance-by-yl-software-experts/"><u>Ultimate Strategies for Boosting System Performance by YL Software Experts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/win-11s-10-finest-webcams-for-high-quality-capture-for-2024/"><u>Win 11'S 10 Finest Webcams For High-Quality Capture for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>[New] In 2024, Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-agricultural-adventures-with-allies-top-10-farmers-titles-for-2024/"><u>[Updated] Agricultural Adventures with Allies Top 10 Farmer's Titles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs-for-2024/"><u>[Updated] Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-watch-facebook-videos-on-my-apple-tv/"><u>2024 Approved How to Watch Facebook Videos on My Apple TV?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-buys-hidden-offer-score-your-free-macbook-air-m3-with-this-proven-strategy-zdnet/"><u>Best Buy’s Hidden Offer: Score Your Free MacBook Air M3 with This Proven Strategy | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-video-wonders-your-must-see-list/"><u>In 2024, Facebook Video Wonders - Your Must-See List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-hand-in-the-wind-understanding-its-types/"><u>In 2024, Hand-In-The-Wind Understanding Its Types</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-device-recognition-issues-essential-tips-by-yl-software-specialists/"><u>Resolving Device Recognition Issues: Essential Tips by YL Software Specialists</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/reviving-lost-storage-techniques-for-retrieving-files-from-formerly-removed-partitions-advice-from-yl-software-professionals/"><u>Reviving Lost Storage: Techniques for Retrieving Files From Formerly Removed Partitions - Advice From YL Software Professionals</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-bugatti-chiron-2018-high-definition-desktop-wallpapers-and-screen-savers-ultra-crisp-imagery-collection/"><u>Stunning Bugatti Chiron 2018 High-Definition Desktop Wallpapers & Screen Savers - Ultra Crisp Imagery Collection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-independent-mobile-games-play-without-a-network-android/"><u>The Ultimate List of Independent Mobile Games - Play Without a Network (Android)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-20-timeless-classics-ultimate-playlist-of-retro-wedding-songs-for-your-big-day/"><u>Top 20 Timeless Classics: Ultimate Playlist of Retro Wedding Songs for Your Big Day</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-your-malfunctional-antivirus-insights-from-yl-computings-latest-guide/"><u>Troubleshooting Your Malfunctional Antivirus: Insights From YL Computing's Latest Guide</u></a></li>
 </ul></div>
 

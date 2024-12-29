@@ -1,7 +1,7 @@
 ---
 title: "Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality"
-date: 2024-12-18T06:11:18.093Z
-updated: 2024-12-24T07:22:37.297Z
+date: 2024-12-27T22:41:21.186Z
+updated: 2024-12-29T18:11:11.910Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-in-depth-analysis-cutzone-pro-review-unveiled/"><u>[New] 2024 Approved In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlined-playback-controlling-youtube-video-delivery-speeds/"><u>[New] Streamlined Playback Controlling YouTube Video Delivery Speeds</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boosting-business-top-10-highlight-optimization-hacks/"><u>[Updated] 2024 Approved Boosting Business Top 10 Highlight Optimization Hacks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prestigious-vr-movie-collection-to-watch/"><u>[Updated] Prestigious VR Movie Collection to Watch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curbing-wudfhostexe-cpu-hogs-on-your-pc-a-fix-for-windows-10-users/"><u>Curbing wudfhost.exe CPU Hogs on Your PC - A Fix for Windows 10 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969222945-download-updated-brother-hl-2240-driver-now-perfect-for-windows-users/"><u>Download Updated Brother HL-2ˈ240 Driver Now: Perfect for Windows Users!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-techniques-for-reducing-image-size-tips-from-yl-computing/"><u>Effective Techniques for Reducing Image Size: Tips From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/efficiently-transfer-files-between-drives-a-comprehensive-guide-by-yl-computing/"><u>Efficiently Transfer Files Between Drives: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-personal-health-through-chatgpts-best-practices/"><u>Elevate Personal Health Through ChatGPT's Best Practices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/hd-ios-theme-walls-high-quality-iphone-picture-backgrounds-by-yl-computing/"><u>HD IOS Theme Walls: High-Quality iPhone Picture Backgrounds by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 15 Pro or iPad?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-safely-back-up-your-windows-registry-with-yl-software-solutions/"><u>How to Safely Back Up Your Windows Registry with YL Software Solutions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/quick-clips-the-facebook-trend/"><u>Quick Clips The Facebook Trend</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolving-device-recognition-issues-essential-tips-by-yl-software-specialists/"><u>Resolving Device Recognition Issues: Essential Tips by YL Software Specialists</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-installing-new-programs-on-a-windows-10-computer-brought-to-you-by-yl-software-innovations/"><u>Step-by-Step Tutorial: Installing New Programs on a Windows 10 Computer – Brought to You by YL Software Innovations</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/stunning-bugatti-chiron-2018-high-definition-desktop-wallpapers-and-screen-savers-ultra-crisp-imagery-collection/"><u>Stunning Bugatti Chiron 2018 High-Definition Desktop Wallpapers & Screen Savers - Ultra Crisp Imagery Collection</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-defective-memory-modules-expert-advice-from-yl-software/"><u>Troubleshooting Defective Memory Modules: Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-your-malfunctional-antivirus-insights-from-yl-computings-latest-guide/"><u>Troubleshooting Your Malfunctional Antivirus: Insights From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[New] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-instagram-new-algorithm-update-will-affect-you/"><u>[Updated] How Instagram New Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-render-movement-blur-in-digital-imagery-for-2024/"><u>[Updated] Render Movement Blur in Digital Imagery for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/checking-compatibility-does-your-gpu-work-with-the-newest-windows-os/"><u>Checking Compatibility: Does Your GPU Work with the Newest Windows OS?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-the-latest-dj-software-dexonix-v31101-now-available/"><u>Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-with-yl-computing/"><u>Identifying Your System's GPU - A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pioneer-friendly-controller-options-numarks-ndx500-dex-3-integration-and-compatible-dj-programming-tools/"><u>Pioneer-Friendly Controller Options - Numark's NDX500, DEX 3 Integration & Compatible DJ Programming Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/secure-guide-how-to-safely-download-from-the-pirate-bay/"><u>Secure Guide: How to Safely Download From The Pirate Bay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-strategies-for-boosting-system-performance-by-yl-software-experts/"><u>Ultimate Strategies for Boosting System Performance by YL Software Experts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleash-your-potential-with-filmoras-loved-9-traits/"><u>Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-secrets-to-effective-instagram-scheduling/"><u>Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
 </ul></div>
 
