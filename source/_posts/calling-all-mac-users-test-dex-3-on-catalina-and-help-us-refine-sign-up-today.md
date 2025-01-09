@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2024-12-22T20:30:20.787Z
-updated: 2024-12-29T18:21:43.532Z
+date: 2025-01-06T19:27:21.186Z
+updated: 2025-01-08T21:53:53.005Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/solved-lg-monitor-driver-issues-on-windows-10-7-81/"><u>[Solved] LG Monitor Driver Issues on Windows 10, 7, 8.1</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[Updated] From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-your-netflix-video-flow-pc-and-mobile/"><u>[Updated] How to Control Your Netflix Video Flow PC & Mobile</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/assessing-your-video-card-condition-expert-strategies-from-yl-software-specialists/"><u>Assessing Your Video Card Condition - Expert Strategies From YL Software Specialists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capturing-epic-moments-three-techniques-for-recording-wild-hearts-gaming-sessions-on-your-pc/"><u>Capturing Epic Moments: Three Techniques for Recording Wild Hearts Gaming Sessions on Your PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/discover-the-right-ram-for-your-pc-a-comprehensive-guide-yl-tech-solutions/"><u>Discover the Right RAM for Your PC: A Comprehensive Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/expert-level-control-surfaces-for-pcdj-enthusiasts-top-options-to-elevate-your-mixing-skills/"><u>Expert-Level Control Surfaces for PCDJ Enthusiasts: Top Options to Elevate Your Mixing Skills</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-can-you-confirm-memory-failure-in-ram-modules-expert-tips-from-yl-computings-tech-team/"><u>How Can You Confirm Memory Failure in RAM Modules? – Expert Tips From YL Computing's Tech Team</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-10t-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 10T 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 6</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-crypto-acquisition-with-ease-expert-insights-from-yl-software/"><u>Navigating Crypto Acquisition with Ease - Expert Insights From YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-digital-roadblocks-decoding-the-page-not-found-message/"><u>Navigating Digital Roadblocks: Decoding the 'Page Not Found' Message</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-video-card-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Video Card Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-to-install-or-uninstall-programs-via-control-panel-by-yl-computing-expertise/"><u>Step-by-Step Guide to Install or Uninstall Programs via Control Panel by YL Computing Expertise</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-creating-a-new-text-file-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Creating a New Text File on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-free-video-editors-to-replace-windows-movie-maker-in-windows-10-and-11/"><u>Top 7 Free Video Editors to Replace Windows Movie Maker in Windows 10 and 11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-android-and-iphone-video-creators-best-music-integrated-options/"><u>Updated In 2024, Android and iPhone Video Creators Best Music-Integrated Options</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-softwares-expert-tips-for-fixing-a-non-responsive-computer-startup-issue/"><u>YL Software's Expert Tips for Fixing a Non-Responsive Computer Startup Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>[New] AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/alancing-act-watching-multiple-videos-on-one-screen/"><u>[New] Balancing Act Watching Multiple Videos on One Screen</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[New] Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>[New] Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1-compatible-platforms-a-step-by-step-guide-to-watching-wtv-videos-anywhere/"><u>1. Compatible Platforms: A Step-by-Step Guide to Watching WTV Videos Anywhere</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adjusting-your-keyboard-configuration-a-step-by-step-guide-by-yl-software/"><u>Adjusting Your Keyboard Configuration - A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-handle-a-failed-windows-update-expert-advice-from-yl-computing/"><u>How to Handle a Failed Windows Update: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/impact-of-mongol-empires-establishment-on-chinese-society-insights-by-yl-computing/"><u>Impact of Mongol Empire's Establishment on Chinese Society: Insights by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y27-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y27 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/securing-your-data-with-effective-backups-insights-by-yl-software/"><u>Securing Your Data with Effective Backups - Insights by YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-no-sound-situations-on-windows-11-computers/"><u>The Ultimate Guide to Fixing No-Sound Situations on Windows 11 Computers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unraveling-the-mystery-identifying-causes-of-sudden-graphics-problems-in-microsoft-windows-guidance-by-yl-software-experts/"><u>Unraveling the Mystery: Identifying Causes of Sudden Graphics Problems in Microsoft Windows – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-flat-to-fabulous-converting-videos-for-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos for VR with Ease for 2024</u></a></li>
 </ul></div>
 

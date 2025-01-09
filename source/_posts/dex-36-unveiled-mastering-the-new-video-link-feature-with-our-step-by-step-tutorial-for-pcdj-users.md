@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2024-12-22T18:19:03.464Z
-updated: 2024-12-29T22:26:21.277Z
+date: 2025-01-06T04:47:13.809Z
+updated: 2025-01-08T18:48:05.202Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,16 +57,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-amplifying-audio-and-visual-quality-in-your-youtube-videos-for-2024/"><u>[Updated] Amplifying Audio and Visual Quality in Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pros-picks-top-10-shaky-free-cameras-for-action/"><u>[Updated] Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-power-of-spotless-image-resources/"><u>2024 Approved Harnessing the Power of Spotless Image Resources</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-game-streams-through-ai-facial-recognition/"><u>2024 Approved Optimizing Game Streams Through AI Facial Recognition</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-edge-40-neo-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-capturing-desktop-footage-tips-and-tricks-with-movavi-software/"><u>Mastering the Art of Capturing Desktop Footage - Tips & Tricks with Movavi Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recognizing-signs-how-to-identify-a-malfunctioning-computer-power-unit-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify a Malfunctioning Computer Power Unit - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-cellphone-promotions-and-discounts-for-independence-day-insights-from-zdnet/"><u>Top Cellphone Promotions & Discounts for Independence Day - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>[New] In 2024, The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>[New] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[New] Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-identifying-faulty-ram-a-step-by-step-guide-on-when-to-replace-insights-by-yl-computing/"><u>1. Identifying Faulty RAM: A Step-by-Step Guide on When To Replace - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/"><u>Boost Your PC's Speaker Performance with a New Install of Realtek HD Audio Manager in Win 10/11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-steps-monitor-historical-balances-of-bitcoin-wallets-with-yl-computings-tools/"><u>Discover the Steps: Monitor Historical Balances of Bitcoin Wallets with YL Computing's Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-potential-for-surround-sound-on-your-computers-sound-card-with-guidance-from-yl-software-experts/"><u>Exploring the Potential for Surround Sound on Your Computer's Sound Card with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-your-free-karaoke-fix-with-new-release-of-karaoki-beta-v08/"><u>Get Your Free Karaoke Fix with New Release of Karaoki Beta V0.8.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-remixing-tracks-essential-tips-for-every-djs-playlist-curation/"><u>Mastering the Art of Remixing Tracks - Essential Tips for Every DJ's Playlist Curation</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-scanner-error-messages-a-comprehensive-guide-troubleshooting-tips-by-yl-computing/"><u>Resolving Scanner Error Messages: A Comprehensive Guide - Troubleshooting Tips by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stardom-awaits-navigate-through-these-9-instagram-insights/"><u>Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-key-aspects-to-review-pre-smartwatch-purchase/"><u>The Ultimate Checklist: Key Aspects to Review Pre-Smartwatch Purchase</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-6-figure-visibility-on-youtube-via-optimal-hashtags-for-2024/"><u>Unlock 6-Figure Visibility on YouTube via Optimal Hashtags for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unraveling-the-top-reasons-behind-scanner-breakdowns-insights-from-yl-computing/"><u>Unraveling the Top Reasons Behind Scanner Breakdowns: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/yl-computings-ultimate-tutorial-on-installing-and-configuring-a-secure-crypto-wallet/"><u>YL Computing's Ultimate Tutorial on Installing and Configuring a Secure Crypto Wallet</u></a></li>
 </ul></div>
 

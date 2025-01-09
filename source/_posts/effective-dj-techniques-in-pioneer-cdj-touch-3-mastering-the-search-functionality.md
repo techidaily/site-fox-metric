@@ -1,7 +1,7 @@
 ---
 title: "Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality"
-date: 2024-12-27T22:41:21.186Z
-updated: 2024-12-29T18:11:11.910Z
+date: 2025-01-05T19:51:07.346Z
+updated: 2025-01-09T06:08:09.839Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,18 +55,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[New] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-instagram-new-algorithm-update-will-affect-you/"><u>[Updated] How Instagram New Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-render-movement-blur-in-digital-imagery-for-2024/"><u>[Updated] Render Movement Blur in Digital Imagery for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/checking-compatibility-does-your-gpu-work-with-the-newest-windows-os/"><u>Checking Compatibility: Does Your GPU Work with the Newest Windows OS?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-the-latest-dj-software-dexonix-v31101-now-available/"><u>Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-with-yl-computing/"><u>Identifying Your System's GPU - A Step-by-Step Guide with YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pioneer-friendly-controller-options-numarks-ndx500-dex-3-integration-and-compatible-dj-programming-tools/"><u>Pioneer-Friendly Controller Options - Numark's NDX500, DEX 3 Integration & Compatible DJ Programming Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/secure-guide-how-to-safely-download-from-the-pirate-bay/"><u>Secure Guide: How to Safely Download From The Pirate Bay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-strategies-for-boosting-system-performance-by-yl-software-experts/"><u>Ultimate Strategies for Boosting System Performance by YL Software Experts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleash-your-potential-with-filmoras-loved-9-traits/"><u>Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-secrets-to-effective-instagram-scheduling/"><u>Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>[New] 2024 Approved Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-master-video-cropping-for-unique-instagram-visuals-for-2024/"><u>[New] Master Video Cropping for Unique Instagram Visuals for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secrets-to-storing-and-viewing-digital-television-shows/"><u>[New] Secrets to Storing and Viewing Digital Television Shows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/choosing-streaming-giants-vimeo-youtube-or-dailymotion-in-2024/"><u>Choosing Streaming Giants Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-360-degree-edits-in-adobe-premiere-pro-for-2024/"><u>Mastering 360-Degree Edits in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact-for-2024/"><u>Thriving on the Grid Maximizing Your Telegram Impact for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-computings-tutorial-how-to-change-time-and-date-in-windows-through-the-ease-of-use-control-panel/"><u>YL Computing's Tutorial: How to Change Time and Date in Windows Through the Ease of Use Control Panel</u></a></li>
 </ul></div>
 

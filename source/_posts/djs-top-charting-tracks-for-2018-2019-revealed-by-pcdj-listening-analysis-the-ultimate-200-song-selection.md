@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2024-12-24T19:11:52.374Z
-updated: 2024-12-29T16:43:44.119Z
+date: 2025-01-03T19:26:02.338Z
+updated: 2025-01-08T16:35:33.199Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,16 +58,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-access-facebooks-just-watched-video-list/"><u>[New] 2024 Approved How To Access Facebook’s Just-Watched Video List</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-tricks-for-swift-vimeo-watch/"><u>[New] 2024 Approved Tricks for Swift Vimeo Watch</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dive-deep-into-single-platform-livestreaming-with-onestream/"><u>[Updated] 2024 Approved Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/beginners-guide-steps-to-purchase-your-first-cryptocurrency-a-tutorial-by-yl-computing/"><u>Beginner's Guide: Steps to Purchase Your First Cryptocurrency - A Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-downloads-compatible-drivers-for-your-epson-scanner/"><u>Free Downloads: Compatible Drivers for Your Epson Scanner</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-correcting-windows-11-non-paged-area-page-fault-failures/"><u>Guide: Correcting Windows 11 'Non-Paged Area' Page Fault Failures</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia C12 Plus</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-mixing-the-advantages-of-using-dj-equipment-dex-3-with-pioneer-cdjs/"><u>Mastering Mixing: The Advantages of Using DJ Equipment Dex 3 With Pioneer CDJs</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pro-djs-choice-in-depth-analysis-of-leading-music-production-suites-compared/"><u>Pro DJs Choice: In-Depth Analysis of Leading Music Production Suites Compared</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-sound-card-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Sound Card - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/verifying-your-digital-wallet-a-step-by-step-guide-to-checking-crypto-account-balances-yl-computing/"><u>Verifying Your Digital Wallet: A Step-by-Step Guide to Checking Crypto Account Balances - YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-varieties-in-gesture-tech/"><u>[New] Exploring Varieties in Gesture Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategies-to-create-memorable-podcast-intro-lines-for-2024/"><u>[New] Strategies to Create Memorable Podcast Intro Lines for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/2023-windows-11-10-8-7/"><u>2023 版适用于 Windows 11, 10, 8, 7 系统的前五名数据保存工具列表</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/6kej5rg65lyb5qwt6loh5rqq6kii5yqd5lit55qe5qgm6z2i5zyw56s655m855sf5zwp6agm77ya5rex5ywl5lqg6kej5yplusk5lplusu5asn5pa55rov/"><u>解決企業資源計劃中的桌面圖示發生問題：深入了解及修复方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/do-rivian-electric-vans-offer-a-green-solution-for-amazon-insights-from-zdnet-analysis/"><u>Do Rivian Electric Vans Offer a Green Solution for Amazon? Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-unveiling-apples-latest-personality-packed-gadgets-debuted-last-week-detailed-review-by-zdnet/"><u>Exclusive: Unveiling Apple's Latest Personality-Packed Gadgets Debuted Last Week – Detailed Review by ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-simple-pour-remplacement-du-disque-interne-dhp-laptops-avec-sauvegarde-des-fichiers/"><u>Guide Simple Pour Remplacement Du Disque Interne D’HP Laptops Avec Sauvegarde Des Fichiers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-invisible-observers-the-ultimate-list-of-apps/"><u>In 2024, Invisible Observers The Ultimate List of Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/r-non-youtube-editors-the-top-5-list-you-need/"><u>Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-synchronizing-your-hard-drives-using-free-tools/"><u>Step-by-Step Guide: Synchronizing Your Hard Drives Using Free Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-15-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 15 Plus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2024-12-24T19:31:24.972Z
-updated: 2024-12-29T20:52:34.452Z
+date: 2025-01-07T02:09:51.555Z
+updated: 2025-01-09T05:30:50.793Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,18 +73,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diagnose-and-eliminate-harmful-programs-triggering-device-errors-with-insights-by-yl-software/"><u>Diagnose and Eliminate Harmful Programs Triggering Device Errors with Insights by YL Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-steps-for-mp3-streams-on-youtube-for-2024/"><u>Essential Steps for MP3 Streams on Youtube for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/explore-the-features-in-progressive-demo-for-pcdj-dex-3-modern-dj-programs-unveiled/"><u>Explore the Features in Progressive Demo for PCDJ DEX 3 - Modern DJ Programs Unveiled</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a14-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A14 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-12-best-sites-for-downloading-yt-template-videos/"><u>In 2024, 12 Best Sites for Downloading YT Template Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-video-potential-with-fraps-recorder/"><u>In 2024, Unlocking Video Potential with Fraps Recorder</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/master-your-monitor-changing-display-settings-easily-with-yl-software-help/"><u>Master Your Monitor: Changing Display Settings Easily with YL Software Help</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/trouble-with-your-scanner-expert-guidance-and-strategies-by-yl-software-professionals/"><u>Trouble with Your Scanner? Expert Guidance and Strategies by YL Software Professionals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-the-value-whats-your-data-worth-the-lifespan-of-1gb/"><u>Understanding the Value: What's Your Data Worth? The Lifespan of 1GB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-effective-metaverse-engagement-tactics/"><u>Unveiling Effective Metaverse Engagement Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] In 2024, The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>2024 Approved The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pcdvd/"><u>安心・効率的なPC写真DVD化方法：ストレージ対応術</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Phone without PIN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-incompatibility-issues-a-users-guide-to-validating-and-fixing-invalid-driver-installs/"><u>Overcoming Incompatibility Issues: A User's Guide to Validating and Fixing Invalid Driver Installs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/powerpoint-prasentation-wiederherstellen-top-3-ansatze-fur-nicht-gespeichertes-material/"><u>PowerPoint Präsentation Wiederherstellen: Top 3 Ansätze Für Nicht Gespeichertes Material</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-missing-backup-service-for-windows-servers-2008-2012-2016/"><u>Solving the Problem of Missing Backup Service for Windows Servers (2008, 2012, 2016)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-ranked-techniques-for-polished-obs-productions/"><u>Top-Ranked Techniques for Polished OBS Productions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-hitachai-hard-drive-copying-tools-discover-the-excellence-of-aomei-backupper/"><u>Top-Rated Hitachai Hard Drive Copying Tools: Discover the Excellence of AOMEI Backupper</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-film-aesthetics-using-luts/"><u>Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tactics-for-resolving-obs-gaming-screenshots-turned-black/"><u>Troubleshooting Tactics for Resolving OBS Gaming Screenshots Turned Black</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/two-methods-for-connecting-your-synology-network-attached-storage-across-the-web/"><u>Two Methods for Connecting Your Synology Network Attached Storage Across the Web</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-top-5-leading-sdhc-memory-card-data-retrieval-applications/"><u>Ultimate Guide: Top 5 Leading SDHC Memory Card Data Retrieval Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-universal-access-to-gpt-4-understanding-its-functionality/"><u>Unlock Universal Access to GPT-4: Understanding Its Functionality</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-pxe-boot-server/"><u>Windows PXE Boot Server 簡易設置法：實現安全且流程簡化</u></a></li>
 </ul></div>
 
