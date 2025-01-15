@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2025-01-07T02:09:51.555Z
-updated: 2025-01-09T05:30:50.793Z
+date: 2025-01-12T18:32:28.642Z
+updated: 2025-01-15T00:30:06.735Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,21 +73,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] In 2024, The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>2024 Approved The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pcdvd/"><u>安心・効率的なPC写真DVD化方法：ストレージ対応術</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Phone without PIN</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-incompatibility-issues-a-users-guide-to-validating-and-fixing-invalid-driver-installs/"><u>Overcoming Incompatibility Issues: A User's Guide to Validating and Fixing Invalid Driver Installs</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/powerpoint-prasentation-wiederherstellen-top-3-ansatze-fur-nicht-gespeichertes-material/"><u>PowerPoint Präsentation Wiederherstellen: Top 3 Ansätze Für Nicht Gespeichertes Material</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-missing-backup-service-for-windows-servers-2008-2012-2016/"><u>Solving the Problem of Missing Backup Service for Windows Servers (2008, 2012, 2016)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-ranked-techniques-for-polished-obs-productions/"><u>Top-Ranked Techniques for Polished OBS Productions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-rated-hitachai-hard-drive-copying-tools-discover-the-excellence-of-aomei-backupper/"><u>Top-Rated Hitachai Hard Drive Copying Tools: Discover the Excellence of AOMEI Backupper</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-film-aesthetics-using-luts/"><u>Transforming Film Aesthetics Using Luts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tactics-for-resolving-obs-gaming-screenshots-turned-black/"><u>Troubleshooting Tactics for Resolving OBS Gaming Screenshots Turned Black</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/two-methods-for-connecting-your-synology-network-attached-storage-across-the-web/"><u>Two Methods for Connecting Your Synology Network Attached Storage Across the Web</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ultimate-guide-top-5-leading-sdhc-memory-card-data-retrieval-applications/"><u>Ultimate Guide: Top 5 Leading SDHC Memory Card Data Retrieval Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-universal-access-to-gpt-4-understanding-its-functionality/"><u>Unlock Universal Access to GPT-4: Understanding Its Functionality</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/windows-pxe-boot-server/"><u>Windows PXE Boot Server 簡易設置法：實現安全且流程簡化</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-master-windows-11-revolutionary-techniques-for-efficient-video-trimming/"><u>[New] In 2024, Master Window's 11 Revolutionary Techniques for Efficient Video Trimming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/6-ways-to-record-mov-files-on-windows-10/"><u>6 Ways to Record .mov Files on Windows 10</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/configure-line-numbering-in-sql-server-management-studio-for-easier-debugging/"><u>Configure Line Numbering in SQL Server Management Studio for Easier Debugging</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-can-i-decrease-my-pcs-memory-consumption-tips-and-tricks-from-yl-computing/"><u>How Can I Decrease My PC's Memory Consumption? - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-12-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 12 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-refresh-your-graphics-drivers-a-step-by-step-guide-by-yl-computing/"><u>How to Refresh Your Graphics Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>In 2024, Enhancing User Experience Creating High-ROI Animated Ads for FB</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/investing-in-digital-assets-insights-from-yl-computing-for-aspiring-cryptocurrency-traders/"><u>Investing in Digital Assets: Insights From YL Computing for Aspiring Cryptocurrency Traders</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/locating-specific-settings-within-your-systems-control-panel-a-guide-by-yl-computing/"><u>Locating Specific Settings Within Your System's Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/quick-profit-on-reddit-here-are-your-13-most-accessible-ways/"><u>Quick Profit on Reddit? Here Are Your 13 Most Accessible Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-you-cant-find-msstdfmtdll-on-your-pc/"><u>Troubleshooting Steps for When You Can't Find msstdfmt.dll on Your PC</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-common-reasons-behind-printer-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Printer Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unveiling-the-significance-of-sun-yat-sens-revolutionary-ideals-in-modern-china-an-analysis-by-yl-computing-and-software-experts/"><u>Unveiling the Significance of Sun Yat-Sen’s Revolutionary Ideals in Modern China: An Analysis by YL Computing & Software Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A79 5G? | Dr.fone</u></a></li>
 </ul></div>
 

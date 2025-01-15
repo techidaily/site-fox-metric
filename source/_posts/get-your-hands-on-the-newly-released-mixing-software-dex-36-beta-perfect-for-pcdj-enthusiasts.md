@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2025-01-05T18:47:53.328Z
-updated: 2025-01-09T05:11:05.882Z
+date: 2025-01-13T01:07:24.287Z
+updated: 2025-01-14T17:16:00.220Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-hacks-for-hassle-free-podcast-streaming/"><u>[New] In 2024, Hacks for Hassle-Free Podcast Streaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-precision-with-mac-assistance/"><u>[Updated] In 2024, Audio Precision with Mac Assistance</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[Updated] Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
-<li><a href="https://article-files.techidaily.com/bridging-virtuality-business-applications-in-vr/"><u>Bridging Virtuality Business Applications in VR</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/christian-grey-theme-backgrounds-and-digital-artwork-premium-collections-by-yl-computing/"><u>Christian Grey Theme Backgrounds & Digital Artwork - Premium Collections by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-why-experts-say-its-time-for-an-iphone-16-upgrade-the-top-features-you-cant-miss-according-to-zdnet/"><u>Discover Why Experts Say It's Time for an iPhone 16 Upgrade: The Top Features You Can't Miss, According to ZDNET</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/identifying-potential-failure-in-your-computers-power-unit-guidance-by-yl-software/"><u>Identifying Potential Failure in Your Computer's Power Unit - Guidance by YL Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/lightweight-kodi-19-setup-a-step-by-step-guide-to-adding-the-chains-matrix-addon/"><u>Lightweight Kodi 19 Setup: A Step-by-Step Guide to Adding the Chains Matrix Addon</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solve-your-scanner-detection-issues-with-ease-a-comprehensive-guide-by-yl-software-professionals/"><u>Solve Your Scanner Detection Issues with Ease! A Comprehensive Guide by YL Software Professionals</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unraveling-the-mystery-identifying-causes-of-sudden-graphics-problems-in-microsoft-windows-guidance-by-yl-software-experts/"><u>Unraveling the Mystery: Identifying Causes of Sudden Graphics Problems in Microsoft Windows – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-insights-into-whatsapp-sound-calls/"><u>[New] In 2024, Insights Into WhatsApp Sound Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>[New] Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro-for-2024/"><u>[New] Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unmatched-visuals-leading-ps5-compatible-hdmi-21-monitors-for-2024/"><u>[New] Unmatched Visuals Leading PS5 Compatible HDMI 2.1 Monitors for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premier-collectors-list-top-shorts-for-free-online/"><u>[Updated] 2024 Approved Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/diagnose-and-eliminate-harmful-programs-triggering-device-errors-with-insights-by-yl-software/"><u>Diagnose and Eliminate Harmful Programs Triggering Device Errors with Insights by YL Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962246633-enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/explore-the-features-in-progressive-demo-for-pcdj-dex-3-modern-dj-programs-unveiled/"><u>Explore the Features in Progressive Demo for PCDJ DEX 3 - Modern DJ Programs Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-130-music-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia 130 Music Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-keeps-uninstalling-itself-solved/"><u>Nvidia Driver Keeps Uninstalling Itself [Solved]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-maplestory-failed-load-problems/"><u>Resolved: Fixes for MapleStory Failed Load Problems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/trouble-with-your-scanner-expert-guidance-and-strategies-by-yl-software-professionals/"><u>Trouble with Your Scanner? Expert Guidance and Strategies by YL Software Professionals</u></a></li>
 </ul></div>
 

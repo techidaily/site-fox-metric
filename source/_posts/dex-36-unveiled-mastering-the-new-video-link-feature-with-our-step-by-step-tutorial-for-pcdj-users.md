@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2025-01-06T04:47:13.809Z
-updated: 2025-01-08T18:48:05.202Z
+date: 2025-01-08T16:00:27.536Z
+updated: 2025-01-14T21:14:24.789Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,20 +57,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>[New] In 2024, The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>[New] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[New] Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-identifying-faulty-ram-a-step-by-step-guide-on-when-to-replace-insights-by-yl-computing/"><u>1. Identifying Faulty RAM: A Step-by-Step Guide on When To Replace - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/"><u>Boost Your PC's Speaker Performance with a New Install of Realtek HD Audio Manager in Win 10/11</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/discover-the-steps-monitor-historical-balances-of-bitcoin-wallets-with-yl-computings-tools/"><u>Discover the Steps: Monitor Historical Balances of Bitcoin Wallets with YL Computing's Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-the-potential-for-surround-sound-on-your-computers-sound-card-with-guidance-from-yl-software-experts/"><u>Exploring the Potential for Surround Sound on Your Computer's Sound Card with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-unique.techidaily.com/get-your-free-karaoke-fix-with-new-release-of-karaoki-beta-v08/"><u>Get Your Free Karaoke Fix with New Release of Karaoki Beta V0.8.</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-remixing-tracks-essential-tips-for-every-djs-playlist-curation/"><u>Mastering the Art of Remixing Tracks - Essential Tips for Every DJ's Playlist Curation</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolving-scanner-error-messages-a-comprehensive-guide-troubleshooting-tips-by-yl-computing/"><u>Resolving Scanner Error Messages: A Comprehensive Guide - Troubleshooting Tips by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stardom-awaits-navigate-through-these-9-instagram-insights/"><u>Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-key-aspects-to-review-pre-smartwatch-purchase/"><u>The Ultimate Checklist: Key Aspects to Review Pre-Smartwatch Purchase</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-6-figure-visibility-on-youtube-via-optimal-hashtags-for-2024/"><u>Unlock 6-Figure Visibility on YouTube via Optimal Hashtags for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unraveling-the-top-reasons-behind-scanner-breakdowns-insights-from-yl-computing/"><u>Unraveling the Top Reasons Behind Scanner Breakdowns: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-computings-ultimate-tutorial-on-installing-and-configuring-a-secure-crypto-wallet/"><u>YL Computing's Ultimate Tutorial on Installing and Configuring a Secure Crypto Wallet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographys-new-frontier-illustration-and-motion-blurring-techniques-for-2024/"><u>[New] Photography's New Frontier Illustration and Motion Blurring Techniques for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] 2024 Approved How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://win-net.techidaily.com/5-effektive-methoden-zum-ubertragen-von-sprachmemos-auf-das-neueste-iphone-modell/"><u>5 Effektive Methoden Zum Übertragen Von Sprachmemos Auf Das Neueste iPhone Modell</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/convert-your-favorite-shows-from-pandora-stream-live-or-record-as-mp3-on-pcmac/"><u>Convert Your Favorite Shows From Pandora - Stream Live or Record as MP3 on PC/Mac</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-songs-from-google-play-store-directly-onto-your-pc/"><u>Download Songs From Google Play Store Directly Onto Your PC</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-videostreams-from-ustream-efficiently-top-tools-and-tutorials-for-mac-and-windows-users/"><u>Download Videostreams From Ustream Efficiently: Top Tools & Tutorials for Mac and Windows Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-downloading-and-converting-zattoo-videos-into-multiple-formats-like-mp4-avi-and-mov-for-offline-viewing/"><u>Easy Guide: Downloading & Converting Zattoo Videos Into Multiple Formats Like MP4, AVI, and MOV for Offline Viewing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-troubleshooting-steps-resolving-youtube-connectivity-errors-on-a-samsung-television-set/"><u>Easy Troubleshooting Steps: Resolving YouTube Connectivity Errors on a Samsung Television Set</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-correcting-infected-gaming-files-on-desktop-systems/"><u>Expert Advice: Correcting Infected Gaming Files on Desktop Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/get-your-favorite-hitboxtv-shows-downloadable-recording-and-streaming-options-for-pc-mac/"><u>Get Your Favorite Hitbox.TV Shows - Downloadable Recording and Streaming Options for PC, Mac</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-technological-evolutions-that-changed-the-game/"><u>Hidden Technological Evolutions That Changed The Game</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-download-and-save-grooveshark-playlists-as-high-quality-mp3s-wavs-or-m4as-on-pc-or-mac/"><u>How to Download and Save Grooveshark Playlists as High-Quality MP3s, WAVs, or M4As on PC or Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>In 2024, Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>In 2024, Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-power-of-zoom-on-your-windows-10-pc/"><u>In 2024, Harness the Power of Zoom on Your Windows 10 PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y55s-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y55s 5G (2023) Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-meizu-21-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Meizu 21 Phone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mpora-content-grabber-quick-guide-to-retrieve-and-save-outdoor-footage/"><u>Mpora Content Grabber: Quick Guide to Retrieve and Save Outdoor Footage</u></a></li>
 </ul></div>
 

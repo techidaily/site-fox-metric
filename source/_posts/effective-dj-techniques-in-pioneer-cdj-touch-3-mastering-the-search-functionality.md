@@ -1,7 +1,7 @@
 ---
 title: "Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality"
-date: 2025-01-05T19:51:07.346Z
-updated: 2025-01-09T06:08:09.839Z
+date: 2025-01-10T18:51:21.569Z
+updated: 2025-01-14T23:32:13.447Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,17 +55,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>[New] 2024 Approved Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-master-video-cropping-for-unique-instagram-visuals-for-2024/"><u>[New] Master Video Cropping for Unique Instagram Visuals for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-secrets-to-storing-and-viewing-digital-television-shows/"><u>[New] Secrets to Storing and Viewing Digital Television Shows</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/choosing-streaming-giants-vimeo-youtube-or-dailymotion-in-2024/"><u>Choosing Streaming Giants Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-360-degree-edits-in-adobe-premiere-pro-for-2024/"><u>Mastering 360-Degree Edits in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact-for-2024/"><u>Thriving on the Grid Maximizing Your Telegram Impact for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-the-compliance-hurdles-in-cryptocurrency-adoption-insights-from-yl-computings-perspective/"><u>Understanding the Compliance Hurdles in Cryptocurrency Adoption: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-computings-tutorial-how-to-change-time-and-date-in-windows-through-the-ease-of-use-control-panel/"><u>YL Computing's Tutorial: How to Change Time and Date in Windows Through the Ease of Use Control Panel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>[New] The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-changing-ideas-inspiring-videos-to-enhance-creativity-for-2024/"><u>[Updated] Channel-Changing Ideas Inspiring Videos to Enhance Creativity for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-lenovo-capture-features/"><u>[Updated] Streamlining Lenovo Capture Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-new-age-of-income-generation-for-youtube-visionaries/"><u>2024 Approved The New Age of Income Generation for YouTube Visionaries</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/convert-chm-files-to-secure-pdf-ebooks-at-no-cost-flipbuilders-reliable-conversion-tool/"><u>Convert .CHM Files to Secure PDF eBooks at No Cost - FlipBuilder's Reliable Conversion Tool</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/convert-multiple-pdfs-to-ebooks-free-of-charge-with-epub-on-flipbuilder/"><u>Convert Multiple PDFs to eBooks Free of Charge with ePub on FlipBuilder</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/create-flipbooks-from-pdfs-with-easy-page-edits-and-custom-booklet-design-discover-flipbuildercom/"><u>Create Flipbooks From PDFs with Easy Page Edits & Custom Booklet Design [Discover FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/creating-expansive-flipbooks-simplified-unveiling-the-techniques-at-flipbuildercom/"><u>Creating Expansive Flipbooks Simplified: Unveiling the Techniques at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/download-and-read-your-flipbuildercom-ebooks-anywhere-for-ios-and-android-devices/"><u>Download and Read Your FlipBuilder.com eBooks Anywhere - For iOS & Android Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco X6 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-video-playback-rate-adjustments-in-snapchat/"><u>Mastering Video Playback Rate Adjustments in Snapchat</u></a></li>
 </ul></div>
 
