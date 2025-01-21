@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2025-01-13T16:45:22.515Z
-updated: 2025-01-15T00:30:06.976Z
+date: 2025-01-14T17:39:30.453Z
+updated: 2025-01-20T16:56:48.968Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,22 +58,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-az-capture-tool-full-app-testing-and-options-guide/"><u>[Updated] 2024 Approved AZ Capture Tool Full App Testing & Options Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-lost-opportunities-instant-creative-ban/"><u>[Updated] 2024 Approved Lost Opportunities Instant Creative Ban</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/44cm44k944ov44oi44km44kn44ki566h55cg44ks44kk44oj77ya5q2j44gx44ge44kk44oz44k544oi44o844or44o744ki44oz44kk44oz44k544oi44o844or44gu5luv57we44g44go5yem55cg5oml6264/"><u>「ソフトウェア管理ガイド：正しいインストール・アンインストールの仕組みと処理手順」</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-transfer-your-tunes-4-methods-no-itunes-required-effortless-drag-and-drop-song-sharing-with-your-iphone/"><u>1. Transfer Your Tunes: [4 Methods] No iTunes Required - Effortless Drag-and-Drop Song Sharing with Your iPhone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/bengkel-berkualitas-tertinggi-penempat-file-nas-layak-untuk-windows-111087-dengan-aplikasi-pencadangan-yang-simplest/"><u>Bengkel Berkualitas Tertinggi: Penempat File NAS Layak Untuk Windows 11/10/8/7 Dengan Aplikasi Pencadangan Yang Simplest</u></a></li>
-<li><a href="https://solve-info.techidaily.com/easy-solutions-to-reduce-disk-space-demand-from-volume-shadow-copies-in-windows-11-6-simple-steps/"><u>Easy Solutions to Reduce Disk Space Demand From Volume Shadow Copies in Windows 11 (6 Simple Steps)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/efficiently-setting-up-your-rufus-startup-disk-with-windows-11-tutorials/"><u>Efficiently Setting Up Your Rufus Startup Disk with Windows 11 Tutorials</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effizientes-ubertragen-ihrer-vms-und-daten-von-esxi-auf-eine-usb-festplatte-image-and-file-level/"><u>Effizientes Übertragen Ihrer VMs Und Daten Von ESXi Auf Eine USB-Festplatte - Image & File Level</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/engage-enrich-and-excel-while-listening-to-your-favorite-podcasts/"><u>Engage, Enrich & Excel While Listening to Your Favorite Podcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-installation-failure-resolve-error-code-802/"><u>Fixing Windows 11 Installation Failure: Resolve Error Code 802 #</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50iplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50i+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/procedure-de-sauvegarde-en-douceur-pour-windows-7-comment-le-faire-sur-un-disque-dur-externe/"><u>Procédure De Sauvegarde en Douceur Pour Windows 7 : Comment Le Faire Sur Un Disque Dur Externe</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-the-problem-of-incomplete-ssd-capacity-display-on-windows-11-systems/"><u>Solving the Problem of Incomplete SSD Capacity Display on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/untuk-semua-pengguna-usb-mulailah-jadi-experts-cara-mudah-dan-gantungan-berharga-untuk-memulihkan-folder-dihilang/"><u>Untuk Semua Pengguna USB, Mulailah Jadi Experts! Cara Mudah Dan Gantungan Berharga Untuk Memulihkan Folder Dihilang!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unveiling-vimeo-subscription-perks-for-every-user-type/"><u>Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-picture-and-film-correction-via-3dlut-apps/"><u>[New] Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleashing-creativity-making-discords-profile-pictures-pop/"><u>[New] In 2024, Unleashing Creativity Making Discord's Profile Pictures Pop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-instagram-video-game-to-go-global/"><u>[Updated] Elevating Your Instagram Video Game to Go Global</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[Updated] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-pcs-performance-with-newly-updated-gtx-1650-super-drivers-for-windows-11/"><u>Boost Your PC's Performance with Newly Updated GTX 1650 Super Drivers for Windows 11</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/bootable-windows-image-creator-os/"><u>Bootable Windows Image Creator の代わり: 高性能 OS イメージ化手順 - 詳しいマニュアル</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-bare-metal-backup-and-system-recovery-for-windows-server-2019/"><u>Expert Tips on Bare Metal Backup and System Recovery for Windows Server 2019</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gratis-alternative-zu-chronosync-fur-windows-betriebssysteme-windows-11-10-8-und-7/"><u>Gratis Alternative Zu ChronoSync Für Windows-Betriebssysteme: Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/monetary-milestones-pewdiepies-income-summary/"><u>Monetary Milestones PewDiePie’s Income Summary</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-solutions-for-euro-truck-simulator-2s-pc-crashes/"><u>Optimizing Gameplay: Effective Solutions for Euro Truck Simulator 2'S PC Crashes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/scambia-facilmente-file-ed-elenchi-di-windows-in-soli-due-pc-mediante-metodi-diversi-and-affidabili/"><u>Scambia Facilmente File Ed Elenchi Di Windows in Soli Due PC Mediante Metodi Diversi & Affidabili</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sichere-und-bequeme-speicherung-lokaler-daten-mithilfe-von-dropbox-entdecken-sie-die-zwei-einfachsten-synchronisierungsmethoden/"><u>Sichere Und Bequeme Speicherung Lokaler Daten Mithilfe Von Dropbox: Entdecken Sie Die Zwei Einfachsten Synchronisierungsmethoden!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-7-iphone-to-windows-11-photo-transfer-apps-a-comprehensive-guide/"><u>Top 7 iPhone to Windows 11 Photo Transfer Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/wie-man-itunes-musiksammlungen-nahtlos-mit-apple-music-synchronisiert-erfahren-sie-uber-zwei-schlusseltechniken/"><u>Wie Man iTunes Musiksammlungen Nahtlos Mit Apple Music Synchronisiert - Erfahren Sie Über Zwei Schlüsseltechniken</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728505313964-windows-10/"><u>Windows 10のセキュリティ機能が利用不可解決策４選</u></a></li>
 </ul></div>
 

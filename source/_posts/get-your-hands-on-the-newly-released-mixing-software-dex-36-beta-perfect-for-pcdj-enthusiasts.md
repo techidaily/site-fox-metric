@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2025-01-13T01:07:24.287Z
-updated: 2025-01-14T17:16:00.220Z
+date: 2025-01-18T04:00:28.426Z
+updated: 2025-01-20T16:35:12.190Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-insights-into-whatsapp-sound-calls/"><u>[New] In 2024, Insights Into WhatsApp Sound Calls</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>[New] Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro-for-2024/"><u>[New] Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unmatched-visuals-leading-ps5-compatible-hdmi-21-monitors-for-2024/"><u>[New] Unmatched Visuals Leading PS5 Compatible HDMI 2.1 Monitors for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premier-collectors-list-top-shorts-for-free-online/"><u>[Updated] 2024 Approved Premier Collector's List Top Shorts for FREE Online</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/diagnose-and-eliminate-harmful-programs-triggering-device-errors-with-insights-by-yl-software/"><u>Diagnose and Eliminate Harmful Programs Triggering Device Errors with Insights by YL Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722962246633-enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/explore-the-features-in-progressive-demo-for-pcdj-dex-3-modern-dj-programs-unveiled/"><u>Explore the Features in Progressive Demo for PCDJ DEX 3 - Modern DJ Programs Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-130-music-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia 130 Music Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-keeps-uninstalling-itself-solved/"><u>Nvidia Driver Keeps Uninstalling Itself [Solved]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-maplestory-failed-load-problems/"><u>Resolved: Fixes for MapleStory Failed Load Problems</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/trouble-with-your-scanner-expert-guidance-and-strategies-by-yl-software-professionals/"><u>Trouble with Your Scanner? Expert Guidance and Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-instagrams-voice-customization-features/"><u>[New] 2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterclass-in-instagram-story-downloads-and-creation/"><u>[New] Masterclass in Instagram Story Downloads & Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion-for-2024/"><u>[Updated] Explore the World of Photo-Videos Your Pixiz Companion for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-cutting-edge-pro-audio-interfaces-compatible-with-modern-dj-software-shop-now/"><u>1. Cutting-Edge Pro Audio Interfaces Compatible with Modern DJ Software - Shop Now</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Motorola Moto G14</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-instagram-success-4-looping-video-strategies/"><u>In 2024, Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-guide-when-your-video-wont-edit-cleanly/"><u>In-Depth Guide: When Your Video Won't Edit Cleanly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-screen-recording-made-easy-a-step-by-step-guide-to-using-filmora-scrn/"><u>New 2024 Approved Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-14-multiplayer-co-op-mobile-games-for-enjoying-time-together-on-android/"><u>Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-iphone-savings-in-july-2024-exclusive-offers-from-apple-and-partners-zdnet/"><u>Top iPhone Savings in July 2024: Exclusive Offers From Apple and Partners | ZDNet</u></a></li>
 </ul></div>
 

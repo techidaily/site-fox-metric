@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2025-01-09T16:59:30.823Z
-updated: 2025-01-15T00:42:38.481Z
+date: 2025-01-17T19:57:19.517Z
+updated: 2025-01-21T00:10:37.843Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-creating-a-memorable-tiktok-end-credits/"><u>[New] In 2024, Creating a Memorable TikTok End Credits</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-foundational-handbook-to-youtube-business-success/"><u>[New] The Foundational Handbook to YouTube Business Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-erase-the-obvious-techniques-for-masked-youtube-content/"><u>[Updated] 2024 Approved Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-apples-podcast-library-a-download-guide/"><u>[Updated] Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-a-compreehsive-review-of-the-ultra-hd-actioncamera/"><u>2024 Approved A Compreehsive Review of the Ultra-HD ActionCamera</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>2024 Approved Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
-<li><a href="https://win-guides.techidaily.com/are-your-flipbuilder-e-books-ready-for-the-ipad-screen-find-out-here/"><u>Are Your FlipBuilder E-Books Ready for the iPad Screen? Find Out Here!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-guide-on-assessing-sql-link-establishment-successfully/"><u>How-To Guide on Assessing SQL Link Establishment Successfully</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/learn-how-to-generate-festive-season-wishes-with-no-cost-step-by-step-diy-video-card-tutorial/"><u>Learn How To Generate Festive Season Wishes With No Cost - Step-by-Step DIY Video Card Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/snapping-secrets-the-invisible-way-to-save-messages-from-snapchat/"><u>Snapping Secrets: The Invisible Way to Save Messages From Snapchat</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/streamline-your-apps-with-modularmerge-components-the-ultimate-unification-tool/"><u>Streamline Your Apps with ModularMerge Components: The Ultimate Unification Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>[New] 2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>[New] In 2024, 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios/"><u>[Updated] 2024 Approved Elevate Your Virtual Identity Expert Tips for Memorable FB Bios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-inclusive-dynamic-movement-examination/"><u>2024 Approved Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-illusions-vr-storytelling/"><u>2024 Approved Interactive Illusions VR Storytelling</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adjusting-data-in-the-microsoft-installer-summary-tab-a-comprehensive-guide/"><u>Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-beginners-manual-on-utilizing-xbox-game-pass-ultimate-for-cloud-gaming/"><u>Comprehensive Beginner's Manual on Utilizing Xbox Game Pass Ultimate for Cloud Gaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-overcome-elgato-hd60-driver-errors-a-speedy-troubleshooting-tutorial/"><u>Easily Overcome Elgato HD60 Driver Errors: A Speedy Troubleshooting Tutorial</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-methods-to-take-screenshots-on-acer-tablets-and-laptops-comprehensive-guide/"><u>Easy Methods to Take Screenshots on Acer Tablets & Laptops - Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-navigation-tips-navigating-through-the-keyboard-shortcut-window/"><u>Effortless Navigation Tips: Navigating Through the Keyboard Shortcut Window</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhancing-hyperlink-management-mastering-the-edit-link-dialog/"><u>Enhancing Hyperlink Management: Mastering the Edit Link Dialog</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-12r-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 12R to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/triumph-in-technicality-smooth-run-for-nvidia-nforce-630a/"><u>Triumph in Technicality: Smooth Run for Nvidia, nForce 630A</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwind-twitch-feeds-immediately-for-2024/"><u>Unwind Twitch Feeds Immediately for 2024</u></a></li>
 </ul></div>
 

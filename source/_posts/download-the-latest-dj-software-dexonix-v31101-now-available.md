@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!"
-date: 2025-01-09T19:20:44.508Z
-updated: 2025-01-14T20:26:06.484Z
+date: 2025-01-13T22:09:16.613Z
+updated: 2025-01-20T21:17:21.249Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ _**Note:** A DEX 3 update that will include new features will be posted for down
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.2
@@ -56,7 +56,7 @@ _**DEX 3.11.0.2 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our the latest update to our DEX 3 **DJ Software**, or the included support for the **Pioneer DDJ-SX3 DJ Controller**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,22 +78,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/dex31102-update.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-finding-the-facebook-in-niche-driven-instagram-realms/"><u>[New] Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-youtubes-power-for-personal-image-amplification-for-2024/"><u>[New] Harnessing YouTube's Power for Personal Image Amplification for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-video-quarterly-watch/"><u>[New] Viral Video Quarterly Watch</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-worthy-content-crafting-episodes-that-viewers-love/"><u>Binge-Worthy Content Crafting Episodes That Viewers Love</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/captivating-backdrop-graphics-featuring-reverse-flash-eyes-images-and-wallpapers-from-yl-computing/"><u>Captivating Backdrop Graphics Featuring Reverse Flash Eyes - Images and Wallpapers From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/download-the-latest-karaoke-program-pc-dj-version-085865-free-trial/"><u>Download the Latest Karaoke Program - PC DJ Version 0.8.5865 Free Trial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-default-registry-file-locations-insights-from-yl-computing/"><u>Exploring Default Registry File Locations: Insights From YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016035534-fortnite-sound-troubles-heres-how-to-get-your-mic-working-perfectly-again/"><u>Fortnite Sound Troubles? Here's How to Get Your Mic Working Perfectly Again</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-fortify-your-computer-against-malware-and-viruses-expert-advice-from-yl-software/"><u>How to Fortify Your Computer Against Malware and Viruses - Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/personalizing-your-windows-10-start-menu-a-step-by-step-guide/"><u>Personalizing Your Windows 10 Start Menu: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adjusting-your-firewall-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Firewall Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-app-disposal-on-windows-11-93-chars/"><u>Streamlining App Disposal on Windows 11 (93 Chars)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Latest Computer Components</u></a></li>
-<li><a href="https://discover-best.techidaily.com/top-3-gratis-video-herunterladern-fur-facebook-auf-windows-10-das-beste-aus-dem-jahr-2020/"><u>Top 3 Gratis Video Herunterladern Für Facebook Auf Windows 10 - Das Beste Aus Dem Jahr 2020</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-guide-fixing-incorrect-printouts-yl-computings-expert-advice/"><u>Troubleshooting Guide: Fixing Incorrect Printouts - YL Computing's Expert Advice</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-resolving-infinite-tower-outposts-pc-game-crash-issues/"><u>Ultimate Guide: Resolving 'Infinite Tower: Outpost's PC Game Crash Issues</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-the-secrets-of-crypto-trends-expert-techniques-in-technical-analysis-by-yl-software-solutions/"><u>Unlock the Secrets of Crypto Trends: Expert Techniques in Technical Analysis by YL Software Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-androvid-video-editor-complete-review-2023/"><u>[New] AndroVid Video Editor – Complete Review 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-visuals-top-18-camcorders-for-4k-content-for-2024/"><u>[New] Ultimate Visuals - Top 18 Camcorders for 4K Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>[Updated] 2024 Approved From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-building-a-successful-livestream-empire-youtube-edition/"><u>2024 Approved Building a Successful Livestream Empire YouTube Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-harmonizing-designs-using-color-principles-wisely/"><u>2024 Approved Harmonizing Designs Using Color Principles Wisely</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-computer-speed-with-expert-cleanup-techniques-unlock-performance-secrets-at-yl-software/"><u>Boost Your Computer Speed with Expert Cleanup Techniques – Unlock Performance Secrets at YL Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/dynamic-disk-cloner-de-windows-7-copie-rapide-et-efficace-vers-un-disque-dur-ou-ssd/"><u>Dynamic Disk Cloner De Windows 7 : Copie Rapide Et Efficace Vers Un Disque Dur Ou SSD</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-methods-for-administrative-access-and-management-of-user-accounts-within-yl-softwares-control-center/"><u>Exploring Methods for Administrative Access and Management of User Accounts Within YL Software's Control Center</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-influence-of-the-opium-conflict-on-chinese-heritage-with-yl-technology-solutions/"><u>Exploring the Influence of the Opium Conflict on Chinese Heritage with YL Technology Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/free-dj-tools-update-get-the-latest-dex-32-interface-with-elegant-vertical-oscilloscope-designs-perfect-for-producers/"><u>Free DJ Tools Update: Get the Latest Dex 3.2 Interface with Elegant Vertical Oscilloscope Designs – Perfect for Producers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/legal-battles-in-tech-how-sarah-silverman-joins-the-fight-againartists-vs-ai-giants/"><u>Legal Battles in Tech: How Sarah Silverman Joins the Fight Again#Artists Vs. AI Giants</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/optimizing-your-computers-ram-usage-tips-from-yl-tech-experts/"><u>Optimizing Your Computer's RAM Usage - Tips From YL Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-samsung-galaxy-f34-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-common-issues-with-your-malfunctioning-graphics-card-expert-tips-from-yl-computing/"><u>Resolving Common Issues with Your Malfunctioning Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/temeculas-premier-disc-jockey-mastery-with-premium-dj-featured-dex-3-system/"><u>Temecula's Premier Disc Jockey Mastery with Premium DJ Featured DEX 3 System</u></a></li>
 </ul></div>
 
