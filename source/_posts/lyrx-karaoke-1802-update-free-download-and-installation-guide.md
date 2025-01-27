@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2025-01-17T19:57:19.517Z
-updated: 2025-01-21T00:10:37.843Z
+date: 2025-01-26T02:43:13.642Z
+updated: 2025-01-27T01:42:36.010Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>[New] 2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>[New] In 2024, 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios/"><u>[Updated] 2024 Approved Elevate Your Virtual Identity Expert Tips for Memorable FB Bios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-inclusive-dynamic-movement-examination/"><u>2024 Approved Inclusive Dynamic Movement Examination</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-illusions-vr-storytelling/"><u>2024 Approved Interactive Illusions VR Storytelling</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/adjusting-data-in-the-microsoft-installer-summary-tab-a-comprehensive-guide/"><u>Adjusting Data in the Microsoft Installer Summary Tab: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-beginners-manual-on-utilizing-xbox-game-pass-ultimate-for-cloud-gaming/"><u>Comprehensive Beginner's Manual on Utilizing Xbox Game Pass Ultimate for Cloud Gaming</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-overcome-elgato-hd60-driver-errors-a-speedy-troubleshooting-tutorial/"><u>Easily Overcome Elgato HD60 Driver Errors: A Speedy Troubleshooting Tutorial</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-methods-to-take-screenshots-on-acer-tablets-and-laptops-comprehensive-guide/"><u>Easy Methods to Take Screenshots on Acer Tablets & Laptops - Comprehensive Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-use-of-element-attributes-in-xml-tips-and-tricks-for-navigating-the-attribute-settings-tab/"><u>Effective Use of Element Attributes in XML - Tips and Tricks for Navigating the Attribute Settings Tab</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-navigation-tips-navigating-through-the-keyboard-shortcut-window/"><u>Effortless Navigation Tips: Navigating Through the Keyboard Shortcut Window</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancing-hyperlink-management-mastering-the-edit-link-dialog/"><u>Enhancing Hyperlink Management: Mastering the Edit Link Dialog</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-navigate-and-utilize-the-registration-tab-effectively/"><u>How to Navigate and Utilize the Registration Tab Effectively</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-12r-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 12R to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/triumph-in-technicality-smooth-run-for-nvidia-nforce-630a/"><u>Triumph in Technicality: Smooth Run for Nvidia, nForce 630A</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unwind-twitch-feeds-immediately-for-2024/"><u>Unwind Twitch Feeds Immediately for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instructions-clearing-stored-videos-on-youtubes-watchlater/"><u>[New] Instructions Clearing Stored Videos on YouTube's Watchlater</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-combining-multiple-iphone-photos/"><u>[New] The Art of Combining Multiple iPhone Photos</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/determining-device-compatibility-with-your-pcs-hardware-insights-from-yl-computing/"><u>Determining Device Compatibility with Your PC's Hardware: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-learn-how-to-compress-files-and-folders-with-simple-steps-yl-solutions/"><u>Easy Guide: Learn How to Compress Files and Folders with Simple Steps - YL Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-resolving-typical-pc-issues-guidance-from-yl-computing-experts/"><u>Effective Strategies for Resolving Typical PC Issues - Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhanced-dj-controllers-get-your-updated-denon-mc6000-mk-ii-dex-3-maps-now/"><u>Enhanced DJ Controllers: Get Your Updated Denon MC6000 Mk II DEX 3 Maps Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-zoom-visuals-top-techniques-for-2024/"><u>Fine-Tuning Zoom Visuals Top Techniques for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-craft-custom-protective-sleeves-for-your-flipbook-creations-with-flipbuilder-tutorial/"><u>How To Craft Custom Protective Sleeves For Your FlipBook Creations With FlipBuilder Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-audio-repairs-with-yl-computings-pro-tips-uncover-the-secrets-to-perfect-sounds/"><u>Mastering Audio Repairs with YL Computing's Pro Tips - Uncover the Secrets to Perfect Sounds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quad-channel-ddr4-team-group-sets-unprecedented-readwrite-speed-world-record/"><u>Quad-Channel DDR4 Team Group Sets Unprecedented Read/Write Speed World Record</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-windows-file-recovery-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Windows File Recovery Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/speed-up-your-pc-by-turning-off-unused-programs-and-services-expert-advice-for-optimal-functionality-by-yl-software-experts/"><u>Speed Up Your PC by Turning Off Unused Programs and Services: Expert Advice for Optimal Functionality by YL Software Experts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-origins-of-chinas-fragmentation-during-ming-dynasty-a-comprehensive-analysis-by-yl-computing-yl-software/"><u>The Origins of China's Fragmentation During Ming Dynasty: A Comprehensive Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-11-task-managers-perfect-for-organizing-daily-chores/"><u>Top 6 Windows 11 Task Managers Perfect for Organizing Daily Chores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-audio-experience-beyond-bose-and-sonos-discovered-uncover-the-ultimate-speaker-setup/"><u>Top-Tier Audio Experience Beyond Bose & Sonos Discovered - Uncover the Ultimate Speaker Setup</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-techniques-for-windows-sound-problems-a-guide-by-professionals-at-yl-computing/"><u>Troubleshooting Techniques for Windows Sound Problems - A Guide by Professionals at YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-best-in-reading-technology-our-detailed-look-at-nook-glowlight-plus-from-barnes-and-noble/"><u>Unveiling the Best in Reading Technology: Our Detailed Look at Nook Glowlight Plus From Barnes & Noble</u></a></li>
 </ul></div>
 

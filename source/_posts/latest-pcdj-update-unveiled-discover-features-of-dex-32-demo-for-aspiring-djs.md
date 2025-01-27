@@ -1,7 +1,7 @@
 ---
 title: "Latest PCDJ Update Unveiled: Discover Features of DEX 3.2 Demo for Aspiring DJs"
-date: 2025-01-18T00:30:15.068Z
-updated: 2025-01-21T02:05:53.757Z
+date: 2025-01-19T21:27:02.372Z
+updated: 2025-01-26T23:14:55.933Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Here’s an overview of what is already set to launch in DEX 3.2, although we ma
 As always, we’ll email DEX 3 customers when the update has been published for download. Keep checking the blog for addition information and tutorials regarding new features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/12/dex32-blogcoverimage-templ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-techniques-for-snagging-switch-gaming-videos/"><u>[New] 2024 Approved Techniques for Snagging Switch Gaming Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlined-savings-for-cloud-storage-costs-analysis/"><u>[New] Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-comment-eliminer-definitivement-un-fichier-de-cle-usb/"><u>1. Comment Éliminer Définitivement Un Fichier De Clé USB ?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-ultimate-selection-of-excellent-apps-compatible-with-ios-8/"><u>Discover the Ultimate Selection of Excellent Apps Compatible with iOS 8</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-film-techniques-on-youtube-by-future-visionaries/"><u>Essential Film Techniques on YouTube by Future Visionaries</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M14 5G Phone?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-seamless-screen-saving-on-iphone/"><u>In 2024, Seamless Screen Saving on iPhone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-blue-bands-promise-tips-for-longevity/"><u>In 2024, The Blue Bands Promise Tips for Longevity</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolution-steps-for-can-not-respond-to-phone-calls-problem-on-iwatch-by-apple/"><u>Resolution Steps for 'Can Not Respond To Phone Calls' Problem on iWatch by Apple</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-why-and-how-to-get-your-onedrive-shared-folders-to-appear-in-file-explorer/"><u>Step-by-Step Guide: Why and How To Get Your OneDrive Shared Folders to Appear in File Explorer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-trending-stock-images-and-behind-the-scenes-stories-for-2024/"><u>Top Trending Stock Images & Behind-the-Scenes Stories for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/wiederherstellung-von-kurznotizen-eine-schrittweise-anleitungsreihe/"><u>Wiederherstellung Von Kurznotizen - Eine Schrittweise Anleitungsreihe</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/windowsvmware-pc/"><u>WindowsオペレーティングシステムのVMware環境への移行: 実機PCから仮想マシンへ</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728504875451-windows-1011/"><u>プログレスが停止したWindows 10/11初期化:完了に至らない状況を修正する</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-chucklecanvas-jokesinframes/"><u>[New] 2024 Approved ChuckleCanvas JokesInFrames</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-celebrity-fleeting-frame-revisit-for-2024/"><u>[Updated] Celebrity Fleeting Frame Revisit for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-thrive-after-facebooks-content-algorithm-overhaul/"><u>[Updated] In 2024, How to Thrive After Facebook's Content Algorithm Overhaul</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-perfect-your-movie-watching-with-added-captions-on-windows-media-player/"><u>[Updated] In 2024, Perfect Your Movie Watching with Added Captions on Windows Media Player</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-no-cost-screen-capture-apps-for-hd-video-broadcasting-across-pc-and-mac-devices/"><u>Best No-Cost Screen Capture Apps for HD Video Broadcasting Across PC and MAC Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-steps-to-move-music-files-from-iphone-onto-a-mac-computer/"><u>Easy Steps to Move Music Files From iPhone Onto a Mac Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-5-android-screenshot-and-video-tools-reviewed/"><u>In 2024, Superior 5 Android Screenshot and Video Tools Reviewed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-asus-rog-phone-8-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Asus ROG Phone 8 Pro Users</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-java-development-opening-the-include-path-files-interface/"><u>Mastering Java Development: Opening the 'Include Path Files' Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-tips-for-removing-podcast-content-from-your-ios-device-efficiently/"><u>Quick Tips For Removing Podcast Content From Your iOS Device Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-problems-solved-in-firefox-browser-update/"><u>Sound Problems Solved in Firefox Browser Update</u></a></li>
 </ul></div>
 

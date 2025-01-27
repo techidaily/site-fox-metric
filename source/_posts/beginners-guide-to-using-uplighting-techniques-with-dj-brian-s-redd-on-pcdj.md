@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide to Using UpLighting Techniques with DJ Brian S Redd on PCDJ
-date: 2025-01-17T01:45:35.394Z
-updated: 2025-01-21T00:54:38.015Z
+date: 2025-01-25T18:38:07.053Z
+updated: 2025-01-27T00:06:16.515Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ If you’re not already considering adding an uplighting package to your Mobile 
 ##### Getting Started With UpLighting Part 1 And 2 with Brian S Redd
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/11/uplighting-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xplore-sites-where-you-can-procure-youtube-affiliate-partnerships/"><u>[New] Explore Sites Where You Can Procure Youtube Affiliate Partnerships</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/camera-lenses-for-youtube-for-2024/"><u>Best Camera Lenses for YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-new-ideas-with-these-5-cutting-edge-ai-writers-for-inspiration/"><u>Discover New Ideas with These 5 Cutting-Edge AI Writers for Inspiration</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-steps-to-move-music-files-from-iphone-onto-a-mac-computer/"><u>Easy Steps to Move Music Files From iPhone Onto a Mac Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/envisioning-gpt-5-20-the-top-new-capabilities-users-are-seeking/"><u>Envisioning GPT-5 2.0: The Top New Capabilities Users Are Seeking</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-modify-and-edit-a-json-configuration-file-easily/"><u>How to Modify and Edit a JSON Configuration File Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-note-50-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-15-top-rated-youtube-downloaders-your-offline-viewing-solution/"><u>In 2024, 15 Top-Rated YouTube Downloaders - Your Offline Viewing Solution</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-storing-session-videos-in-gh/"><u>In 2024, Storing Session Videos in GH</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/mastering-java-development-opening-the-include-path-files-interface/"><u>Mastering Java Development: Opening the 'Include Path Files' Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/quick-tips-for-removing-podcast-content-from-your-ios-device-efficiently/"><u>Quick Tips For Removing Podcast Content From Your iOS Device Efficiently</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/save-pages-without-paying-discover-the-ultimate-guide-to-free-pdf-conversion-1-techniques-revealed/"><u>Save Pages Without Paying: Discover the Ultimate Guide to Free PDF Conversion - #1 Techniques Revealed!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-taking-screen-photos-with-an-alcatel-one-touch-smartphone/"><u>Step-by-Step Instructions for Taking Screen Photos with an Alcatel One Touch Smartphone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/the-ultimate-selection-number-one-photo-restoration-tools/"><u>The Ultimate Selection: Number One Photo Restoration Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-android-call-issues/"><u>Troubleshooting Guide: Resolving Android Call Issues</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/warum-ist-der-hevchandampx20acd65-codec-oft-langsam-erkunden-sie-moglichkeiten-zur-beschleunigung-des-encodierungsprozesses/"><u>Warum Ist Der HEVC/H.^&amp;#x20AC;d65-Codec Oft Langsam? Erkunden Sie Möglichkeiten Zur Beschleunigung Des Encodierungsprozesses!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-video-framing-technique-adding-bb-and-letterbox-overlays-to-fb/"><u>[New] 2024 Approved Video Framing Technique Adding BB and Letterbox Overlays to FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-next-gen-webcams-top-5-featuring-premium-audio-capabilities/"><u>[New] Next-Gen Webcams Top 5 Featuring Premium Audio Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-remote-comic-genius-app/"><u>[Updated] In 2024, Remote Comic Genius App</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>[Updated] In 2024, Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ideal-15-color-filters-for-improving-gopro-shots/"><u>2024 Approved Ideal 15 Color Filters for Improving GoPro Shots</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/advanced-techniques-controlling-pcdj-deck-3-using-timecode-vinyl/"><u>Advanced Techniques: Controlling PCDJ Deck 3 Using Timecode Vinyl</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/christian-grey-theme-backgrounds-and-digital-artwork-premium-collections-by-yl-computing/"><u>Christian Grey Theme Backgrounds & Digital Artwork - Premium Collections by YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-fix-guide-resolve-your-scanner-errors-with-yl-computings-advice-yl-software/"><u>Easy Fix Guide: Resolve Your Scanner Errors with YL Computing's Advice (YL Software)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-techniques-to-boost-your-hard-drive-efficiency-according-to-yl-software-expertise/"><u>Effective Techniques to Boost Your Hard Drive Efficiency, According to YL Software Expertise</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fixing-sound-card-problems-on-your-computer-expert-advice-by-yl-software/"><u>Fixing Sound Card Problems on Your Computer: Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/protect-your-gpu-effective-strategies-to-avoid-graphics-card-damage-tips-from-yl-computing/"><u>Protect Your GPU: Effective Strategies to Avoid Graphics Card Damage - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/radiant-realities-setting-up-for-standout-videos/"><u>Radiant Realities Setting Up for Standout Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-your-sound-problems-how-to-fix-non-functional-audio-gear-with-yl-software-tips/"><u>Solving Your Sound Problems: How to Fix Non-Functional Audio Gear with YL Software Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-list-innovative-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters-for-2024/"><u>The Ultimate List Innovative Youtube Channel Titles For Blogging & Filming (No More than 156 Characters) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unsuccessful-dpc-shift-glitch-on-windows-systems-solution-provided/"><u>Troubleshooting the Unsuccessful DPC Shift Glitch on Windows Systems [Solution Provided]</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/which-windows-editions-come-with-pre-installed-windows-defender-protection-insights-by-yl-computing/"><u>Which Windows Editions Come with Pre-Installed Windows Defender Protection - Insights by YL Computing</u></a></li>
 </ul></div>
 

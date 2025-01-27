@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2025-01-15T04:12:00.398Z
-updated: 2025-01-21T02:06:51.709Z
+date: 2025-01-23T18:47:12.402Z
+updated: 2025-01-26T20:12:06.750Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,18 +73,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/2-proven-ways-to-increase-youtube-views/"><u>[New] 12 Proven Ways to Increase YouTube Views</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-estimating-total-seconds-a-20mb-sized-video-for-2024/"><u>[New] Estimating Total Seconds A 20MB-Sized Video for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-celebrating-creators-top-notch-otu-designs/"><u>[New] In 2024, Celebrating Creators Top-Notch OTU Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-choice-of-5-fpv-vision-technology/"><u>2024 Approved Expert Choice of 5 FPV Vision Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapshot-selection-unveiling-the-top-10-camera-lenses/"><u>2024 Approved Snapshot Selection Unveiling the Top 10 Camera Lenses</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guia-paso-a-paso-encriptar-un-disco-duro-exterior-con-windows-11-metodos-faciles-de-hacer/"><u>Guía Paso a Paso: Encriptar Un Disco Duro Exterior Con Windows 11 - Métodos Fáciles De Hacer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-quickly-migrate-os-from-hard-drive-to-m2-ssd-with-step-by-step-instructions-for-windows-users/"><u>How to Quickly Migrate OS From Hard Drive to M.2 SSD with Step-by-Step Instructions for Windows Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-12r-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus 12R Device SIM</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-best-alternatives-to-pinnacle-studio/"><u>Mac Users, Rejoice! Best Alternatives to Pinnacle Studio</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/preserve-your-files-while-restoring-your-usb-with-windows-command-line-tools/"><u>Preserve Your Files While Restoring Your USB with Windows Command Line Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unboxing-the-future-with-meta-quest-3-the-complete-virtual-reality-experience-reviewed/"><u>Unboxing the Future with Meta Quest 3 – The Complete Virtual Reality Experience Reviewed</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/wd-laufwerke-datenwiederherstellung-professionelle-losungen-finden/"><u>WD Laufwerke Datenwiederherstellung - Professionelle Lösungen Finden</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-youtube-sharing-with-google-account-accessibility-for-2024/"><u>[New] Streamlining YouTube Sharing with Google Account Accessibility for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-pathway-to-viral-stardom-explained-for-2024/"><u>[Updated] Facebook's Pathway to Viral Stardom Explained for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-vista/"><u>上質スクラッチから始めるWindows Vistaクリーンアップ:信頼性の高いツールと効果的なセキュリティ対策</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/aomei-backupper-downloader-direkt-vom-microsoft-store-windows-adk-laden/"><u>AOMEI Backupper-Downloader: Direkt Vom Microsoft Store | Windows ADK Laden</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cerseis-calls-top-15-sites-for-hearing-heroes-tts-files-for-2024/"><u>Cersei's Calls Top 15 Sites for Hearing Heroes' TTS Files for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/creer-des-diaporamas-en-un-clic-logiciels-gratuits-et-performants-pour-les-presentations-en-202/"><u>Créer Des Diaporamas en Un Clic: Logiciels Gratuits Et Performants Pour Les Présentations en 202#!/</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-guide-fixing-issues-when-windows-cant-locate-a-file/"><u>Expert Guide: Fixing Issues When Windows Can't Locate a File</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fixing-inaccessible-drive-issues-with-the-d-volume-in-windows-10-environments/"><u>Fixing Inaccessible Drive Issues with the 'D' Volume in Windows 10 Environments</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/il-superior-soluzione-di-backup-locale-per-windows-10-una-sostituzione-ideale-alla-dell-datasafe/"><u>Il Superior Soluzione Di Backup Locale per Windows 10: Una Sostituzione Ideale Alla Dell DataSafe</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unraveling-the-secrets-of-inshot-editing-excellence/"><u>In 2024, Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-viral-flair-identifying-powerful-tags-for-youtube-short-success/"><u>In 2024, Viral Flair Identifying Powerful Tags for YouTube Short Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/mastering-the-underworld-of-pcs-explore-5-essential-terminal-commands-for-enhanced-system-control-on-windows/"><u>Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/retrieving-your-missing-video-files-from-pc-and-iphone-systems/"><u>Retrieving Your Missing Video Files From PC and iPhone Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-connect-your-iphone-with-your-samsung-tv-expert-tips-and-tricks/"><u>Seamlessly Connect Your iPhone with Your Samsung TV - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solve-your-usb-drive-access-issues-why-it-wont-open-on-windows/"><u>Solve Your USB Drive Access Issues: Why It Won't Open on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2025-01-18T04:00:28.426Z
-updated: 2025-01-20T16:35:12.190Z
+date: 2025-01-21T16:29:05.017Z
+updated: 2025-01-26T16:43:29.112Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-instagrams-voice-customization-features/"><u>[New] 2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-masterclass-in-instagram-story-downloads-and-creation/"><u>[New] Masterclass in Instagram Story Downloads & Creation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion-for-2024/"><u>[Updated] Explore the World of Photo-Videos Your Pixiz Companion for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-cutting-edge-pro-audio-interfaces-compatible-with-modern-dj-software-shop-now/"><u>1. Cutting-Edge Pro Audio Interfaces Compatible with Modern DJ Software - Shop Now</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/boost-your-computers-performance-by-clearing-unused-files-and-programs-yl-system-tweaks/"><u>Boost Your Computer's Performance by Clearing Unused Files & Programs - YL System Tweaks</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-determine-your-crypto-asset-value-essential-data-required-insights-by-yl-computing/"><u>How to Determine Your Crypto Asset Value: Essential Data Required - Insights by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Motorola Moto G14</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-instagram-success-4-looping-video-strategies/"><u>In 2024, Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-depth-guide-when-your-video-wont-edit-cleanly/"><u>In-Depth Guide: When Your Video Won't Edit Cleanly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-screen-recording-made-easy-a-step-by-step-guide-to-using-filmora-scrn/"><u>New 2024 Approved Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-wealth-common-crypto-investment-traps-explored-by-yl-software-experts/"><u>Protect Your Digital Wealth: Common Crypto Investment Traps Explored by YL Software Experts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/top-14-multiplayer-co-op-mobile-games-for-enjoying-time-together-on-android/"><u>Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-iphone-savings-in-july-2024-exclusive-offers-from-apple-and-partners-zdnet/"><u>Top iPhone Savings in July 2024: Exclusive Offers From Apple and Partners | ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-selecting-gear-for-youtube-a-filmmakers-essentials/"><u>[New] In 2024, Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-building-your-youtube-empire-kit-overview-for-2024/"><u>[Updated] Building Your YouTube Empire Kit Overview for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-messenger-video-guide-dimensions-file-type-elapsed/"><u>[Updated] In 2024, Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-v29e-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-utiliser-la-commande-cmd-pour-resoudre-les-problemes-sous-windows-11/"><u>Comment Utiliser La Commande CMD Pour Résoudre Les Problèmes Sous Windows 11?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-chatgpt-a-guide-to-10-custom-tweaks/"><u>Elevating ChatGPT: A Guide to 10 Custom Tweaks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-on-bare-metal-backup-and-system-recovery-for-windows-server-2019/"><u>Expert Tips on Bare Metal Backup and System Recovery for Windows Server 2019</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gratis-alternative-zu-chronosync-fur-windows-betriebssysteme-windows-11-10-8-und-7/"><u>Gratis Alternative Zu ChronoSync Für Windows-Betriebssysteme: Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-video-editing-easy-download-videoleap-on-your-macbook-now/"><u>New In 2024, Make Video Editing Easy Download Videoleap on Your MacBook Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-unwanted-screen-twinkle-a-comprehensive-guide/"><u>Say Goodbye to Unwanted Screen Twinkle – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/sichere-und-bequeme-speicherung-lokaler-daten-mithilfe-von-dropbox-entdecken-sie-die-zwei-einfachsten-synchronisierungsmethoden/"><u>Sichere Und Bequeme Speicherung Lokaler Daten Mithilfe Von Dropbox: Entdecken Sie Die Zwei Einfachsten Synchronisierungsmethoden!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-90-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 90 Pro Device</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-programs-for-creating-perfect-copies-of-your-usb-drives/"><u>Top-Rated Programs for Creating Perfect Copies of Your USB Drives</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-multiple-vcenter-servers/"><u>Troubleshooting Guide: Resolving Connection Issues with Multiple vCenter Servers</u></a></li>
+<li><a href="https://win-great.techidaily.com/warum-machen-deine-speichermedien-gerausche-und-starten-nicht-sofortige-losungen/"><u>Warum Machen Deine Speichermedien Geräusche Und Starten Nicht? Sofortige Lösungen!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-11-erkennt-m2-ssd-nicht-problemlosungsstrategien-und-werkzeuge-zur-fehlerbehebung/"><u>Windows 11 Erkennt M.2 SSD Nicht - Problemlösungsstrategien Und Werkzeuge Zur Fehlerbehebung</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/thoyl-alkhadm-alasasy-3-khtoat-trhyl-il-khadm-gdyd/"><u>تحويل الخادم الأساسي: 3 خطوات ترحيل إلى خادم جديد</u></a></li>
 </ul></div>
 
