@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Dexonix v3.11.0.1 - Now Available!"
-date: 2025-01-24T02:15:19.870Z
-updated: 2025-01-26T17:47:01.287Z
+date: 2025-02-06T20:01:10.011Z
+updated: 2025-02-09T00:52:44.714Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ _**Note:** A DEX 3 update that will include new features will be posted for down
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed and Updated in DEX 3.11.0.2
@@ -56,7 +56,7 @@ _**DEX 3.11.0.2 Install Instructions:** With your existing version of DEX 3 clos
 _Have questions about our the latest update to our DEX 3 **DJ Software**, or the included support for the **Pioneer DDJ-SX3 DJ Controller**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/dex31102-update.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-a-compreayers-guide-to-capturing-console-games-on-a-computer-for-2024/"><u>[New] A Compreayer's Guide to Capturing Console Games on a Computer for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/5-mannertechniques-to-reclaim-space-in-your-trash-can-by-removing-unwanted-photos/"><u>5 Mannertechniques to Reclaim Space in Your Trash Can by Removing Unwanted Photos</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/antimalware-service-executable100/"><u>Antimalware Service Executableのディスク使用率が100%に達した場合：トラブルシューティングガイド</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comment-deplacer-votre-dossier-mesdocuments-dans-lexplorateur-de-fichiers-de-windows/"><u>Comment Déplacer Votre Dossier 'MesDocuments' Dans L'Explorateur De Fichiers De Windows?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comment-effacement-en-serie-de-votre-windows-11-vers-une-cle-usb-ou-hdd-externe-le-guide-complet/"><u>Comment Effacement en Série De Votre Windows 11 Vers Une Clé USB Ou HDD Externe : Le Guide Complet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-1018-printer-drivers-step-by-step-guide/"><u>Download HP LaserJet 1018 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-advanced-communication-chrome-add-on-for-gpt/"><u>Leap Into Advanced Communication - Chrome Add-On for GPT</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/losung-fur-die-nicht-funktionierende-taskleiste-in-windows-11-nach-upgrade-entdecken-sie-5-effektive-methoden/"><u>Lösung Für Die Nicht Funktionierende Taskleiste in Windows 11 Nach Upgrade: Entdecken Sie 5 Effektive Methoden</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app/"><u>New 2024 Approved The Ultimate Guide to Audio Length Reduction in Apples iMovie App</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/restoring-specific-files-from-a-windows-backup-a-two-step-guide/"><u>Restoring Specific Files From a Windows Backup: A Two-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/soluciones-rapidas-para-quitar-ojos-rojos-en-fotografias-usando-movavis-tools/"><u>Soluciones Rápidas Para Quitar Ojos Rojos en Fotografías Usando Movavi's Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tutorial-on-graphics-card-upgrades-for-gamers-and-professionals/"><u>The Ultimate Tutorial on Graphics Card Upgrades for Gamers and Professionals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mxf-wav-movavi/"><u>오피스에서 비가 없는 MXF 소유권을 WAV로 바꿉니까? Movavi를 사용한다!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mellow-music-volume-control-for-mac-and-windows/"><u>[New] 2024 Approved Mellow Music Volume Control for Mac & Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech/"><u>[New] Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>[Updated] In 2024, Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing/"><u>Boost Your PC's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/downloadable-ds-3-4k-hd-yl-computing/"><u>Downloadable DS 지도 3 크로스백 4K HD 배경화면 - YL Computing 유토ピア</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/overcoming-lag-tips-for-a-smooth-run-after-system-updates-by-professionals-at-yl-software/"><u>Overcoming Lag: Tips for a Smooth Run After System Updates by Professionals at YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-connection-problems-expert-guide-on-fixing-external-device-woes-in-windows-yl-software/"><u>Solving Connection Problems: Expert Guide on Fixing External Device Woes in Windows - YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288999239-winx-dvd-copy-pro-dvddvdiso/"><u>ダウンロードできるWinX DVD Copy Pro - 最新の公式ソフトウェアで、簡単なDVDからDVD/ISOへ変換</u></a></li>
 </ul></div>
 

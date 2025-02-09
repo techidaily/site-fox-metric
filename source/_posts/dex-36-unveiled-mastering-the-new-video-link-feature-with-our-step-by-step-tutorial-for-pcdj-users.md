@@ -1,7 +1,7 @@
 ---
 title: "DEX 3.6 Unveiled: Mastering the New 'Video Link' Feature with Our Step-by-Step Tutorial for PCDJ Users"
-date: 2025-01-26T01:36:32.539Z
-updated: 2025-01-27T02:07:45.349Z
+date: 2025-02-05T23:40:58.384Z
+updated: 2025-02-08T22:05:23.267Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,19 +57,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-proven-palette-changes-methods/"><u>[New] In 2024, Proven Palette Changes Methods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-slow-motion-symphony-a-comprehensive-app-analysis-2024/"><u>[Updated] Slow Motion Symphony A Comprehensive App Analysis, 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bring-rainbow-six-siege-back-to-life-overcome-launch-challenges-with-these-effective-fixes/"><u>Bring Rainbow Six Siege Back to Life - Overcome Launch Challenges with These Effective Fixes!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-configurar-una-copia-de-seguridad-automatica-en-su-dispositivo/"><u>Cómo Configurar Una Copia De Seguridad Automática en Su Dispositivo</u></a></li>
-<li><a href="https://techidaily.com/empower-your-website-with-cookiebot-technology-the-ultimate-tracking-solution/"><u>Empower Your Website with Cookiebot Technology – The Ultimate Tracking Solution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro iOS? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-effortless-background-cleanse-using-picsart/"><u>In 2024, Effortless Background Cleanse Using Picsart</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-game-control-avoiding-interference-from-windows-key-and-accessibility-shortcuts/"><u>Mastering Game Control: Avoiding Interference From Windows Key & Accessibility Shortcuts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/online-gratis-prevod-mp4-do-formatu-quicktime-proc-a-jaky/"><u>Online Gratis Převod MP4 Do Formatu Quicktime: Proč a Jaký?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimizando-la-proteccion-de-datos-mejore-su-negocio-con-nuestras-soluciones-expertas-para-copias-de-respaldo-en-pc-y-servidores/"><u>Optimizando La Protección De Datos: Mejore Su Negocio Con Nuestras Soluciones Expertas Para Copias De Respaldo en PC Y Servidores</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimize-your-storage-seamless-transfer-from-hdd-to-ocz-ssd-using-top-cloning-tools/"><u>Optimize Your Storage: Seamless Transfer From HDD to OCZ SSD Using Top Cloning Tools</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/perubahan-layanan-cloud-storage-pelaku-untuk-mempertahankan-gambar-yang-hapus-di-perangkat-yang-berbeda/"><u>Perubahan Layanan Cloud Storage: Pelaku Untuk Mempertahankan Gambar Yang Hapus Di Perangkat Yang Berbeda!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-for-a-fresh-start-safely-deleting-data-and-reinstalling-windows-tenth-on-your-computer/"><u>Step-by-Step Tutorial for a Fresh Start: Safely Deleting Data and Reinstalling Windows Tenth on Your Computer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/uberwindet-den-update-hinderniscode-0x800f0922-in-windows-11-mit-drei-erfolgreichen-strategien/"><u>Überwindet Den Update-Hinderniscode 0X800f0922 in Windows 11 Mit Drei Erfolgreichen Strategien</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevating-your-creations-with-tiktok-tricks/"><u>[New] In 2024, Elevating Your Creations with TikTok Tricks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/diagnosing-your-pcs-audio-problems-a-deep-dive-into-common-sound-card-failures-by-yl-computing-experts/"><u>Diagnosing Your PC's Audio Problems: A Deep Dive Into Common Sound Card Failures by YL Computing Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808317329-disable-driver-signature-enforcement-on-windows-10-easily/"><u>Disable Driver Signature Enforcement on Windows 10 Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/first-timer-accessories-transform-your-gopro-experience/"><u>First-Timer Accessories - Transform Your GoPro Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guaranteeing-a-successful-data-restoration-insights-from-yl-computings-expertise/"><u>Guaranteeing a Successful Data Restoration: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-diagnose-motherboard-faults-effectively-insights-from-yl-software-experts/"><u>How to Diagnose Motherboard Faults Effectively - Insights From YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fake-face-creators-top-picks-for-online-identity-design/"><u>In 2024, Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/parental-guides-to-the-6-highest-rated-study-support-apps/"><u>Parental Guides to the 6 Highest Rated Study Support Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/samsung-secrets-crafting-compelling-time-lapses-for-2024/"><u>Samsung Secrets Crafting Compelling Time Lapses for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-troubleshooting-the-fortnite-ls-0013-startup-glitch/"><u>Solution Found: Troubleshooting the Fortnite LS-0013 Startup Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984119530-team-fortress-2-boot-issues-heres-how-you-can-fix-them/"><u>Team Fortress 2 Boot Issues? Here’s How You Can Fix Them!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-globe-tunes-in-djs-spectacular-showcase-through-chewtv-an-innovative-streaming-hub-for-music-lovers/"><u>The Globe Tunes In: DJ's Spectacular Showcase Through Chew.TV, an Innovative Streaming Hub for Music Lovers</u></a></li>
 </ul></div>
 
