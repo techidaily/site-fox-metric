@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DEX Beta - Version 3.6 by PCDJ Is Ready to Roll!
-date: 2025-02-03T17:59:04.202Z
-updated: 2025-02-08T16:19:23.436Z
+date: 2025-02-13T03:43:24.944Z
+updated: 2025-02-18T17:02:10.317Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ _**Important:** Please note that Pulselocker functionality is currently disabled
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New And Changed In DEX DJ Software 3.6 Beta
@@ -51,7 +51,7 @@ Again, please note this is a BETA! Please test thoroughly before using live. You
 _If you have any questions or problems running the DEX 3.6 DJ Software beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,15 +73,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/downloaddex36beta-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-prioritizing-pivotal-movie-moments-for-editors/"><u>[Updated] Prioritizing Pivotal Movie Moments for Editors</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-tutorial-simple-duplicacion-de-ssd-al-nuevo-disco-duro-mayor-en-windows/"><u>1. Tutorial Simple: Duplicación De SSD Al Nuevo Disco Duro Mayor en Windows</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/conseguir-voltar-os-arquivos-do-seu-hd-formatado-para-zero-sem-custo-tecnicas-eficazes/"><u>Conseguir Voltar Os Arquivos Do Seu HD Formatado Para Zero Sem Custo - Técnicas Eficazes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade-for-2024/"><u>How to Retreat From MacOS Sierra's Latest Upgrade for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-learning-the-art-of-soundshaping-in-audacity/"><u>In 2024, Learning the Art of Soundshaping in Audacity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-professional-video-editing-implementing-the-ken-burns-effect-in-camtasa/"><u>In 2024, Professional Video Editing Implementing the Ken Burns Effect in Camtasa</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/quick-guide-to-copying-your-mobile-memories-how-to-save-videos-from-iphone-and-ipad-onto-a-portable-hard-drive/"><u>Quick Guide to Copying Your Mobile Memories: How to Save Videos From iPhone & iPad Onto a Portable Hard Drive</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-huawei-nova-y91-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Huawei Nova Y91?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728484502224-windows-server-2022/"><u>Windows Server 2022におけるタスクスケジューラーを利用した自動再起動時刻の構成方法</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ideal-images-finding-the-perfect-screen-moments-for-2024/"><u>[New] Ideal Images Finding the Perfect Screen Moments for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-heaviest-inflight-lifters-unveiled-top-10-list/"><u>[New] In 2024, Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716068969821-updated-2024-approved-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[Updated] 2024 Approved Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screencast-strategies-unleashed-powerful-ideas-inside/"><u>[Updated] In 2024, Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tech-savvy-gaming-windows-10-video-capture-tactics/"><u>[Updated] In 2024, Tech-Savvy Gaming Windows 10 Video Capture Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-noiseless-audio-to-text-applications/"><u>[Updated] Premium Noiseless Audio-To-Text Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/audiovisual-immersion-enhancing-your-sxx-experience/"><u>Audiovisual Immersion: Enhancing Your SXX Experience</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/best-online-platforms-for-discovering-new-tunes-and-expanding-your-playlist/"><u>Best Online Platforms for Discovering New Tunes and Expanding Your Playlist</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-to-stripping-xml-master-the-art-of-element-deletion/"><u>Easy Guide to Stripping XML: Master the Art of Element Deletion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proofing-your-privacy-apples-enhanced-protection-of-imessage-security-insights-from-zdnet/"><u>Future-Proofing Your Privacy: Apple's Enhanced Protection of iMessage Security - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-zero-5g-2023-turbo-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Zero 5G 2023 Turbo Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-the-art-of-customizing-tab-sequence-through-control-tab-order-interface/"><u>Mastering the Art of Customizing Tab Sequence Through Control Tab Order Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/navigating-the-application-virtualization-configurations-the-role-of-the-options-tab-and-registry-key-setup/"><u>Navigating the Application Virtualization Configurations: The Role of the Options Tab and Registry Key Setup</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-utilizing-the-registry-keys-tab-in-windows-systems/"><u>Understanding and Utilizing the Registry Keys Tab in Windows Systems</u></a></li>
 </ul></div>
 

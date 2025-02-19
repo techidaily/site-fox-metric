@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Newly Released Mixing Software DEX 3.6 (BETA) – Perfect for PCDJ Enthusiasts!
-date: 2025-02-06T19:54:01.284Z
-updated: 2025-02-08T22:50:54.045Z
+date: 2025-02-13T23:19:52.860Z
+updated: 2025-02-18T22:57:48.010Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ You can **download and install the DEX 3.6 release candidate below** to update y
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/dex35rc1available-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-enhancing-engagement-a-guide-to-popular-tiktok-unboxers-for-2024/"><u>[New] Enhancing Engagement A Guide to Popular TikTok Unboxers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-5-best-igtv-editor-apps-for-improved-layouts/"><u>[Updated] In 2024, 5 Best IGTV Editor Apps for Improved Layouts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-list-igtv-masterminds-and-maestros-for-2024/"><u>[Updated] The Ultimate List IGTV Masterminds & Maestros for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/beginners-guide-to-using-uplighting-techniques-with-dj-brian-s-redd-on-pcdj/"><u>Beginner's Guide to Using UpLighting Techniques with DJ Brian S Redd on PCDJ</u></a></li>
-<li><a href="https://win-guides.techidaily.com/clonage-facile-de-multiples-partitions-ssd-avec-samsung-data-migration-guide-dinstructions-complet/"><u>Clonage Facile De Multiples Partitions SSD Avec Samsung Data Migration: Guide D'Instructions Complet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-routine-upkeep-tasks-for-your-pc-tips-and-tricks-from-yl-software/"><u>Essential Routine Upkeep Tasks for Your PC: Tips & Tricks From YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/exploring-file-recovery-on-windows-how-to-restore-your-data-to-an-earlier-time-point-insights-from-yl-software-professionals/"><u>Exploring File Recovery on Windows: How to Restore Your Data to an Earlier Time Point - Insights From YL Software Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/fast-forward-to-forgotten-reddit-threads/"><u>Fast Forward to Forgotten Reddit Threads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-raw-footage-to-excellence-the-webcam-edition-for-2024/"><u>From Raw Footage to Excellence The Webcam Edition for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/high-definition-batman-backgrounds-and-walls-premium-4k-wallpaper-collection-by-yl-computing/"><u>High-Definition Batman Backgrounds & Walls - Premium 4K Wallpaper Collection by YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-fix-a-non-responsive-pc-steps-and-tips-expert-guidance-by-yl-tech-solutions/"><u>How to Fix a Non-Responsive PC: Steps & Tips - Expert Guidance by YL Tech Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-15-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 15</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix GT 10 Pro Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/lyrx-karaoke-player-v141-update-released-free-downloads-now/"><u>LYRX Karaoke Player v1.4.1 Update Released - Free Downloads Now!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolving-your-fluctuating-wi-fi-issues-with-yl-software-strategies/"><u>Resolving Your Fluctuating Wi-Fi Issues with YL Software Strategies</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/solving-the-issue-of-your-laptop-overheating-expert-advice-from-yl-computing/"><u>Solving the Issue of Your Laptop Overheating: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/yl-computings-cardi-set-of-icons-for-professional-scardis-comprehensive-visual-tools-by-yl-software-solutions/"><u>YL Computing's Cardi Set of Icons for Professional Scardis - Comprehensive Visual Tools by YL Software Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-introduction-maker-apps-ios-vs-android-comparison/"><u>[Updated] In 2024, Best Introduction Maker Apps IOS vs Android Comparison</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-preventing-non-displayed-images-in-youtubes-shorts-for-2024/"><u>[Updated] Preventing Non-Displayed Images in YouTubes Shorts for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/windows-vista/"><u>上質スクラッチから始めるWindows Vistaクリーンアップ:信頼性の高いツールと効果的なセキュリティ対策</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-new-hp-deskjet-2540-driver-downloads-and-learn-how-to-update-them-efficiently/"><u>Access New HP DeskJet 2540 Driver Downloads and Learn How to Update Them Efficiently</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/aomei-backupper-downloader-direkt-vom-microsoft-store-windows-adk-laden/"><u>AOMEI Backupper-Downloader: Direkt Vom Microsoft Store | Windows ADK Laden</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-to-deactivate-the-cortana-feature-on-your-pc-with-windows-10/"><u>Easy Methods to Deactivate the Cortana Feature on Your PC with Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-quality-control-when-integrating-chatgpt-into-your-workflow/"><u>Ensuring Quality Control when Integrating ChatGPT Into Your Workflow</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-guide-fixing-issues-when-windows-cant-locate-a-file/"><u>Expert Guide: Fixing Issues When Windows Can't Locate a File</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-selected-premium-external-blu-ray-disc-readers-and-writers-ranked/"><u>Expertly Selected Premium External Blu-Ray Disc Readers and Writers Ranked</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fixing-inaccessible-drive-issues-with-the-d-volume-in-windows-10-environments/"><u>Fixing Inaccessible Drive Issues with the 'D' Volume in Windows 10 Environments</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/il-superior-soluzione-di-backup-locale-per-windows-10-una-sostituzione-ideale-alla-dell-datasafe/"><u>Il Superior Soluzione Di Backup Locale per Windows 10: Una Sostituzione Ideale Alla Dell DataSafe</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>In 2024, Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/passo-a-passo-allinterrupto-risolvenda-gpt-elettronica-per-il-restore-dei-data/"><u>PASSO A PASSO ALL'INTERRUPTO RISOLVENDA GPT ELETTRONICA PER IL RESTORE DEI DATA</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solve-your-usb-drive-access-issues-why-it-wont-open-on-windows/"><u>Solve Your USB Drive Access Issues: Why It Won't Open on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725289008104-winx-dvd/"><u>무료 WinX DVD 리퍼 및 비디오 컨버터 소프트웨어를 확인하기 위한 가장 안전한 다운로드 센터</u></a></li>
 </ul></div>
 

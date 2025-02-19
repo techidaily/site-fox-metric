@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2025-02-03T16:46:12.279Z
-updated: 2025-02-08T18:45:53.635Z
+date: 2025-02-13T23:38:49.172Z
+updated: 2025-02-18T21:45:26.564Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sculpting-styles-manipulating-text-with-3d/"><u>[New] 2024 Approved Sculpting Styles Manipulating Text with 3D</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-5-digital-tools-for-enhancing-web-streams/"><u>[New] 2024 Approved Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-art-of-conveying-excitement-perfecting-your-valorant-video-thumbnails/"><u>[New] In 2024, The Art of Conveying Excitement Perfecting Your Valorant Video Thumbnails</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/captivating-hd-wallpapers-of-lush-forests-with-images-and-photos-premium-collection-by-yl-software/"><u>Captivating HD Wallpapers of Lush Forests with Images and Photos - Premium Collection by YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhancing-beatmatching-skills-the-impact-of-key-detection-feature-in-pcdj-dex-355/"><u>Enhancing Beatmatching Skills: The Impact of Key Detection Feature in PCDJ DEX 3.5.5</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/immerse-in-mystical-challenges-ipad-and-iphone-games-similar-to-the-room-and-myst/"><u>Immerse in Mystical Challenges: IPad & iPhone Games Similar to 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-how-youtube-manages-post-upload-content/"><u>In 2024, Understanding How YouTube Manages Post-Upload Content</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/protect-your-digital-assets-key-security-protocols-in-cryptocurrency-transactions-by-yl-software-professionals/"><u>Protect Your Digital Assets: Key Security Protocols in Cryptocurrency Transactions by YL Software Professionals</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/proven-leaders-in-speech-to-text-the-best-6-automatic-transcription-apps-for-2024/"><u>Proven Leaders in Speech to Text The Best 6 Automatic Transcription Apps for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unveiling-the-birth-date-of-the-chinese-peoples-republic-with-expert-analysis-from-yl-software-solutions/"><u>Unveiling the Birth Date of the Chinese People’s Republic with Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-perfect-your-youtube-clips-essential-editing-techniques-unveiled/"><u>[New] 2024 Approved Perfect Your YouTube Clips Essential Editing Techniques Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[New] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] 2024 Approved From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>[Updated] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo V27e FRP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-auto-tracking-camera-mount-for-2024/"><u>Best Auto Tracking Camera Mount for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-creative-writing-explore-6-effective-techniques/"><u>ChatGPT's Role in Creative Writing: Explore 6 Effective Techniques</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/error-404-unable-to-locate-pages-understanding-missing-content-alerts/"><u>Error 404: Unable to Locate Pages – Understanding Missing Content Alerts</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guia-completa-sobre-la-gestion-del-espacio-en-disco-en-macos-controlar-y-reducir-los-archivos-de-dropbox-que-usan-memoria/"><u>Guía Completa Sobre La Gestión Del Espacio en Disco en macOS: Controlar Y Reducir Los Archivos De Dropbox Que Usan Memoria</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/lost-photos-on-instagram-secure-your-memories-with-our-recovery-service/"><u>Lost Photos on Instagram – Secure Your Memories with Our Recovery Service</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/recuperagratis-riparafile-e-reinstallare-senza-costi-con-il-software-di-recupero-iso/"><u>RecuperaGratis: Riparafile E Reinstallare Senza Costi Con Il Software Di Recupero ISO</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/trois-techniques-pour-sauvegarder-votre-dossier-windows-7-sur-un-disque-dur-extern-de-maniere-efficace/"><u>Trois Techniques Pour Sauvegarder Votre Dossier Windows 7 Sur Un Disque Dur Extern De Manière Efficace</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/alalyat-alakthr-ifada-lhthf-ao-astaaada-ktaaa-bya-astrdad-mtsk/"><u>الآليات الأكثر إفادة لحذف أو استعادة قطعة بيئة: استرداد متسق</u></a></li>
 </ul></div>
 

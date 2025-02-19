@@ -1,7 +1,7 @@
 ---
 title: "DJs' Top Charting Tracks for 2018-2019 Revealed by PCDJ Listening Analysis: The Ultimate 200 Song Selection"
-date: 2025-02-03T17:08:00.453Z
-updated: 2025-02-08T21:29:00.355Z
+date: 2025-02-15T16:34:48.024Z
+updated: 2025-02-18T20:57:36.485Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-serenade-selections-romantic-anthems-for-the-big-decision/"><u>[New] Serenade Selections Romantic Anthems for The Big Decision</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>[Updated] Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728509193895-ssd/"><u>「簡易上手術：重建 SSD 儲存裝置中的資料」</u></a></li>
-<li><a href="https://windows11.techidaily.com/guided-techniques-for-tackling-stale-group-policies-on-desktops/"><u>Guided Techniques for Tackling Stale Group Policies on Desktops</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-zte-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your ZTE</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlined-screencasting-steps-ultimate-tutorial/"><u>In 2024, Streamlined Screencasting Steps - Ultimate Tutorial</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-use-of-plugins-for-skype-call-capture-in-obs/"><u>Innovative Use of Plugins for Skype Call Capture in OBS</u></a></li>
-<li><a href="https://win-guides.techidaily.com/maximize-storage-capacity-essential-strategies-for-file-and-folder-compression-expert-advice-from-yl-computing/"><u>Maximize Storage Capacity: Essential Strategies for File and Folder Compression – Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/personal-youtube-broadcasting-with-minimal-subscribers-for-2024/"><u>Personal YouTube Broadcasting with Minimal Subscribers for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-restoring-a-deleted-partition-on-your-lenovo-pc-running-windows-10/"><u>Step-by-Step Guide: Restoring a Deleted Partition on Your Lenovo PC Running Windows 10</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-tutorial-on-syncing-video-content-from-itunes-to-iphone-or-ipad/"><u>Step-by-Step Tutorial on Syncing Video Content From iTunes to iPhone or iPad</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/uberwindet-apple-itunes-problem-fehler-beim-wiederherstellen-des-iphones-aufgrund-unzureichender-speicherkapazitat/"><u>Überwindet Apple ITunes-Problem: Fehler Beim Wiederherstellen Des iPhones Aufgrund Unzureichender Speicherkapazität</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/windowsmacpsd/"><u>WindowsとMacで回復不能なPSDファイルの修復手順【データ救済方法】</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-view-count-prime-hashtags-strategy/"><u>[New] 2024 Approved Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[New] In 2024, Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhance-social-gaming-on-xbox-using-zoom/"><u>[Updated] Enhance Social Gaming on Xbox Using Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-iphone-videography-8-tips-of-recording-pro-videos/"><u>[Updated] IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unleash-the-power-of-digital-beats-with-our-free-tools-for-2024/"><u>[Updated] Unleash the Power of Digital Beats with Our Free Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-playwrights-arena/"><u>[Updated] Unmatched Playwright's Arena</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-component-services-an-overview/"><u>Navigating Windows Component Services: An Overview</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/optimize-for-speed-effective-techniques-for-reducing-page-flip-latency-on-flipbuilder/"><u>Optimize for Speed: Effective Techniques for Reducing Page-Flip Latency on FlipBuilder</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/preserve-your-design-templates-easily-with-flipcreator-a-comprehensive-tutorial/"><u>Preserve Your Design Templates Easily with FlipCreator: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/professional-free-online-tool-batch-transform-multiple-images-into-high-quality-pdf-documents/"><u>Professional Free Online Tool: Batch Transform Multiple Images Into High-Quality PDF Documents</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/requesting-a-purchase-invoice-on-flipbuilder-how-can-i-obtain-it/"><u>Requesting a Purchase Invoice on FlipBuilder - How Can I Obtain It?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-5-software-applications-for-effectively-rescuing-erased-iphone-note-content/"><u>Top 5 Software Applications for Effectively Rescuing Erased iPhone Note Content</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/transforming-word-files-into-interactive-flipbooks-with-flipbuilders-tutorial/"><u>Transforming Word Files Into Interactive Flipbooks with FlipBuilder's Tutorial</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-steps-fixing-the-non-responsive-download-function-on-flipbuilder/"><u>Troubleshooting Steps: Fixing the Non-Responsive Download Function on FlipBuilder</u></a></li>
 </ul></div>
 

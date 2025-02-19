@@ -1,7 +1,7 @@
 ---
 title: "Effective DJ Techniques in Pioneer CDJ-Touch 3: Mastering the Search Functionality"
-date: 2025-02-01T21:09:33.017Z
-updated: 2025-02-08T17:11:41.065Z
+date: 2025-02-16T03:02:50.796Z
+updated: 2025-02-19T01:48:20.793Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 **Here’s a video tutorial showcasing the new search options in PCDJ DEX 3.2 DJ software:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/01/dex32searchtips-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-interplatform-video-uploading-twitter-and-tumblr-synced/"><u>[New] 2024 Approved Interplatform Video Uploading Twitter & Tumblr Synced</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-gameplay-chronicles-top-four-ways-to-record-on-xbox-one-for-2024/"><u>[Updated] Gameplay Chronicles Top Four Ways to Record on Xbox One for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-strategies-to-evade-content-flagging/"><u>[Updated] In 2024, Strategies to Evade Content Flagging</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-making-audio-files-out-of-instagram-videos-for-2024/"><u>[Updated] Making Audio Files Out of Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/achieve-personalized-elegance-modifying-window-shades-in-windows-with-guidance-from-yl-software-experts/"><u>Achieve Personalized Elegance: Modifying Window Shades in Windows with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bend-reality-with-your-own-animated-craftsmanship/"><u>Bend Reality with Your Own Animated Craftsmanship</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-scanning-experience-discover-the-new-software-upgrades-from-yl-computing/"><u>Enhance Your Scanning Experience: Discover the New Software Upgrades From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/founding-figures-the-leadership-behind-the-establishment-of-the-peoples-republic-of-china-1949-insights-from-yl-computing/"><u>Founding Figures: The Leadership Behind the Establishment of the People's Republic of China, 1949 - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/free-trial-experience-the-ultimate-sing-along-fun-with-lyrx-karaoke-app-compatible-with-windows-pc/"><u>Free Trial: Experience the Ultimate Sing-Along Fun with LYRX Karaoke App - Compatible with Windows PC!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-efficient-file-shifting-to-computer/"><u>In 2024, Quick Tips Efficient File Shifting to Computer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/optimizing-system-performance-lower-your-computers-cpuram-demands-with-yl-tech-advice/"><u>Optimizing System Performance: Lower Your Computer's CPU/RAM Demands with YL Tech Advice</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/pearl-and-gold-sensation-ignites-at-double-eleven-event-preview-of-yl-computings-jewelry-presale-success/"><u>Pearl & Gold Sensation Ignites at Double Eleven Event: Preview of YL Computing's Jewelry Presale Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/reimagining-video-production-with-screenflow-a-mac-users-guide/"><u>Reimagining Video Production with ScreenFlow – A Mac User's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-dual-function-gadget-of-the-year-revealed-by-zdnet-featuring-an-office-game-changer/"><u>The Ultimate Dual-Function Gadget of the Year Revealed by ZDNet, Featuring an Office Game Changer</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/unlocking-parental-controls-in-windows-11-a-step-by-step-guide-yl-software/"><u>Unlocking Parental Controls in Windows 11: A Step-by-Step Guide - YL Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-your-screen-a-beginners-guide-to-recording-with-filmora-scrn/"><u>Updated Capture Your Screen A Beginners Guide to Recording with Filmora Scrn</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/upgrade-your-karaoke-experience-with-new-features-try-pcdj-karaoke-software-version-086368-public-beta-at-no-cost/"><u>Upgrade Your Karaoke Experience with New Features - Try PCDJ Karaoke Software Version 0.8.6368 Public Beta at No Cost!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/verifying-hardware-compatibility-on-windows-a-comprehensive-guide-yl-software-solutions/"><u>Verifying Hardware Compatibility on Windows: A Comprehensive Guide - YL Software Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>2024 Approved Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/boost-traffic-with-cookiebot-powerful-site-engagement-tools/"><u>Boost Traffic with Cookiebot - Powerful Site Engagement Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/british-vernacular-essentials-speak-with-local-flair/"><u>British Vernacular Essentials: Speak with Local Flair</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-sauvegarder-efficacaster-des-donnees-en-mp4-techniques-avancees-et-astuces-pratiques/"><u>Comment Sauvegarder Efficacaster Des Données en MP4 : Techniques Avancées Et Astuces Pratiques</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/como-hacer-una-copia-de-respaldo-rigurosa-de-tus-archivos-con-un-almacenamiento-externo-en-diversas-versiones-de-windows/"><u>Cómo Hacer Una Copia De Respaldo Rigurosa De Tus Archivos Con Un Almacenamiento Externo en Diversas Versiones De Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-features-and-upgrades-at-the-announcement-of-the-new-iphone/"><u>Explore Features and Upgrades at the Announcement of the New iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolved-mobile-application-freezes-post-transfer-specifically-iphones/"><u>Resolved: Mobile Application Freezes Post-Transfer, Specifically iPhones</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/seamless-itunes-transfer-5-techniques-to-relocate-music-from-ios-device-to-desktop/"><u>Seamless iTunes Transfer: 5 Techniques to Relocate Music From iOS Device to Desktop</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-approaches-to-retaining-musical-pitch-while-diminishing-song-speed/"><u>Updated Approaches to Retaining Musical Pitch While Diminishing Song Speed</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/kaya-una-patha-vasharamaka-rapa-sa-asathaya-rapa-sa-gayab-ha-jata-ha-esadablya/"><u>क्या उन पाठ विश्रमिक रूप से अस्थायी रूप से गायब हो जाते हैं? - एसडब्ल्यू</u></a></li>
 </ul></div>
 
