@@ -1,7 +1,7 @@
 ---
 title: Latest DJ Controller Innovation - The Pioneer DDJ Duo Range Now Supporting DEX3 Technology!
-date: 2025-02-12T22:54:57.115Z
-updated: 2025-02-18T20:42:30.253Z
+date: 2025-03-03T10:59:04.844Z
+updated: 2025-03-07T08:19:17.790Z
 tags:
   - product
 categories:
@@ -131,10 +131,6 @@ Needle search provides a touch strip for intuitive and fast searches. Jump to an
 
 _Have questions about **DJ controllers**, the **DDJ-RB**, **DDJ-RR** or our **DEX 3** software? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/PioneerDDJ-RBandDDJ-RR-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-10-05 11:39:312018-10-03 15:34:06DJ Controllers | Pioneer DDJ-RB and Pioneer DDJ-RR Now DEX 3 Supported}
@@ -154,16 +150,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/PioneerDDJ-RBandDDJ-RR-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-why-testimonial-videos-are-essential-for-brands-today/"><u>[Updated] 2024 Approved Why Testimonial Videos Are Essential for Brands Today</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-youtube-title-creation-the-perfect-formula/"><u>[Updated] Mastering YouTube Title Creation The Perfect Formula</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-structuring-stories-that-resonate-in-docu-cinema/"><u>[Updated] Structuring Stories That Resonate in Docu-Cinema</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/2023-windows-11-10-8-7/"><u>2023 版适用于 Windows 11, 10, 8, 7 系统的前五名数据保存工具列表</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>2024 Approved Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/6kej5rg65lyb5qwt6loh5rqq6kii5yqd5lit55qe5qgm6z2i5zyw56s655m855sf5zwp6agm77ya5rex5ywl5lqg6kej5yplusk5lplusu5asn5pa55rov/"><u>解決企業資源計劃中的桌面圖示發生問題：深入了解及修复方法</u></a></li>
-<li><a href="https://win-blog.techidaily.com/efficient-strategies-to-combat-increased-disk-space-and-cpu-usage-by-wsappx/"><u>Efficient Strategies to Combat Increased Disk Space and CPU Usage by WSAPPX</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-simple-pour-remplacement-du-disque-interne-dhp-laptops-avec-sauvegarde-des-fichiers/"><u>Guide Simple Pour Remplacement Du Disque Interne D’HP Laptops Avec Sauvegarde Des Fichiers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transfer-data-from-qnapsynology-network-attached-storage-nas-to-your-personal-pc-for-safety-and-convenience/"><u>How to Seamlessly Transfer Data From QNAP/Synology Network Attached Storage (NAS) to Your Personal PC for Safety and Convenience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-6-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 6 for Free</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-pinnacle-of-macro-photography-and-cinematography/"><u>In 2024, The Pinnacle of Macro Photography and Cinematography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>2024 Approved Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-tips-for-mastering-screencastifys-features-for-2024/"><u>Expert Tips for Mastering Screencastify's Features for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/high-definition-dodge-challenger-srt-hellcat-wallsavers-and-imagery-collection-premium-wallpaper-selections-by-yl-computing/"><u>High-Definition Dodge Challenger SRT Hellcat Wallsavers & Imagery Collection - Premium Wallpaper Selections by YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-hot-40-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows/"><u>New 2024 Approved Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/pioneering-dj-tricks-mastering-the-art-of-dj-poses-with-pro-cdjs/"><u>Pioneering DJ Tricks: Mastering the Art of DJ Poses with Pro CDJs</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-c67-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C67 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/trouble-with-your-device-discover-effective-repair-strategies-with-yl-computing-and-yl-software-experts/"><u>Trouble with Your Device? Discover Effective Repair Strategies with YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-triumph-a-comprehensive-approach-to-fixing-stop-0x0000007b-bsod-glitches/"><u>Troubleshooting Triumph: A Comprehensive Approach to Fixing STOP 0X0000007B BSOD Glitches</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-financial-growth-the-compelling-perks-of-diving-into-digital-assets-with-yl-softwares-analysis/"><u>Unlocking Financial Growth: The Compelling Perks of Diving Into Digital Assets with YL Software's Analysis</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-text-documents-on-windows-systems-a-comprehensive-guide-by-yl-tech-support/"><u>Unlocking Text Documents on Windows Systems: A Comprehensive Guide by YL Tech Support</u></a></li>
 </ul></div>
 

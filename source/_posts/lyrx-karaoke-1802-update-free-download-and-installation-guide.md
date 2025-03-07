@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke 1.8.0.2 Update: Free Download & Installation Guide"
-date: 2025-02-16T03:38:06.757Z
-updated: 2025-02-19T01:19:09.095Z
+date: 2025-03-02T16:00:22.544Z
+updated: 2025-03-07T16:00:04.693Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update and Fixed in LYRX 1.18.0.2
 
 * Fixed [Shaders](https://tools.techidaily.com/pcdj/products/) not showing in certain cases
@@ -48,10 +44,6 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 **IMPORTANT NOTE:** If you receive this warning _“setup\_LYRX\_1.18.0.2\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,18 +64,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>[New] How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-20mb-video-seconds-breakdown/"><u>[Updated] In 2024, 20MB Video - Seconds Breakdown</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-lowdown-on-instagrams-video-time-frame/"><u>2024 Approved The Lowdown on Instagram's Video Time Frame</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728470875921-google/"><u>勝手に消えてしまう Google フォトの写真：探り当て解決法</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-screens-seamlessly-with-ezvid-video-maker/"><u>Capturing Screens Seamlessly with Ezvid Video Maker</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/comment-recouvrer-vos-informations-sur-un-hdd-desynchronise/"><u>Comment Recouvrer Vos Informations Sur Un HDD Désynchronisé?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-make-an-external-hard-drive-or-flash-drive-bootable-on-windows-11/"><u>How to Make an External Hard Drive or Flash Drive Bootable on Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>In 2024, Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-t2-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo T2 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-condense-time-amplify-impact-time-lapse-video-creation-in-final-cut-pro/"><u>New In 2024, Condense Time, Amplify Impact Time Lapse Video Creation in Final Cut Pro</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/sauvegarde-de-windows-11-sur-une-cle-usb-le-logiciel-gratuit-ultime-pour-des-sauvegardes-rapides-et-efficaces/"><u>Sauvegarde De Windows 11 Sur Une Clé USB: Le Logiciel Gratuit Ultime Pour Des Sauvegardes Rapides Et Efficaces</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/ssd-macrium-reflect/"><u>SSDへのオペレーティングシステム移動 - Macrium Reflectとその他の選択肢</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/transferir-imagenes-de-sistema-a-hardware-diferente-con-aomei-backupper-guia-paso-a-paso/"><u>Transferir Imágenes De Sistema a Hardware Diferente Con AOMEI Backupper - Guía Paso a Paso</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-in-depth-360-eye-viewing-experience/"><u>[Updated] In 2024, In-Depth 360° Eye Viewing Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-annotating-emotions-through-trailer-tunes/"><u>2024 Approved Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-samsung-galaxy-tab-a-2020-analysis-uncover-the-absence-of-essential-functionality/"><u>Comprehensive Samsung Galaxy Tab A 2020 Analysis - Uncover the Absence of Essential Functionality</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-tips-diy-pc-maintenance-and-troubleshooting-techniques-used-by-professional-technicians/"><u>Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-to-viewing-and-organizing-planned-jobs-online/"><u>Guide to Viewing and Organizing Planned Jobs Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-ae-projects-mastering-lut-usage/"><u>In 2024, Elevate Your AE Projects Mastering LUT Usage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-zoo-matic-guide-to-improved-snapchat-media/"><u>In 2024, The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/j-lexicon-a-beginners-treatise-on-japans-alphabets/"><u>J-Lexicon: A Beginner's Treatise on Japan's Alphabets</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/refine-your-query-mastering-the-pre-search-setup-screen/"><u>Refine Your Query: Mastering the Pre-Search Setup Screen</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-audio-interchange-file-format-aif-files-into-mp3/"><u>Step-by-Step Guide: Transforming Audio Interchange File Format (AIF) Files Into MP3</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-ultimate-list-of-windows-11s-top-8-password-management-software/"><u>The Ultimate List of Windows 11'S Top 8 Password Management Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-rated-digital-voice-memo-apps-for-effortless-recording-and-sharing/"><u>Top-Rated Digital Voice Memo Apps for Effortless Recording & Sharing</u></a></li>
 </ul></div>
 

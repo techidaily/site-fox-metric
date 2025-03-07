@@ -1,7 +1,7 @@
 ---
 title: "Calling All Mac Users: Test DEX 3 on Catalina & Help Us Refine - Sign Up Today!"
-date: 2025-02-13T23:38:49.172Z
-updated: 2025-02-18T21:45:26.564Z
+date: 2025-03-06T00:59:32.753Z
+updated: 2025-03-07T02:59:45.673Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=1000%2C500&ssl=1 500 1000 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2020-03-09 10:43:562023-04-10 17:03:53DEX 3 for macOS Catalina | Call for Beta Testers!}
@@ -50,18 +46,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-perfect-your-youtube-clips-essential-editing-techniques-unveiled/"><u>[New] 2024 Approved Perfect Your YouTube Clips Essential Editing Techniques Unveiled</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[New] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] 2024 Approved From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>[Updated] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo V27e FRP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-auto-tracking-camera-mount-for-2024/"><u>Best Auto Tracking Camera Mount for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-creative-writing-explore-6-effective-techniques/"><u>ChatGPT's Role in Creative Writing: Explore 6 Effective Techniques</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/error-404-unable-to-locate-pages-understanding-missing-content-alerts/"><u>Error 404: Unable to Locate Pages – Understanding Missing Content Alerts</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guia-completa-sobre-la-gestion-del-espacio-en-disco-en-macos-controlar-y-reducir-los-archivos-de-dropbox-que-usan-memoria/"><u>Guía Completa Sobre La Gestión Del Espacio en Disco en macOS: Controlar Y Reducir Los Archivos De Dropbox Que Usan Memoria</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/lost-photos-on-instagram-secure-your-memories-with-our-recovery-service/"><u>Lost Photos on Instagram – Secure Your Memories with Our Recovery Service</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/recuperagratis-riparafile-e-reinstallare-senza-costi-con-il-software-di-recupero-iso/"><u>RecuperaGratis: Riparafile E Reinstallare Senza Costi Con Il Software Di Recupero ISO</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/trois-techniques-pour-sauvegarder-votre-dossier-windows-7-sur-un-disque-dur-extern-de-maniere-efficace/"><u>Trois Techniques Pour Sauvegarder Votre Dossier Windows 7 Sur Un Disque Dur Extern De Manière Efficace</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/alalyat-alakthr-ifada-lhthf-ao-astaaada-ktaaa-bya-astrdad-mtsk/"><u>الآليات الأكثر إفادة لحذف أو استعادة قطعة بيئة: استرداد متسق</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-icy-illusions-reveling-at-beijings-olympic-event-2022-for-2024/"><u>[Updated] Icy Illusions Reveling at Beijing's Olympic Event, 2022 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-unveiled-process-how-to-save-instagram-videos-with-computermac-os/"><u>[Updated] The Unveiled Process How to Save Instagram Videos with Computer/Mac OS</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/are-your-systems-ready-for-new-software-enhancements-discover-compatibility-with-yl-tech-solutions/"><u>Are Your Systems Ready for New Software Enhancements? Discover Compatibility with YL Tech Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/diagnose-and-eliminate-harmful-programs-triggering-device-errors-with-insights-by-yl-software/"><u>Diagnose and Eliminate Harmful Programs Triggering Device Errors with Insights by YL Software</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/explore-the-features-in-progressive-demo-for-pcdj-dex-3-modern-dj-programs-unveiled/"><u>Explore the Features in Progressive Demo for PCDJ DEX 3 - Modern DJ Programs Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100t Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-vs-ipad-air-5-showdown-is-it-worth-the-upgrade-techadvice/"><u>IPad Air 4 vs iPad Air 5 Showdown: Is It Worth the Upgrade? | TechAdvice</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
 </ul></div>
 
